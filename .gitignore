@@ -1,0 +1,5 @@
+# Ignore massive map files
+gamedata/map/
+# Ignore anything over 100MB
+# (Git doesn't have a max size rule in gitignore, so we do it by path if we know them)
+# For now let's just ignore the map folder which contains the 2GB file

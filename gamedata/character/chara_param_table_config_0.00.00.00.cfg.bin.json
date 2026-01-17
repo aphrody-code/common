@@ -1,0 +1,449 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_charaParamPresetTableParamList",
+      "typeName": "CHARA_PARAM_PRESET_TABLE_DATA",
+      "values": [
+        {
+          "param_min_kick": 5,
+          "param_min_control": 8,
+          "param_min_technic": 7,
+          "param_min_pressure": 9,
+          "param_min_physical": 8,
+          "param_min_agility": 13,
+          "param_min_intelligence": 8,
+          "param_max_kick": 33,
+          "param_max_control": 52,
+          "param_max_technic": 46,
+          "param_max_pressure": 59,
+          "param_max_physical": 52,
+          "param_max_agility": 85,
+          "param_max_intelligence": 52,
+          "param_max2_kick": 52,
+          "param_max2_control": 82,
+          "param_max2_technic": 73,
+          "param_max2_pressure": 93,
+          "param_max2_physical": 82,
+          "param_max2_agility": 134,
+          "param_max2_intelligence": 82
+        },
+        {
+          "param_min_kick": 6,
+          "param_min_control": 8,
+          "param_min_technic": 8,
+          "param_min_pressure": 11,
+          "param_min_physical": 10,
+          "param_min_agility": 6,
+          "param_min_intelligence": 10,
+          "param_max_kick": 38,
+          "param_max_control": 50,
+          "param_max_technic": 50,
+          "param_max_pressure": 69,
+          "param_max_physical": 63,
+          "param_max_agility": 38,
+          "param_max_intelligence": 63,
+          "param_max2_kick": 60,
+          "param_max2_control": 79,
+          "param_max2_technic": 79,
+          "param_max2_pressure": 109,
+          "param_max2_physical": 100,
+          "param_max2_agility": 60,
+          "param_max2_intelligence": 100
+        },
+        {
+          "param_min_kick": 5,
+          "param_min_control": 8,
+          "param_min_technic": 8,
+          "param_min_pressure": 10,
+          "param_min_physical": 9,
+          "param_min_agility": 7,
+          "param_min_intelligence": 10,
+          "param_max_kick": 33,
+          "param_max_control": 52,
+          "param_max_technic": 52,
+          "param_max_pressure": 65,
+          "param_max_physical": 59,
+          "param_max_agility": 46,
+          "param_max_intelligence": 65,
+          "param_max2_kick": 52,
+          "param_max2_control": 82,
+          "param_max2_technic": 82,
+          "param_max2_pressure": 103,
+          "param_max2_physical": 93,
+          "param_max2_agility": 73,
+          "param_max2_intelligence": 103
+        },
+        {
+          "param_min_kick": 5,
+          "param_min_control": 8,
+          "param_min_technic": 8,
+          "param_min_pressure": 10,
+          "param_min_physical": 10,
+          "param_min_agility": 5,
+          "param_min_intelligence": 10,
+          "param_max_kick": 31,
+          "param_max_control": 50,
+          "param_max_technic": 50,
+          "param_max_pressure": 62,
+          "param_max_physical": 62,
+          "param_max_agility": 31,
+          "param_max_intelligence": 62,
+          "param_max2_kick": 49,
+          "param_max2_control": 79,
+          "param_max2_technic": 79,
+          "param_max2_pressure": 98,
+          "param_max2_physical": 98,
+          "param_max2_agility": 49,
+          "param_max2_intelligence": 98
+        },
+        {
+          "param_min_kick": 4,
+          "param_min_control": 4,
+          "param_min_technic": 4,
+          "param_min_pressure": 1,
+          "param_min_physical": 5,
+          "param_min_agility": 0,
+          "param_min_intelligence": 0,
+          "param_max_kick": 4,
+          "param_max_control": 4,
+          "param_max_technic": 4,
+          "param_max_pressure": 1,
+          "param_max_physical": 5,
+          "param_max_agility": 0,
+          "param_max_intelligence": 0,
+          "param_max2_kick": 4,
+          "param_max2_control": 4,
+          "param_max2_technic": 4,
+          "param_max2_pressure": 1,
+          "param_max2_physical": 5,
+          "param_max2_agility": 0,
+          "param_max2_intelligence": 0
+        },
+        {
+          "param_min_kick": 4,
+          "param_min_control": 1,
+          "param_min_technic": 1,
+          "param_min_pressure": 0,
+          "param_min_physical": 5,
+          "param_min_agility": 5,
+          "param_min_intelligence": 3,
+          "param_max_kick": 4,
+          "param_max_control": 1,
+          "param_max_technic": 1,
+          "param_max_pressure": 0,
+          "param_max_physical": 5,
+          "param_max_agility": 5,
+          "param_max_intelligence": 3,
+          "param_max2_kick": 4,
+          "param_max2_control": 1,
+          "param_max2_technic": 1,
+          "param_max2_pressure": 0,
+          "param_max2_physical": 5,
+          "param_max2_agility": 5,
+          "param_max2_intelligence": 3
+        },
+        {
+          "param_min_kick": 5,
+          "param_min_control": 4,
+          "param_min_technic": 0,
+          "param_min_pressure": 4,
+          "param_min_physical": 2,
+          "param_min_agility": 4,
+          "param_min_intelligence": 2,
+          "param_max_kick": 5,
+          "param_max_control": 4,
+          "param_max_technic": 0,
+          "param_max_pressure": 4,
+          "param_max_physical": 2,
+          "param_max_agility": 4,
+          "param_max_intelligence": 2,
+          "param_max2_kick": 5,
+          "param_max2_control": 4,
+          "param_max2_technic": 0,
+          "param_max2_pressure": 4,
+          "param_max2_physical": 2,
+          "param_max2_agility": 4,
+          "param_max2_intelligence": 2
+        },
+        {
+          "param_min_kick": 0,
+          "param_min_control": 5,
+          "param_min_technic": 0,
+          "param_min_pressure": 2,
+          "param_min_physical": 4,
+          "param_min_agility": 5,
+          "param_min_intelligence": 4,
+          "param_max_kick": 0,
+          "param_max_control": 5,
+          "param_max_technic": 0,
+          "param_max_pressure": 2,
+          "param_max_physical": 4,
+          "param_max_agility": 5,
+          "param_max_intelligence": 4,
+          "param_max2_kick": 0,
+          "param_max2_control": 5,
+          "param_max2_technic": 0,
+          "param_max2_pressure": 2,
+          "param_max2_physical": 4,
+          "param_max2_agility": 5,
+          "param_max2_intelligence": 4
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamPresetTableGrowTypeList",
+      "typeName": "CHARA_PARAM_PRESET_TABLE_GROW",
+      "values": [
+        {
+          "growType": 0,
+          "data": [
+            0,
+            4
+          ]
+        },
+        {
+          "growType": 1,
+          "data": [
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamPresetTablePlayStyleList",
+      "typeName": "CHARA_PARAM_PRESET_TABLE_PLAY",
+      "values": [
+        {
+          "playStyle": 0,
+          "data": [
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamPresetTableInfoList",
+      "typeName": "CHARA_PARAM_PRESET_TABLE_INFO",
+      "values": [
+        {
+          "position": 2,
+          "data": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamPersonalityTableDataList",
+      "typeName": "CHARA_PARAM_PERSONALITY_TABLE_DATA",
+      "values": [
+        {
+          "param_min_kick": 5,
+          "param_min_control": 4,
+          "param_min_technic": 1,
+          "param_min_pressure": 2,
+          "param_min_physical": 0,
+          "param_min_agility": 5,
+          "param_min_intelligence": 2,
+          "param_max_kick": 5,
+          "param_max_control": 4,
+          "param_max_technic": 1,
+          "param_max_pressure": 2,
+          "param_max_physical": 0,
+          "param_max_agility": 5,
+          "param_max_intelligence": 2
+        },
+        {
+          "param_min_kick": 5,
+          "param_min_control": 3,
+          "param_min_technic": 4,
+          "param_min_pressure": 2,
+          "param_min_physical": 3,
+          "param_min_agility": 5,
+          "param_min_intelligence": 0,
+          "param_max_kick": 5,
+          "param_max_control": 3,
+          "param_max_technic": 4,
+          "param_max_pressure": 2,
+          "param_max_physical": 3,
+          "param_max_agility": 5,
+          "param_max_intelligence": 0
+        },
+        {
+          "param_min_kick": 3,
+          "param_min_control": 4,
+          "param_min_technic": 5,
+          "param_min_pressure": 4,
+          "param_min_physical": 3,
+          "param_min_agility": 2,
+          "param_min_intelligence": 1,
+          "param_max_kick": 3,
+          "param_max_control": 4,
+          "param_max_technic": 5,
+          "param_max_pressure": 4,
+          "param_max_physical": 3,
+          "param_max_agility": 2,
+          "param_max_intelligence": 1
+        },
+        {
+          "param_min_kick": 2,
+          "param_min_control": 5,
+          "param_min_technic": 3,
+          "param_min_pressure": 1,
+          "param_min_physical": 2,
+          "param_min_agility": 2,
+          "param_min_intelligence": 4,
+          "param_max_kick": 2,
+          "param_max_control": 5,
+          "param_max_technic": 3,
+          "param_max_pressure": 1,
+          "param_max_physical": 2,
+          "param_max_agility": 2,
+          "param_max_intelligence": 4
+        },
+        {
+          "param_min_kick": 4,
+          "param_min_control": 4,
+          "param_min_technic": 4,
+          "param_min_pressure": 1,
+          "param_min_physical": 5,
+          "param_min_agility": 0,
+          "param_min_intelligence": 0,
+          "param_max_kick": 4,
+          "param_max_control": 4,
+          "param_max_technic": 4,
+          "param_max_pressure": 1,
+          "param_max_physical": 5,
+          "param_max_agility": 0,
+          "param_max_intelligence": 0
+        },
+        {
+          "param_min_kick": 4,
+          "param_min_control": 1,
+          "param_min_technic": 1,
+          "param_min_pressure": 0,
+          "param_min_physical": 5,
+          "param_min_agility": 5,
+          "param_min_intelligence": 3,
+          "param_max_kick": 4,
+          "param_max_control": 1,
+          "param_max_technic": 1,
+          "param_max_pressure": 0,
+          "param_max_physical": 5,
+          "param_max_agility": 5,
+          "param_max_intelligence": 3
+        },
+        {
+          "param_min_kick": 5,
+          "param_min_control": 4,
+          "param_min_technic": 0,
+          "param_min_pressure": 4,
+          "param_min_physical": 2,
+          "param_min_agility": 4,
+          "param_min_intelligence": 2,
+          "param_max_kick": 5,
+          "param_max_control": 4,
+          "param_max_technic": 0,
+          "param_max_pressure": 4,
+          "param_max_physical": 2,
+          "param_max_agility": 4,
+          "param_max_intelligence": 2
+        },
+        {
+          "param_min_kick": 0,
+          "param_min_control": 5,
+          "param_min_technic": 0,
+          "param_min_pressure": 2,
+          "param_min_physical": 4,
+          "param_min_agility": 5,
+          "param_min_intelligence": 4,
+          "param_max_kick": 0,
+          "param_max_control": 5,
+          "param_max_technic": 0,
+          "param_max_pressure": 2,
+          "param_max_physical": 4,
+          "param_max_agility": 5,
+          "param_max_intelligence": 4
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamPersonalityTablePlayStyleList",
+      "typeName": "CHARA_PARAM_PERSONALITY_TABLE_PLAYSTYLE",
+      "values": [
+        {
+          "playStyle": 0,
+          "data": [
+            0,
+            4
+          ]
+        },
+        {
+          "playStyle": 1,
+          "data": [
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamPersonalityTableInfoList",
+      "typeName": "CHARA_PARAM_PERSONALITY_TABLE_INFO",
+      "values": [
+        {
+          "position": 2,
+          "data": [
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamAddRateTableDataList",
+      "typeName": "CHARA_PARAM_ADD_RATE_TABLE_DATA",
+      "values": [
+        {
+          "param_kick": 0.2,
+          "param_control": 0.1,
+          "param_technic": -0.1,
+          "param_pressure": -0.1,
+          "param_physical": 0,
+          "param_agility": -0.1,
+          "param_intelligence": 0
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamAddRateTablePlayStyleList",
+      "typeName": "CHARA_PARAM_ADD_RATE_TABLE_PLAY",
+      "values": [
+        {
+          "playStyle": 0,
+          "data": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_charaParamAddRateTableInfoList",
+      "typeName": "CHARA_PARAM_ADD_RATE_TABLE_INFO",
+      "values": [
+        {
+          "position": 2,
+          "data": [
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_playersUniverseResultEffectInfoList",
+      "typeName": "PLAYERS_UNIVERSE_RESULT_EFFECT_INFO",
+      "values": [
+        {
+          "id": 1,
+          "targetLocatorCrc": "0xED2AA647",
+          "moveDegree": 160,
+          "moveDistance": 25
+        },
+        {
+          "id": 2,
+          "targetLocatorCrc": "0x7423F7FD",
+          "moveDegree": 120,
+          "moveDistance": 25
+        },
+        {
+          "id": 3,
+          "targetLocatorCrc": "0x0324C76B",
+          "moveDegree": 100,
+          "moveDistance": 25
+        },
+        {
+          "id": 4,
+          "targetLocatorCrc": "0x9D4052C8",
+          "moveDegree": 80,
+          "moveDistance": 25
+        },
+        {
+          "id": 5,
+          "targetLocatorCrc": "0xEA47625E",
+          "moveDegree": 60,
+          "moveDistance": 25
+        },
+        {
+          "id": 6,
+          "targetLocatorCrc": "0x734E33E4",
+          "moveDegree": 20,
+          "moveDistance": 25
+        },
+        {
+          "id": 7,
+          "targetLocatorCrc": "0xFF9F09A9",
+          "moveDegree": -160,
+          "moveDistance": 25
+        },
+        {
+          "id": 8,
+          "targetLocatorCrc": "0x66965813",
+          "moveDegree": -120,
+          "moveDistance": 25
+        },
+        {
+          "id": 9,
+          "targetLocatorCrc": "0x11916885",
+          "moveDegree": -100,
+          "moveDistance": 25
+        },
+        {
+          "id": 10,
+          "targetLocatorCrc": "0x8FF5FD26",
+          "moveDegree": -80,
+          "moveDistance": 25
+        },
+        {
+          "id": 11,
+          "targetLocatorCrc": "0xF8F2CDB0",
+          "moveDegree": -60,
+          "moveDistance": 25
+        },
+        {
+          "id": 12,
+          "targetLocatorCrc": "0x61FB9C0A",
+          "moveDegree": -20,
+          "moveDistance": 25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4310 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_charaDetailsList",
+      "typeName": "CHARA_DETAILS",
+      "values": [
+        {
+          "chara_id": "0x677ADF02",
+          "personality_type": 1,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x39AB12D3",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x596C9B36",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x686BE87E",
+          "personality_type": 4,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4346BBBD",
+          "personality_type": 11,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0C072D7A",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x272A7EB9",
+          "personality_type": 4,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3E314FF8",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5A5D8AFC",
+          "personality_type": 4,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x151C1C3B",
+          "personality_type": 11,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB9A95337",
+          "personality_type": 4,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA0B26276",
+          "personality_type": 11,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x70B2B308",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x69A98249",
+          "personality_type": 4,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4284D18A",
+          "personality_type": 4,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5B9FE0CB",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x14DE760C",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0DC5474D",
+          "personality_type": 4,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x26E8148E",
+          "personality_type": 11,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3FF325CF",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB86B3900",
+          "personality_type": 4,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA1700841",
+          "personality_type": 11,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x72F40D51",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6BEF3C10",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x40C26FD3",
+          "personality_type": 1,
+          "first_person": "0x00000000",
+          "second_person_male": "0x00000000",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x34BB6F04",
+          "personality_type": 13,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2DA05E45",
+          "personality_type": 13,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7BFAF9C3",
+          "personality_type": 13,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x068D0D86",
+          "personality_type": 19,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1F963CC7",
+          "personality_type": 19,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2FE6E01C",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x04CBB3DF",
+          "personality_type": 10,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x67AEDE07",
+          "personality_type": 8,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7EB5EF46",
+          "personality_type": 21,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x31F47981",
+          "personality_type": 23,
+          "first_person": "0xBAB1502D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4C838DC4",
+          "personality_type": 9,
+          "first_person": "0xCDB660BB",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x666CB430",
+          "personality_type": 2,
+          "first_person": "0x3DCEF4CF",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8291C527",
+          "personality_type": 6,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4B8A2518",
+          "personality_type": 1,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF1B9B6B1",
+          "personality_type": 22,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x207B0DF8",
+          "personality_type": 13,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0B565E3B",
+          "personality_type": 18,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x124D6F7A",
+          "personality_type": 19,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5D0CF9BD",
+          "personality_type": 16,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4417C8FC",
+          "personality_type": 19,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6F3A9B3F",
+          "personality_type": 7,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7621AA7E",
+          "personality_type": 15,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x50182395",
+          "personality_type": 20,
+          "first_person": "0xE69B3378",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x80CC1CF1",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x189F941B",
+          "personality_type": 7,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x980E2008",
+          "personality_type": 1,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x81151149",
+          "personality_type": 16,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x52911459",
+          "personality_type": 14,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xABE14F32",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB2FA7E73",
+          "personality_type": 4,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFDBBE8B4",
+          "personality_type": 3,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE4A0D9F5",
+          "personality_type": 1,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCF8D8A36",
+          "personality_type": 13,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD696BB77",
+          "personality_type": 5,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x66A33DA5",
+          "personality_type": 20,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x373FBB6A",
+          "personality_type": 14,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD5D9C9CF",
+          "personality_type": 13,
+          "first_person": "0x8ED9B1F9",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFEF49A0C",
+          "personality_type": 3,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE7EFAB4D",
+          "personality_type": 19,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA8AE3D8A",
+          "personality_type": 9,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB1B50CCB",
+          "personality_type": 17,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9A985F08",
+          "personality_type": 2,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x83836E49",
+          "personality_type": 1,
+          "first_person": "0x3AA330D6",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x041B7286",
+          "personality_type": 11,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1D0043C7",
+          "personality_type": 23,
+          "first_person": "0x8ED9B1F9",
+          "second_person_male": "0x74CC9211",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCD0092B9",
+          "personality_type": 3,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD41BA3F8",
+          "personality_type": 15,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFF36F03B",
+          "personality_type": 1,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE62DC17A",
+          "personality_type": 18,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA96C57BD",
+          "personality_type": 23,
+          "first_person": "0x8ED9B1F9",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0780EE24",
+          "personality_type": 6,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1C12E8A9",
+          "personality_type": 1,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCDD2BFA3",
+          "personality_type": 7,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE6FFEC60",
+          "personality_type": 16,
+          "first_person": "0x08955254",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFFE4DD21",
+          "personality_type": 15,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB0A54BE6",
+          "personality_type": 16,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA9BE7AA7",
+          "personality_type": 14,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x82932964",
+          "personality_type": 5,
+          "first_person": "0x8ED9B1F9",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9B881825",
+          "personality_type": 19,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1C1004EA",
+          "personality_type": 17,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x050B35AB",
+          "personality_type": 23,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x54955F27",
+          "personality_type": 17,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x61651CEC",
+          "personality_type": 13,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x85986DFB",
+          "personality_type": 14,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7FD00144",
+          "personality_type": 20,
+          "first_person": "0xE69B3378",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x55ED15AA",
+          "personality_type": 8,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xB1EFA0FE",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1AAC836D",
+          "personality_type": 15,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x03B7B22C",
+          "personality_type": 4,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1BBCC440",
+          "personality_type": 15,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3181D0AE",
+          "personality_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB619CC61",
+          "personality_type": 4,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xAF02FD20",
+          "personality_type": 14,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7F022C5E",
+          "personality_type": 15,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0x03CBA287",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x66191D1F",
+          "personality_type": 17,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1E9BDF65",
+          "personality_type": 15,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x642A0A69",
+          "personality_type": 3,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5005871A",
+          "personality_type": 15,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7B28D4D9",
+          "personality_type": 22,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6233E598",
+          "personality_type": 5,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2D72735F",
+          "personality_type": 1,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3469421E",
+          "personality_type": 7,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1F4411DD",
+          "personality_type": 20,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x065F209C",
+          "personality_type": 4,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x81C73C53",
+          "personality_type": 9,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x98DC0D12",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x48C178E3",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0046CF6D",
+          "personality_type": 4,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x195DFE2C",
+          "personality_type": 20,
+          "first_person": "0x24D5C58E",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xAE76664D",
+          "personality_type": 1,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCA1AA349",
+          "personality_type": 10,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE137F08A",
+          "personality_type": 12,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF82CC1CB",
+          "personality_type": 22,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB76D570C",
+          "personality_type": 21,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x855B358E",
+          "personality_type": 8,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9C4004CF",
+          "personality_type": 20,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1BD81800",
+          "personality_type": 4,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1BD4C9E0",
+          "personality_type": 18,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4EC5339D",
+          "personality_type": 7,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x60A776DB",
+          "personality_type": 20,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x79BC479A",
+          "personality_type": 20,
+          "first_person": "0xBDDC9434",
+          "second_person_male": "0xBF3428CC",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x36FDD15D",
+          "personality_type": 20,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xAF199AAF",
+          "personality_type": 16,
+          "first_person": "0xEB8633B2",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8434C96C",
+          "personality_type": 23,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9D2FF82D",
+          "personality_type": 23,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD26E6EEA",
+          "personality_type": 15,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCB755FAB",
+          "personality_type": 1,
+          "first_person": "0xDD1B1DD1",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE0580C68",
+          "personality_type": 22,
+          "first_person": "0xAA1C2D47",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF9433D29",
+          "personality_type": 12,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7EDB21E6",
+          "personality_type": 20,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x67C010A7",
+          "personality_type": 3,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xB1EFA0FE",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB7C0C1D9",
+          "personality_type": 18,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x33B2C7D8",
+          "personality_type": 5,
+          "first_person": "0x53D2F518",
+          "second_person_male": "0x9AC2F33D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x03C21B03",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2483D865",
+          "personality_type": 1,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x04A6669E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0FAE8BA6",
+          "personality_type": 8,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3D98E924",
+          "personality_type": 6,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x72D97FE3",
+          "personality_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6BC24EA2",
+          "personality_type": 5,
+          "first_person": "0xF9DE816F",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x40EF1D61",
+          "personality_type": 18,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x59F42C20",
+          "personality_type": 14,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDE6C30EF",
+          "personality_type": 4,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x30F99A23",
+          "personality_type": 5,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8F487AD9",
+          "personality_type": 14,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xEAE6D5EA",
+          "personality_type": 16,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8E8A10EE",
+          "personality_type": 9,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA5A7432D",
+          "personality_type": 16,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x979121AF",
+          "personality_type": 18,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD8D0B768",
+          "personality_type": 19,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC1CB8629",
+          "personality_type": 8,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF3FDE4AB",
+          "personality_type": 1,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7465F864",
+          "personality_type": 10,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6D7EC925",
+          "personality_type": 14,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBD7E185B",
+          "personality_type": 6,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA465291A",
+          "personality_type": 1,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x02CFF8A1",
+          "personality_type": 7,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9F0788D4",
+          "personality_type": 21,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4D41E7F3",
+          "personality_type": 8,
+          "first_person": "0x23B80197",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x38707B94",
+          "personality_type": 6,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x135D2857",
+          "personality_type": 3,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0A461916",
+          "personality_type": 4,
+          "first_person": "0xA4C7A575",
+          "second_person_male": "0xEAA807B2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x45078FD1",
+          "personality_type": 1,
+          "first_person": "0x3DCEF4CF",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5C1CBE90",
+          "personality_type": 7,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7731ED53",
+          "personality_type": 11,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6E2ADC12",
+          "personality_type": 10,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE9B2C0DD",
+          "personality_type": 9,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF0A9F19C",
+          "personality_type": 19,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x20A920E2",
+          "personality_type": 23,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x39B211A3",
+          "personality_type": 8,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x129F4260",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0B847321",
+          "personality_type": 3,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x861CB995",
+          "personality_type": 16,
+          "first_person": "0x8ED9B1F9",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1DD0829E",
+          "personality_type": 10,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2AC5D47A",
+          "personality_type": 18,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x01E887B9",
+          "personality_type": 22,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x18F3B6F8",
+          "personality_type": 19,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x57B2203F",
+          "personality_type": 16,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4EA9117E",
+          "personality_type": 23,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x658442BD",
+          "personality_type": 20,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7C9F73FC",
+          "personality_type": 14,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFB076F33",
+          "personality_type": 18,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE21C5E72",
+          "personality_type": 17,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x321C8F0C",
+          "personality_type": 5,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2B07BE4D",
+          "personality_type": 15,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2E248A2B",
+          "personality_type": 5,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF0CD2DDC",
+          "personality_type": 18,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8DBAD999",
+          "personality_type": 5,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA6978A5A",
+          "personality_type": 8,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBF8CBB1B",
+          "personality_type": 14,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE9D61C9D",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC2FB4F5E",
+          "personality_type": 19,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDBE07E1F",
+          "personality_type": 9,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5C7862D0",
+          "personality_type": 6,
+          "first_person": "0x08955254",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x45635391",
+          "personality_type": 22,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD7803F5A",
+          "personality_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8353AF10",
+          "personality_type": 13,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x28EF48C0",
+          "personality_type": 18,
+          "first_person": "0x08955254",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5ABB5E98",
+          "personality_type": 9,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x71960D5B",
+          "personality_type": 5,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x688D3C1A",
+          "personality_type": 20,
+          "first_person": "0xC4002C90",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x27CCAADD",
+          "personality_type": 19,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3ED79B9C",
+          "personality_type": 10,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x15FAC85F",
+          "personality_type": 13,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0CE1F91E",
+          "personality_type": 5,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8B79E5D1",
+          "personality_type": 7,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9262D490",
+          "personality_type": 15,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x426205EE",
+          "personality_type": 12,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x63EC2B20",
+          "personality_type": 20,
+          "first_person": "0xE69B3378",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x756ED8C6",
+          "personality_type": 14,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5E438B05",
+          "personality_type": 23,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4758BA44",
+          "personality_type": 8,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x08192C83",
+          "personality_type": 13,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x11021DC2",
+          "personality_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3A2F4E01",
+          "personality_type": 14,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x23347F40",
+          "personality_type": 23,
+          "first_person": "0x8ED9B1F9",
+          "second_person_male": "0x94197B0F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA4AC638F",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBDB752CE",
+          "personality_type": 8,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6DB783B0",
+          "personality_type": 12,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x74ACB2F1",
+          "personality_type": 9,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5F81E132",
+          "personality_type": 18,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x469AD073",
+          "personality_type": 15,
+          "first_person": "0x3DCEF4CF",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x09DB46B4",
+          "personality_type": 3,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7D313B28",
+          "personality_type": 13,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x35790533",
+          "personality_type": 16,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2C623472",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x074F67B1",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x32CEA216",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x19E3F1D5",
+          "personality_type": 8,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC086183C",
+          "personality_type": 16,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4FB95653",
+          "personality_type": 16,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x56A26712",
+          "personality_type": 3,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7D8F34D1",
+          "personality_type": 6,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x64940590",
+          "personality_type": 22,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2AA9F699",
+          "personality_type": 7,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x303613B6",
+          "personality_type": 13,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9C3FBF00",
+          "personality_type": 2,
+          "first_person": "0x4AC9C459",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB712ECC3",
+          "personality_type": 8,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x85248E41",
+          "personality_type": 17,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCA651886",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD37E29C7",
+          "personality_type": 15,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF8537A04",
+          "personality_type": 17,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE1484B45",
+          "personality_type": 23,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x66D0578A",
+          "personality_type": 13,
+          "first_person": "0x9C810324",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7FCB66CB",
+          "personality_type": 2,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xAFCBB7B5",
+          "personality_type": 23,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB6D086F4",
+          "personality_type": 22,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9DFDD537",
+          "personality_type": 6,
+          "first_person": "0x728F6208",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x84E6E476",
+          "personality_type": 17,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD30D43E8",
+          "personality_type": 22,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0184A55A",
+          "personality_type": 9,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xB1EFA0FE",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7F778571",
+          "personality_type": 18,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1D1B2448",
+          "personality_type": 8,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3636778B",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2F2D46CA",
+          "personality_type": 11,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x606CD00D",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7977E14C",
+          "personality_type": 13,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x525AB28F",
+          "personality_type": 4,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4B4183CE",
+          "personality_type": 20,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCCD99F01",
+          "personality_type": 20,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD5C2AE40",
+          "personality_type": 6,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x05C27F3E",
+          "personality_type": 3,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA08B670E",
+          "personality_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x92BD058C",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDDFC934B",
+          "personality_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC4E7A20A",
+          "personality_type": 19,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xEFCAF1C9",
+          "personality_type": 13,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF6D1C088",
+          "personality_type": 3,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7149DC47",
+          "personality_type": 14,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6852ED06",
+          "personality_type": 19,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8BA634CD",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB8523C78",
+          "personality_type": 11,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA1490D39",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8A645EFA",
+          "personality_type": 21,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x937F6FBB",
+          "personality_type": 14,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDC3EF97C",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC525C83D",
+          "personality_type": 20,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xEE089BFE",
+          "personality_type": 13,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1E5456F0",
+          "personality_type": 6,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x99CC4A3F",
+          "personality_type": 12,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x80D77B7E",
+          "personality_type": 12,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0866974C",
+          "personality_type": 20,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x234BC48F",
+          "personality_type": 5,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3A50F5CE",
+          "personality_type": 9,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x75116309",
+          "personality_type": 12,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6C0A5248",
+          "personality_type": 11,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xB1EFA0FE",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4727018B",
+          "personality_type": 16,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5E3C30CA",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD9A42C05",
+          "personality_type": 17,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC0BF1D44",
+          "personality_type": 2,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x10BFCC3A",
+          "personality_type": 7,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x09A4FD7B",
+          "personality_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x78B1A438",
+          "personality_type": 4,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7A3893F4",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x480EF176",
+          "personality_type": 9,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6323A2B5",
+          "personality_type": 12,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE8B9E07F",
+          "personality_type": 23,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC394B3BC",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDA8F82FD",
+          "personality_type": 11,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x95CE143A",
+          "personality_type": 13,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8CD5257B",
+          "personality_type": 5,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA7F876B8",
+          "personality_type": 6,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBEE347F9",
+          "personality_type": 21,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9EC5E2E3",
+          "personality_type": 8,
+          "first_person": "0x8ED9B1F9",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9D41368D",
+          "personality_type": 6,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBDAC3541",
+          "personality_type": 15,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x96816682",
+          "personality_type": 23,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8F9A57C3",
+          "personality_type": 6,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC0DBC104",
+          "personality_type": 17,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD9C0F045",
+          "personality_type": 23,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF2EDA386",
+          "personality_type": 22,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xEBF692C7",
+          "personality_type": 7,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6C6E8E08",
+          "personality_type": 6,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7575BF49",
+          "personality_type": 1,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA5756E37",
+          "personality_type": 22,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBC6E5F76",
+          "personality_type": 23,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x97430CB5",
+          "personality_type": 2,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8E583DF4",
+          "personality_type": 22,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9B8AF466",
+          "personality_type": 12,
+          "first_person": "0xD3C095E3",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x50D7AA00",
+          "personality_type": 19,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x49CC9B41",
+          "personality_type": 10,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x62E1C882",
+          "personality_type": 19,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDF67104D",
+          "personality_type": 17,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF44A438E",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xED5172CF",
+          "personality_type": 11,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA210E408",
+          "personality_type": 4,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBB0BD549",
+          "personality_type": 10,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9026868A",
+          "personality_type": 15,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x893DB7CB",
+          "personality_type": 9,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0EA5AB04",
+          "personality_type": 5,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x17BE9A45",
+          "personality_type": 14,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC7BE4B3B",
+          "personality_type": 12,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5598BC85",
+          "personality_type": 23,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5F06918F",
+          "personality_type": 22,
+          "first_person": "0x08955254",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9279B31F",
+          "personality_type": 18,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB954E0DC",
+          "personality_type": 6,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA04FD19D",
+          "personality_type": 7,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xEF0E475A",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF615761B",
+          "personality_type": 10,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDD3825D8",
+          "personality_type": 15,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC4231499",
+          "personality_type": 4,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x43BB0856",
+          "personality_type": 2,
+          "first_person": "0xD3C095E3",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5AA03917",
+          "personality_type": 15,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9A489E51",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFADE628B",
+          "personality_type": 18,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x33C582B4",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2ADEB3F5",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD0315B7F",
+          "personality_type": 21,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xB1EFA0FE",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9F70CDB8",
+          "personality_type": 19,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x866BFCF9",
+          "personality_type": 2,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xAD46AF3A",
+          "personality_type": 1,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB45D9E7B",
+          "personality_type": 14,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE20739FD",
+          "personality_type": 5,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC92A6A3E",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x53537E6E",
+          "personality_type": 23,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4A484F2F",
+          "personality_type": 1,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xEC4135E2",
+          "personality_type": 7,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC76C6621",
+          "personality_type": 22,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF55A04A3",
+          "personality_type": 3,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBA1B9264",
+          "personality_type": 12,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA300A325",
+          "personality_type": 2,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x882DF0E6",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9136C1A7",
+          "personality_type": 20,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x16AEDD68",
+          "personality_type": 23,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0FB5EC29",
+          "personality_type": 6,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDFB53D57",
+          "personality_type": 15,
+          "first_person": "0xB3071C06",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC6AE0C16",
+          "personality_type": 18,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xED835FD5",
+          "personality_type": 8,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF4986E94",
+          "personality_type": 8,
+          "first_person": "0x08955254",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCA1672A9",
+          "personality_type": 12,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x787E2DAD",
+          "personality_type": 3,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x478A975E",
+          "personality_type": 1,
+          "first_person": "0xA4C7A575",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6D65AEAA",
+          "personality_type": 3,
+          "first_person": "0x08955254",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4648FD69",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5F53CC28",
+          "personality_type": 11,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x10125AEF",
+          "personality_type": 11,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x09096BAE",
+          "personality_type": 2,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2224386D",
+          "personality_type": 5,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3B3F092C",
+          "personality_type": 8,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBCA715E3",
+          "personality_type": 6,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA5BC24A2",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x75BCF5DC",
+          "personality_type": 2,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6CA7C49D",
+          "personality_type": 12,
+          "first_person": "0xD3C095E3",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x29E2AB62",
+          "personality_type": 3,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x37F032FF",
+          "personality_type": 6,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF0B29613",
+          "personality_type": 3,
+          "first_person": "0xCADBA4A2",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDB9FC5D0",
+          "personality_type": 19,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC284F491",
+          "personality_type": 15,
+          "first_person": "0xA3AA616C",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8DC56256",
+          "personality_type": 18,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x94DE5317",
+          "personality_type": 1,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xB1EFA0FE",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBFF300D4",
+          "personality_type": 14,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA6E83195",
+          "personality_type": 6,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x21702D5A",
+          "personality_type": 3,
+          "first_person": "0x54BF3101",
+          "second_person_male": "0xEDC5C3AB",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDA5DAFE7",
+          "personality_type": 21,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE86BCD65",
+          "personality_type": 11,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x386B1C1B",
+          "personality_type": 17,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC3469EA6",
+          "personality_type": 16,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF170FC24",
+          "personality_type": 10,
+          "first_person": "0x982A4FC5",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7FB80CE4",
+          "personality_type": 1,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCF59642C",
+          "personality_type": 3,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0509D9E8",
+          "personality_type": 15,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0730DC7E",
+          "personality_type": 14,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x48714AB9",
+          "personality_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3506BEFC",
+          "personality_type": 14,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1E2BED3F",
+          "personality_type": 13,
+          "first_person": "0xCDB660BB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x516A7BF8",
+          "personality_type": 11,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7A47283B",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x635C197A",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE4C405B5",
+          "personality_type": 23,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFDDF34F4",
+          "personality_type": 9,
+          "first_person": "0xD3C095E3",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2DDFE58A",
+          "personality_type": 3,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x34C4D4CB",
+          "personality_type": 19,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1FE98708",
+          "personality_type": 12,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x06F2B649",
+          "personality_type": 8,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4F0759AA",
+          "personality_type": 23,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x42B028F4",
+          "personality_type": 10,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x699D7B37",
+          "personality_type": 15,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x70864A76",
+          "personality_type": 13,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3FC7DCB1",
+          "personality_type": 6,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x26DCEDF0",
+          "personality_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0DF1BE33",
+          "personality_type": 6,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x14EA8F72",
+          "personality_type": 13,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x937293BD",
+          "personality_type": 15,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8A69A2FC",
+          "personality_type": 6,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x9B495EA2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5A697382",
+          "personality_type": 2,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1D1F0B0B",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB0DAF029",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9BF7A3EA",
+          "personality_type": 21,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x9DAF3724",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x82EC92AB",
+          "personality_type": 11,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCDAD046C",
+          "personality_type": 16,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD4B6352D",
+          "personality_type": 5,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFF9B66EE",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE68057AF",
+          "personality_type": 21,
+          "first_person": "0xD3C095E3",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x61184B60",
+          "personality_type": 1,
+          "first_person": "0x08955254",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x78037A21",
+          "personality_type": 15,
+          "first_person": "0xD3C095E3",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA803AB5F",
+          "personality_type": 23,
+          "first_person": "0xE69B3378",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB1189A1E",
+          "personality_type": 12,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9A35C9DD",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x832EF89C",
+          "personality_type": 6,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3270ADEF",
+          "personality_type": 11,
+          "first_person": "0x08955254",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8A72C573",
+          "personality_type": 18,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA15F96B0",
+          "personality_type": 3,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB844A7F1",
+          "personality_type": 5,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF7053136",
+          "personality_type": 13,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xEE1E0077",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC53353B4",
+          "personality_type": 21,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDC2862F5",
+          "personality_type": 22,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x5BB07E3A",
+          "personality_type": 11,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x42AB4F7B",
+          "personality_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x92AB9E05",
+          "personality_type": 14,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7AF71A61",
+          "personality_type": 4,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x87DED3A2",
+          "personality_type": 6,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9C835CBA",
+          "personality_type": 12,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x05105224",
+          "personality_type": 1,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2E3D01E7",
+          "personality_type": 23,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x372630A6",
+          "personality_type": 21,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xEAA807B2",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7867A661",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x617C9720",
+          "personality_type": 15,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4A51C4E3",
+          "personality_type": 2,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x534AF5A2",
+          "personality_type": 1,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x02400F18",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD4D2E96D",
+          "personality_type": 4,
+          "first_person": "0x08955254",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCDC9D82C",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1DC90952",
+          "personality_type": 15,
+          "first_person": "0x4DA40040",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x04D23813",
+          "personality_type": 22,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4D8E6E66",
+          "personality_type": 2,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x57DE02DC",
+          "personality_type": 9,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x845A07CC",
+          "personality_type": 2,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x17A5FDCA",
+          "personality_type": 7,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3C88AE09",
+          "personality_type": 5,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x25939F48",
+          "personality_type": 4,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xB1EFA0FE",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6AD2098F",
+          "personality_type": 12,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x73C938CE",
+          "personality_type": 3,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x58E46B0D",
+          "personality_type": 9,
+          "first_person": "0xA4C7A575",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x41FF5A4C",
+          "personality_type": 6,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC6674683",
+          "personality_type": 18,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDF7C77C2",
+          "personality_type": 2,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x0F7CA6BC",
+          "personality_type": 17,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x166797FD",
+          "personality_type": 22,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3D4AC43E",
+          "personality_type": 6,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2451F57F",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x65E8605E",
+          "personality_type": 10,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x292D22F7",
+          "personality_type": 6,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF77A8AF9",
+          "personality_type": 1,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xDC57D93A",
+          "personality_type": 2,
+          "first_person": "0x96F1C7F7",
+          "second_person_male": "0x73A15608",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC54CE87B",
+          "personality_type": 21,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x8A0D7EBC",
+          "personality_type": 16,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x93164FFD",
+          "personality_type": 15,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB83B1C3E",
+          "personality_type": 3,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA1202D7F",
+          "personality_type": 12,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x26B831B0",
+          "personality_type": 14,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3FA300F1",
+          "personality_type": 22,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xEFA3D18F",
+          "personality_type": 11,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xF6B8E0CE",
+          "personality_type": 10,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x35B68CA6",
+          "personality_type": 17,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7CF3511F",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x02007134",
+          "personality_type": 15,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4FC6ED9C",
+          "personality_type": 18,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x64EBBE5F",
+          "personality_type": 21,
+          "first_person": "0xA4C7A575",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7DF08F1E",
+          "personality_type": 17,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x32B119D9",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2BAA2898",
+          "personality_type": 16,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x00877B5B",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x199C4A1A",
+          "personality_type": 5,
+          "first_person": "0x6E0C58E7",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x9E0456D5",
+          "personality_type": 15,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x871F6794",
+          "personality_type": 12,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x571FB6EA",
+          "personality_type": 4,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4E0487AB",
+          "personality_type": 17,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x6529D468",
+          "personality_type": 17,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x561C68EB",
+          "personality_type": 10,
+          "first_person": "0x78FFA6DB",
+          "second_person_male": "0xC833185A",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFA0C4F91",
+          "personality_type": 4,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD1211C52",
+          "personality_type": 2,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xC83A2D13",
+          "personality_type": 17,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x877BBBD4",
+          "personality_type": 9,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x74CC9211",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB54DD956",
+          "personality_type": 5,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xAC56E817",
+          "personality_type": 5,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2BCEF4D8",
+          "personality_type": 20,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x32D5C599",
+          "personality_type": 17,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE2D514E7",
+          "personality_type": 20,
+          "first_person": "0x8ED9B1F9",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCE9B0E1B",
+          "personality_type": 12,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2B6B9CAE",
+          "personality_type": 20,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEC4E6E34",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x1B1B4075",
+          "personality_type": 10,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x98C76A9D",
+          "personality_type": 15,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xB3EA395E",
+          "personality_type": 3,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xAAF1081F",
+          "personality_type": 5,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xE5B09ED8",
+          "personality_type": 4,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xFCABAF99",
+          "personality_type": 2,
+          "first_person": "0x1E66AC68",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD786FC5A",
+          "personality_type": 22,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x722AFB97",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xCE9DCD1B",
+          "personality_type": 15,
+          "first_person": "0xF705095D",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4905D1D4",
+          "personality_type": 11,
+          "first_person": "0xD4AD51FA",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x501EE095",
+          "personality_type": 22,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x801E31EB",
+          "personality_type": 16,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xD642556D",
+          "personality_type": 12,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x3474E691",
+          "personality_type": 7,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x7B357056",
+          "personality_type": 7,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x130C5AB3",
+          "personality_type": 7,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x2CADBDE7",
+          "personality_type": 14,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x51DA49A2",
+          "personality_type": 15,
+          "first_person": "0xEF2D7F53",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xBD8E57B6",
+          "personality_type": 17,
+          "first_person": "0x69619CFE",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x96A30475",
+          "personality_type": 20,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x53172C9A",
+          "personality_type": 5,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xEB23AA2D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x054D8B1C",
+          "personality_type": 21,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x377BE99E",
+          "personality_type": 18,
+          "first_person": "0xF068CD44",
+          "second_person_male": "0xB1EFA0FE",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0xA9F8C410",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0xE5F8221F",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x60E3242F",
+          "personality_type": 10,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x79F8156E",
+          "personality_type": 13,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x52D546AD",
+          "personality_type": 2,
+          "first_person": "0xE1F6F761",
+          "second_person_male": "0x92FF1289",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "chara_id": "0x4BCE77EC",
+          "personality_type": 15,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x75473F8E",
+          "second_person_female": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_avatarDetailsGenderList",
+      "typeName": "AVATAR_DETAILS_GENDER",
+      "values": [
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 1,
+          "first_person": "0x190B6871",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        },
+        {
+          "gender_type": 2,
+          "first_person": "0x800239CB",
+          "second_person_male": "0x2F8B355D",
+          "second_person_female": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_avatarDetailsList",
+      "typeName": "AVATAR_DETAILS",
+      "values": [
+        {
+          "personality_type": 1,
+          "gender_info": [
+            0,
+            2
+          ]
+        },
+        {
+          "personality_type": 2,
+          "gender_info": [
+            2,
+            2
+          ]
+        },
+        {
+          "personality_type": 3,
+          "gender_info": [
+            4,
+            2
+          ]
+        },
+        {
+          "personality_type": 4,
+          "gender_info": [
+            6,
+            2
+          ]
+        },
+        {
+          "personality_type": 5,
+          "gender_info": [
+            8,
+            2
+          ]
+        },
+        {
+          "personality_type": 6,
+          "gender_info": [
+            10,
+            2
+          ]
+        },
+        {
+          "personality_type": 7,
+          "gender_info": [
+            12,
+            2
+          ]
+        },
+        {
+          "personality_type": 8,
+          "gender_info": [
+            14,
+            2
+          ]
+        },
+        {
+          "personality_type": 9,
+          "gender_info": [
+            16,
+            2
+          ]
+        },
+        {
+          "personality_type": 10,
+          "gender_info": [
+            18,
+            2
+          ]
+        },
+        {
+          "personality_type": 11,
+          "gender_info": [
+            20,
+            2
+          ]
+        },
+        {
+          "personality_type": 12,
+          "gender_info": [
+            22,
+            2
+          ]
+        },
+        {
+          "personality_type": 13,
+          "gender_info": [
+            24,
+            2
+          ]
+        },
+        {
+          "personality_type": 14,
+          "gender_info": [
+            26,
+            2
+          ]
+        },
+        {
+          "personality_type": 15,
+          "gender_info": [
+            28,
+            2
+          ]
+        },
+        {
+          "personality_type": 16,
+          "gender_info": [
+            30,
+            2
+          ]
+        },
+        {
+          "personality_type": 17,
+          "gender_info": [
+            32,
+            2
+          ]
+        },
+        {
+          "personality_type": 18,
+          "gender_info": [
+            34,
+            2
+          ]
+        },
+        {
+          "personality_type": 19,
+          "gender_info": [
+            36,
+            2
+          ]
+        },
+        {
+          "personality_type": 20,
+          "gender_info": [
+            38,
+            2
+          ]
+        },
+        {
+          "personality_type": 21,
+          "gender_info": [
+            40,
+            2
+          ]
+        },
+        {
+          "personality_type": 22,
+          "gender_info": [
+            42,
+            2
+          ]
+        },
+        {
+          "personality_type": 23,
+          "gender_info": [
+            44,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

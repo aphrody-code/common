@@ -1,0 +1,443 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_generalBattleVoice",
+      "typeName": "GENERAL_BATTLE_VOICE",
+      "values": [
+        {
+          "voiceId": "0xB7E9AA4F",
+          "voiceIdString": "scoutFAA01"
+        },
+        {
+          "voiceId": "0x2EE0FBF5",
+          "voiceIdString": "scoutFAA02"
+        },
+        {
+          "voiceId": "0xB5AF1416",
+          "voiceIdString": "scoutFAB01"
+        },
+        {
+          "voiceId": "0x2CA645AC",
+          "voiceIdString": "scoutFAB02"
+        },
+        {
+          "voiceId": "0xB46D7E21",
+          "voiceIdString": "scoutFAC01"
+        },
+        {
+          "voiceId": "0x2D642F9B",
+          "voiceIdString": "scoutFAC02"
+        },
+        {
+          "voiceId": "0xB12268A4",
+          "voiceIdString": "scoutFAD01"
+        },
+        {
+          "voiceId": "0x282B391E",
+          "voiceIdString": "scoutFAD02"
+        },
+        {
+          "voiceId": "0xB0E00293",
+          "voiceIdString": "scoutFAE01"
+        },
+        {
+          "voiceId": "0x29E95329",
+          "voiceIdString": "scoutFAE02"
+        },
+        {
+          "voiceId": "0xB2A6BCCA",
+          "voiceIdString": "scoutFAF01"
+        },
+        {
+          "voiceId": "0x2BAFED70",
+          "voiceIdString": "scoutFAF02"
+        },
+        {
+          "voiceId": "0xB364D6FD",
+          "voiceIdString": "scoutFAG01"
+        },
+        {
+          "voiceId": "0x2A6D8747",
+          "voiceIdString": "scoutFAG02"
+        },
+        {
+          "voiceId": "0xB83891C0",
+          "voiceIdString": "scoutFAH01"
+        },
+        {
+          "voiceId": "0x2131C07A",
+          "voiceIdString": "scoutFAH02"
+        },
+        {
+          "voiceId": "0xB9FAFBF7",
+          "voiceIdString": "scoutFAI01"
+        },
+        {
+          "voiceId": "0x20F3AA4D",
+          "voiceIdString": "scoutFAI02"
+        },
+        {
+          "voiceId": "0xBBBC45AE",
+          "voiceIdString": "scoutFAJ01"
+        },
+        {
+          "voiceId": "0x22B51414",
+          "voiceIdString": "scoutFAJ02"
+        },
+        {
+          "voiceId": "0xBA7E2F99",
+          "voiceIdString": "scoutFAK01"
+        },
+        {
+          "voiceId": "0x23777E23",
+          "voiceIdString": "scoutFAK02"
+        },
+        {
+          "voiceId": "0xBF31391C",
+          "voiceIdString": "scoutFAL01"
+        },
+        {
+          "voiceId": "0x263868A6",
+          "voiceIdString": "scoutFAL02"
+        },
+        {
+          "voiceId": "0xBEF3532B",
+          "voiceIdString": "scoutFAM01"
+        },
+        {
+          "voiceId": "0x27FA0291",
+          "voiceIdString": "scoutFAM02"
+        },
+        {
+          "voiceId": "0xBCB5ED72",
+          "voiceIdString": "scoutFAN01"
+        },
+        {
+          "voiceId": "0x25BCBCC8",
+          "voiceIdString": "scoutFAN02"
+        },
+        {
+          "voiceId": "0xBD778745",
+          "voiceIdString": "scoutFAO01"
+        },
+        {
+          "voiceId": "0x247ED6FF",
+          "voiceIdString": "scoutFAO02"
+        },
+        {
+          "voiceId": "0xAA0D6308",
+          "voiceIdString": "scoutFAP01"
+        },
+        {
+          "voiceId": "0x330432B2",
+          "voiceIdString": "scoutFAP02"
+        },
+        {
+          "voiceId": "0xABCF093F",
+          "voiceIdString": "scoutFAQ01"
+        },
+        {
+          "voiceId": "0x32C65885",
+          "voiceIdString": "scoutFAQ02"
+        },
+        {
+          "voiceId": "0xA989B766",
+          "voiceIdString": "scoutFAR01"
+        },
+        {
+          "voiceId": "0x3080E6DC",
+          "voiceIdString": "scoutFAR02"
+        },
+        {
+          "voiceId": "0xA84BDD51",
+          "voiceIdString": "scoutFAS01"
+        },
+        {
+          "voiceId": "0x31428CEB",
+          "voiceIdString": "scoutFAS02"
+        },
+        {
+          "voiceId": "0xAD04CBD4",
+          "voiceIdString": "scoutFAT01"
+        },
+        {
+          "voiceId": "0x340D9A6E",
+          "voiceIdString": "scoutFAT02"
+        },
+        {
+          "voiceId": "0xACC6A1E3",
+          "voiceIdString": "scoutFAU01"
+        },
+        {
+          "voiceId": "0x35CFF059",
+          "voiceIdString": "scoutFAU02"
+        },
+        {
+          "voiceId": "0xAE801FBA",
+          "voiceIdString": "scoutFAV01"
+        },
+        {
+          "voiceId": "0x37894E00",
+          "voiceIdString": "scoutFAV02"
+        },
+        {
+          "voiceId": "0xAF42758D",
+          "voiceIdString": "scoutFAW01"
+        },
+        {
+          "voiceId": "0x364B2437",
+          "voiceIdString": "scoutFAW02"
+        },
+        {
+          "voiceId": "0xA41E32B0",
+          "voiceIdString": "scoutFAX01"
+        },
+        {
+          "voiceId": "0x3D17630A",
+          "voiceIdString": "scoutFAX02"
+        },
+        {
+          "voiceId": "0xC0399B5E",
+          "voiceIdString": "scoutMAA01"
+        },
+        {
+          "voiceId": "0x5930CAE4",
+          "voiceIdString": "scoutMAA02"
+        },
+        {
+          "voiceId": "0xC27F2507",
+          "voiceIdString": "scoutMAB01"
+        },
+        {
+          "voiceId": "0x5B7674BD",
+          "voiceIdString": "scoutMAB02"
+        },
+        {
+          "voiceId": "0xC3BD4F30",
+          "voiceIdString": "scoutMAC01"
+        },
+        {
+          "voiceId": "0x5AB41E8A",
+          "voiceIdString": "scoutMAC02"
+        },
+        {
+          "voiceId": "0xC6F259B5",
+          "voiceIdString": "scoutMAD01"
+        },
+        {
+          "voiceId": "0x5FFB080F",
+          "voiceIdString": "scoutMAD02"
+        },
+        {
+          "voiceId": "0xC7303382",
+          "voiceIdString": "scoutMAE01"
+        },
+        {
+          "voiceId": "0x5E396238",
+          "voiceIdString": "scoutMAE02"
+        },
+        {
+          "voiceId": "0xC5768DDB",
+          "voiceIdString": "scoutMAF01"
+        },
+        {
+          "voiceId": "0x5C7FDC61",
+          "voiceIdString": "scoutMAF02"
+        },
+        {
+          "voiceId": "0xC4B4E7EC",
+          "voiceIdString": "scoutMAG01"
+        },
+        {
+          "voiceId": "0x5DBDB656",
+          "voiceIdString": "scoutMAG02"
+        },
+        {
+          "voiceId": "0xCFE8A0D1",
+          "voiceIdString": "scoutMAH01"
+        },
+        {
+          "voiceId": "0x56E1F16B",
+          "voiceIdString": "scoutMAH02"
+        },
+        {
+          "voiceId": "0xCE2ACAE6",
+          "voiceIdString": "scoutMAI01"
+        },
+        {
+          "voiceId": "0x57239B5C",
+          "voiceIdString": "scoutMAI02"
+        },
+        {
+          "voiceId": "0xCC6C74BF",
+          "voiceIdString": "scoutMAJ01"
+        },
+        {
+          "voiceId": "0x55652505",
+          "voiceIdString": "scoutMAJ02"
+        },
+        {
+          "voiceId": "0xCDAE1E88",
+          "voiceIdString": "scoutMAK01"
+        },
+        {
+          "voiceId": "0x54A74F32",
+          "voiceIdString": "scoutMAK02"
+        },
+        {
+          "voiceId": "0xC8E1080D",
+          "voiceIdString": "scoutMAL01"
+        },
+        {
+          "voiceId": "0x51E859B7",
+          "voiceIdString": "scoutMAL02"
+        },
+        {
+          "voiceId": "0xC923623A",
+          "voiceIdString": "scoutMAM01"
+        },
+        {
+          "voiceId": "0x502A3380",
+          "voiceIdString": "scoutMAM02"
+        },
+        {
+          "voiceId": "0xCB65DC63",
+          "voiceIdString": "scoutMAN01"
+        },
+        {
+          "voiceId": "0x526C8DD9",
+          "voiceIdString": "scoutMAN02"
+        },
+        {
+          "voiceId": "0xCAA7B654",
+          "voiceIdString": "scoutMAO01"
+        },
+        {
+          "voiceId": "0x53AEE7EE",
+          "voiceIdString": "scoutMAO02"
+        },
+        {
+          "voiceId": "0xDDDD5219",
+          "voiceIdString": "scoutMAP01"
+        },
+        {
+          "voiceId": "0x44D403A3",
+          "voiceIdString": "scoutMAP02"
+        },
+        {
+          "voiceId": "0xDC1F382E",
+          "voiceIdString": "scoutMAQ01"
+        },
+        {
+          "voiceId": "0x45166994",
+          "voiceIdString": "scoutMAQ02"
+        },
+        {
+          "voiceId": "0xDE598677",
+          "voiceIdString": "scoutMAR01"
+        },
+        {
+          "voiceId": "0x4750D7CD",
+          "voiceIdString": "scoutMAR02"
+        },
+        {
+          "voiceId": "0xDF9BEC40",
+          "voiceIdString": "scoutMAS01"
+        },
+        {
+          "voiceId": "0x4692BDFA",
+          "voiceIdString": "scoutMAS02"
+        },
+        {
+          "voiceId": "0xDAD4FAC5",
+          "voiceIdString": "scoutMAT01"
+        },
+        {
+          "voiceId": "0x43DDAB7F",
+          "voiceIdString": "scoutMAT02"
+        },
+        {
+          "voiceId": "0xDB1690F2",
+          "voiceIdString": "scoutMAU01"
+        },
+        {
+          "voiceId": "0x421FC148",
+          "voiceIdString": "scoutMAU02"
+        },
+        {
+          "voiceId": "0xD9502EAB",
+          "voiceIdString": "scoutMAV01"
+        },
+        {
+          "voiceId": "0x40597F11",
+          "voiceIdString": "scoutMAV02"
+        },
+        {
+          "voiceId": "0xD892449C",
+          "voiceIdString": "scoutMAW01"
+        },
+        {
+          "voiceId": "0x419B1526",
+          "voiceIdString": "scoutMAW02"
+        },
+        {
+          "voiceId": "0xD3CE03A1",
+          "voiceIdString": "scoutMAX01"
+        },
+        {
+          "voiceId": "0x4AC7521B",
+          "voiceIdString": "scoutMAX02"
+        },
+        {
+          "voiceId": "0xA5DC5887",
+          "voiceIdString": "scoutFAY01"
+        },
+        {
+          "voiceId": "0x3CD5093D",
+          "voiceIdString": "scoutFAY02"
+        },
+        {
+          "voiceId": "0xD20C6996",
+          "voiceIdString": "scoutMAY01"
+        },
+        {
+          "voiceId": "0x4B05382C",
+          "voiceIdString": "scoutMAY02"
+        },
+        {
+          "voiceId": "0x50FD3207",
+          "voiceIdString": "scoutFAM03"
+        },
+        {
+          "voiceId": "0x42C8C0CF",
+          "voiceIdString": "scoutFAU03"
+        },
+        {
+          "voiceId": "0x513F5830",
+          "voiceIdString": "scoutFAL03"
+        },
+        {
+          "voiceId": "0x4645BC7D",
+          "voiceIdString": "scoutFAS03"
+        },
+        {
+          "voiceId": "0x2C71442B",
+          "voiceIdString": "scoutMAB03"
+        },
+        {
+          "voiceId": "0x23A07FA4",
+          "voiceIdString": "scoutMAK03"
+        },
+        {
+          "voiceId": "0x31958D6C",
+          "voiceIdString": "scoutMAS03"
+        },
+        {
+          "voiceId": "0x3518F1DE",
+          "voiceIdString": "scoutMAU03"
+        }
+      ]
+    }
+  ]
+}

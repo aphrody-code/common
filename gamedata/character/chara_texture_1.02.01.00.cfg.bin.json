@@ -1,0 +1,6746 @@
+{
+  "entries": [
+    {
+      "name": "CHARA_TEXTURE_BASE_PATH_0",
+      "variables": [
+        {
+          "type": "String",
+          "value": "#/chr/"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "265"
+        }
+      ],
+      "children": [
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "String",
+              "value": "_face/01_IE1/c01000010/c01000010_06.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "13"
+            },
+            {
+              "type": "String",
+              "value": "_face/01_IE1/c01000010/c01000010_13.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/01_IE1/c01010910/c01010910_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02021500/c02021500_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02021500/c02021500_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02021450/c02021450_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02021490/c02021490_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02021420/c02021420_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02021430/c02021430_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02021440/c02021440_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02021470/c02021470_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02023290/c02023290_03.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02023290/c02023290_03.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02024510/c02024510_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02024740/c02024740_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/02_IE2/c02024740/c02024740_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/03_IE3/c03031900/c03031900_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/04_GO1/c04000090/c04000090_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/04_GO1/c04000090/c04000090_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "String",
+              "value": "_face/05_GO2/c05024610/c05024610_06.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/05_GO2/c05024920/c05024920_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/05_GO2/c05024920/c05024920_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06030020/c06030020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06030020/c06030020_14.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06030060/c06030060_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06030060/c06030060_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06030110/c06030110_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06030110/c06030110_06.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "13"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06030110/c06030110_13.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06038010/c06038010_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "16"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06038010/c06038010_16.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06030070/c06030070_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06032900/c06032900_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06032900/c06032900_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06039290/c06039290_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06039290/c06039290_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/06_GO3/c06039290/c06039290_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/07_ARES/c07020010/c07020010_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_38",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_39",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_40",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_11.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_41",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_15.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_42",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_43",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_44",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_45",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_46",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_47",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_11.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_48",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_15.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_49",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_50",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_51",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_52",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_53",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_54",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_11.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_55",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_15.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_56",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_57",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_58",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_59",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_60",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_61",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_11.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_62",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_15.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_63",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_64",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_65",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_66",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_67",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_68",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_11.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_69",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_15.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_70",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_71",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_72",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_73",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_74",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_75",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_11.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_76",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_15.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_77",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_78",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_79",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_80",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_81",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_82",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_11.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_83",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_15.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_84",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_85",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_86",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_87",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_88",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_89",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_11.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_90",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_15.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_91",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_92",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_93",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010010/c11010010_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_94",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_95",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_96",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_97",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_98",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_99",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_100",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_101",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_102",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_103",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_104",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_105",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_106",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_107",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010020/c11010020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_108",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_109",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_12.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_110",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_111",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_12.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_112",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_113",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_12.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_114",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_115",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_12.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_116",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_117",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010030/c11010030_12.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_118",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010040/c11010040_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_119",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010040/c11010040_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_120",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010040/c11010040_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_121",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010040/c11010040_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_122",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010040/c11010040_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_123",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010040/c11010040_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_124",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_125",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_126",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_127",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_128",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_129",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_130",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_131",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_132",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_133",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_134",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_135",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_136",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_137",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_138",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_139",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_140",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_141",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010050/c11010050_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_142",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_143",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_144",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_145",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010061/c11010061_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_146",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010061/c11010061_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_147",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_148",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_149",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_150",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_151",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_152",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_153",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_154",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_155",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_156",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010060/c11010060_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_157",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_158",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_14.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_159",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_160",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_161",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_162",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_14.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_163",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_164",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_165",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_166",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_14.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_167",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_168",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_169",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_170",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_14.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_171",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_172",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_173",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_174",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_14.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_175",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_176",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010070/c11010070_17.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_177",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010090/c11010090_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_178",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010090/c11010090_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_179",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010090/c11010090_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_180",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010090/c11010090_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_181",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010160/c11010160_19.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_182",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010160/c11010160_19.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_183",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010160/c11010160_19.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_184",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11010160/c11010160_19.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_185",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_186",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_187",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_188",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_189",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_190",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_191",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_192",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_193",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_194",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_195",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_196",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_197",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_198",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_199",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020011/c11020011_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_200",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020010/c11020010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_201",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020170/c11020170_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_202",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020170/c11020170_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_203",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020170/c11020170_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_204",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020170/c11020170_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_205",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020020/c11020020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_206",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020020/c11020020_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_207",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11020500/c11020500_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_208",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_209",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_210",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_211",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_212",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_213",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_214",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_215",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_216",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_217",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_218",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_219",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030011/c11030011_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_220",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11030010/c11030010_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_221",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11070040/c11070040_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_222",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11070040/c11070040_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_223",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_224",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_225",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_226",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_227",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_228",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_229",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_230",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_231",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_232",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_233",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_234",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11080500/c11080500_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_235",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11200500/c11200500_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_236",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11200500/c11200500_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_237",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11260010/c11260010_10.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_238",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11260010/c11260010_10.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_239",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11260015/c11260015_10.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_240",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11260015/c11260015_10.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_241",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11270010/c11270010_10.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_242",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11270010/c11270010_10.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_243",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11270015/c11270015_10.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_244",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11270015/c11270015_10.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_245",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500010/c11500010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_246",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500010/c11500010_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_247",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500020/c11500020_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_248",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500020/c11500020_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_249",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500170/c11500170_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_250",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500210/c11500210_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_251",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500211/c11500211_18.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_252",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500250/c11500250_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_253",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500251/c11500251_08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_254",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11501000/c11501000_00.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_255",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11501000/c11501000_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_256",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11501000/c11501000_02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_257",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11501000/c11501000_03.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_258",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11501000/c11501000_04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_259",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11904040/c11904040_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_260",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11904040/c11904040_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_261",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500970/c11500970_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_262",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500970/c11500970_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_263",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500980/c11500980_01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_RESOURCE_264",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "_face/11_VICTORY/c11500980/c11500980_01.g4tx"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EX_CHARA_FACIAL_TEXTURE_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "125"
+        }
+      ],
+      "children": [
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8824593"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "842511662"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-322799069"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1871190959"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1019390813"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-550079850"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "7"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-970112041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1989356272"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "9"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1572763949"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1840898204"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1039680688"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "13"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1124820101"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-448138975"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2127536451"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "16"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1704525122"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "947895593"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "98974599"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "630665081"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-410304602"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "21"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1448300404"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "22"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-843025016"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "24"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2092725896"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "26"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1194707872"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "29"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-723827511"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "31"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1044521226"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "32"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1689063733"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "33"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "886370979"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "34"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-772462189"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "35"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-801684572"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "36"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "429310283"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "37"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-246641089"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "38"
+            },
+            {
+              "type": "Int",
+              "value": "7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "179082329"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "45"
+            },
+            {
+              "type": "Int",
+              "value": "7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2108400847"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "52"
+            },
+            {
+              "type": "Int",
+              "value": "7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "149563904"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "59"
+            },
+            {
+              "type": "Int",
+              "value": "7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "153632823"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "66"
+            },
+            {
+              "type": "Int",
+              "value": "7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "239436846"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "73"
+            },
+            {
+              "type": "Int",
+              "value": "7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "208098994"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "80"
+            },
+            {
+              "type": "Int",
+              "value": "7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1587071259"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "87"
+            },
+            {
+              "type": "Int",
+              "value": "7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_38",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-631120388"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_38",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "94"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_39",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "994348740"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_39",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "96"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_40",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "956444829"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_40",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "98"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_41",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1032801327"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_41",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "100"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_42",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1272571501"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_42",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "102"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_43",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1442109069"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_43",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "104"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_44",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1804148599"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_44",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "106"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_45",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1015354179"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_45",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "108"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_46",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1619707095"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_46",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "110"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_47",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1678227557"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_47",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "112"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_48",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-557247089"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_48",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "114"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_49",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "307302951"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_49",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "116"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_50",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1942259078"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_50",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "118"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_51",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1523713447"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_51",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "120"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_52",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1583315221"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_52",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "122"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_53",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1793045701"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_53",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "124"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_54",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-18632630"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_54",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "127"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_55",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1981513508"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_55",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "130"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_56",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-56291821"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_56",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "133"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_57",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-131566943"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_57",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "136"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_58",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1904289565"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_58",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "139"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_59",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1106437896"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_59",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "142"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_60",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1160129285"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_60",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "145"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_61",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-850586482"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_61",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "148"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_62",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-910137284"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_62",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "151"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_63",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1080638848"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_63",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "154"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_64",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1491719751"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_64",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "157"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_65",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1769775459"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_65",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "161"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_66",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "511414773"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_66",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "165"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_67",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1798971194"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_67",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "169"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_68",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-434227660"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_68",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "173"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_69",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "966067255"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_69",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "177"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_70",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "960748094"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_70",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "178"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_71",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "990209127"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_71",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "179"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_72",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1065883861"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_72",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "180"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_73",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1076923697"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_73",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "181"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_74",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "60926537"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_74",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "182"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_75",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "31921168"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_75",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "183"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_76",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "90859682"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_76",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "184"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_77",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1225984785"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_77",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "185"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_78",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1246793190"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_78",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "187"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_79",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1238653320"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_79",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "189"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_80",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1209414591"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_80",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "191"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_81",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-414126671"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_81",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "193"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_82",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-509923494"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_82",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "195"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_83",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-28582672"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_83",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "197"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_84",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1041513351"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_84",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "199"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_85",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-512476834"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_85",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "201"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_86",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1570168615"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_86",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "203"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_87",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1648253140"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_87",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "205"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_88",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2075694971"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_88",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "206"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_89",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1455683771"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_89",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "207"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_90",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1953702561"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_90",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "208"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_91",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "240731236"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_91",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "211"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_92",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "203422269"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_92",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "214"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_93",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "143820431"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_93",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "217"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_94",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-57938487"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_94",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "219"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_95",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "58429402"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_95",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "221"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_96",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477356060"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_96",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "223"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_97",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1276831489"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_97",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "226"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_98",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1575713235"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_98",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "229"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_99",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "720128325"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_99",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "232"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_100",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1640696530"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_100",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "235"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_101",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-127999542"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_101",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "236"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_102",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "245691172"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_102",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "237"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_103",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1227361270"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_103",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "238"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_104",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2127431595"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_104",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "239"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_105",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-434477639"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_105",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "240"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_106",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "868539028"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_106",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "241"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_107",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1494589236"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_107",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "242"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_108",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1135488539"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_108",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "243"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_109",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "165154439"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_109",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "244"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_110",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1662962116"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_110",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "245"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_111",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1749186741"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_111",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "246"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_112",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1211341313"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_112",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "247"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_113",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-881198195"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_113",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "249"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_114",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1620712878"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_114",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "250"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_115",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-396176700"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_115",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "251"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_116",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-83286186"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_116",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "252"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_117",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1945233472"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_117",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "253"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_118",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1028022296"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_118",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "254"
+            },
+            {
+              "type": "Int",
+              "value": "5"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_119",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "423007573"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_119",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "259"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_120",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "977018357"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_120",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "260"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_121",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-982865355"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_121",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "261"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_122",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1131274120"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_122",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "262"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_123",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1123202810"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_123",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "263"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_124",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1255821471"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EX_CHARA_FACIAL_TEXTURE_INFO_REF_RESOURCE_124",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "264"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

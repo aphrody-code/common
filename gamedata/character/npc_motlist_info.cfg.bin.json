@@ -1,0 +1,178 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_NpcMotList",
+      "typeName": "NPC_MOTLIST",
+      "values": [
+        {
+          "groupId": "0xAB1D6BF5",
+          "type": "0xD76DA7E4"
+        },
+        {
+          "groupId": "0x4BF55B65",
+          "type": "0xD4AAF56E"
+        },
+        {
+          "groupId": "0x928BA0F5",
+          "type": "0xD76DA7E4"
+        },
+        {
+          "groupId": "0xA41DAABE",
+          "type": "0xD4AAF56E"
+        },
+        {
+          "groupId": "0x928BA0F5",
+          "type": "0xD76DA7E4"
+        },
+        {
+          "groupId": "0x32AE4975",
+          "type": "0xD4AAF56E"
+        },
+        {
+          "groupId": "0x7ECE06B6",
+          "type": "0x788BC720"
+        }
+      ]
+    },
+    {
+      "name": "m_NpcMotGroupList",
+      "typeName": "NPC_MOTGROUP_LIST",
+      "values": [
+        {
+          "m_Id": "0xD0AD73C6",
+          "m_List": [
+            0,
+            2
+          ]
+        },
+        {
+          "m_Id": "0xE947A598",
+          "m_List": [
+            2,
+            2
+          ]
+        },
+        {
+          "m_Id": "0xE0EE9687",
+          "m_List": [
+            4,
+            2
+          ]
+        },
+        {
+          "m_Id": "0x7A6E2983",
+          "m_List": [
+            6,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_NpcMotion",
+      "typeName": "NPC_MOT",
+      "values": [
+        {
+          "motionId": "0x3226E9CA",
+          "weight": 1
+        },
+        {
+          "motionId": "0x86F0C191",
+          "weight": 1
+        },
+        {
+          "motionId": "0x7811D8E8",
+          "weight": 1
+        },
+        {
+          "motionId": "0x0EF4E1D5",
+          "weight": 1
+        },
+        {
+          "motionId": "0x7B45D5CA",
+          "weight": 1
+        },
+        {
+          "motionId": "0x50688609",
+          "weight": 1
+        },
+        {
+          "motionId": "0xE33E93AF",
+          "weight": 1
+        },
+        {
+          "motionId": "0x784D797B",
+          "weight": 1
+        },
+        {
+          "motionId": "0x0632218F",
+          "weight": 1
+        },
+        {
+          "motionId": "0x1F2910CE",
+          "weight": 1
+        },
+        {
+          "motionId": "0x53BF9234",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "m_NpcMotGroup",
+      "typeName": "NPC_MOTGROUP",
+      "values": [
+        {
+          "motGroupId": "0xAB1D6BF5",
+          "motionInfo": [
+            0,
+            1
+          ]
+        },
+        {
+          "motGroupId": "0x4BF55B65",
+          "motionInfo": [
+            1,
+            1
+          ]
+        },
+        {
+          "motGroupId": "0x928BA0F5",
+          "motionInfo": [
+            2,
+            2
+          ]
+        },
+        {
+          "motGroupId": "0xA41DAABE",
+          "motionInfo": [
+            4,
+            2
+          ]
+        },
+        {
+          "motGroupId": "0xD3964767",
+          "motionInfo": [
+            6,
+            2
+          ]
+        },
+        {
+          "motGroupId": "0x32AE4975",
+          "motionInfo": [
+            8,
+            2
+          ]
+        },
+        {
+          "motGroupId": "0x7ECE06B6",
+          "motionInfo": [
+            10,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

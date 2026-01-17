@@ -1,0 +1,169 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_soccerPassiveSkillEffectRangeList",
+      "typeName": "ScPassiveSkillEffectRange",
+      "values": [
+        {
+          "rangeType": 2
+        }
+      ]
+    },
+    {
+      "name": "m_soccerPassiveSkillEffectList",
+      "typeName": "ScPassiveSkillEffect",
+      "values": [
+        {
+          "effectId": "0x20DFBB4B",
+          "effectParam1": 1.5,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0x57D88BDD",
+          "effectParam1": 1.2,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xB060A6DA",
+          "effectParam1": 0.8,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xA7A01FA9",
+          "effectParam1": 1.3,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0x49AE7E85",
+          "effectParam1": 0.7,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xD0A72F3F",
+          "effectParam1": 1.1,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0x3EA94E13",
+          "effectParam1": 0.9,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xD7CAEB26",
+          "effectParam1": 0,
+          "effectParam2": 10,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        }
+      ]
+    },
+    {
+      "name": "m_soccerPassiveSkillEffectInfoList",
+      "typeName": "ScPassiveSkillEffectInfo",
+      "values": [
+        {
+          "id": "0x5E4A1D85",
+          "range": [
+            0,
+            0
+          ],
+          "effect": [
+            0,
+            2
+          ]
+        },
+        {
+          "id": "0xC7434C3F",
+          "range": [
+            0,
+            1
+          ],
+          "effect": [
+            2,
+            1
+          ]
+        },
+        {
+          "id": "0xB0447CA9",
+          "range": [
+            0,
+            0
+          ],
+          "effect": [
+            3,
+            2
+          ]
+        },
+        {
+          "id": "0x2E20E90A",
+          "range": [
+            0,
+            0
+          ],
+          "effect": [
+            5,
+            2
+          ]
+        },
+        {
+          "id": "0x5927D99C",
+          "range": [
+            0,
+            0
+          ],
+          "effect": [
+            7,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

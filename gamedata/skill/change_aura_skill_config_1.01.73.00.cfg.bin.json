@@ -1,0 +1,318 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_ChangeAuraSkillDataList",
+      "typeName": "CHANGE_AURA_SKILL_DATA",
+      "values": [
+        {
+          "id": "0xDD08BEB4",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xC4138FF5",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0x8B521932",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0x92492873",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0x3D78B311",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xC65531AC",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0x8D99DBD9",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xF2A891C5",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xC09EF347",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0x3A711BCD",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xBC2B6D35",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xE12D8D8E",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0x881766E2",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xF4A2F890",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xEDB9C9D1",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0x9B927AA9",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0x7E487CEB",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xD847A831",
+          "charaParamId": "0x10ACD5FA"
+        },
+        {
+          "id": "0xAF4098A7",
+          "charaParamId": "0x09B7E4BB"
+        },
+        {
+          "id": "0x3649C91D",
+          "charaParamId": "0x6DDB21BF"
+        },
+        {
+          "id": "0x414EF98B",
+          "charaParamId": "0x46F6727C"
+        },
+        {
+          "id": "0xAC536AD1",
+          "charaParamId": "0x6C194B88"
+        },
+        {
+          "id": "0xDB545A47",
+          "charaParamId": "0x4734184B"
+        },
+        {
+          "id": "0x425D0BFD",
+          "charaParamId": "0xD9B735C5"
+        },
+        {
+          "id": "0x355A3B6B",
+          "charaParamId": "0xC0AC0484"
+        },
+        {
+          "id": "0xAB3EAEC8",
+          "charaParamId": "0x74C010FE"
+        },
+        {
+          "id": "0xDC399E5E",
+          "charaParamId": "0x5E2F290A"
+        },
+        {
+          "id": "0xC6949A12",
+          "charaParamId": "0x2358DD4F"
+        },
+        {
+          "id": "0xB193AA84",
+          "charaParamId": "0x3A43EC0E"
+        },
+        {
+          "id": "0x289AFB3E",
+          "charaParamId": "0x75027AC9"
+        },
+        {
+          "id": "0x5F9DCBA8",
+          "charaParamId": "0x3B818639"
+        },
+        {
+          "id": "0x37C228C7",
+          "charaParamId": "0x08758E8C"
+        },
+        {
+          "id": "0x40C51851",
+          "charaParamId": "0x229AB778"
+        },
+        {
+          "id": "0x8C227E2F",
+          "charaParamId": "0x00000000"
+        },
+        {
+          "id": "0xA70F2DEC",
+          "charaParamId": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_ChangeAuraSkillInfoList",
+      "typeName": "CHANGE_AURA_SKILL_INFO",
+      "values": [
+        {
+          "id": "0x7978E1FA",
+          "data": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "0x6063D0BB",
+          "data": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "0x2F22467C",
+          "data": [
+            2,
+            1
+          ]
+        },
+        {
+          "id": "0x3639773D",
+          "data": [
+            3,
+            1
+          ]
+        },
+        {
+          "id": "0x9908EC5F",
+          "data": [
+            4,
+            1
+          ]
+        },
+        {
+          "id": "0x62256EE2",
+          "data": [
+            5,
+            1
+          ]
+        },
+        {
+          "id": "0x29E98497",
+          "data": [
+            6,
+            1
+          ]
+        },
+        {
+          "id": "0x56D8CE8B",
+          "data": [
+            7,
+            1
+          ]
+        },
+        {
+          "id": "0x64EEAC09",
+          "data": [
+            8,
+            1
+          ]
+        },
+        {
+          "id": "0x9E014483",
+          "data": [
+            9,
+            1
+          ]
+        },
+        {
+          "id": "0x185B327B",
+          "data": [
+            10,
+            1
+          ]
+        },
+        {
+          "id": "0x455DD2C0",
+          "data": [
+            11,
+            1
+          ]
+        },
+        {
+          "id": "0x2C6739AC",
+          "data": [
+            12,
+            1
+          ]
+        },
+        {
+          "id": "0x50D2A7DE",
+          "data": [
+            13,
+            1
+          ]
+        },
+        {
+          "id": "0x49C9969F",
+          "data": [
+            14,
+            1
+          ]
+        },
+        {
+          "id": "0x3FE225E7",
+          "data": [
+            15,
+            1
+          ]
+        },
+        {
+          "id": "0xDA3823A5",
+          "data": [
+            16,
+            1
+          ]
+        },
+        {
+          "id": "0x7C37F77F",
+          "data": [
+            17,
+            4
+          ]
+        },
+        {
+          "id": "0x7F240509",
+          "data": [
+            21,
+            6
+          ]
+        },
+        {
+          "id": "0x8CEAA470",
+          "data": [
+            27,
+            4
+          ]
+        },
+        {
+          "id": "0x0ABB2633",
+          "data": [
+            31,
+            2
+          ]
+        },
+        {
+          "id": "0x28522161",
+          "data": [
+            33,
+            1
+          ]
+        },
+        {
+          "id": "0x037F72A2",
+          "data": [
+            34,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

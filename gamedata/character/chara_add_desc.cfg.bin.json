@@ -1,0 +1,28 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_charaDescDataList",
+      "typeName": "CharaDescData",
+      "values": [
+        {
+          "descId": "0x3C39EDB1",
+          "commandCond": "AAAAAA8FNbkZNtoAAQAyAAAng3E="
+        }
+      ]
+    },
+    {
+      "name": "m_charaAddDescDataList",
+      "typeName": "CharaAddDescData",
+      "values": [
+        {
+          "charaId": "0x686BE87E",
+          "descData": [
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

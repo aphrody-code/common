@@ -1,0 +1,362 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_RealSkillShootCourseInfoList",
+      "typeName": "RealSkillShootCourseInfo",
+      "values": [
+        {
+          "targetRate": 1,
+          "isGroundTarget": false,
+          "targetHeightOffset": 0,
+          "targetHoriOffset": 0,
+          "curveRate": 0.5,
+          "curveHeightRate": 1,
+          "curveAngle": 65,
+          "moveTimeRate": 1
+        },
+        {
+          "targetRate": 1,
+          "isGroundTarget": false,
+          "targetHeightOffset": 0,
+          "targetHoriOffset": 0,
+          "curveRate": 0.6,
+          "curveHeightRate": 0.65000004,
+          "curveAngle": 0,
+          "moveTimeRate": 1
+        },
+        {
+          "targetRate": 0.5,
+          "isGroundTarget": true,
+          "targetHeightOffset": 0,
+          "targetHoriOffset": 2,
+          "curveRate": 0.5,
+          "curveHeightRate": 0,
+          "curveAngle": 0,
+          "moveTimeRate": 0.65000004
+        },
+        {
+          "targetRate": 1,
+          "isGroundTarget": false,
+          "targetHeightOffset": 0,
+          "targetHoriOffset": 0,
+          "curveRate": 0.5,
+          "curveHeightRate": 0.1,
+          "curveAngle": 0,
+          "moveTimeRate": 0.55
+        },
+        {
+          "targetRate": 1,
+          "isGroundTarget": false,
+          "targetHeightOffset": 0,
+          "targetHoriOffset": 0,
+          "curveRate": 0.5,
+          "curveHeightRate": 0,
+          "curveAngle": 0,
+          "moveTimeRate": 0.8
+        },
+        {
+          "targetRate": 1,
+          "isGroundTarget": true,
+          "targetHeightOffset": 0,
+          "targetHoriOffset": 0,
+          "curveRate": 0.5,
+          "curveHeightRate": 0,
+          "curveAngle": 0,
+          "moveTimeRate": 1
+        }
+      ]
+    },
+    {
+      "name": "m_RealSkillInfoList",
+      "typeName": "RealSkillInfo",
+      "values": [
+        {
+          "id": "0xA2123954",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x893F6A97",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x90245BD6",
+          "loseType": 1,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xDF65CD11",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xC67EFC50",
+          "loseType": 1,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xED53AF93",
+          "loseType": 1,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xD5C20845",
+          "loseType": 1,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xFEEF5B86",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xE7F46AC7",
+          "loseType": 1,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xA8B5FC00",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 5,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xB1AECD41",
+          "loseType": 1,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x070243D7",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "0x2C2F1014",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "0x35342155",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 1,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            2,
+            2
+          ]
+        },
+        {
+          "id": "0x7A75B792",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            4,
+            1
+          ]
+        },
+        {
+          "id": "0x636E86D3",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 6,
+          "shootGroundingEffectName": "0x1C8B0F11",
+          "shootGroundingEffectIntervalTime": 0.024999999,
+          "shootGroundingEffectScale": 5,
+          "shootGroundingEffectScatteringPos": 0.5,
+          "shootCourseInfoRef": [
+            5,
+            1
+          ]
+        },
+        {
+          "id": "0x57929F94",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x7CBFCC57",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x65A4FD16",
+          "loseType": 0,
+          "formationType": 0,
+          "formationCharaLen": 3,
+          "shootLimitBallHeightAttr": 0,
+          "shootGroundingEffectName": "0x00000000",
+          "shootGroundingEffectIntervalTime": -1,
+          "shootGroundingEffectScale": 1,
+          "shootGroundingEffectScatteringPos": 0,
+          "shootCourseInfoRef": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

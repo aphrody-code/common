@@ -1,0 +1,65 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_SkillTechnicInfoList",
+      "typeName": "SkillTechnicInfo",
+      "values": [
+        {
+          "id": "0xA2123954",
+          "winCommandId": "0xD258D671",
+          "winSubCommandId": "0x00000000",
+          "loseCommandId": "0xB4F3A316",
+          "loseSubCommandId": "0x00000000",
+          "formationType": 0,
+          "formationCharaLen": 3
+        },
+        {
+          "id": "0x893F6A97",
+          "winCommandId": "0x54CCA4DF",
+          "winSubCommandId": "0x00000000",
+          "loseCommandId": "0x851BB98B",
+          "loseSubCommandId": "0x00000000",
+          "formationType": 0,
+          "formationCharaLen": 3
+        },
+        {
+          "id": "0x90245BD6",
+          "winCommandId": "0x9F90777A",
+          "winSubCommandId": "0x00000000",
+          "loseCommandId": "0x236CB23F",
+          "loseSubCommandId": "0x00000000",
+          "formationType": 0,
+          "formationCharaLen": 3
+        },
+        {
+          "id": "0xD5C20845",
+          "winCommandId": "0x500D48AC",
+          "winSubCommandId": "0xF03A0B78",
+          "loseCommandId": "0x4C1358E1",
+          "loseSubCommandId": "0x00000000",
+          "formationType": 0,
+          "formationCharaLen": 3
+        },
+        {
+          "id": "0xFEEF5B86",
+          "winCommandId": "0xD6993A02",
+          "winSubCommandId": "0x00000000",
+          "loseCommandId": "0x7DFB427C",
+          "loseSubCommandId": "0x00000000",
+          "formationType": 0,
+          "formationCharaLen": 3
+        },
+        {
+          "id": "0xE7F46AC7",
+          "winCommandId": "0x1DC5E9A7",
+          "winSubCommandId": "0x00000000",
+          "loseCommandId": "0xDB8C49C8",
+          "loseSubCommandId": "0x00000000",
+          "formationType": 0,
+          "formationCharaLen": 3
+        }
+      ]
+    }
+  ]
+}

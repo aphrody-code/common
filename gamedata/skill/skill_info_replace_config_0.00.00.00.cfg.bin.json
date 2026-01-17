@@ -1,0 +1,183 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_SkillInfoReplaceDataList",
+      "typeName": "SkillInfoReplaceData",
+      "values": [
+        {
+          "condSkillId": "0x5F1FEB23",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x00000000",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 7
+        },
+        {
+          "condSkillId": "0x105E7DE4",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x00000000",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 7
+        },
+        {
+          "condSkillId": "0xB039ADB4",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x396132F0",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 6
+        },
+        {
+          "condSkillId": "0xB15801E2",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x8968EACA",
+          "failSkillEventId": "0x1061BB70",
+          "skillColorIdx": 1
+        },
+        {
+          "condSkillId": "0x5F1FEB23",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x00000000",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 7
+        },
+        {
+          "condSkillId": "0x105E7DE4",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x00000000",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 7
+        },
+        {
+          "condSkillId": "0xB039ADB4",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x396132F0",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 6
+        },
+        {
+          "condSkillId": "0x5F1FEB23",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x00000000",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 7
+        },
+        {
+          "condSkillId": "0x105E7DE4",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x00000000",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 7
+        },
+        {
+          "condSkillId": "0xB039ADB4",
+          "condGameId": "0x00000000",
+          "skillEventId": "0x396132F0",
+          "failSkillEventId": "0x00000000",
+          "skillColorIdx": 6
+        }
+      ]
+    },
+    {
+      "name": "m_SkillInfoReplaceList",
+      "typeName": "SkillInfoReplace",
+      "values": [
+        {
+          "charaParamId": "0x863F9CDC",
+          "dataRef": [
+            0,
+            3
+          ]
+        },
+        {
+          "charaParamId": "0xF3A9848E",
+          "dataRef": [
+            3,
+            1
+          ]
+        },
+        {
+          "charaParamId": "0x3887A738",
+          "dataRef": [
+            4,
+            3
+          ]
+        },
+        {
+          "charaParamId": "0x114F13CA",
+          "dataRef": [
+            7,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_SkillGoalEventReplaceDataList",
+      "typeName": "SkillGoalEventReplaceData",
+      "values": [
+        {
+          "condSkillId": "0x5F1FEB23",
+          "condGameId": "0x00000000",
+          "goalEventId": "0xE8866692"
+        },
+        {
+          "condSkillId": "0x105E7DE4",
+          "condGameId": "0x00000000",
+          "goalEventId": "0xE8866692"
+        },
+        {
+          "condSkillId": "0xB039ADB4",
+          "condGameId": "0xAFE2AFC5",
+          "goalEventId": "0x58057450"
+        },
+        {
+          "condSkillId": "0x5F1FEB23",
+          "condGameId": "0x00000000",
+          "goalEventId": "0xE8866692"
+        },
+        {
+          "condSkillId": "0x105E7DE4",
+          "condGameId": "0x00000000",
+          "goalEventId": "0xE8866692"
+        },
+        {
+          "condSkillId": "0x5F1FEB23",
+          "condGameId": "0x00000000",
+          "goalEventId": "0xE8866692"
+        },
+        {
+          "condSkillId": "0x105E7DE4",
+          "condGameId": "0x00000000",
+          "goalEventId": "0xE8866692"
+        }
+      ]
+    },
+    {
+      "name": "m_SkillGoalEventReplaceList",
+      "typeName": "SkillGoalEventReplace",
+      "values": [
+        {
+          "charaParamId": "0x863F9CDC",
+          "dataRef": [
+            0,
+            3
+          ]
+        },
+        {
+          "charaParamId": "0x3887A738",
+          "dataRef": [
+            3,
+            2
+          ]
+        },
+        {
+          "charaParamId": "0x114F13CA",
+          "dataRef": [
+            5,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

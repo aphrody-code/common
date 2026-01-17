@@ -1,0 +1,288 @@
+{
+  "entries": [
+    {
+      "name": "CHARA_ACTION_BASE_PATH_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "CHARA_ACTION_BASE_PATH_0",
+          "variables": [
+            {
+              "type": "String",
+              "value": "common/action/"
+            },
+            {
+              "type": "String",
+              "value": "common/script/lua/battle/"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHARA_ACTION_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "16"
+        }
+      ],
+      "children": [
+        {
+          "name": "CHARA_ACTION_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "base_act.cfg.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "npc_act.cfg.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "human_npc_child_act.cfg.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "String",
+              "value": "human_npc_lady_act.cfg.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "7"
+            },
+            {
+              "type": "String",
+              "value": "human_npc_man_act.cfg.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "String",
+              "value": "yokai_base_act.cfg.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "13"
+            },
+            {
+              "type": "String",
+              "value": "human_base_act.cfg.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "String",
+              "value": "x01010000_act.cfg.bin"
+            },
+            {
+              "type": "String",
+              "value": "x01010000.lua.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "String",
+              "value": "x02010000_act.cfg.bin"
+            },
+            {
+              "type": "String",
+              "value": "x02010000.lua.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "16"
+            },
+            {
+              "type": "String",
+              "value": "x02020000_act.cfg.bin"
+            },
+            {
+              "type": "String",
+              "value": "x02020000.lua.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "String",
+              "value": "y00110000_act.cfg.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "x22010000.lua.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "x21010000.lua.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "w00010000.lua.bin"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_ACTION_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "21"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

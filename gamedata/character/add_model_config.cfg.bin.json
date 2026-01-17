@@ -1,0 +1,94 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_addModelDataList",
+      "typeName": "ADD_MODEL_DATA",
+      "values": [
+        {
+          "addModelType": 1,
+          "addModelId": "0x88F99320"
+        },
+        {
+          "addModelType": 1,
+          "addModelId": "0x70695791"
+        },
+        {
+          "addModelType": 1,
+          "addModelId": "0x3AD94F30"
+        },
+        {
+          "addModelType": 1,
+          "addModelId": "0x7D7935E0"
+        },
+        {
+          "addModelType": 1,
+          "addModelId": "0x07B96680"
+        },
+        {
+          "addModelType": 1,
+          "addModelId": "0x07B96680"
+        },
+        {
+          "addModelType": 1,
+          "addModelId": "0xB599BA90"
+        }
+      ]
+    },
+    {
+      "name": "m_addModelInfoList",
+      "typeName": "ADD_MODEL_INFO",
+      "values": [
+        {
+          "baseCharaId": "0xEE2D74D5",
+          "addModel": [
+            0,
+            1
+          ]
+        },
+        {
+          "baseCharaId": "0x16BDB064",
+          "addModel": [
+            1,
+            1
+          ]
+        },
+        {
+          "baseCharaId": "0x5C0DA8C5",
+          "addModel": [
+            2,
+            1
+          ]
+        },
+        {
+          "baseCharaId": "0x1BADD215",
+          "addModel": [
+            3,
+            1
+          ]
+        },
+        {
+          "baseCharaId": "0x616D8175",
+          "addModel": [
+            4,
+            1
+          ]
+        },
+        {
+          "baseCharaId": "0xD9D1E610",
+          "addModel": [
+            5,
+            1
+          ]
+        },
+        {
+          "baseCharaId": "0xD34D5D65",
+          "addModel": [
+            6,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

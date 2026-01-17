@@ -1,0 +1,26 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_academicYearInfoList",
+      "typeName": "ACADEMIC_YEAR_INFO",
+      "values": [
+        {
+          "academicYearId": "0x923E7C29",
+          "academicYearType": 1,
+          "academicYearNameTextId": "0x429F322D"
+        },
+        {
+          "academicYearId": "0xEDE077B0",
+          "academicYearType": 2,
+          "academicYearNameTextId": "0xEA5D12E7"
+        },
+        {
+          "academicYearId": "0x071D8FFD",
+          "academicYearType": 3,
+          "academicYearNameTextId": "0xD7BCC1F9"
+        }
+      ]
+    }
+  ]
+}

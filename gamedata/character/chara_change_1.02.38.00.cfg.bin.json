@@ -1,0 +1,558 @@
+{
+  "entries": [
+    {
+      "name": "CHARA_MODE_CHANGE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "11"
+        }
+      ],
+      "children": [
+        {
+          "name": "CHARA_MODE_CHANGE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1567262889"
+            },
+            {
+              "type": "Int",
+              "value": "1037316334"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1143912473"
+            },
+            {
+              "type": "Int",
+              "value": "1099532836"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-49078853"
+            },
+            {
+              "type": "Int",
+              "value": "2011603859"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-715821435"
+            },
+            {
+              "type": "Int",
+              "value": "-1389759330"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "130240438"
+            },
+            {
+              "type": "Int",
+              "value": "1418856739"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1567711339"
+            },
+            {
+              "type": "Int",
+              "value": "-2008896702"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-714613007"
+            },
+            {
+              "type": "Int",
+              "value": "-864227408"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-710104419"
+            },
+            {
+              "type": "Int",
+              "value": "-963966498"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1135289951"
+            },
+            {
+              "type": "Int",
+              "value": "-916547465"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1784910509"
+            },
+            {
+              "type": "Int",
+              "value": "-527029115"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_MODE_CHANGE_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1904736518"
+            },
+            {
+              "type": "Int",
+              "value": "-76396754"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "CHARA_CHANGE_AWAKENING_POWER_LIST_BEG_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "27"
+            }
+          ],
+          "children": [
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-1069206060"
+                },
+                {
+                  "type": "Int",
+                  "value": "1920828049"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_1",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-345479657"
+                },
+                {
+                  "type": "Int",
+                  "value": "1498468690"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_2",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-227322026"
+                },
+                {
+                  "type": "Int",
+                  "value": "1078714387"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_3",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-1120747119"
+                },
+                {
+                  "type": "Int",
+                  "value": "252344020"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_4",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-1540755248"
+                },
+                {
+                  "type": "Int",
+                  "value": "370231189"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_5",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-1895521517"
+                },
+                {
+                  "type": "Int",
+                  "value": "1027347542"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_6",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-1776315822"
+                },
+                {
+                  "type": "Int",
+                  "value": "606545175"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_7",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "294096541"
+                },
+                {
+                  "type": "Int",
+                  "value": "-1547748904"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_8",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "144490460"
+                },
+                {
+                  "type": "Int",
+                  "value": "-1163655015"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_9",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-660836702"
+                },
+                {
+                  "type": "Int",
+                  "value": "1789188583"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_10",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-1048092701"
+                },
+                {
+                  "type": "Int",
+                  "value": "1941956774"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_11",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "141921932"
+                },
+                {
+                  "type": "Int",
+                  "value": "2087139426"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_12",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "593026383"
+                },
+                {
+                  "type": "Int",
+                  "value": "1464495009"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_13",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "977529870"
+                },
+                {
+                  "type": "Int",
+                  "value": "1313954528"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_14",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1963096777"
+                },
+                {
+                  "type": "Int",
+                  "value": "17878055"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_15",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1813597064"
+                },
+                {
+                  "type": "Int",
+                  "value": "403438950"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_16",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1194596427"
+                },
+                {
+                  "type": "Int",
+                  "value": "858173093"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_17",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1580149002"
+                },
+                {
+                  "type": "Int",
+                  "value": "708681700"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_18",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-642304571"
+                },
+                {
+                  "type": "Int",
+                  "value": "-1381661909"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_19",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "-1062468476"
+                },
+                {
+                  "type": "Int",
+                  "value": "-1262570902"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_20",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "279762426"
+                },
+                {
+                  "type": "Int",
+                  "value": "1690198804"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_21",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "163046587"
+                },
+                {
+                  "type": "Int",
+                  "value": "2107986517"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_22",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "580564856"
+                },
+                {
+                  "type": "Int",
+                  "value": "1451753878"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_23",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "998344249"
+                },
+                {
+                  "type": "Int",
+                  "value": "1335046359"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_24",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1958744318"
+                },
+                {
+                  "type": "Int",
+                  "value": "13805072"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_25",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1843077567"
+                },
+                {
+                  "type": "Int",
+                  "value": "432641873"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "CHARA_CHANGE_AWAKENING_POWER_26",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1190556284"
+                },
+                {
+                  "type": "Int",
+                  "value": "853853330"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

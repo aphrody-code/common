@@ -1,0 +1,171 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_charaMeshAttrList",
+      "typeName": "CHARA_MESH_ATTR",
+      "values": [
+        {
+          "index": 0,
+          "tag": "_50",
+          "attrBit": 1
+        },
+        {
+          "index": 1,
+          "tag": "_51",
+          "attrBit": 2
+        },
+        {
+          "index": 2,
+          "tag": "_wc010",
+          "attrBit": 3
+        },
+        {
+          "index": 3,
+          "tag": "_wc011",
+          "attrBit": 4
+        },
+        {
+          "index": 4,
+          "tag": "_wc040",
+          "attrBit": 5
+        },
+        {
+          "index": 5,
+          "tag": "_wc041",
+          "attrBit": 6
+        }
+      ]
+    },
+    {
+      "name": "m_charaMeshAttrIndexList",
+      "typeName": "CHARA_MESH_ATTR_INDEX",
+      "values": [
+        {
+          "index": 0
+        },
+        {
+          "index": 1
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 4
+        },
+        {
+          "index": 5
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        },
+        {
+          "index": 2
+        },
+        {
+          "index": 3
+        }
+      ]
+    },
+    {
+      "name": "m_charaMeshTypeList",
+      "typeName": "CHARA_MESH_TYPE",
+      "values": [
+        {
+          "id": 1,
+          "attrIndexList": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": 2,
+          "attrIndexList": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": 100,
+          "attrIndexList": [
+            2,
+            1
+          ]
+        },
+        {
+          "id": 101,
+          "attrIndexList": [
+            3,
+            2
+          ]
+        },
+        {
+          "id": 102,
+          "attrIndexList": [
+            5,
+            1
+          ]
+        },
+        {
+          "id": 103,
+          "attrIndexList": [
+            6,
+            2
+          ]
+        },
+        {
+          "id": 104,
+          "attrIndexList": [
+            8,
+            2
+          ]
+        },
+        {
+          "id": 105,
+          "attrIndexList": [
+            10,
+            2
+          ]
+        },
+        {
+          "id": 106,
+          "attrIndexList": [
+            12,
+            2
+          ]
+        },
+        {
+          "id": 107,
+          "attrIndexList": [
+            14,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

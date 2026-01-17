@@ -1,0 +1,58 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_charaConsumeInfo",
+      "typeName": "CHARA_CONSUME_NUM_INFO",
+      "values": []
+    },
+    {
+      "name": "m_rankConsumeInfo",
+      "typeName": "RANK_CONSUME_NUM_INFO",
+      "values": [
+        {
+          "rank": 1,
+          "saboriRank": 1,
+          "personality": 2,
+          "slotNum": 3,
+          "humanChange": 2
+        },
+        {
+          "rank": 2,
+          "saboriRank": 2,
+          "personality": 3,
+          "slotNum": 4,
+          "humanChange": 3
+        },
+        {
+          "rank": 3,
+          "saboriRank": 3,
+          "personality": 4,
+          "slotNum": 5,
+          "humanChange": 4
+        },
+        {
+          "rank": 4,
+          "saboriRank": 5,
+          "personality": 8,
+          "slotNum": 10,
+          "humanChange": 5
+        },
+        {
+          "rank": 5,
+          "saboriRank": 10,
+          "personality": 15,
+          "slotNum": 15,
+          "humanChange": 8
+        },
+        {
+          "rank": 6,
+          "saboriRank": 15,
+          "personality": 20,
+          "slotNum": 25,
+          "humanChange": 10
+        }
+      ]
+    }
+  ]
+}

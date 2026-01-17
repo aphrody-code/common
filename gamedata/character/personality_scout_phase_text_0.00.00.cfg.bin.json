@@ -1,0 +1,219 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_scoutPhaseTextList",
+      "typeName": "SCOUT_PHASE_TEXT",
+      "values": [
+        {
+          "strangerText": "0x867523B6",
+          "introductionText": "0x8CAC577C",
+          "presentText": "0xD4D05816",
+          "presentBattleText": "0x00000000",
+          "presentCancelText": "0x78CA53DE",
+          "encountText": "0xDFD664FF",
+          "questClearText": "0xE6FAE6C9",
+          "questNotClearText": "0x56D7C800",
+          "inviteText": "0x756FF4AD",
+          "notInviteText": "0x532678B4",
+          "disinviteText": "0x3B7AAB25",
+          "inviteAgainText": "0xDF3E9D1F",
+          "notInviteAgainText": "0xEC9267B5",
+          "strangerVoice": "0x00000000",
+          "strangerVoice_en": "0x00000000",
+          "introductionVoice": "0x00000000",
+          "introductionVoice_en": "0x00000000",
+          "presentVoice": "0x00000000",
+          "presentVoice_en": "0x00000000",
+          "presentBattleVoice": "0x00000000",
+          "presentBattleVoice_en": "0x00000000",
+          "presentCancelVoice": "0x00000000",
+          "presentCancelVoice_en": "0x00000000",
+          "encountVoice": "0x00000000",
+          "encountVoice_en": "0x00000000",
+          "questClearVoice": "0x00000000",
+          "questClearVoice_en": "0x00000000",
+          "questNotClearVoice": "0x00000000",
+          "questNotClearVoice_en": "0x00000000",
+          "inviteVoice": "0x00000000",
+          "inviteVoice_en": "0x00000000",
+          "notInviteVoice": "0x00000000",
+          "notInviteVoice_en": "0x00000000",
+          "disinviteVoice": "0x00000000",
+          "disinviteVoice_en": "0x00000000",
+          "inviteAgainVoice": "0x00000000",
+          "inviteAgainVoice_en": "0x00000000",
+          "notInviteAgainVoice": "0x00000000",
+          "notInviteAgainVoice_en": "0x00000000"
+        },
+        {
+          "strangerText": "0x57405A4C",
+          "introductionText": "0xEEDED575",
+          "presentText": "0x5FC3407C",
+          "presentBattleText": "0x00000000",
+          "presentCancelText": "0xA267763B",
+          "encountText": "0x97988F02",
+          "questClearText": "0x6B49ACC0",
+          "questNotClearText": "0x6B49ACC0",
+          "inviteText": "0xDF7D09F4",
+          "notInviteText": "0x601C332C",
+          "disinviteText": "0x4239DB38",
+          "inviteAgainText": "0x850A8452",
+          "notInviteAgainText": "0xDD6E937C",
+          "strangerVoice": "0x97E9F9C2",
+          "strangerVoice_en": "0x00000000",
+          "introductionVoice": "0x00000000",
+          "introductionVoice_en": "0x00000000",
+          "presentVoice": "0x00000000",
+          "presentVoice_en": "0x00000000",
+          "presentBattleVoice": "0x00000000",
+          "presentBattleVoice_en": "0x00000000",
+          "presentCancelVoice": "0x00000000",
+          "presentCancelVoice_en": "0x00000000",
+          "encountVoice": "0x00000000",
+          "encountVoice_en": "0x00000000",
+          "questClearVoice": "0x00000000",
+          "questClearVoice_en": "0x00000000",
+          "questNotClearVoice": "0x00000000",
+          "questNotClearVoice_en": "0x00000000",
+          "inviteVoice": "0x00000000",
+          "inviteVoice_en": "0x00000000",
+          "notInviteVoice": "0x00000000",
+          "notInviteVoice_en": "0x00000000",
+          "disinviteVoice": "0x00000000",
+          "disinviteVoice_en": "0x00000000",
+          "inviteAgainVoice": "0x00000000",
+          "inviteAgainVoice_en": "0x00000000",
+          "notInviteAgainVoice": "0x00000000",
+          "notInviteAgainVoice_en": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_pesronalityScoutPhaseTextDataList",
+      "typeName": "PERSONALITY_SCOUT_PHASE_TEXT_DATA",
+      "values": [
+        {
+          "gender": 1,
+          "personality": 1,
+          "scoutPhaseTextList": [
+            0,
+            1
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 2,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 3,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 4,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 5,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 2,
+          "personality": 1,
+          "scoutPhaseTextList": [
+            1,
+            1
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 2,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 3,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 4,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 5,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 3,
+          "personality": 1,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 2,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 3,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 4,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        },
+        {
+          "gender": 255,
+          "personality": 5,
+          "scoutPhaseTextList": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}
