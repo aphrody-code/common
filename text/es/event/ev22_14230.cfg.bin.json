@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "3"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-914569469"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "¡<FLC:GOENJI> atraviesa la defensa de <FUL:DEZARM>!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-497969984"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Gracias a su nueva supertécnica, Tormenta de fuego,\\n¡el delantero de fuego <FUL:GOENJI> regresa por la puerta grande!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-78994047"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "¡Lo conseguimos!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

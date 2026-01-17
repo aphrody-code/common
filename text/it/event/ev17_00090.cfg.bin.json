@@ -1,0 +1,37 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1122829960"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Hai trovato una [CG]Lattina abbandonata[C].\\nI rifiuti vanno buttati nel cestino."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

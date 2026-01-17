@@ -1,0 +1,126 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_AdventCalendarInfoList",
+      "typeName": "ADVENT_CALENDAR_INFO",
+      "values": [
+        {
+          "id_crc": "0xF43EEA20",
+          "cell_type": 1,
+          "flag_no": 0,
+          "time_start": 2025,
+          "time_end": 11,
+          "repeat_type": 11,
+          "data_id_crc": "0x00000000",
+          "item_info_id_crc": "0x000B07E9",
+          "valid_cond": "NDAR_INFO"
+        },
+        {
+          "id_crc": "0x7A12D002",
+          "cell_type": 1,
+          "flag_no": 1,
+          "time_start": 2025,
+          "time_end": 12,
+          "repeat_type": 22,
+          "data_id_crc": "0x00000000",
+          "item_info_id_crc": "0x000C07E9",
+          "valid_cond": "d_crc"
+        },
+        {
+          "id_crc": "0xF1F0BAAB",
+          "cell_type": 1,
+          "flag_no": 2,
+          "time_start": 2026,
+          "time_end": 1,
+          "repeat_type": 28,
+          "data_id_crc": "0x00000000",
+          "item_info_id_crc": "0x000107EA",
+          "valid_cond": "cell_type"
+        }
+      ]
+    },
+    {
+      "name": "m_NewsInfoList",
+      "typeName": "NEWS_INFO",
+      "values": [
+        {
+          "id_crc": "0xF43EEA20",
+          "headline_small_text_id": "0x00000000",
+          "headline_large_text_id": "0x00000000",
+          "detail_text_id": "0x00000000",
+          "banner_start_res_name": "",
+          "banner_end_res_name": "",
+          "news_type": 1,
+          "detail_window_res_name": ""
+        },
+        {
+          "id_crc": "0x7A12D002",
+          "headline_small_text_id": "0xA0EC5DEA",
+          "headline_large_text_id": "0x2DF47B41",
+          "detail_text_id": "0x6C269B9F",
+          "banner_start_res_name": "calendar_update_img_01_001",
+          "banner_end_res_name": "",
+          "news_type": 0,
+          "detail_window_res_name": "box_win_update_img01_001"
+        },
+        {
+          "id_crc": "0xF1F0BAAB",
+          "headline_small_text_id": "0xE2EC4F2E",
+          "headline_large_text_id": "0x2DF47B41",
+          "detail_text_id": "0x5FD54914",
+          "banner_start_res_name": "calendar_update_img_01_002",
+          "banner_end_res_name": "",
+          "news_type": 0,
+          "detail_window_res_name": "box_win_update_img01_002"
+        },
+        {
+          "id_crc": "0x385E32A5",
+          "headline_small_text_id": "0x00000000",
+          "headline_large_text_id": "0x00000000",
+          "detail_text_id": "0x00000000",
+          "banner_start_res_name": "",
+          "banner_end_res_name": "",
+          "news_type": 3,
+          "detail_window_res_name": ""
+        }
+      ]
+    },
+    {
+      "name": "m_LoginBonusRewardItem",
+      "typeName": "LOGIN_BONUS_REWARD_ITEM",
+      "values": [
+        {
+          "item_id": "0x02601663",
+          "item_num": 1
+        }
+      ]
+    },
+    {
+      "name": "m_LoginBonusReward",
+      "typeName": "LOGIN_BONUS_REWARD",
+      "values": [
+        {
+          "day_count": 1,
+          "reward_item_list": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_LoginBonusInfo",
+      "typeName": "LOGIN_BONUS_INFO",
+      "values": [
+        {
+          "id_crc": "0x704266B9",
+          "reward_list": [
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

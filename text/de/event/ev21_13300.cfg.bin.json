@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2044714954"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Es ist egal,\\nwer einspringt.\\nDer Kampf geht weiter."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2044714954"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "Das ist kein Kampf!\\nEs ist Fußball!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

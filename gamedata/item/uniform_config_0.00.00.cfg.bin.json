@@ -1,0 +1,69 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_UniformModelInfoList",
+      "typeName": "UNIFORM_MODEL_INFO",
+      "values": [
+        {
+          "uniformFielderModelIdCrc": "0x2C67B6A9",
+          "uniformKeeperModelIdCrc": "0x84A89D5D",
+          "shoesModelIdCrc": "0x0B4EC959",
+          "gloveModelIdCrc": "0xFB74C292"
+        },
+        {
+          "uniformFielderModelIdCrc": "0x55BB0E0D",
+          "uniformKeeperModelIdCrc": "0xFD7425F9",
+          "shoesModelIdCrc": "0x0B4EC959",
+          "gloveModelIdCrc": "0x82A87A36"
+        },
+        {
+          "uniformFielderModelIdCrc": "0x26E5E3F1",
+          "uniformKeeperModelIdCrc": "0x8E2AC805",
+          "shoesModelIdCrc": "0x0B4EC959",
+          "gloveModelIdCrc": "0xFB74C292"
+        },
+        {
+          "uniformFielderModelIdCrc": "0x5F395B55",
+          "uniformKeeperModelIdCrc": "0xF7F670A1",
+          "shoesModelIdCrc": "0x0B4EC959",
+          "gloveModelIdCrc": "0x82A87A36"
+        }
+      ]
+    },
+    {
+      "name": "m_UniformInfoList",
+      "typeName": "UNIFORM_INFO",
+      "values": [
+        {
+          "nameId": "0xEDA6A987",
+          "modelInfo": [
+            0,
+            1
+          ]
+        },
+        {
+          "nameId": "0x947A1123",
+          "modelInfo": [
+            1,
+            1
+          ]
+        },
+        {
+          "nameId": "0xC68BFA44",
+          "modelInfo": [
+            2,
+            1
+          ]
+        },
+        {
+          "nameId": "0xBF5742E0",
+          "modelInfo": [
+            3,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

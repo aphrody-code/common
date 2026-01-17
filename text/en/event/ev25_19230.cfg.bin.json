@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-858600969"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<FUL:RAY>. This is an emergency! Let's go!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-402679244"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Yes. We have received the information.\\nWe understand the situation."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-412315152"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Boa noite. Recentemente, houveram relatos de um\\npolicial falso rondando esta área..."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-412315152"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "Você me avisa se ver alguém suspeito?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

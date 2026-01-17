@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "3"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "861046090"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[芯/しん]の[強/つよ]さを[得/え]たようだな。\\nこれにて\u3000[修行/しゅぎょう]は[合格/ごうかく]だ。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "861046090"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "ラント…\u3000おいで…。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "861046090"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "……！\u3000この[声/こえ]は…。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

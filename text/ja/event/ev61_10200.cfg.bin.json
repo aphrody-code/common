@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-469671551"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ふぅ～\u3000[疲/つか]れた！\\nでも\u3000おかげでグランドが[使/つか]えたよ。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-469671551"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "ありがと！\\nまた[困/こま]ったときは\u3000お[願/ねが]いね！"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

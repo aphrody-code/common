@@ -1,0 +1,128 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_TalkSelectConfigList",
+      "typeName": "TALK_SELECT_CONFIG",
+      "values": [
+        {
+          "id": "0x30B9C867",
+          "textId": "0x01DE969B",
+          "type": 1,
+          "cursorInitPos": 0,
+          "cursorCancelPos": 1,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x82698DD5",
+          "textId": "0xE33B14CE",
+          "type": 6,
+          "cursorInitPos": 0,
+          "cursorCancelPos": -1,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xB7B44B71",
+          "textId": "0x2D547C2B",
+          "type": 5,
+          "cursorInitPos": 0,
+          "cursorCancelPos": 2,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x2EBD1ACB",
+          "textId": "0xB45D2D91",
+          "type": 5,
+          "cursorInitPos": 0,
+          "cursorCancelPos": 2,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x59BA2A5D",
+          "textId": "0xC35A1D07",
+          "type": 5,
+          "cursorInitPos": 0,
+          "cursorCancelPos": 1,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xC7DEBFFE",
+          "textId": "0x5D3E88A4",
+          "type": 5,
+          "cursorInitPos": 0,
+          "cursorCancelPos": 1,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xB0D98F68",
+          "textId": "0x2A39B832",
+          "type": 5,
+          "cursorInitPos": 0,
+          "cursorCancelPos": 2,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0x29D0DED2",
+          "textId": "0xB330E988",
+          "type": 5,
+          "cursorInitPos": 0,
+          "cursorCancelPos": 1,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xC04FDBE7",
+          "textId": "0x742E7D20",
+          "type": 5,
+          "cursorInitPos": 0,
+          "cursorCancelPos": 2,
+          "specifyTalkCharaId": "0x00000000",
+          "additionalDispMenuNameCrc": "0x00000000",
+          "afterDecisionParam": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

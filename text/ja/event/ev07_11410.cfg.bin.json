@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "163066245"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[今/いま]\u3000[俺/おれ]が[助/たす]けてやる！\\n[待/ま]ってろ\u3000[会長/かいちょう]ぉおおおっ！！"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "163066245"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "くっ\u3000まったく…\\nお[前/まえ]というやつは…。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

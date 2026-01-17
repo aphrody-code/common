@@ -1,0 +1,36 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_EmblemResourceInfoList",
+      "typeName": "EMBLEM_RESOURCE_INFO",
+      "values": [
+        {
+          "emblemId": "0xE35E00DF",
+          "emblemName": "default",
+          "s_filePath": "200_icon/01_icon_emblem/\u003CresourceID\u003E_s.g4tx",
+          "s_texName": "\u003CresourceID\u003E_s01",
+          "l_filePath": "200_icon/01_icon_emblem/\u003CresourceID\u003E.g4tx",
+          "l_texName": "\u003CresourceID\u003E"
+        },
+        {
+          "emblemId": "0xD5ABE1F0",
+          "emblemName": "em010001",
+          "s_filePath": "200_icon/01_icon_emblem/em010001_s.g4tx",
+          "s_texName": "em010001_s01",
+          "l_filePath": "200_icon/01_icon_emblem/em010001.g4tx",
+          "l_texName": "em010001"
+        }
+      ]
+    },
+    {
+      "name": "m_EmblemResourceBasePathList",
+      "typeName": "EMBLEM_RESOURCE_BASE_PATH",
+      "values": [
+        {
+          "basePath": "#/menu/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1570514519"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ここから[先/さき]は[砂漠/さばく]エリアだね。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1570514519"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "ずっと[思/おも]ってたが\\nなんで[砂漠/さばく]があるんだろうな…。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1570514519"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "うわー\u3000[見/み]ろよ！\\nでっかいネコのトイレだぜ！"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1570514519"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "String",
+              "value": "これ[猫砂/ねこすな]じゃないから！！"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

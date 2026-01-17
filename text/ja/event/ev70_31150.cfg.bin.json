@@ -1,0 +1,103 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2007007129"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "いろんなもの\\nいっぱい\u3000[食/た]べてきたね～。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2007007129"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "どれも\u3000おいしいかったよね！"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2007007129"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "[今日/きょう]も[明日/あした]も\u3000メシがウマい！\\nこんなに[幸/しあわ]せなことはない！"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2007007129"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "String",
+              "value": "ジンペイ[君/くん]の[食/た]べっぷり[見/み]てると\\n[説得力/せっとくりょく]があるなぁ…。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

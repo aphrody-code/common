@@ -1,0 +1,235 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_soccerSuggestInfoList",
+      "typeName": "SOCCER_SUGGEST_INFO",
+      "values": [
+        {
+          "id": "0xC73EFABF",
+          "cmdId": "0xF51406FA",
+          "textId": "0x036EAFB1",
+          "requestTextId": "0x97D0F5C0",
+          "type": 1,
+          "isSpProd": false,
+          "spProdCamera": "0x00000000"
+        },
+        {
+          "id": "0xDE25CBFE",
+          "cmdId": "0xEC0F37BB",
+          "textId": "0x1A759EF0",
+          "requestTextId": "0x375F00DF",
+          "type": 1,
+          "isSpProd": true,
+          "spProdCamera": "0xE195DAEE"
+        },
+        {
+          "id": "0x91645D39",
+          "cmdId": "0xA34EA17C",
+          "textId": "0x55340837",
+          "requestTextId": "0x97D0F5C0",
+          "type": 1,
+          "isSpProd": true,
+          "spProdCamera": "0xE195DAEE"
+        },
+        {
+          "id": "0x887F6C78",
+          "cmdId": "0xBA55903D",
+          "textId": "0x4C2F3976",
+          "requestTextId": "0x3F6A436D",
+          "type": 1,
+          "isSpProd": true,
+          "spProdCamera": "0xE195DAEE"
+        },
+        {
+          "id": "0x9985B12E",
+          "cmdId": "0x9BDF06AA",
+          "textId": "0x6DA5AFE1",
+          "requestTextId": "0x484C81FF",
+          "type": 2,
+          "isSpProd": false,
+          "spProdCamera": "0x00000000"
+        },
+        {
+          "id": "0xD6C427E9",
+          "cmdId": "0xD49E906D",
+          "textId": "0x22E43926",
+          "requestTextId": "0x53B66183",
+          "type": 2,
+          "isSpProd": false,
+          "spProdCamera": "0x00000000"
+        },
+        {
+          "id": "0xCFDF16A8",
+          "cmdId": "0xCD85A12C",
+          "textId": "0x3BFF0867",
+          "requestTextId": "0x6F7F3F50",
+          "type": 2,
+          "isSpProd": false,
+          "spProdCamera": "0x00000000"
+        },
+        {
+          "id": "0xE4F2456B",
+          "cmdId": "0xE6A8F2EF",
+          "textId": "0x10D25BA4",
+          "requestTextId": "0x6F7F3F50",
+          "type": 2,
+          "isSpProd": false,
+          "spProdCamera": "0x00000000"
+        },
+        {
+          "id": "0xFDE9742A",
+          "cmdId": "0xFFB3C3AE",
+          "textId": "0x09C96AE5",
+          "requestTextId": "0x6F7F3F50",
+          "type": 2,
+          "isSpProd": false,
+          "spProdCamera": "0x00000000"
+        },
+        {
+          "id": "0x96D3FA1C",
+          "cmdId": "0x7B292FBA",
+          "textId": "0x754D7E29",
+          "requestTextId": "0x00000000",
+          "type": 3,
+          "isSpProd": false,
+          "spProdCamera": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_soccerSuggestCameraInfoList",
+      "typeName": "SOCCER_SUGGEST_CAMERA_INFO",
+      "values": [
+        {
+          "id": "0xE195DAEE",
+          "refAttach": 1,
+          "ref_pos_distance": 10,
+          "ref_pos_altitude": 15,
+          "ref_pos_azimuth": 30,
+          "scriptFunc": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_soccerSuggestPredictMotList",
+      "typeName": "SOCCER_SUGGEST_PREDICT_MOT",
+      "values": [
+        {
+          "mot": "0xC95000FC"
+        },
+        {
+          "mot": "0xC95000FC"
+        },
+        {
+          "mot": "0xC95000FC"
+        },
+        {
+          "mot": "0xC95000FC"
+        }
+      ]
+    },
+    {
+      "name": "m_soccerSuggestPredictPhaseList",
+      "typeName": "SOCCER_SUGGEST_PREDICT_PHASE",
+      "values": [
+        {
+          "phase": 0,
+          "motList": [
+            0,
+            1
+          ]
+        },
+        {
+          "phase": 0,
+          "motList": [
+            1,
+            1
+          ]
+        },
+        {
+          "phase": 0,
+          "motList": [
+            2,
+            1
+          ]
+        },
+        {
+          "phase": 0,
+          "motList": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_soccerSuggestPredictObjectList",
+      "typeName": "SOCCER_SUGGEST_PREDICT_OBJECT",
+      "values": [
+        {
+          "type": 1,
+          "phaseList": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": 0,
+          "phaseList": [
+            1,
+            1
+          ]
+        },
+        {
+          "type": 0,
+          "phaseList": [
+            2,
+            1
+          ]
+        },
+        {
+          "type": 0,
+          "phaseList": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_soccerSuggestPredictInfoList",
+      "typeName": "SOCCER_SUGGEST_PREDICT_INFO",
+      "values": [
+        {
+          "id": "0x887F6C78",
+          "objList": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "0xCFDF16A8",
+          "objList": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "0xE4F2456B",
+          "objList": [
+            2,
+            1
+          ]
+        },
+        {
+          "id": "0xFDE9742A",
+          "objList": [
+            3,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

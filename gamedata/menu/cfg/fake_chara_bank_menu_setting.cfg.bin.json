@@ -1,0 +1,324 @@
+{
+  "entries": [
+    {
+      "name": "MENU_LAYER_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-117548009"
+            },
+            {
+              "type": "String",
+              "value": "soccer99_30_chara_bank_fake"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer99_30_chara_bank_fake.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_CMD_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "3"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_CMD_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-117548009"
+            },
+            {
+              "type": "Int",
+              "value": "-1283855071"
+            },
+            {
+              "type": "String",
+              "value": "CMD_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-117548009"
+            },
+            {
+              "type": "Int",
+              "value": "1981080283"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-117548009"
+            },
+            {
+              "type": "Int",
+              "value": "-873293701"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FUNCTION"
+            },
+            {
+              "type": "Int",
+              "value": "1079508512"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_RES_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "0"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "MENU_LAYER_GROUP_BASE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_GROUP_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-117548009"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_LAYER_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-595457672"
+            },
+            {
+              "type": "String",
+              "value": "fake_chara_bank_menu"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_REF_LAYER_GROUP_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_FOCUS_BASE_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_FOCUS_BASE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-480378657"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_FOCUS_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_FOCUS_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-117548009"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

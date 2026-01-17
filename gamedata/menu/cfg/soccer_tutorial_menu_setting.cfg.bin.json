@@ -1,0 +1,837 @@
+{
+  "entries": [
+    {
+      "name": "MENU_LAYER_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1792192835"
+            },
+            {
+              "type": "String",
+              "value": "tutorial_focus"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer08_60_tutorial.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1182073543"
+            },
+            {
+              "type": "String",
+              "value": "tutorial_scramble"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer08_60_tutorial.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-583609493"
+            },
+            {
+              "type": "String",
+              "value": "tutorial_zone_atk"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer08_60_tutorial.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-157987283"
+            },
+            {
+              "type": "String",
+              "value": "tutorial_zone_def"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer08_60_tutorial.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_CMD_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "8"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_CMD_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1792192835"
+            },
+            {
+              "type": "Int",
+              "value": "1981080283"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1792192835"
+            },
+            {
+              "type": "Int",
+              "value": "-1283855071"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1182073543"
+            },
+            {
+              "type": "Int",
+              "value": "1981080283"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1182073543"
+            },
+            {
+              "type": "Int",
+              "value": "-1283855071"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-583609493"
+            },
+            {
+              "type": "Int",
+              "value": "1981080283"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-583609493"
+            },
+            {
+              "type": "Int",
+              "value": "-1283855071"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-157987283"
+            },
+            {
+              "type": "Int",
+              "value": "1981080283"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-157987283"
+            },
+            {
+              "type": "Int",
+              "value": "-1283855071"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_RES_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "0"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "MENU_LAYER_GROUP_BASE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_GROUP_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1792192835"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1182073543"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-583609493"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-157987283"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_LAYER_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1792192835"
+            },
+            {
+              "type": "String",
+              "value": "tutorial_focus"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_REF_LAYER_GROUP_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1182073543"
+            },
+            {
+              "type": "String",
+              "value": "tutorial_scramble"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_REF_LAYER_GROUP_BASE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-583609493"
+            },
+            {
+              "type": "String",
+              "value": "tutorial_zone_atk"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_REF_LAYER_GROUP_BASE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-157987283"
+            },
+            {
+              "type": "String",
+              "value": "tutorial_zone_def"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_REF_LAYER_GROUP_BASE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_FOCUS_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_FOCUS_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1792192835"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1182073543"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-583609493"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-157987283"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

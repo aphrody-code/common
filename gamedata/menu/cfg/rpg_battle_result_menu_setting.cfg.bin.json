@@ -1,0 +1,2847 @@
+{
+  "entries": [
+    {
+      "name": "MENU_LAYER_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "25"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "286133658"
+            },
+            {
+              "type": "String",
+              "value": "btl02_01_result_base"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl02_01_result_base.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "String",
+              "value": "btl02_02_reward_base"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl02_02_reward_base.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1164190377"
+            },
+            {
+              "type": "String",
+              "value": "btl10_01_success_telop"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl10_01_success_telop.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2047908984"
+            },
+            {
+              "type": "String",
+              "value": "btl10_02_failure_telop"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl10_02_failure_telop.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1540357997"
+            },
+            {
+              "type": "String",
+              "value": "btl01_08_command_talk_balloon"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl01_08_battle_result_voice_balloon.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1774749226"
+            },
+            {
+              "type": "String",
+              "value": "team00_03_chara_card_for_result"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/team00_03_chara_card_for_result.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1523943084"
+            },
+            {
+              "type": "String",
+              "value": "soccer22_06_result_level_up"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer22_06_result_level_up.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1627125703"
+            },
+            {
+              "type": "String",
+              "value": "btl02_05_low_bonus"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl02_05_low_bonus.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2107340451"
+            },
+            {
+              "type": "String",
+              "value": "item01_02_result_item"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/item01_02_list_item.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "24"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1851326416"
+            },
+            {
+              "type": "String",
+              "value": "cmn01_10_new_icon"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/cmn01_10_new_icon.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "24"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1510257498"
+            },
+            {
+              "type": "String",
+              "value": "team00_21b_item_detail"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/team00_21b_item_detail.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-554595906"
+            },
+            {
+              "type": "String",
+              "value": "cmn03_01_result_button_guide"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/cmn03_01_result_button_guide.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1998600132"
+            },
+            {
+              "type": "String",
+              "value": "cmn05_01_cursor"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/cmn05_01_cursor.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-636807410"
+            },
+            {
+              "type": "String",
+              "value": "btl03_21_dance_battle_result_base"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl03_21_dance_battle_result_base.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,35000002"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-313461930"
+            },
+            {
+              "type": "String",
+              "value": "btl03_11_dance_battle_result_score"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl03_11_dance_battle_result_score.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1743808626"
+            },
+            {
+              "type": "String",
+              "value": "btl03_22_dance_battle_continue_btn_attach"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl03_22_dance_battle_continue_btn_attach.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1279208755"
+            },
+            {
+              "type": "String",
+              "value": "cmn03_03_dance_battle_continue_button"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/cmn03_03_cmn_button_s.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-139480016"
+            },
+            {
+              "type": "String",
+              "value": "cmn03_03_dance_battle_continue_button_restart_only"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/cmn03_03_cmn_button_s.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1998214530"
+            },
+            {
+              "type": "String",
+              "value": "rpg04_22_activate_training_performance_up"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/rpg04_22_activate_training_performance_up.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1414835981"
+            },
+            {
+              "type": "String",
+              "value": "btl06_50_result_score_locator"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl06_50_result_score_locator.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2001325417"
+            },
+            {
+              "type": "String",
+              "value": "btl06_07_current_score"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl06_07_current_score.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "673792026"
+            },
+            {
+              "type": "String",
+              "value": "btl06_08_high_score"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl06_08_high_score.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-777011678"
+            },
+            {
+              "type": "String",
+              "value": "btl06_05b_training_time_attack_timer"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl06_05b_training_time_attack_timer.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "500675095"
+            },
+            {
+              "type": "String",
+              "value": "btl06_06_training_best_time"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl06_06_training_best_time.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1683202218"
+            },
+            {
+              "type": "String",
+              "value": "btl06_51_new_record_stamp"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/btl06_51_new_record_stamp.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_CMD_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "13"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_CMD_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-554595906"
+            },
+            {
+              "type": "Int",
+              "value": "1651523701"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-554595906"
+            },
+            {
+              "type": "Int",
+              "value": "2075023265"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FUNCTION"
+            },
+            {
+              "type": "Int",
+              "value": "-1261800172"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-554595906"
+            },
+            {
+              "type": "Int",
+              "value": "-1529820290"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FUNCTION"
+            },
+            {
+              "type": "Int",
+              "value": "2053629800"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "Int",
+              "value": "2075023265"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_PAGE_NEXT"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "Int",
+              "value": "-1529820290"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_PAGE_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "Int",
+              "value": "1197218715"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "Int",
+              "value": "-1035420627"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_NEXT"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "Int",
+              "value": "1435897304"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FUNCTION"
+            },
+            {
+              "type": "Int",
+              "value": "1456809643"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "Int",
+              "value": "-873293701"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FUNCTION"
+            },
+            {
+              "type": "Int",
+              "value": "-537843384"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1279208755"
+            },
+            {
+              "type": "Int",
+              "value": "1981080283"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1279208755"
+            },
+            {
+              "type": "Int",
+              "value": "-1035420627"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_NEXT"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1279208755"
+            },
+            {
+              "type": "Int",
+              "value": "1197218715"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-139480016"
+            },
+            {
+              "type": "Int",
+              "value": "1981080283"
+            },
+            {
+              "type": "String",
+              "value": "CMD_ENTER"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_RES_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "9"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_RES_0",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_menu01.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_1",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_menu02.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_2",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/15_icon_common/icon_common.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_3",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/15_icon_common2/<LG>/icon_common2.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_4",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_kp.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_5",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_tech.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_6",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_at.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_7",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_dance.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_8",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_training.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_LAYER_GROUP_BASE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "25"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_GROUP_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "286133658"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1164190377"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2047908984"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-554595906"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1774749226"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2107340451"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1851326416"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1510257498"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1523943084"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1627125703"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1998600132"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1540357997"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-636807410"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-313461930"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1743808626"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1279208755"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-139480016"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1998214530"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1414835981"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2001325417"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "673792026"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-777011678"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "500675095"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1683202218"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_LAYER_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2056172360"
+            },
+            {
+              "type": "String",
+              "value": "rpg_battle_result_menu"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_REF_LAYER_GROUP_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "25"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_FOCUS_BASE_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "5"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_FOCUS_BASE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "973515837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_BASE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "973515837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_BASE_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "973515837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_BASE_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "973515837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_BASE_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "973515837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_FOCUS_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "5"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_FOCUS_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-554595906"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1039067777"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2107340451"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1279208755"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-139480016"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

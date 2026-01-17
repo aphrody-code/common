@@ -1,0 +1,631 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "28"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1169086676"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Hola... Buenos días."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1854114577"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Otra visión, ¿eh?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2006497874"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "¿No querías organizar el plan contra Northbright\\nantes de que llegaran los demás?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-953756823"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Pues... sí, pero..."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-566369752"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "¡Entonces déjame ayudarte!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-183455253"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "¿Ayudarme en qué?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-334790486"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Te podría... ayudar a analizar mejor a Northbright."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1804835941"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "... Vale."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1921559844"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Northbright entrena con un sistema\\nque pule los instintos tácticos individuales de cada jugador.\\nTienen un estilo sistematizado y muy bien organizado."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1568113574"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Cambian de táctica en mitad del partido,\\ncomo con su Ataque en tres frentes,\\npara adaptarse al estilo de juego del otro equipo."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1147974373"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Vamos, que se adaptan a lo que les echen.\\nUn equipo recién creado, como es <MNT:NAGUMOHARA>,\\nno puede hacer frente a ese tipo de experiencia. ¿Qué hacemos?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1866588456"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Es verdad, si usan todo su abanico de estrategias,\\nno podremos contraatacar."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1985663079"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "¿Quiere decir eso... que no hay nada que hacer?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-958088866"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Qué va, sí podemos hacer algo."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-536901601"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "¿Ah, sí?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-187507748"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Tenemos que obligarles a confiar en una sola estrategia."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-305534307"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Espera, ¿y cómo vamos a conseguir eso?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1783756370"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Para ellos,\\ntodo gira en torno al Ataque en tres frentes de <FFC:SORAMIYA>.\\nEs la pieza central de su estrategia actual."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1934280467"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Pero si conseguimos bloquearle a él, tendrán que usar la\\nformación <FLC:SHINANO>... <FFC:SHINANO> dirige la\\nofensiva, y el balón se va repartiendo entre los delanteros."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1597062653"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Vamos, que hagamos lo que hagamos, tienen un plan B."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1177160894"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Así es, pero la formación <FLC:SHINANO> tiene un punto débil."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1829199743"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "¿Cuál?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1948020288"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Se centra demasiado en el ataque,\\nasí que su defensa se debilita."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-996014329"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Si cambian a la formación <FLC:SHINANO>,\\npodemos aislar a su portero... y emboscarle en un uno contra uno."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-575064506"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Solo tenemos que abrirnos paso hasta su área..."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-158046843"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Exacto. Si los defensas y el portero trabajan en equipo,\\nestamos perdidos. Pero si el portero se queda solo...,\\nnuestro tiro combinado, el Trueno de primavera,\\npodría entrar en la portería."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-275819324"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "El problema es que el Trueno de primavera todavía necesita trabajo."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1746356235"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Sí..."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

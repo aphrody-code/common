@@ -1,0 +1,55 @@
+{
+  "entries": [
+    {
+      "name": "EV_MDL_DEF_DATA_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "EV_MDL_DEF_DATA_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "464376341"
+            },
+            {
+              "type": "String",
+              "value": "ei100001"
+            }
+          ],
+          "children": [
+            {
+              "name": "EV_MDL_DEF_DATA_INFO_LIST_BEG_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1"
+                }
+              ],
+              "children": [
+                {
+                  "name": "EV_MDL_DEF_DATA_INFO_0",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "-1684962027"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

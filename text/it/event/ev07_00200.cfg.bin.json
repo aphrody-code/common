@@ -1,0 +1,939 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "42"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1224475922"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Ehilà, gente!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1674663633"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "L'ufficio del torneo dice che tutte le squadre del Football Frontier\\nalloggeranno qui, ai Giardini del Calcio di Odaiba, durante la fase finale."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2060085136"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Fantastico! Sono carichissimo! È quasi come stare in campeggio!\\nE c'è perfino una statua di <FUL:ENDO> in persona!\\nSembra proprio di essere arrivati al torneo nazionale!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "898363735"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Questo posto è una vera mecca per i fan del calcio giovanile.\\nSi riempie di turisti persino fuori stagione."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "747683862"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Che lusso allenarsi in un ambiente del genere!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "129864661"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "E non è tutto, c'è perfino un terminal aeroportuale, così i giocatori\\npossono prendere un volo per tornare a scuola in qualsiasi momento\\nin caso di modifiche agli allenamenti."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "514237076"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Quindi possiamo continuare gli allenamenti speciali alla <MNT:NAGUMOHARA>?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1723941285"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Esatto. Inoltre, in caso ci servano rinforzi dell'ultimo minuto,\\npossiamo farli arrivare subito in volo."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2145022182"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Altro che tappeto rosso!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1344626276"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "A dimostrazione di quanto il calcio giovanile sia cresciuto negli ultimi anni."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1228828453"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Ci sono anche le altre squadre, quindi la situazione\\npotrebbe scaldarsi quando le incontreremo."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1645427942"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Magari sarà anche divertente!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2064125351"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Forza! Iniziamo l'allenamento speciale.\\nSiamo qui per vincere!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "877239136"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Non possiamo permetterci il lusso di abbassare la guardia."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "760392225"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Eh?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "109050338"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Ragazzi, calma e ascoltate."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "526698659"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "La Stormridge Junior High ha un muro che dobbiamo abbattere.\\nSe non ci riusciremo, perderemo di sicuro."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1728261012"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Cosa?!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2115508947"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Che intendi dire?"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1382277181"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Ne parleremo durante la riunione tattica di questo pomeriggio\\nal cottage. Fino ad allora, esploriamo i Giardini."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1266209148"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Oh, ma dai! Non lasciarci così sulle spine!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1616216767"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Che c'è di strano nel trovare avversari tosti nella fase finale?\\nFa parte del gioco. Ci servono solo delle strategie adeguate."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2035201022"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Prima, però, diamo un'occhiata ai Giardini."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "906962233"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Sììì, sembra uno spasso!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "È importante capire il quadro completo."
+            },
+            {
+              "type": "Int",
+              "value": "201"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Sono curioso."
+            },
+            {
+              "type": "Int",
+              "value": "202"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Ci sono anche io."
+            },
+            {
+              "type": "Int",
+              "value": "203"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Anche io."
+            },
+            {
+              "type": "Int",
+              "value": "204"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Scopriamo questo posto da cima a fondo."
+            },
+            {
+              "type": "Int",
+              "value": "205"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Possiamo? Davvero?"
+            },
+            {
+              "type": "Int",
+              "value": "206"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "È ora di esplorare!"
+            },
+            {
+              "type": "Int",
+              "value": "207"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Andiamo!"
+            },
+            {
+              "type": "Int",
+              "value": "208"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Sembra stupendo."
+            },
+            {
+              "type": "Int",
+              "value": "209"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Staccare un po' la testa farà anche bene a tutti."
+            },
+            {
+              "type": "Int",
+              "value": "210"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Turismo, eh? Voglio godermi tutta l'aria della città."
+            },
+            {
+              "type": "Int",
+              "value": "211"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Ci sono!"
+            },
+            {
+              "type": "Int",
+              "value": "212"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Ci sto anch'io."
+            },
+            {
+              "type": "Int",
+              "value": "213"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Se il Maestro insiste..."
+            },
+            {
+              "type": "Int",
+              "value": "214"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_38",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "789845112"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Ci sto!"
+            },
+            {
+              "type": "Int",
+              "value": "215"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_39",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "70862779"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Allora diamo un'occhiata in giro e controlliamo le strutture."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_40",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "488797946"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Va bene. Andiamo!"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_41",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1699059147"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "Sì."
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

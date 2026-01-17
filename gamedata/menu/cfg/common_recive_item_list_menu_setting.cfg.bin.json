@@ -1,0 +1,1941 @@
+{
+  "entries": [
+    {
+      "name": "MENU_LAYER_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "17"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "618184632"
+            },
+            {
+              "type": "String",
+              "value": "mainmenu01_06_base_button_guide_right"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/mainmenu01_06_base_button_guide_right.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1627384275"
+            },
+            {
+              "type": "String",
+              "value": "mainmenu01_06_base_button_guide_center"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/mainmenu01_06_base_button_guide_center_additional.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-14120504"
+            },
+            {
+              "type": "String",
+              "value": "mainmenu01_07_button_guide_additional"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/mainmenu01_07_button_guide.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "9396745"
+            },
+            {
+              "type": "String",
+              "value": "mainmenu01_07_button_guide"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/mainmenu01_07_button_guide.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "String",
+              "value": "info01_24_delivery_result_base"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/info01_24_delivery_result_base.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-376092298"
+            },
+            {
+              "type": "String",
+              "value": "win04_01_general_win"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/win04_01_general_win.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1510257498"
+            },
+            {
+              "type": "String",
+              "value": "team00_21b_item_detail"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/team00_21b_item_detail.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "812096501"
+            },
+            {
+              "type": "String",
+              "value": "team00_35_chara_title_detail_info"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/team00_35_chara_title_detail_info.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1666921352"
+            },
+            {
+              "type": "String",
+              "value": "team02_02_skill_detail_info"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/team02_02_skill_detail_info.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1155728651"
+            },
+            {
+              "type": "String",
+              "value": "soccer22_17_result_token"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer22_17_result_token_spirit.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "40"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2002227227"
+            },
+            {
+              "type": "String",
+              "value": "soccer22_17_p1_result_token_add_info"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer22_17_p1_result_token_add_info.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "40"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "660166910"
+            },
+            {
+              "type": "String",
+              "value": "soccer22_14_result_token_name_pop"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer22_14_result_token_name_pop.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1048618417"
+            },
+            {
+              "type": "String",
+              "value": "cmn01_07_sprit_icon"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/cmn01_07_sprit_icon.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "40"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1844915256"
+            },
+            {
+              "type": "String",
+              "value": "soccer11_04_formation_chara_status"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/soccer11_04_formation_chara_status.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "26273556"
+            },
+            {
+              "type": "String",
+              "value": "team00_30_p1_balloon"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/team00_30_p1_balloon.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1395934062"
+            },
+            {
+              "type": "String",
+              "value": "cmn05_01_token_cursor"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/cmn05_01_cursor.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-493418223"
+            },
+            {
+              "type": "String",
+              "value": "cmn02_01_blackbg"
+            },
+            {
+              "type": "String",
+              "value": "common/gamedata/menu/obj/cmn02_01_blackbg.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_CMD_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "9"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_CMD_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "1197218715"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "-1035420627"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_NEXT"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "2075023265"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_PAGE_NEXT"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "-1529820290"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FCS_PAGE_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "-821903626"
+            },
+            {
+              "type": "String",
+              "value": "CMD_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "-1283855071"
+            },
+            {
+              "type": "String",
+              "value": "CMD_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "1981080283"
+            },
+            {
+              "type": "String",
+              "value": "CMD_BACK"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "1435897304"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FUNCTION"
+            },
+            {
+              "type": "Int",
+              "value": "1456809643"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_CMD_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "-873293701"
+            },
+            {
+              "type": "String",
+              "value": "CMD_FUNCTION"
+            },
+            {
+              "type": "Int",
+              "value": "-537843384"
+            },
+            {
+              "type": "Int",
+              "value": "-186917087"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_RES_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "9"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_RES_0",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_menu01.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_1",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_menu02.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_2",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_at.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_3",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/100_num/num_lv.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_4",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/07_icon_rank/<LG>/icon_rank.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_5",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/02_icon_item/icon_item10.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_6",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/05_icon_rarity/<LG>/icon_rarity.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_7",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/15_icon_common/icon_common.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_RES_8",
+          "variables": [
+            {
+              "type": "String",
+              "value": "#/menu/200_icon/15_icon_common2/<LG>/icon_common2.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_LAYER_GROUP_BASE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "17"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_GROUP_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-376092298"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1510257498"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "812096501"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1666921352"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "26273556"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1155728651"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2002227227"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "660166910"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1395934062"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1048618417"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1844915256"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-493418223"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "618184632"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1627384275"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-14120504"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_BASE_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "9396745"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_LAYER_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_LAYER_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1288378829"
+            },
+            {
+              "type": "String",
+              "value": "common_recive_item_list_menu"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_LAYER_GROUP_REF_LAYER_GROUP_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "17"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_FOCUS_BASE_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_FOCUS_BASE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "973515837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_BASE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "973515837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_FOCUS_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_FOCUS_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-477201385"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1155728651"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_FOCUS_GROUP_REF_FOCUS_BASE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

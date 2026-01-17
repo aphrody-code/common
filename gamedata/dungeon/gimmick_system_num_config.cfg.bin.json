@@ -1,0 +1,411 @@
+{
+  "entries": [
+    {
+      "name": "DUNGEON_NUM_TABLE_GROUP_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "DUNGEON_NUM_TABLE_GROUP_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1568497890"
+            }
+          ],
+          "children": [
+            {
+              "name": "DUNGEON_NUM_TABLE_GROUP_DATA_LIST_BEG_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "6"
+                }
+              ],
+              "children": [
+                {
+                  "name": "DUNGEON_NUM_TABLE_GROUP_DATA_0",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "-1334119126"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "19"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "DUNGEON_NUM_TABLE_GROUP_DATA_1",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "749360163"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "5"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "DUNGEON_NUM_TABLE_GROUP_DATA_2",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "897209325"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "100"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "DUNGEON_NUM_TABLE_GROUP_DATA_3",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "547509227"
+                    },
+                    {
+                      "type": "Float",
+                      "value": "1,3"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "DUNGEON_NUM_TABLE_GROUP_DATA_4",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "-1912298826"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "80"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "DUNGEON_NUM_TABLE_GROUP_DATA_5",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "-1637982369"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "DUNGEON_NUM_TABLE_GROUP_1",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "749769860"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "DUNGEON_NUM_TABLE_GROUP_DATA_LIST_BEG_1",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "3"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "name": "DUNGEON_NUM_TABLE_GROUP_DATA_6",
+                              "variables": [
+                                {
+                                  "type": "Int",
+                                  "value": "-1334119126"
+                                },
+                                {
+                                  "type": "Int",
+                                  "value": "10"
+                                },
+                                {
+                                  "type": "Int",
+                                  "value": "0"
+                                }
+                              ],
+                              "children": []
+                            },
+                            {
+                              "name": "DUNGEON_NUM_TABLE_GROUP_DATA_7",
+                              "variables": [
+                                {
+                                  "type": "Int",
+                                  "value": "749360163"
+                                },
+                                {
+                                  "type": "Int",
+                                  "value": "0"
+                                },
+                                {
+                                  "type": "Int",
+                                  "value": "0"
+                                }
+                              ],
+                              "children": []
+                            },
+                            {
+                              "name": "DUNGEON_NUM_TABLE_GROUP_DATA_8",
+                              "variables": [
+                                {
+                                  "type": "Int",
+                                  "value": "-1637982369"
+                                },
+                                {
+                                  "type": "Int",
+                                  "value": "-10"
+                                },
+                                {
+                                  "type": "Int",
+                                  "value": "0"
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "name": "DUNGEON_NUM_TABLE_GROUP_2",
+                                  "variables": [
+                                    {
+                                      "type": "Int",
+                                      "value": "1647881546"
+                                    }
+                                  ],
+                                  "children": [
+                                    {
+                                      "name": "DUNGEON_NUM_TABLE_GROUP_DATA_LIST_BEG_2",
+                                      "variables": [
+                                        {
+                                          "type": "Int",
+                                          "value": "1"
+                                        }
+                                      ],
+                                      "children": [
+                                        {
+                                          "name": "DUNGEON_NUM_TABLE_GROUP_DATA_9",
+                                          "variables": [
+                                            {
+                                              "type": "Int",
+                                              "value": "749360163"
+                                            },
+                                            {
+                                              "type": "Int",
+                                              "value": "40"
+                                            },
+                                            {
+                                              "type": "Int",
+                                              "value": "0"
+                                            }
+                                          ],
+                                          "children": [
+                                            {
+                                              "name": "DUNGEON_NUM_TABLE_GROUP_3",
+                                              "variables": [
+                                                {
+                                                  "type": "Int",
+                                                  "value": "580647011"
+                                                }
+                                              ],
+                                              "children": [
+                                                {
+                                                  "name": "DUNGEON_NUM_TABLE_GROUP_DATA_LIST_BEG_3",
+                                                  "variables": [
+                                                    {
+                                                      "type": "Int",
+                                                      "value": "1"
+                                                    }
+                                                  ],
+                                                  "children": [
+                                                    {
+                                                      "name": "DUNGEON_NUM_TABLE_GROUP_DATA_10",
+                                                      "variables": [
+                                                        {
+                                                          "type": "Int",
+                                                          "value": "547509227"
+                                                        },
+                                                        {
+                                                          "type": "Float",
+                                                          "value": "2,5"
+                                                        },
+                                                        {
+                                                          "type": "Int",
+                                                          "value": "0"
+                                                        }
+                                                      ],
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "name": "DUNGEON_NUM_SYSTEM_INFO_LIST_BEG_0",
+                                                      "variables": [
+                                                        {
+                                                          "type": "Int",
+                                                          "value": "3"
+                                                        }
+                                                      ],
+                                                      "children": [
+                                                        {
+                                                          "name": "DUNGEON_NUM_SYSTEM_INFO_0",
+                                                          "variables": [
+                                                            {
+                                                              "type": "Int",
+                                                              "value": "1594010342"
+                                                            },
+                                                            {
+                                                              "type": "Int",
+                                                              "value": "-1568497890"
+                                                            }
+                                                          ],
+                                                          "children": [
+                                                            {
+                                                              "name": "DUNGEON_NUM_SYSTEM_INFO_GROUP_LIST_BEG_0",
+                                                              "variables": [
+                                                                {
+                                                                  "type": "Int",
+                                                                  "value": "1"
+                                                                }
+                                                              ],
+                                                              "children": [
+                                                                {
+                                                                  "name": "DUNGEON_NUM_SYSTEM_INFO_GROUP_0",
+                                                                  "variables": [
+                                                                    {
+                                                                      "type": "Int",
+                                                                      "value": "1647881546"
+                                                                    },
+                                                                    {
+                                                                      "type": "String",
+                                                                      "value": "AAAAAA8FNbkZNtoAAQAyAAAAAHE="
+                                                                    }
+                                                                  ],
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "DUNGEON_NUM_SYSTEM_INFO_1",
+                                                                      "variables": [
+                                                                        {
+                                                                          "type": "Int",
+                                                                          "value": "2025856298"
+                                                                        },
+                                                                        {
+                                                                          "type": "Int",
+                                                                          "value": "-1568497890"
+                                                                        }
+                                                                      ],
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "DUNGEON_NUM_SYSTEM_INFO_GROUP_LIST_BEG_1",
+                                                                          "variables": [
+                                                                            {
+                                                                              "type": "Int",
+                                                                              "value": "1"
+                                                                            }
+                                                                          ],
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "DUNGEON_NUM_SYSTEM_INFO_GROUP_1",
+                                                                              "variables": [
+                                                                                {
+                                                                                  "type": "Int",
+                                                                                  "value": "749769860"
+                                                                                },
+                                                                                {
+                                                                                  "type": "String",
+                                                                                  "value": "AAAAABgFNSo9RUMACgEoAAYCNEIVKDMyAAAAAXg="
+                                                                                }
+                                                                              ],
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "DUNGEON_NUM_SYSTEM_INFO_2",
+                                                                                  "variables": [
+                                                                                    {
+                                                                                      "type": "Int",
+                                                                                      "value": "1009861791"
+                                                                                    },
+                                                                                    {
+                                                                                      "type": "Int",
+                                                                                      "value": "580647011"
+                                                                                    }
+                                                                                  ],
+                                                                                  "children": []
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

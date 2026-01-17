@@ -1,0 +1,7341 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "407"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1824126939"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[依頼人/いらいにん]のもとに[行/い]って\u3000クエストを[引/ひ]き[受/う]けよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1300864239"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "テスト・サブクエスト[目的/モクテキ]１"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-729756331"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "テスト・サブクエスト[目的/モクテキ]２"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1551368765"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "テスト・サブクエスト[目的/モクテキ]３"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1817479499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原中/なぐもはらちゅう]の[情報/じょうほう]を[集/あつ]めよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-178398991"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＳＮＳ[検索/けんさく]してみよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2128684709"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]の[情報/じょうほう]を[集/あつ]めよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-404195553"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]のことをＳＮＳ[検索/けんさく]してみよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-482992612"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[来夏/らいか]の[情報/じょうほう]を[集/あつ]めよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2050969510"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[来夏/らいか]のことをＳＮＳ[検索/けんさく]してみよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-243027470"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[先生/せんせい]たちから[情報収集/じょうほうしゅうしゅう]をしよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1753931848"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[情報/じょうほう]をＳＮＳ[検索/けんさく]してみよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1228920471"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[町/まち]の[人/ひと]たちから[情報収集/じょうほうしゅうしゅう]をしよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "291292865"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[当時/とうじ]の[町/まち]の[状況/じょうきょう]を[情報収集/じょうほうしゅうしゅう]しよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1444896348"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[当時/とうじ]の[事件/じけん]を[情報収集/じょうほうしゅうしゅう]しよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-79861648"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[英愛学園/えいあいがくえん]\u3000[偉仁銘文堂/いじんめいぶんどう]\u3000[法令館中/ほうれいかんちゅう]に\\n[練習試合/れんしゅうじあい]で[勝利/しょうり]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1591683156"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[千乃/せんの]の[秘密/ひみつ]のアレを[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-702027974"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "コソコソした[男子/だんし]に[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "666150146"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[繁華街/はんかがい]の[商店街/しょうてんがい]へ[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-320309593"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[学校通/がっこうどお]りの[公園/こうえん]に[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-236108257"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[偽者/にせもの]の[警察官/けいさつかん]に[気/き]をつけよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2031454583"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[優/やさ]しそうな[警察官/けいさつかん]に[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "984716730"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[体育倉庫/たいいくそうこ]へ[行/い]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1303815468"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[香澄崎先生/かすみさきせんせい]に[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1138366700"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]を[追/お]いかけよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-886909054"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海洋生物部員/かいようせいぶつぶいん]に[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2004432049"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[隠/かく]されたサッカーボールを[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "800051279"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[犯人/はんにん]の[手掛/てが]かりを[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1487462617"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[犯人/はんにん]の[居場所/いばしょ]へ[向/む]かおう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1455709471"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サイレッドに[注意/ちゅうい]しにいこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1650946372"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原病院前/なぐもはらびょういんまえ]へ[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2137145852"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "くじ[引/び]き[券/けん]を４[枚探/まいさが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "140865898"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[幸薄/さちうす]そうな[男性/だんせい]に[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1778260791"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "くじ[引/び]きをしよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-486158127"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原駅/なぐもはらえき]へ[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1704043135"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海公園/うみこうえん]の[観光名所/かんこうめいしょ]へ[案内/あんない]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "311857897"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[学校通/がっこうどお]りの[観光名所/かんこうめいしょ]へ[案内/あんない]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1930295478"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原港/なぐもはらこう]の[観光名所/かんこうめいしょ]へ[案内/あんない]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_38",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1362267686"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[同窓会/どうそうかい]の[参加者/さんかしゃ]に[手紙/てがみ]を[届/とど]けよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_39",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1278721694"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[来夏/らいか]が[行/い]っていたお[店/みせ]を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_40",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-33496983"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[三/み]ツ[星/ぼし]バッジを[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_41",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1995976449"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[三/み]ツ[星/ぼし]バッジを[届/とど]けよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_42",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-373237304"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原港/なぐもはらこう]へ[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_43",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1867819878"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原/なぐもはら]ショップキーパーズと[試合/しあい]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_44",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1542948669"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[資料/しりょう]を３つ[集/あつ]めよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_45",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-753973163"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[資料/しりょう]を[渡/わた]しに[職員室/しょくいんしつ]へ[行/い]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_46",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1190311813"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[田舎道/いなかみち]で『[白山/しろやま]くん』を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_47",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-838174483"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[日陰/ひかげ]になる[場所/ばしょ]を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_48",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1917950942"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[百目階段/ひゃくめかいだん]で[特訓/とっくん]をしよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_49",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "627759446"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[入/い]り[江/え]の[浜辺/はまべ]で[試合/しあい]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_50",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1543590920"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[男児/だんじ]の[友達/ともだち]に[話/はなし]を[聞/き]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_51",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-721839250"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "むくれた[男児/だんじ]のところへ[戻/もど]ろう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_52",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1251806925"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原駅/なぐもはらえき]へ[行/い]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_53",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1755478109"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[造船所跡/ぞうせんじょあと]の[特訓場/とっくんじょう]へ[案内/あんない]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_54",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1973897445"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[二戸川中戦/にこがわちゅうせん]の[柳生/やぎゅう]の[写真/しゃしん]を３[枚撮/まいと]ろう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_55",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "44071027"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[柳生/やぎゅう]ファンの[先輩/せんぱい]に[写真/しゃしん]を[届/とど]けよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_56",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "946858478"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[磁場/じば]が[異/こと]なる[場所/ばしょ]を３ヵ[所/しょ][探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_57",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1332271480"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[牟住力/むじゅうりき]に[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_58",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1410998603"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[湯元月見/ゆもとつきみ]と[話/はな]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_59",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "762424347"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[厳/きび]しそうな[理科教師/りかきょうし]と[話/はな]して\\nタイヤターゲット[特訓/とっくん]をしよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_60",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-433225794"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[麺/めん]を[食/た]べてシール１０[枚集/まいあつ]めよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_61",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1859498200"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ゴリどん[好/す]きガールに[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_62",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-81244410"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[香澄崎先生/かすみさきせんせい]から[私物/しぶつ]をもらおう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_63",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1943044208"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[年上好/としうえず]きの[二年生/にねんせい]に\\nボールペンを[届/とど]けよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_64",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "812948643"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "おもちゃを[持/も]ち[去/さ]った[猫/ねこ]を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_65",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1198763061"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "みどりさんにおもちゃを[届/とど]けよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_66",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1733287467"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーガーデンで[山田/やまだ]を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_67",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "273215165"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[管理/かんり]センター[前/まえ]で[山田/やまだ]を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_68",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1612847666"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[教育担当/きょういくたんとう]のスタッフに[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_69",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-505697147"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原/なぐもはら]ショップキーパーズと\\n[路地裏/ろじうら]グラウンドで[対戦/たいせん]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_70",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1282527590"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[失/な]くなったボールを[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_71",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1366614494"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原中/なぐもはらちゅう]へ[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_72",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2051731091"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "グラウンドへ[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_73",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "223206917"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[宿舎/しゅくしゃ]コテージへ[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_74",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1826010202"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[円堂守像/えんどうまもるぞう]の[前/まえ]へ[連/つ]れていこう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_75",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-466715856"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[円堂守像/えんどうまもるぞう]の[前/まえ]で[写真/しゃしん]を[撮/と]ろう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_76",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1323942602"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[聞田/もんでん]の[情報/じょうほう]を[集/あつ]めよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_77",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-971960928"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海公園/うみこうえん]のおばあさんと[話/はな]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_78",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1099969401"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[湯元千南/ゆもとちなみ]に[話/はなし]を[聞/き]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_79",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-915866607"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ストーカーの[手/て]がかりを[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_80",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-207131252"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "３[種類/しゅるい]の[野草/やそう]を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_81",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2069865190"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[野草/やそう]をおじいさんに[届/とど]けよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_82",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-291349196"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[幽霊/ゆうれい]の[目撃者/もくげきしゃ]に[話/はなし]を[聞/き]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_83",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1717211742"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ビーチエリアへ[行/い]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_84",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "130152449"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[夜/よる]のビーチエリアへ[行/い]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_85",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "637439633"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[食/た]べたいものの[意見/いけん]を[集/あつ]めよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_86",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1392098823"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[考/かんが]え[込/こ]む[女性/じょせい]に[報告/ほうこく]しよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_87",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1925565465"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『シグド[戦記/せんき]』を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_88",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "96664719"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『シグド[戦記/せんき]』を[渡/わた]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_89",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-195969353"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原/なぐもはら]へ[戻/もど]ろう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_90",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2091479519"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[喫茶/きっさ]タンクへ[行/い]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_91",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1057844498"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ヨツバの『あの[子/こ]』を[探/さが]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_92",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1208638852"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[旧体育倉庫付近/きゅうたいいくそうこふきん]へ[行/い]こう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_93",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "570973610"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[冷/ひ]えたドリンクを[買/か]って[届/とど]けよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_94",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1427074364"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ゲスト[夫婦/ふうふ]の[夫/おっと]と[写真/しゃしん]を[撮/と]ろう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_95",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-380334577"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[長崎/ながさき]のご[当地/とうち]グルメを[集/あつ]めよう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_96",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1638678887"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ご[当地/とうち]グルメをスタッフに[渡/わた]そう"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_97",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1326438558"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『ブロック・ザ・キーマン』を\\nチームドックのタクティクスにセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_98",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-994892086"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『[二戸川中/にこがわちゅう]』と[練習試合/れんしゅうじあい]を[行/おこな]う"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_99",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1280043428"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]が『[剛/ごう]の[一閃/いっせん]』を[習得/しゅうとく]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_100",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "768639999"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[来夏/らいか]が『ぐるぐるシュート』を[習得/しゅうとく]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_101",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1524085609"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[四川堂/しせんどう]が『ふんばりキャッチ』を[習得/しゅうとく]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_102",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-452587499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]に『[春雷/しゅんらい]』をセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_103",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2081374639"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[四川堂/しせんどう]が『[氷結/ひょうけつ]の[舞/まい]』を[習得/しゅうとく]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_104",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "185102649"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[春雷/しゅんらい]を[完全/かんぜん]に[習得/しゅうとく]：[南雲原/なぐもはら]グラウンド"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_105",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1788025702"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[氷結/ひょうけつ]の[舞/まい]を[完全/かんぜん]に[習得/しゅうとく]：[野球部/やきゅうぶ]グラウンド"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_106",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1066577975"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "タクティクス『[炎/ほのお]の[城壁/じょうへき]』を[習得/しゅうとく]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_107",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1499733619"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "タクティクス『インビジブルリンク』を[習得/しゅうとく]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_108",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "778252005"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "タクティクス『キズナプロトコル』を[習得/しゅうとく]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_109",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1341670586"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『ブースト１５』を\\nチームドックのタクティクスにセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_110",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-757538777"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[木曽路/きそじ]に『プロト・エンターテイナー』をセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_111",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1272033693"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "スカウトで[１人入部/ひとりにゅうぶ]させる"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_112",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1784973122"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『ミルキーウェイ』を\\nチームドックのタクティクスにセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_113",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-210905352"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『[奮起/ふんき]の[咆哮/ほうこう]』を\\nチームドックのタクティクスにセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_114",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2073368978"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『タイタンの[壁/かべ]』を\\nチームドックのタクティクスにセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_115",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "437154765"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『チャンポンスパイク』を\\nスタメンとベンチ[全員/ぜんいん]が[装備/そうび]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_116",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "839358228"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『パラダイムシフト』を\\nチームドックのタクティクスにセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_117",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1425094994"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『[強者封/きょうしゃふう]じ』を\\nチームドックのタクティクスにセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_118",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-603326920"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[亀雄/かめお]にシュート[技/わざ]をセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_119",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1114465179"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[四川堂/しせんどう]にシュート[技/わざ]をセットする"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_120",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "338124132"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "チーム[編成条件/へんせいじょうけん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_121",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1926361890"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "チーム[編成条件/へんせいじょうけん]（[編成画面/へんせいがめん]で[確認/かくにん]）"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_122",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "834367837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サブクエストテスト[詳細/ショウサイ]１"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_123",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1186742731"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サブクエストテスト[詳細/ショウサイ]２"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_124",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-541781903"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サブクエストテスト[詳細/ショウサイ]３"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_125",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "824206975"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "コソコソした[男子/だんし]が\u3000[南雲原中校舎/なぐもはらちゅうこうしゃ]の[中/なか]で\\nハガキサイズの[秘密/ひみつ]のアレを[落/お]としたようだ。\\n[探/さが]すのを[手伝/てつだ]ってほしいようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_126",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1095406320"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "コソコソした[男子/だんし]が\u3000[南雲原中校舎/なぐもはらちゅうこうしゃ]の[中/なか]で\\nハガキサイズの[秘密/ひみつ]のアレを[落/お]としたようだ。\\n３つ[集/あつ]めて[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_127",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-666647734"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[秘密/ひみつ]のアレをすべて[集/あつ]めた。\\n[校舎/こうしゃ]１[階/かい]のコソコソした[男子/だんし]に[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_128",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1354435620"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[秘密/ひみつ]のアレは\\n[生徒会非公認/せいとかいひこうにん]の[千乃/せんの]のブロマイドだった。\\nどうやら[生徒会/せいとかい]に[隠/かく]れて[密売/みつばい]していたようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_129",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "701530482"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]のおばあさんが\u3000スマホゲームで\\n『メッケモン』を[探/さが]しているようだ。\\n[商店街/しょうてんがい]へ[案内/あんない]してほしいようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_130",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-941694882"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]のおばあさんが\u3000スマホゲームで\\n『メッケモン』を[探/さが]しているようだ。\\n[繁華街/はんかがい]の[商店街/しょうてんがい]へ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_131",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1591194084"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]のおばあさんが[探/さが]していたのは\\n『サルモンキー』というメッケモンだった。\\nメッケモンのケージが[増/ふ]やせると[喜/よろこ]んでいた。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_132",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-494120233"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]のおばあさんが\u3000スマホゲームで\\n『レアメッケモン』を[探/さが]しているようだ。\\n[学校通/がっこうどお]りの[公園/こうえん]へ[案内/あんない]してほしいようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_133",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "209859579"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]のおばあさんが\u3000スマホゲームで\\n『レアメッケモン』を[探/さが]しているようだ。\\n[学校通/がっこうどお]りの[公園/こうえん]へ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_134",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1786027455"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]のおばあさんが[探/さが]していたのは\\n『コブラコブーラ』という\\nレアメッケモンだった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_135",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "294060867"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原町内/なぐもはらちょうない]に\u3000『ニセ[警官/けいかん]』がいるようだ。\\n[怪/あや]しい[人/ひと]を[見/み]かけたら\\n[優/やさ]しそうな[警察官/けいさつかん]に[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_136",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2003938567"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ニセ[警官/けいかん]の[正体/しょうたい]は\u3000[特撮/とくさつ]ヒーローの\\n[主人公/しゅじんこう]のコスプレイヤーだった。\\n[優/やさ]しそうな[警察官/けいさつかん]に[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_137",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-7773585"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[優/やさ]しそうな[警察官/けいさつかん]に\\nニセ[警官/けいかん]の[正体/しょうたい]を[報告/ほうこく]した。\\n[今後/こんご]はむやみに[近/ちか]づかないよう[注意/ちゅうい]された。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_138",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1431231383"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[香澄崎先生/かすみさきせんせい]が\\n[恥/は]ずかしい[落/お]とし[物/もの]をしてしまったという。\\n[体育倉庫/たいいくそうこ]まで[取/と]りに[行/い]ってほしいようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_139",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-623128346"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[香澄崎先生/かすみさきせんせい]が\\n[恥/は]ずかしい[落/お]とし[物/もの]をしてしまったという。\\n[体育倉庫/たいいくそうこ]まで[取/と]りにいこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_140",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1137869148"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[体育倉庫/たいいくそうこ]の[扉/とびら]は[開/ひら]かなかったが\\n[白/しろ]いプニプニのマスコットを[手/て]に[入/い]れた。\\n[校舎/こうしゃ]１[階/かい]にいる[香澄崎先生/かすみさきせんせい]に[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_141",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "886419914"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[香澄崎先生/かすみさきせんせい]が[探/さが]していたのは\\n『オバケデカジリ』というマスコットだった。\\nキモかわいいのが[気/き]に[入/い]っているようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_142",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1548722760"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]が[目/め]の[前/まえ]を[横切/よこぎ]った。\\n[正体/しょうたい]を[突/つ]き[止/と]めるため\\n[追/お]いかけて[写真/しゃしん]に[収/おさ]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_143",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-985205774"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]はどこかへ[去/さ]ってしまった。\\n[学校通/がっこうどお]りにいる\\n[海洋生物部員/かいようせいぶつぶいん]に[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_144",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1304312988"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]がしゃべったということは\\n[次/つぎ]の[学会/がっかい]で[持/も]ちきりになる[新事実/しんじじつ]のようだ。\\n[海洋生物部員/かいようせいぶつぶいん]は[興奮/こうふん]して[去/さ]っていった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_145",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2031947969"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原町/なぐもはらちょう]のどこかに『[闇/やみ]の[組織/そしき]』に[隠/かく]された\\nサッカーボールがあるという。\\n[探/さが]すのを[手伝/てつだ]ってほしいようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_146",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1760333331"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原町/なぐもはらちょう]のどこかに『[闇/やみ]の[組織/そしき]』に[隠/かく]された\\nサッカーボールがあるという。\\n[見/み]つけて[回収/かいしゅう]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_147",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "236593239"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーボールを[隠/かく]した[犯人/はんにん]は\\n[足/あし]のケガでナイーブになっていた\\n３[人/にん]の[少年/しょうねん]のうちの[１人/ひとり]だった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_148",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1079025252"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[田中/たなか]マートの[店主/てんしゅ]が\\n[海坊主/うみぼうず]まんを[盗/ぬす]んだ[犯人/はんにん]を[捜/さが]しているようだ。\\n[泥棒退治/どろぼうたいじ]に[興味/きょうみ]はないか？\u3000と[聞/き]かれたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_149",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-809134829"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[田中/たなか]マートの[店主/てんしゅ]が\\n[海坊主/うみぼうず]まんを[盗/ぬす]んだ[犯人/はんにん]を[捜/さが]しているようだ。\\n[手掛/てが]かりを[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_150",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1456260265"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]まんを[盗/ぬす]んだ[犯人/はんにん]の\\n[手掛/てが]かりを[見/み]つけた。\\n[犯人/はんにん]の[居場所/いばしょ]へ[向/む]かおう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_151",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "567014463"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]まんを[盗/ぬす]んだ[犯人/はんにん]は\\nお[腹/なか]を[空/す]かせた\u3000[野良猫/のらねこ]の[家族/かぞく]だった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_152",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1486911855"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[小生意気/こなまいき]な[少年/しょうねん]は\u3000[海公園/うみこうえん]にいる[男/おとこ]が\\nサイレンジャーの[恰好/かっこう]をしているのを\\nやめさせたほうがいいのでは\u3000と[言/い]うが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_153",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1230104509"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[小生意気/こなまいき]な[少年/しょうねん]が[見/み]かけたという\\nサイレンジャーの[姿/すがた]をした[男/おとこ]に[注意/ちゅうい]しに\\n[海公園/うみこうえん]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_154",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-799492601"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サイレッドを[襲/おそ]うチンピラを[撃退/げきたい]したが\\n[騒動/そうどう]の[発端/ほったん]は\u3000サイレッドがかばった[老婆/ろうば]が\\nチンピラを[煽/あお]ったことだった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_155",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1812157748"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]のおばあさんが\u3000スマホゲームで\\n『ボスメッケモン』を[探/さが]しているようだ。\\n[病院/びょういん]まで[案内/あんない]してほしいようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_156",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2113063912"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]のおばあさんが\u3000スマホゲームで\\n『ボスメッケモン』を[探/さが]しているようだ。\\n[南雲原病院前/なぐもはらびょういんまえ]へ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_157",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "453272994"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "おばあさんは\u3000[孫娘/まごむすめ]のボス[戦/せん]を[手伝/てつだ]うために\\nボスメッケモンを[探/さが]していたのだった。\\n[孫娘/まごむすめ]との[冒険/ぼうけん]はこれからも[続/つづ]きそうだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_158",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1738161991"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[幸薄/さちうす]そうな[男性/だんせい]に\\nくじ[引/び]きの[券/けん]を４[枚探/まいさが]してほしいと[頼/たの]まれた。\\n[全部集/ぜんぶあつ]めたら１[枚/まい]あげると[言/い]う。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_159",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1626864480"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[幸薄/さちうす]そうな[男性/だんせい]に\\nくじ[引/び]きの[券/けん]を４[枚探/まいさが]してほしいと[頼/たの]まれた。\\n[繁華街/はんかがい]の[中/なか]で[見/み]つけよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_160",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "100750618"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "くじ[引/び]きの[券/けん]を[集/あつ]めたお[礼/れい]として\\n１[枚/まい]\u3000くじ[引/び]きの[券/けん]をもらった。\\nくじを[引/ひ]いてみよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_161",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1896244620"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "くじ[引/び]きの[券/けん]を４[枚集/まいあつ]めた。\\n[繁華街/はんかがい]の[幸薄/さちうす]そうな[男性/だんせい]に[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_162",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-278728657"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[男性/だんせい]は\u3000[目当/めあ]てだったＣ[賞/しょう]の[景品/けいひん]を\\n[雲明/うんめい]と[交換/こうかん]してもらい\\nうれしそうに[去/さ]っていった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_163",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-312347487"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[追/お]っ[手/て]と[間違/まちが]われたが\u3000[誤解/ごかい]は[解/と]けたようだ。\\nジョセフィーヌは\\n[何/なに]か[頼/たの]みたいことがあるらしいが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_164",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "57644429"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[飼/か]い[主/ぬし]から[逃/に]げ[出/だ]したジョセフィーヌに\\n[町/まち]からの[脱出/だっしゅつ]に[協力/きょうりょく]するよう[強要/きょうよう]された。\\n[南雲原駅/なぐもはらえき]へ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_165",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1704541129"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[駅/えき]までいくと\u3000[飼/か]い[主/ぬし]が[連/つ]れ[戻/もど]しに[来/き]た。\\n[飼/か]い[主/ぬし]の[魅力的/みりょくてき]な[説得/せっとく]に[手/て]のひらを[返/かえ]し\\nジョセフィーヌは[帰/かえ]っていった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_166",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2104089798"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[観光/かんこう]イナチューバーに[町/まち]の[案内/あんない]を[頼/たの]まれた。\\nいいところを[教/おし]えないと\u3000ダメなところを\\n[指摘/してき]してしまうかもしれないらしいが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_167",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2047088861"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[観光/かんこう]イナチューバーに[町/まち]の[案内/あんない]を[頼/たの]まれた。\\n[海公園/うみこうえん]の[観光/かんこう]スポットに[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_168",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "485668505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[観光/かんこう]イナチューバーは\u3000イルとカルの[像/ぞう]より\\nもうちょっとインパクトが[欲/ほ]しいと[言/い]う。\\n[学校通/がっこうどお]りの[観光/かんこう]スポットに[連/つほ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_169",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1811252751"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[観光/かんこう]イナチューバーは\u3000[海坊主/うみぼうず]の[像/ぞう]より\\n[南雲原/なぐもはら]に[来/き]たと[分/わ]かる[場所/ばしょ]に[行/い]きたいと[言/い]う。\\n[南雲原港/なぐもはらこう]の[観光/かんこう]スポットに[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_170",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-175041620"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[ＮＡＧＵＭＯＨＡＲＡ/ナグモハラ]のオブジェクトを[見/み]て\\n[満足/まんぞく]した[観光/かんこう]イナチューバーから\\n[企画担当/きかくたんとう]にスカウトされるが\u3000[丁重/ていちょう]に[断/ことわ]った。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_171",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1599515222"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ワケあって\\n[同窓会/どうそうかい]に[行/い]けなくなったという[男性/だんせい]から\\n[手紙/てがみ]を[届/とど]けてほしいと[頼/たの]まれたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_172",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1319580806"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[同窓会/どうそうかい]に[行/い]けなくなったという[男性/だんせい]から\\n[会場/かいじょう]に[手紙/てがみ]を[届/とど]けてほしいと[頼/たの]まれた。\\n『ちゃんぽん\u3000[青/あお]はる』へ[手紙/てがみ]を[届/とど]けよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_173",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-676436676"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[同窓会/どうそうかい]の[参加者/さんかしゃ]たちに[手紙/てがみ]を[届/とど]けると\\n[先生/せんせい]からの[手紙/てがみ]だと[喜/よろこ]ばれたが\\n[手紙/てがみ]を[渡/わた]した[男性/だんせい]の[謎/なぞ]だけが[残/のこ]った。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_174",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1112775406"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[来夏/らいか]ファンの[女子/じょし]から\\nＳＮＳに[上/あ]がっている[来夏/らいか]が[食/た]べているパフェが\\nどこにあるかと[聞/き]かれたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_175",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1403126846"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[来夏/らいか]ファンの[女子/じょし]から\\n[写真/しゃしん]と[同/おな]じパフェを[食/た]べたいと[頼/たの]まれる。\\n[来夏/らいか]が[行/い]っていたお[店/みせ]を[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_176",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-894741116"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[来夏/らいか]が[行/い]っていたお[店/みせ]は\u3000[喫茶/きっさ]タンクだった。\\nいちごカステラパフェが[終/お]わったことを[知/し]り\\n[来夏/らいか]ファンの[女子/じょし]はパフェの[自作/じさく]を[決意/けつい]した。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_177",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1845514682"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "いばった[男/おとこ]の[子/こ]が\u3000[自分/じぶん]が[三/み]ツ[星/ぼし]エリートで\\n[困/こま]っているから[助/たす]けろと[言/い]っているが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_178",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "510305589"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "いばった[男/おとこ]の[子/こ]が[失/な]くした\u3000[三/み]ツ[星/ぼし]バッジを\\n[商店街/しょうてんがい]アーケードか\u3000[造船所跡/ぞうせんじょあと]か\\n[学校通/がっこうどお]りの[公園/こうえん]に\u3000[探/さが]しに[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_179",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2023492465"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲通/なぐもどお]りにいる\u3000いばった[男/おとこ]の[子/こ]に\\n『[三/み]ツ[星/ぼし]バッジ』を[届/とど]けよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_180",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-261831655"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[男/おとこ]の[子/こ]は\u3000バッジを[失/な]くした[友達/ともだち]のために\\n[三/み]ツ[星/ぼし]エリートのフリをしていたようだ。\\n[男/おとこ]の[子/こ]は\u3000もう[嘘/うそ]をつかないと[約束/やくそく]した。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_181",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-408617544"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[捕/つか]まえに[来/き]たと[思/おも]われたが\\n[誤解/ごかい]は[解/と]けたようだ。\\nまた[何/なに]か[頼/たの]みたいことがあるらしいが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_182",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "162176148"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[飼/か]い[主/ぬし]から[逃/に]げ[出/だ]したジョセフィーヌに\\n[町/まち]からの[脱出/だっしゅつ]に[協力/きょうりょく]するよう[強要/きょうよう]された。\\n[南雲原港/なぐもはらこう]へ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_183",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1868313298"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[港/みなと]までいくと\u3000[飼/か]い[主/ぬし]が[連/つ]れ[戻/もど]しに[来/き]た。\\n[魅力的/みりょくてき]な[説得/せっとく]に[再/ふたた]び[手/て]のひらを[返/かえ]し\\nジョセフィーヌは[帰/かえ]っていった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_184",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1630572310"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[向上心/こうじょうしん]のある[美術部員/びじゅつぶいん]が\\n[絵/え]の[修行/しゅぎょう]に[付/つ]き[合/あ]ってほしいらしい。\\nお[礼/れい]に[宣伝/せんでん]ポスターを[描/か]いてくれるようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_185",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1891701190"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[向上心/こうじょうしん]のある[美術部員/びじゅつぶいん]に\\n[南雲原/なぐもはら]ショップキーパーズとの\\nサッカーバトルで\u3000[必殺技/ひっさつわざ]を[見/み]せよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_186",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "372752256"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[必殺技/ひっさつわざ]を[見/み]て\u3000[刺激/しげき]を[受/う]けた[美術部員/びじゅつぶいん]が\\n[即席/そくせき]で[宣伝/せんでん]ポスターを[描/か]いてくれたが\\n[独創的/どくそうてき]すぎるタッチの[絵/え]だった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_187",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "872990992"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "クラスメイトの[原口/はらぐち]から\\n[香澄崎先生/かすみさきせんせい]に[頼/たの]まれた[資料集/しりょうあつ]めを\\n[一緒/いっしょ]に[手伝/てつだ]ってほしいと[言/い]われたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_188",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1147288991"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "クラスメイトの[原口/はらぐち]と[一緒/いっしょ]に\\n１－Ａ[教室/きょうしつ]・[資料保管室/しりょうほかんしつ]・[理科室/りかしつ]にある\\n[資料/しりょう]を[集/あつ]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_189",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-580162523"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[集/あつ]めた３つの[資料/しりょう]を[渡/わた]しに\\n[職員室/しょくいんしつ]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_190",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1435738957"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[原口/はらぐち]の[本当/ほんとう]の[目的/もくてき]は\u3000[資料集/しりょうあつ]めではなく\\n[喝/かつ]を[入/い]れてもらうことだったが\\n[厳/きび]しい[言葉/ことば]を[放/はな]つ[来夏/らいか]に\u3000[乗/の]り[換/か]えたようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_191",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "688781736"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[生徒会/せいとかい]の[門司/もじ]が\u3000『[白山/しろやま]くん』を\\n[一緒/いっしょ]に[探/さが]してほしいようだ。\\nサッカーに[使/つか]えそうなものをあげると[言/い]う。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_192",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1499925799"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[生徒会/せいとかい]の[門司/もじ]が\\n[親友/しんゆう]の『[白山/しろやま]くん』に[会/あ]いたがっている。\\n[田舎道/いなかみち]で[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_193",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1066509155"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[田舎道/いなかみち]の\u3000[日陰/ひかげ]になる[場所/ばしょ]を[探/さが]して\\n[白山/しろやま]くんを[見/み]つけよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_194",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1217827829"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[門司/もじ]の[親友/しんゆう]\u3000[白山/しろやま]くんの[正体/しょうたい]は\\nどことなく[千乃/せんの]に[似/に]た[白猫/しろねこ]だった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_195",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2083897262"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[積極的/せっきょくてき]な[新聞部員/しんぶんぶいん]に\\nサッカー[部/ぶ]の[密着取材/みっちゃくしゅざい]を[申/もう]し[込/こ]まれた。\\n[引/ひ]き[受/う]けたら[宣伝/せんでん]してくれるようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_196",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1841570174"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[積極的/せっきょくてき]な[新聞部員/しんぶんぶいん]に\\nサッカー[部/ぶ]の[密着取材/みっちゃくしゅざい]を[依頼/いらい]された。\\n[百目階段/ひゃくめかいだん]での[特訓姿/とっくんすがた]を[見/み]せよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_197",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "187862840"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[積極的/せっきょくてき]な[新聞部員/しんぶんぶいん]は\\nサッカー[部/ぶ]の[特訓風景/とっくんふうけい]を\u3000その[目/め]に[焼/や]き[付/つ]け\\n[記事/きじ]にするため[去/さ]っていった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_198",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "722402598"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[一面/いちめん]に[載/の]せる[写真/しゃしん]で\u3000[新聞部員/しんぶんぶいん]が[争/あらそ]っている。\\nキーパーとストライカー\u3000どちらが[映/ば]えるか\\n[実際/じっさい]にプレイして[見/み]せてほしいようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_199",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-989815798"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[一面/いちめん]に[載/の]せる[写真/しゃしん]で\u3000[新聞部員/しんぶんぶいん]が[争/あらそ]っている。\\n[海/うみ]カモメサッカークラブとの[対戦/たいせん]を[見/み]せよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_200",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1544146352"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[新聞部員/しんぶんぶいん]たちは\u3000[試合/しあい]を[見/み]て[仲直/なかなお]りし\\n[一面/いちめん]には\u3000キーパーとストライカー\\nどちらの[写真/しゃしん]も[掲載/けいさい]されることになった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_201",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1157180093"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "むくれた[男児/だんじ]が\\nとうとう『[闇/やみ]の[組織/そしき]』があらわれたと[言/い]う。\\n[助/たす]けを[求/もと]められたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_202",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1133833892"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『[闇/やみ]の[組織/そしき]』の[陰謀/いんぼう]で\\nサッカーをしている[子/こ]が[集/あつ]まらないという。\\n[田舎道/いなかみち]・[繁華街/はんかがい]・[海岸沿/かいがんぞ]いの[道/みち]で[話/はなし]を[聞/き]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_203",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-627196130"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[話/はなし]を[聞/き]いた[子/こ]は\\nみんな[頑/かたく]なに[口/くち]を[閉/と]ざしている。\\n[一度/いちど]\u3000むくれた[男児/だんじ]のところへ[戻/もど]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_204",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1382379640"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『[闇/やみ]の[組織/そしき]』の[男/おとこ]がいるという\\n[南雲原駅/なぐもはらえき]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_205",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "872290859"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[男/おとこ]の[正体/しょうたい]は\u3000サッカースクールのコーチで\\nみんな\u3000[黙/だま]って[上手/うま]くなろうと\\n[隣町/となりまち]のスクールに[通/かよ]っていたようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_206",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1724275757"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "イルとカルが[得意/とくい]だった[芸/げい]を\\nもう[一度/いちど]\u3000どこかで[見/み]れないかと\\nイルカ[好/ず]きのおじいさんは[言/い]うが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_207",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2000143103"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "イルとカルが[得意/とくい]だった[芸/げい]を\\nもう[一度見/いちどみ]たいと[言/い]うおじいさんを\\n[造船所跡/ぞうせんじょあと]に[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_208",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "297888955"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[特訓/とっくん]する[桜/さくら][咲/ざき]と[来夏/らいか]を[見/み]たおじいさんは\\nイルとカルが[人間/にんげん]に[生/う]まれ[変/か]わって\\nまた[会/あ]いに[来/き]てくれたと[喜/よろこ]んだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_209",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2076404885"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[野球部派閥/やきゅうぶはばつ]の[柳生/やぎゅう]ファンたちが\\n[雲明/うんめい]を[襲撃/しゅうげき]しようと[計画/けいかく]しているらしい。\\n[阻止/そし]するために[手/て]を[組/く]みたいようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_210",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1781723719"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[二戸川中/にこがわちゅう]との[試合/しあい]の\u3000[柳生/やぎゅう]の[写真/しゃしん]を３[枚撮/まいと]り\\n[柳生/やぎゅう]ファンの[先輩/せんぱい]に[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_211",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "214195203"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[話/はなし]を[聞/き]いた[野球部派閥/やきゅうぶはばつ]の[生徒/せいと]たちは\\n[柳生/やぎゅう]は[野球部/やきゅうぶ]に[戻/もど]るべきだという\\n[考/かんが]えを[改/あらた]めた。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_212",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1469097923"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[宇宙研究会/うちゅうけんきゅうかい]の[牟住力悠瑛/むじゅうりきゆうえい]は\\n[磁場/じば]が[異/こと]なる[場所/ばしょ]を[探/さが]してきてほしいようだ。\\n[合併/がっぺい]してもらった[恩/おん]があるが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_213",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-670716750"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[宇宙研究会/うちゅうけんきゅうかい]の[牟住力悠瑛/むじゅうりきゆうえい]に\\n[磁場/じば]が[異/こと]なる[場所/ばしょ]を３ヵ[所探/しょさが]すよう[頼/たの]まれた。\\n[南雲原中/なぐもはらちゅう]の[屋外/おくがい]を[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_214",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1091370248"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[磁場/じば]が[異/こと]なる[場所/ばしょ]を[探/さが]し[終/お]えた。\\n[牟住力/むじゅうりき]に[報告/ほうこく]しに[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_215",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "906743198"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[磁場/じば]が[異/こと]なる[場所/ばしょ]を３ヵ[所結/しょむす]んだことで\\n[校内/こうない]に\u3000[巨大/きょだい]なデルタ[型/がた]が[描/えが]かれたらしい。\\n[宇宙研究会/うちゅうけんきゅうかい]の[目的/もくてき]は\u3000[宇宙人/うちゅうじん]との[交信/こうしん]だった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_216",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1518208315"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[湯元月見/ゆもとつきみ]から\u3000『アイツ』がまた\\nうどんを[味見/あじみ]してほしいと[言/い]っていると\\n[聞/き]いたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_217",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1267702761"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[湯元月見/ゆもとつきみ]に[話/はな]しかけて\\nうどんの[味見/あじみ]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_218",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-762918317"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[文男/ふみお]の[家出/いえで]は\u3000[母/はは]を[超/こ]えるための\\nうどん[修業/しゅぎょう]が[目的/もくてき]だった。\\n[湯元一家/ゆもといっか]は\u3000[家族/かぞく]の[絆/きずな]を[確/たし]かめ[合/あ]った。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_219",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "588613739"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "イナチューバーを[目指/めざ]している\\n[厳/きび]しそうな[理科教師/りかきょうし]は\u3000[動画/どうが]を[撮/と]るために\\nサッカー[部/ぶ]の[特訓/とっくん]に[参加/さんか]させてほしいようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_220",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-853808825"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "イナチューバーを[目指/めざ]している\\n[厳/きび]しそうな[理科教師/りかきょうし]と[一緒/いっしょ]に\\nタイヤターゲット[特訓/とっくん]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_221",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1410513149"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[教師/きょうし]は\u3000マン[隊長/たいちょう]のファンである[娘/むすめ]から\\nもっとかまってほしいと[本音/ほんね]を[伝/つた]えられ\\n[娘/むすめ]と[一緒/いっしょ]に[過/す]ごす[時間/じかん]を[増/ふ]やすと[誓/ちか]った。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_222",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1982713453"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原/なぐもはら]の[店/みせ]で[麺/めん]を[食/た]べたらもらえる\\n『ゴリラどんぶり[大将/たいしょう]のシール』を\\n[一緒/いっしょ]に[集/あつ]めてほしいと[言/い]われたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_223",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "105331426"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原/なぐもはら]の[店/みせ]で[麺/めん]を[食/た]べて\\n『ゴリラどんぶり[大将/たいしょう]のシール』を\\n１０[枚集/まいあつ]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_224",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1622250664"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『ゴリラどんぶり[大将/たいしょう]のシール』を\\n１０[枚/まい][集/あつ]めた。\\n[繁華街/はんかがい]のゴリどん[好/す]きガールに[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_225",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-397845554"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『ゴリどん』の[作者/さくしゃ]だった\\nゴリどん[好/す]きガールの[父/ちち]は\\n[娘/むすめ]に[褒/ほ]められ\u3000[自信/じしん]を[取/と]り[戻/もど]した。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_226",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1797848789"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[年上好/としうえず]きの[二年生/にねんせい]から\\nお[願/ねが]いがあるので\\n[話/はなし]を[聞/き]いてほしいと[言/い]われたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_227",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "457312858"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[香澄崎先生/かすみさきせんせい]を[女神/めがみ]と[呼/よ]ぶ\\n[年上好/としうえず]きの[二年生/にねんせい]のために\\n[職員室/しょくいんしつ]にいる[香澄崎先生/かすみさきせんせい]から\u3000[私物/しぶつ]をもらおう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_228",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2108990496"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[香澄崎先生/かすみさきせんせい]がくれたボールペンを\\nサッカー[部室付近/ぶしつふきん]にいる\\n[年上好/としうえず]きの[二年生/にねんせい]に[渡/わた]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_229",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-179541130"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[年上好/としうえず]きの[二年生/にねんせい]は\u3000サッカー[部/ぶ]の[快進撃/かいしんげき]が\\n[勝利/しょうり]の[女神/めがみ]の[香澄崎先生/かすみさきせんせい]のおかげだと[信/しん]じ\\nお[守/まも]りとして\u3000[私物/しぶつ]を[欲/ほ]しがっていたようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_230",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1602998928"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "みどりさんは\\nちょうど[困/こま]っていることがあり\\n[助/たす]けてほしいようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_231",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-803284481"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "みどりさんの\u3000[亡/な]き[愛犬/あいけん]タンクのおもちゃを\\n[猫/ねこ]から[取/と]り[返/かえ]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_232",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1226278981"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[猫/ねこ]から[取/と]り[返/かえ]した『タンクのおもちゃ』を\\nみどりさんに[届/とど]けよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_233",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1041283283"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "おもちゃを[受/う]け[取/と]ったみどりさんは\\n[二度/にど]と[失/な]くさないことを[誓/ちか]った。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_234",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1850097218"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[教育担当/きょういくたんとう]のスタッフから\\n[新人/しんじん]スタッフが[来/こ]ないので\\n[探/さが]すのを[手伝/てつだ]ってほしいと[言/い]われたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_235",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2027578505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[金髪/きんぱつ]で[眼鏡/めがね]をかけた[新人/しんじん]スタッフ\\n『[山田/やまだ]』を[探/さが]すよう[頼/たの]まれた。\\nお[台場/だいば]サッカーガーデンの[中/なか]で[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_236",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "506251981"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[山田/やまだ]が[迷子/まいご]を[連/つ]れて[行/い]ったという\\nお[台場/だいば]サッカーガーデン\u3000[宿泊/しゅくはく]エリアの\\n[管理/かんり]センター[前/まえ]で[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_237",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1764489819"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[管理/かんり]センターに\u3000[山田/やまだ]はいなかった。\\nお[台場/だいば]サッカーガーデンで[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_238",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-145788936"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[山田/やまだ]は[慌/あわ]てて[出/で]て[行/い]ったらしい。\\nお[台場/だいば]サッカーガーデンで[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_239",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2142740626"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[宿舎前/しゅくしゃまえ]のグラウンドの[入口/いりぐち]で\\n[困/こま]っている[人/ひと]を[手伝/てつだ]う[山田/やまだ]と[出会/であ]った。\\n[教育担当/きょういくたんとう]のスタッフに[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_240",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "423694036"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[新人/しんじん]スタッフの[山田/やまだ]は\u3000[集合時間/しゅうごうじかん]には[遅/おく]れたが\\n[困/こま]っている[人/ひと]のことを[最優先/さいゆうせん]に[考/かんが]える\\nいいスタッフだった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_241",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-272660235"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ガキ[大将/だいしょう]な[男児/だんじ]に\\n[路地裏/ろじうら]グラウンドで\\n[生/なま]で[試合/しあい]を[見/み]せてほしいとお[願/ねが]いされたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_242",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "28436953"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ガキ[大将/だいしょう]な[男児/だんじ]に\u3000[試合/しあい]を[見/み]せるため\\n[南雲原/なぐもはら]ショップキーパーズと[対戦/たいせん]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_243",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1732724637"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[四川堂/しせんどう]の\u3000[生/なま]の[動/うご]きに[感激/かんげき]した[男児/だんじ]は\\nフットボールフロンティアに[出場/しゅつじょう]するような\\n[一流/いちりゅう]のキーパーになる[夢/ゆめ]を[宣言/せんげん]した。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_244",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "618879824"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[忙/いそが]しい[運営/うんえい]スタッフは\\n[失/な]くなったサッカーボールを[探/さが]すのを\\n[手伝/てつだ]ってほしいようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_245",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-890422660"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[忙/いそが]しい[運営/うんえい]スタッフの[代/か]わりに\\n[失/な]くなったサッカーボールを[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_246",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1407478726"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[探/さが]していたサッカーボールは\\n[運営/うんえい]スタッフの\u3000[思/おも]い[出/で]のボールだった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_247",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "971402216"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ジョセフィーヌとは\\nつくづく[縁/えん]があるようだ。\\nまた[何/なに]か[頼/たの]みたいことがあるらしいが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_248",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-672658748"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[飼/か]い[主/ぬし]から[逃/に]げ[出/だ]したジョセフィーヌに\\n[町/まち]からの[脱出/だっしゅつ]に[協力/きょうりょく]するよう[強要/きょうよう]された。\\n[南雲原中/なぐもはらちゅう]のスカイポートへ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_249",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1323391870"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[飼/か]い[主/ぬし]に[変装/へんそう]していた[妖士乃/あやしの]によって\\n[本音/ほんね]を[引/ひ]き[出/だ]されたジョセフィーヌ。\\n[猫好/ねこず]きマダムとの[絆/きずな]が[深/ふか]まったようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_250",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "71581292"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[陽気/ようき]な[海外記者/かいがいきしゃ]が\u3000[迷子/まいご]になっており\\nお[台場/だいば]サッカーガーデンを\\n[案内/あんない]してほしいようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_251",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1709134897"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[迷子/まいご]になっていた\u3000[陽気/ようき]な[海外記者/かいがいきしゃ]を\\n[宿舎前/しゅくしゃまえ]のグラウンドへ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_252",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "53082741"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[陽気/ようき]な[海外記者/かいがいきしゃ]を\\n[宿舎/しゅくしゃ]コテージへ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_253",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1949223651"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[陽気/ようき]な[海外記者/かいがいきしゃ]を\\n[円堂守像/えんどうまもるぞう]の[前/まえ]へ[連/つ]れていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_254",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-364224704"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[陽気/ようき]な[海外記者/かいがいきしゃ]と[一緒/いっしょ]に\\n[円堂守像/えんどうまもるぞう]の[前/まえ]で[写真/しゃしん]を[撮/と]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_255",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1655869482"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[陽気/ようき]な[海外記者/かいがいきしゃ]は[円堂守像/えんどうまもるぞう]を[見/み]て\\nサッカーを[初/はじ]めて[好/す]きになった[時/とき]の\\n[情熱/じょうねつ]を[思/おも]い[出/だ]した。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_256",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "555125989"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[夜/よる]に[後輩/こうはい]が[出歩/である]いている[噂/うわさ]を[聞/き]き\\n[心配/しんぱい]なので\u3000[調/しら]べてほしいようだ。\\n[後輩/こうはい]はおばあちゃんと[一緒/いっしょ]にいたらしい。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_257",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1367111786"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[陸上部/りくじょうぶ]の[聞田/もんでん]が\u3000[夜/よる]に[出歩/である]いているらしい。\\n[北棟校舎前/きたとうこうしゃまえ]・[南雲原中屋上/なぐもはらちゅうおくじょう]・[海公園/うみこうえん]で\\n[聞/き]き[込/こ]みをしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_258",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-931845680"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[聞田/もんでん]と[一緒/いっしょ]にいたという\\n[夜/よる]の[海公園/うみこうえん]にいる\u3000おばあさんに[話/はな]しかけよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_259",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1083041466"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[聞田/もんでん]は『メッケモンGO』にハマり\\nおばあさんと[遊/あそ]んでいたのだった。\\n[部長/ぶちょう]からは\u3000ゲーム[禁止/きんし]を[言/い]い[渡/わた]された。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_260",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "779058516"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[湯元月見/ゆもとつきみ]から\\n[相談/そうだん]に[乗/の]ってほしいことがあり\\n[時間/じかん]があるか[聞/き]かれたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_261",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1577421275"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[月見/つきみ]の[娘/むすめ]\u3000[湯元千南/ゆもとちなみ]が\\nストーカーにつきまとわれているらしい。\\n[詳/くわ]しい[話/はなし]を[聞/き]きにいこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_262",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-955459487"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[千南/ちなみ]が[視線/しせん]を[感/かん]じたという\\n[山景台/さんけいだい]・[田舎道/いなかみち]・[海岸沿/かいがんぞ]いの[道/みち]・[造船所跡/ぞうせんじょあと]を\\n[調/しら]べよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_263",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1341396745"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ストーカーの[正体/しょうたい]は\u3000カジだった。\\n[千南/ちなみ]に\u3000[拾/ひろ]ったペンダントを[渡/わた]そうとしたが\\nなかなか[声/こえ]が[掛/か]けられなかったようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_264",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1671945311"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[料理好/りょうりず]きなおじいさんが\\nサッカーが[強/つよ]くなる\\n『[究極/きゅうきょく]のスープ』を[作/つく]ってくれると[言/い]うが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_265",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "332212432"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "おじいさんにスープを[作/つく]ってもらうため\\nお[台場/だいば]サッカーガーデンの[宿舎/しゅくしゃ]エリアで\\n３[種類/しゅるい]の[野草/やそう]を[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_266",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1966835350"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "３[種類/しゅるい]の[野草/やそう]を[集/あつ]め[終/お]えた。\\nお[台場/だいば]サッカーガーデンで[待/ま]っている\\n[料理好/りょうりず]きなおじいさんに[持/も]っていこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_267",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-37533188"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[時代遅/じだいおく]れと[言/い]われた[料理好/りょうりず]きなおじいさんは\\n[新/あら]たなる[究極/きゅうきょく]のスープを[完成/かんせい]させるため\\n[厨房/ちゅうぼう]へ[帰/かえ]っていった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_268",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "161864817"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[夜/よる]に[幽霊/ゆうれい]を[目撃/もくげき]した[新米警備員/しんまいけいびいん]が\\n[仕事/しごと]に[身/み]が[入/はい]らないため\\n[幽霊/ゆうれい]はいないと[証明/しょうめい]してほしいようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_269",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "247994472"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "お[台場/だいば]サッカーガーデン[内/ない]に[出没/しゅつぼつ]する\\n[幽霊/ゆうれい]の[正体/しょうたい]を[突/つ]き[止/と]めるために\\n[目撃者/もくげきしゃ]を[探/さが]して\u3000[話/はなし]を[聞/き]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_270",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1748940334"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雲明/うんめい]の[髪型/かみがた]に[似/に]たシルエットで\\n[浮遊/ふゆう]してしゃべる[幽霊/ゆうれい]が[目撃/もくげき]されたという\\nビーチエリアに[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_271",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-523863740"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]を[騙/かた]る[犯人/はんにん]を[突/つ]き[止/と]めるため\\n『お[台場/だいば]の[海坊主/うみぼうず]』が[出没/しゅつぼつ]する\\n[夜/よる]のビーチエリアへ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_272",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2124606695"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『お[台場/だいば]の[海坊主/うみぼうず]』の[正体/しょうたい]は\\n『ウズシオくん』という\\n[英愛学園/えいあいがくえん]の[特訓用多機能/とっくんようたきのう]ドローンだった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_273",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1241628862"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "スポーツをやっている[人/ひと]が\\n[食/た]べたくなるフードの[調査/ちょうさ]を\\n[手伝/てつだ]ってほしいようだが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_274",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-980104243"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[運動/うんどう]している[時/とき]に[食/た]べたいものについて\\nお[台場/だいば]サッカーガーデンで\\n３[人/にん]から[意見/いけん]を[集/あつ]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_275",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1553832567"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "スポーツをやっている[人/ひと]の[意見/いけん]を\\n[一通/ひととお]り[集/あつ]めることができた。\\n[考/かんが]え[込/こ]む[女性/じょせい]に[報告/ほうこく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_276",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "731556577"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[考/かんが]え[込/こ]む[女性/じょせい]は\u3000『[舶壁屋/はくへきや]』の[社員/しゃいん]だった。\\n[奇抜/きばつ]な[新製品/しんせいひん]を[考/かんが]える[女性/じょせい]に[対/たい]して\\nカステラへの[思/おも]いを[主張/しゅちょう]した。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_277",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-490373686"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[読書好/どくしょず]きの[先輩/せんぱい]が\\n『シグド[戦記/せんき]』を[今/いま]すぐ[貸/か]してくれる[人/ひと]を\\n[探/さが]しているようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_278",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1833989819"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『シグド[戦記/せんき]』を[貸/か]してくれる[人/ひと]を[探/さが]すため\\n[南雲原中校内/なぐもはらちゅうこうない]で\u3000[読書/どくしょ]をしている[人/ひと]に\\n[話/はな]しかけよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_279",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "195483903"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[本/ほん]に[夢中/むちゅう]な[男子/だんし]から\\n『シグド[戦記/せんき]』を[借/か]りられた。\\n[読書好/どくしょず]きな[先輩/せんぱい]に[渡/わた]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_280",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2090985577"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[全/すべ]ては\u3000シグド[戦記/せんき]を[布教/ふきょう]する[仕込/しこ]みだった。\\nしかし[雲明/うんめい]もまた\u3000シグラーだったのだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_281",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1683033956"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[一度/いちど]も[嘘/うそ]の[記事/きじ]を[書/か]いたことがないという\\nあやしい[記者/きしゃ]から\u3000[取材/しゅざい]を[申/もう]し[込/こ]まれたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_282",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "339475435"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "あやしい[記者/きしゃ]がデタラメを[書/か]くかもしれない。\\n[南雲原/なぐもはら]へ[戻/もど]って[止/と]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_283",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1926059439"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "あやしい[記者/きしゃ]は[喫茶店/きっさてん]にいるに[違/ちが]いない。\\n[喫茶/きっさ]タンクへ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_284",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-97150265"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "デタラメな[記事/きじ]のおかげで[成功/せいこう]した[男/おとこ]がいた。\\nあやしい[記者/きしゃ]は\u3000[書/か]いたことが[現実/げんじつ]になる\\n『ドリームライター』なのかもしれない。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_285",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1358046015"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[不破/ふわ]アリスの[刺客/しかく]だった[編入生/へんにゅうせい]ヨツバは\\n『あの[子/こ]』に[会/あ]うまで[帝国/ていこく]に[帰/かえ]らないと[言/い]う。\\n[一目見/ひとめみ]ただけで[名前/なまえ]も[学年/がくねん]も[不明/ふめい]らしいが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_286",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-546887602"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[編入生/へんにゅうせい]ヨツバが[一目惚/ひとめぼ]れした『あの[子/こ]』を\\n[南雲原中/なぐもはらちゅう]で\u3000[目撃情報/もくげきじょうほう]を[頼/たよ]りに[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_287",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1181645300"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[手/て]がかりは[得/え]られなかったが\\nよく[考/かんが]えると[１人/ひとり]の[人物/じんぶつ]が[連想/れんそう]される。\\n[旧体育倉庫付近/きゅうたいいくそうこふきん]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_288",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "828983650"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[編入生/へんにゅうせい]ヨツバが[一目惚/ひとめぼ]れした『あの[子/こ]』は\\n[百道/ももち]が[作/つく]った『[ＵＭ－ＢＺ９/ユーエムビーゼットナイン]』という\\nサッカー[練習用/れんしゅうよう]ロボットだった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_289",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1308038023"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ゲスト[夫婦/ふうふ]の[妻/つま]から\\nショッピングモールで[冷/ひ]えたドリンクを\\n[買/か]ってきてほしいと[言/い]われたが…。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_290",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1033758474"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ショッピングモールで\\nキンキンに[冷/ひ]えたドリンクを[買/か]って\\nゲスト[夫婦/ふうふ]に[届/とど]けよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_291",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1533757772"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "チャンプオン[限定/げんてい]ジャージを[着/き]て\\nゲスト[夫婦/ふうふ]の[夫/おっと]と[一緒/いっしょ]に[記念写真/きねんしゃしん]を[撮/と]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_292",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "745306586"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[夫婦/ふうふ]は『チャンプオン』の[関係者/かんけいしゃ]だった。\\n[記念写真/きねんしゃしん]は\u3000ジャージのほうが\\n[目当/めあ]てだったのかもしれない。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_293",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2035564508"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ベテラン[調理/ちょうり]スタッフは\\n[新/しん]メニュー[作成/さくせい]のために\\n[長崎/ながさき]のご[当地/とうち]グルメを[教/おし]えてほしいようだ。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_294",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "155110227"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[長崎/ながさき]の[味/あじ]を[再現/さいげん]する[新/しん]メニュー[作成/さくせい]のために\\nちゃんぽん[屋/や]・[南雲原駅/なぐもはらえき]・[喫茶/きっさ]タンクで\\n[長崎/ながさき]のご[当地/とうち]グルメを３つ[集/あつ]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_295",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1875404055"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[長崎/ながさき]のご[当地/とうち]グルメを３つ[集/あつ]めた。\\nお[台場/だいば]サッカーガーデンの[宿舎内/しゅくしゃない]にいる\\nベテラン[調理/ちょうり]スタッフに[届/とど]けにいこう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_296",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-416241025"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[一見/いっけん]ゲテモノの[新/しん]メニューは\\n[南雲原/なぐもはら]の[味/あじ]を[感/かん]じることができ\\nとても[美味/おい]しかった。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_297",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2114012929"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原中学/なぐもはらちゅうがく]で\u3000[新/あたら]しい[生活/せいかつ]が[始/はじ]まった。\\n[学校/がっこう]について[話/はなし]を[聞/き]くため\\n[近/ちか]くにいる[生徒/せいと]に[話/はな]し[掛/か]けよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_298",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "151418775"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[生徒/せいと]たちから[南雲原中/なぐもはらちゅう]の[評判/ひょうばん]を[聞/き]き\\nＳＮＳで[学校/がっこう]の[情報/じょうほう]を[確認/かくにん]した。\\nそろそろ[自分/じぶん]のクラスの１－Ａへ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_299",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1878055379"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "クラスメートの[木曽路/きそじ]に[話/はな]し[掛/か]けられ\\n[案内/あんない]を[断/ことわ]っても\u3000ずっとついてくる。\\n[木曽路/きそじ]をまいて[振/ふ]り[切/き]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_300",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-418900293"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]をかばって[倒/たお]れ\u3000[病院/びょういん]で[目/め]が[覚/さ]めた。\\n[病院/びょういん]からの[帰/かえ]り[道/みち]で\\n[風/かぜ]に[当/あ]たりに[海公園/うみこうえん]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_301",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2037154584"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＳＮＳで[昔/むかし]の[桜咲/さくらざき]の[映像/えいぞう]を[発見/はっけん]し\\nサッカー[少年/しょうねん]だったことを[知/し]った。\\n[校内/こうない]でさらに\u3000[桜咲/さくらざき]のことを[調/しら]べ[上/あ]げよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_302",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "241939342"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[帰/かえ]る[方向/ほうこう]が[同/おな]じだと[言/い]う[桜咲/さくらざき]と\\n[帰宅/きたく]ルートで[家/いえ]へ[帰/かえ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_303",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1755127244"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[近/ちか]くにいる[生徒/せいと]から[話/はなし]を[聞/き]いた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_304",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-530197854"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "クラスメートの[木曽路/きそじ]に\u3000\\nしつこくつきまとわれたが\u3000[諦/あきら]めたようだ。\\n[帰宅/きたく]ルートで[家/いえ]へ[帰/かえ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_305",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1893388083"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[校内/こうない]で[桜咲/さくらざき]に[関/かん]する[話/はなし]を[聞/き]いた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_306",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "131989413"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]といると\u3000[自分/じぶん]の[中/なか]でのサッカーが\\n[膨/ふく]れ[上/あ]がってくるのを[感/かん]じる。\\n[帰宅/きたく]ルートで[家/いえ]へ[帰/かえ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_307",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2024728879"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "イナコードを[開/ひら]いて\\n３[人/にん]のグループをつくろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_308",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1729787456"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカー[部/ぶ]をつくることになり\\n[経験者/けいけんしゃ]だという[木曽路/きそじ]が[仲間/なかま]に[加/くわ]わった。\\n[部室/ぶしつ]になりそうな[場所/ばしょ]を[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_309",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "270354134"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[部室/ぶしつ]になりそうな[場所/ばしょ]を[調/しら]べた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_310",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1995171988"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[旧体育倉庫/きゅうたいいくそうこ]を[部室/ぶしつ]にしようとしたが\\n[鍵/かぎ]を[管理/かんり]する[香澄崎先生/かすみさきせんせい]が[帰宅済/きたくず]みだった。\\n[明日相談/あしたそうだん]することにして\u3000[今日/きょう]は[帰/かえ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_311",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-32299014"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[木曽路/きそじ]の[実力/じつりょく]に[納得/なっとく]した[桜咲/さくらざき]。\\nそんな[２人/ふたり]を[見/み]て\u3000[試/ため]したいことを[思/おも]いつく。\\n[帰宅/きたく]ルートで[家/いえ]へ[帰/かえ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_312",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1618457177"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]と[木曽路/きそじ]が\u3000サッカーの[感覚/かんかく]を\\n[取/と]り[戻/もど]すためには[特訓/とっくん]する[必要/ひつよう]がある。\\n[百目階段/ひゃくめかいだん]で[特訓/とっくん]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_313",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "393249487"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[百目階段/ひゃくめかいだん]が[特訓/とっくん]に[使/つか]えることが[分/わ]かった。\\n[他/ほか]にも[特訓/とっくん]スポットが[探/さが]せるかもしれない。\\n[今日/きょう]のところは\u3000[帰宅/きたく]ルートで[家/いえ]へ[帰/かえ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_314",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1904618635"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "こちらを[監視/かんし]していた[海坊主/うみぼうず]を[発見/はっけん]した。\\n[捕/つか]まえれば\u3000サッカー[部再建/ぶさいけん]のカギになる。\\n[海坊主/うみぼうず]を[追/お]いかけよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_315",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-109124637"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]からサッカーをやめた[理由/りゆう]を[聞/き]いた。\\n[帰宅/きたく]ルートで[家/いえ]へ[帰/かえ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_316",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1774321266"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]は\u3000[百道/ももち]が[操作/そうさ]するドローンで\\n[情報収集/じょうほうしゅうしゅう]ツールであることを[突/つ]き[止/と]めた。\\n[協力/きょうりょく]してもらうため\u3000[百道/ももち]を[説得/せっとく]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_317",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "516345572"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]から[動画/どうが]のアドレスをもらったが\\n[今日/きょう]は\u3000[病院/びょういん]で[検査/けんさ]を[受/う]ける[予定/よてい]がある。\\n[南雲原総合病院/なぐもはらそうごうびょういん]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_318",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1278682499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[自分/じぶん]も[幻/まぼろし]のボールが[見/み]えるという[男/おとこ]が\\nサッカーへの[思/おも]いを[燃/も]やしている。\\n[彼/かれ]のエアサッカーにつき[合/あ]おう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_319",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1848816614"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "エアサッカーをしていたら\\n[検査/けんさ]の[時間/じかん]に[間/ま]に[合/あ]わなくなった。\\n[海公園/うみこうえん]に[風/かぜ]に[当/あ]たりに[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_320",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "993006869"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[百道/ももち]に[頼/たの]んでいた\\n[試合練習/しあいれんしゅう]システムが[完成/かんせい]した。\\nさっそく[試/ため]してみよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_321",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1573305169"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[選手集/せんしゅあつ]めについては[作戦/さくせん]を[考/かんが]えてある。\\n[打/う]ち[合/あ]わせをするため\\n[旧体育倉庫/きゅうたいいくそうこ]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_322",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-717327303"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーのイメージを[一新/いっしん]する[必要/ひつよう]がある。\\n[学校/がっこう]で[一番人気/いちばんにんき]のダンス[部/ぶ]に[体験入部/たいけんにゅうぶ]して\\n[人気/にんき]の[秘密/ひみつ]を[探/さぐ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_323",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1264247194"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "１－Ｂの[古道飼/こどうかい]が\u3000[驚異的/きょういてき]な[身体能力/しんたいのうりょく]を\\n[持/も]っていることが[分/わ]かった。\\n[追/お]いかけてスカウトしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_324",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1012781324"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[部長/ぶちょう]の[岩城/いわしろ]に\u3000[体験入部希望/たいけんにゅうぶきぼう]を[伝/つた]えると\\n[来夏目当/らいかめあ]てなら[入部/にゅうぶ]は[意味/いみ]がないと[言/い]われた。\\n[校内/こうない]で\u3000[来夏/らいか]のことを[調/しら]べよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_325",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1521188682"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ダンス[部員/ぶいん]から[来夏/らいか]に[関/かん]する[話/はなし]を[聞/き]いた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_326",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-766267360"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ダンス[部/ぶ]の[人気/にんき]は\u3000[来夏/らいか]によるもので\\n[本人/ほんにん]はダンス[部/ぶ]に[執着/しゅうちゃく]していないようだ。\\n[目撃情報/もくげきじょうほう]がある\u3000[屋上生徒広場/おくじょうせいとひろば]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_327",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1122807217"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雲明/うんめい]がダンスの[練習/れんしゅう]をしている[間/あいだ]\\n[指定/してい]された[場所/ばしょ]で\u3000[特訓/とっくん]することになった。\\n[商店街/しょうてんがい]のうどん[屋/や]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_328",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "904633639"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "うどん[屋/や]の[店主/てんしゅ]\u3000[湯元月見/ゆもとつきみ]に[呼/よ]び[出/だ]された。\\nアーケードを[抜/ぬ]けた[先/さき]にあるという\\n[路地裏/ろじうら]の[広場/ひろば]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_329",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428952258"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雲明/うんめい]に[頼/たの]まれた[月見/つきみ]が\\nサッカーの[練習/れんしゅう]を[手伝/てつだ]ってくれるらしい。\\n[商店街/しょうてんがい]のチームと[特訓/とっくん]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_330",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "573252692"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原/なぐもはら]ショップキーパーズと[特訓/とっくん]をした。\\n[帰宅/きたく]ルートで[家/いえ]へ[帰/かえ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_331",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1155369490"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ダンス[対決/たいけつ]の[準備/じゅんび]が[整/ととの]った。\\n[来夏/らいか]とのダンス[対決/たいけつ]を[始/はじ]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_332",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-869972616"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[部室/ぶしつ]を\u3000[生徒会/せいとかい]の[忍/しの]びが[覗/のぞ]いていた。\\n[生徒会/せいとかい]の[監視/かんし]の[目/め]を[避/さ]けるため\\n[木曽路/きそじ]に[指定/してい]された[場所/ばしょ]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_333",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1380045019"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[四川堂/しせんどう]と\u3000[共同戦線/きょうどうせんせん]を[張/は]ることになった。\\n５[年前/ねんまえ]のサッカー[部/ぶ]の[事件/じけん]を[調/しら]べるため\\n[先生/せんせい]たちから[情報収集/じょうほうしゅうしゅう]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_334",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "625401933"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "５[年前/ねんまえ]からいる[先生/せんせい]たちから[話/はなし]を[聞/き]いた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_335",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1135627785"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原中/なぐもはらちゅう]の[新施設問題/しんしせつもんだい]は\\n[町全体/まちぜんたい]の[一大/いちだい]プロジェクトだったようだ。\\n[学校/がっこう]の[近/ちか]くの[住人/じゅうにん]から\u3000[情報収集/じょうほうしゅうしゅう]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_336",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-884440735"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[学校/がっこう]の[近/ちか]くの[住人/じゅうにん]から\u3000[話/はなし]を[聞/き]いた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_337",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1542954224"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原町/なぐもはらちょう]は\u3000[新施設問題/しんしせつもんだい]をきっかけに\\nサッカー[対野球/たいやきゅう]で[二分/にぶん]されたという。\\n[繁華街/はんかがい]の[人/ひと]たちから[情報収集/じょうほうしゅうしゅう]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_338",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "753970278"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[繁華街/はんかがい]の[人/ひと]たちから[話/はなし]を[聞/き]いた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_339",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "443384325"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[集/あつ]めた[情報/じょうほう]は\u3000５[年前/ねんまえ]の[事件/じけん]に[集約/しゅうやく]される。\\n[当時/とうじ]のサッカー[部/ぶ]の[行動記録/こうどうきろく]を[探/さが]すため\\nもう[一度/いちど]\u3000[学校/がっこう]で[情報収集/じょうほうしゅうしゅう]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_340",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1835709075"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[当時/とうじ]のサッカー[部/ぶ]の[行動記録/こうどうきろく]について[調/しら]べた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_341",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-194780375"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[事件/じけん]の[全貌/ぜんぼう]が\u3000[徐々/じょじょ]に[見/み]えてきた。\\n[最後/さいご]の[決/き]め[手/て]を[得/え]るため\\n[資料保管室/しりょうほかんしつ]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_342",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2090544193"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[事件/じけん]は[喫茶/きっさ]タンク[前/まえ]の[通/とお]りで[起/お]こったようだ。\\n[真樹野/まきの]みどりの[話/はなし]を[聞/き]きに\\n[喫茶/きっさ]タンクへ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_343",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "486557212"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "みどりは\u3000[当時/とうじ]キャプテンだった[間知/まち]を\\n[何度/なんど]か[見/み]かけたことがあるという。\\n[海公園/うみこうえん]で[間知/まち]を[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_344",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1778873994"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[事件/じけん]に[関/かか]わっているという[半/はん]グレ[集団/しゅうだん]\\n『タンブラーズ』をおびき[出/だ]した。\\n[造船所跡/ぞうせんじょあと]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_345",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-217176272"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[事件/じけん]の[真相/しんそう]を[解明/かいめい]し\\nサッカー[部/ぶ]が[発足/ほっそく]できるようになった。\\n[全員/ぜんいん]で[練習/れんしゅう]するため\u3000[海公園/うみこうえん]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_346",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-422937460"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーで[大事/だいじ]なのはチームワークだ。\\n[絆/きずな]を[深/ふか]めて[強/つよ]くなるために\\nみんなと[記念撮影/きねんさつえい]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_347",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2079778906"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[記念写真/きねんしゃしん]を[撮/と]り\u3000[練習/れんしゅう]に[向/む]かうことにした。\\n[海/うみ]カモメサッカークラブが[練習/れんしゅう]している\\n[入/い]り[江/え]の[浜辺/はまべ]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_348",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "347474487"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[浜辺/はまべ]で\u3000[子/こ]どもたちがサッカーをしている。\\nクラブをまとめている[人/ひと]を[探/さが]して\\nサッカーバトルを[申/もう]し[込/こ]もう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_349",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1672559265"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[野球部/やきゅうぶ]との[戦/たたか]いの[前/まえ]に\\nクリアしておきたい[課題/かだい]がある。\\n[試合前/しあいまえ]の[最後/さいご]の[準備/じゅんび]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_350",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "58110788"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[野球部/やきゅうぶ]との[試合/しあい]の[準備/じゅんび]が[整/ととの]った。\\n[試合開始/しあいかいし]を[選/えら]び\u3000[野球部/やきゅうぶ]に[戦/たたか]いを[挑/いど]もう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_351",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1953596370"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカー[部/ぶ]の[顧問/こもん]を[獲得/かくとく]するため\\n『[宇宙研究会/うちゅうけんきゅうかい]』と『[星空観賞/ほしぞらかんしょう]クラブ』に\\n[合併/がっぺい]の[交渉/こうしょう]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_352",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-310848920"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[亀雄/かめお]がいじめられているところを[目撃/もくげき]した。\\nサッカー[部/ぶ]の[一員/いちいん]として[放/ほう]ってはおけない。\\n[亀雄/かめお]を[追/お]いかけよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_353",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1702894850"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "２つのクラブから\u3000[合併/がっぺい]の[合意/ごうい]は[得/え]た。\\n[香澄崎先生/かすみさきせんせい]を[探/さが]して\\nサッカー[部/ぶ]の[顧問/こもん]をお[願/ねが]いしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_354",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "68908893"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[千乃/せんの]にサッカー[部/ぶ]を[認/みと]める[条件/じょうけん]を[出/だ]された。\\n[明日/あした]は\u3000[入部希望者/にゅうぶきぼうしゃ]の[面接/めんせつ]が[控/ひか]えている。\\nその[前/まえ]に[亀雄/かめお]を[探/さが]して\u3000[問題/もんだい]を[解決/かいけつ]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_355",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1931233227"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[亀雄/かめお]は\u3000[自分/じぶん]がサッカー[部/ぶ]にいる\\n[資格/しかく]がないのではと[気/き]にしていた。\\n[来夏/らいか]を[探/さが]して\u3000その[秘密/ひみつ]を[見/み]せよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_356",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-367716751"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカー[部/ぶ]を[完成/かんせい]させるための５[人/にん]を\\n[慎重/しんちょう]に[選/えら]ぶ[必要/ひつよう]がある。\\nサッカー[面接/めんせつ]で\u3000[全員/ぜんいん]の[個性/こせい]を[知/し]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_357",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1659754777"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカー[面接/めんせつ]で\u3000１５[人/にん]の[個性/こせい]は[分/わ]かった。\\n[入部/にゅうぶ]させる５[人/にん]を[決/き]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_358",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "229456758"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[部員/ぶいん]が１１[人揃/にんそろ]い\u3000グラウンドも[整/ととの]った。\\nフットボールフロンティアに[向/む]けた[練習前/れんしゅうまえ]に\\n[部員/ぶいん]のコンディションをチェックしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_359",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2057964512"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[亀雄/かめお]だけ\u3000また[練習/れんしゅう]に[出/で]ていない。\\n[校内/こうない]にいるはずの[亀雄/かめお]を[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_360",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "677109895"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[香澄崎先生/かすみさきせんせい]から[呼/よ]び[出/だ]しがあった。\\n[職員室/しょくいんしつ]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_361",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1599918097"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[西/にし]ノ[宮中/みやちゅう]との[戦/たたか]いの[前/まえ]に\\nクリアしておきたい[課題/かだい]がある。\\n[試合前/しあいまえ]の[最後/さいご]の[準備/じゅんび]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_362",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-967474773"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[西/にし]ノ[宮中/みやちゅう]との[試合/しあい]の[準備/じゅんび]が[整/ととの]った。\\n[試合開始/しあいかいし]を[選/えら]び\\n[西/にし]ノ[宮中/みやちゅう]との[戦/たたか]いに[挑/いど]もう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_363",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1319980739"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[乙女監督/おとめかんとく]に[呼/よ]ばれている。\\nスタジアム[前/まえ]のベンチへ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_364",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "792077470"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[北陽学園/ほくようがくえん]と[戦/たたか]うためには\\nサッカー[部/ぶ]の[実力/じつりょく]を[底上/そこあ]げする[必要/ひつよう]がある。\\n[校庭/こうてい]グラウンドで\u3000[練習/れんしゅう]をチェックしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_365",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1479611400"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[練習中/れんしゅうちゅう]に\u3000[母/はは]の[笹波真子/ささなみまこ]が\\n[病院/びょういん]に[運/はこ]ばれたと[連絡/れんらく]を[受/う]けた。\\n[急/いそ]いで\u3000[南雲原総合病院/なぐもはらそうごうびょういん]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_366",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1053276750"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[北陽学園/ほくようがくえん]との[戦/たたか]いの[前/まえ]に\\nクリアしておきたい[課題/かだい]がある。\\n[試合前/しあいまえ]の[最後/さいご]の[準備/じゅんび]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_367",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1237355228"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[北陽学園/ほくようがくえん]との[試合/しあい]の[準備/じゅんび]が[整/ととの]った。\\n[試合開始/しあいかいし]を[選/えら]び\\n[北陽学園/ほくようがくえん]との[戦/たたか]いに[挑/いど]もう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_368",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "645949621"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原中/なぐもはらちゅう]が[北陽学園/ほくようがくえん]と[合併/がっぺい]したことで\\n[新監督/しんかんとく]が[下鶴/しもづる]になるかもしれない。\\n[作戦会議/さくせんかいぎ]のため\u3000[造船所跡/ぞうせんじょあと]の[特訓場/とっくんじょう]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_369",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1367824419"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[北陽学園/ほくようがくえん]との[合併/がっぺい]で\\n[部員/ぶいん]の[数/かず]が[増/ふ]えるため\\nサッカー[部/ぶ]の[部室/ぶしつ]を[整理/せいり]しに[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_370",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "826331590"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[東風異国館/とうふういこくかん]の[映像/えいぞう]が[手/て]に[入/はい]った。\\n[柳生/やぎゅう]から[借/か]りた[野球部棟/やきゅうぶとう]の[視聴覚室/しちょうかくしつ]で\\n[映像/えいぞう]を[確認/かくにん]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_371",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1179115856"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[突然/とつぜん]\u3000[空宮/そらみや]から\\nうどんを[食/た]べに[行/い]かないかと[誘/さそ]われた。\\n[繁華街/はんかがい]のうどん[屋/や]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_372",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-548491030"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[試合/しあい]の[準備/じゅんび]が[整/ととの]ったら\\n[下鶴/しもづる]との[監督対決/かんとくたいけつ]と\\n[部員/ぶいん]たちの[個人技選手権/こじんぎせんしゅけん]を[始/はじ]めよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_373",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1471577988"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[事前/じぜん]の[打/う]ち[合/あ]わせ[通/どお]り\\n[下鶴/しもづる]は[南雲原/なぐもはら]メンバーを[選択/せんたく]した。\\nこちらは[元北陽/もとほくよう]メンバーを[選/えら]ぼう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_374",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "908924383"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[監督対決/かんとくたいけつ]に[勝利/しょうり]し\u3000[下鶴/しもづる]は[南雲原/なぐもはら]を[去/さ]った。\\nみんなが[練習/れんしゅう]に[集/あつ]まる[前/まえ]に\\n[部室/ぶしつ]で\u3000[東風異国館/とうふういこくかん]のデータを[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_375",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1093281097"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[東風異国館/とうふういこくかん]との[戦/たたか]いの[前/まえ]に\\nクリアしておきたい[課題/かだい]がある。\\n[試合前/しあいまえ]の[最後/さいご]の[準備/じゅんび]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_376",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-668764941"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[東風異国館/とうふういこくかん]との[試合/しあい]の[準備/じゅんび]が[整/ととの]った。\\n[試合開始/しあいかいし]を[選/えら]び\\n[東風異国館/とうふういこくかん]との[戦/たたか]いに[挑/いど]もう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_377",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1356577691"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[怪我/けが]でサッカーができないため\\n[蓮/れん]の[助言/じょげん]もあり\u3000[長崎/ながさき]にやってきた。\\nせっかく[来/き]たので\u3000[町/まち]を[見/み]て[回/まわ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_378",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1067145716"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[長崎/ながさき]の[町/まち]を[見/み]て[回/まわ]った。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_379",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1218210146"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[長崎/ながさき]ならではの[場所/ばしょ]を\u3000[初/はじ]めて[回/まわ]った。\\nそろそろ\u3000[笹波雲明/ささなみうんめい]の[学校/がっこう]の\\n[南雲原中/なぐもはらちゅう]へ[行/い]ってみよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_380",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1227305719"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "フットボールフロンティア[決勝大会/けっしょうたいかい]のため\\nお[台場/だいば]サッカーガーデンにやってきた。\\n[施設/しせつ]を[確認/かくにん]しながら\u3000[見/み]て[回/まわ]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_381",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1042285153"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーガーデンの[施設/しせつ]について[調/しら]べた。\\n[情報/じょうほう]ブックマークから\\n[集/あつ]めた[情報/じょうほう]を[整理/せいり]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_382",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1490463781"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[京前嵐山/けいぜんあらしやま]に[対抗/たいこう]するには\\n[南雲原/なぐもはら]も\u3000[化身/けしん]を[生/う]み[出/だ]す[必要/ひつよう]がある。\\nメンバーの[行動/こうどう]を[確認/かくにん]して\u3000[写真/しゃしん]を[撮/と]ろう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_383",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "802266291"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "メンバーの[写真/しゃしん]を[撮/と]ると\\n[雲明/うんめい]から[戻/もど]ってくるように[言/い]われた。\\n[南雲原/なぐもはら]の[宿舎/しゅくしゃ]コテージへ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_384",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1313535728"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "１０[年以上前/ねんいじょうまえ]にいたという\\n[南雲原/なぐもはら]の[化身使/けしんつか]いの[情報/じょうほう]を\u3000[手/て]に[入/い]れるため\\nスカイクラフトで[南雲原/なぐもはら]へ[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_385",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-961398394"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原/なぐもはら]の[化身使/けしんつか]いについて\\n[何/なに]か[記録/きろく]が[残/のこ]っているかもしれない。\\n[資料保管室/しりょうほかんしつ]へ[行/い]って[調/しら]べよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_386",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1606117436"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[資料保管室/しりょうほかんしつ]には[鍵/かぎ]がかかっていた。\\n『[職員室/しょくいんしつ]』『[美術部/びじゅつぶ]』『[図書室/としょしつ]』へ[行/い]って\\n[鍵/かぎ]を[見/み]つけ[出/だ]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_387",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "683432106"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[化身/けしん]を[生/う]み[出/だ]す[仕組/しく]みを[聞/き]いた。\\n[少/すこ]し[風/かぜ]に[当/あ]たりに[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_388",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1207745221"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[京前嵐山/けいぜんあらしやま]との[戦/たたか]いの[前/まえ]に\\nクリアしておきたい[課題/かだい]がある。\\n[試合前/しあいまえ]の[最後/さいご]の[準備/じゅんび]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_389",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-821791315"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[京前嵐山/けいぜんあらしやま]との[試合/しあい]の[準備/じゅんび]が[整/ととの]った。\\n[試合開始/しあいかいし]を[選/えら]び\\n[京前嵐山/けいぜんあらしやま]との[戦/たたか]いに[挑/いど]もう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_390",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1346110392"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "『[週刊/しゅうかん]イレブン』の[取材/しゅざい]を[受/う]けた。\\n[次/つぎ]の[試合/しあい]に[向/む]けて\u3000[準備/じゅんび]をする[必要/ひつよう]がある。\\nみんなに[課題/かだい]を[伝/つた]えに[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_391",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-658191138"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[帝国学園/ていこくがくえん]との[戦/たたか]いの[前/まえ]に\\nクリアしておきたい[課題/かだい]がある。\\n[試合前/しあいまえ]の[最後/さいご]の[準備/じゅんび]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_392",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1103994212"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[帝国学園/ていこくがくえん]との[試合/しあい]の[準備/じゅんび]が[整/ととの]った。\\n[試合開始/しあいかいし]を[選/えら]び\\n[帝国学園/ていこくがくえん]との[戦/たたか]いに[挑/いど]もう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_393",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "919252466"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[頼/たの]んでいたものを[受/う]け[取/と]るため\\nマネージャーの[有海崎/あみさき]を[探/さが]そう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_394",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1464977327"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[有海崎/あみさき]に[頼/たの]んでいたビデオは\\n[星村/ほしむら]が[先/さき]に[受/う]け[取/と]ったようだ。\\n[部室/ぶしつ]に[行/い]って\u3000[映像/えいぞう]を[確認/かくにん]しよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_395",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "262789561"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[英愛学園/えいあいがくえん]\u3000[偉仁銘文堂/いじんめいぶんどう]\u3000[法令館中/ほうれいかんちゅう]に\\n[練習試合/れんしゅうじあい]で[勝利/しょうり]して\u3000[新/しん]タクティクスを\\n[習得/しゅうとく]するためのチームの[基礎能力/きそのうりょく]を[上/あ]げよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_396",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-542570297"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカー[部/ぶ]のメンバーは\u3000[最後/さいご]の[試合/しあい]に[向/む]けて\\n[自主練習/じしゅれんしゅう]をしているはずだ。\\nメンバーの[様子/ようす]を[見/み]に[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_397",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1184913789"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雷門中/らいもんちゅう]のメンバーは[練習/れんしゅう]をしていなかった。\\nみんなの[意識/いしき]を[変/か]えるため\\nサッカー[部/ぶ]の[旧部室/きゅうぶしつ]に[連/つ]れていこう。\u3000"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_398",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "833055211"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原中/なぐもはらちゅう]との[戦/たたか]いでは\\n[敵/てき]の[分析/ぶんせき]を[超/こ]える[力/ちから]が[必要/ひつよう]になる。\\n[心当/こころあ]たりのある[選手/せんしゅ]に[会/あ]いに[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_399",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1592232838"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[決勝/けっしょう]の[相手/あいて]が\u3000[雷門中/らいもんちゅう]なのもあり\\n[全員/ぜんいん]が[重圧/じゅうあつ]を[感/かん]じているはずだ。\\n[練習/れんしゅう]の[様子/ようす]を[見/み]に[行/い]こう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_400",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-702593812"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[全員/ぜんいん]の[気持/きも]ちを\u3000もう[一度/いちど]ひとつにするため\\n[南雲原中/なぐもはらちゅう]のグラウンドに[行/い]って\\nポジションバラバラゲームをしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_401",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2143497526"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雷門中/らいもんちゅう]との[戦/たたか]いの[前/まえ]に\\nクリアしておきたい[課題/かだい]がある。\\n[試合前/しあいまえ]の[最後/さいご]の[準備/じゅんび]をしよう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_402",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "147070368"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雷門中/らいもんちゅう]との[試合/しあい]の[準備/じゅんび]が[整/ととの]った。\\n[試合開始/しあいかいし]を[選/えら]び\\n[雷門中/らいもんちゅう]との[戦/たたか]いに[挑/いど]もう。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_403",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "311323342"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[宇宙研究会/うちゅうけんきゅうかい]メンバーとのバトル"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_404",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1954071692"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ガトリング[海坊主/うみぼうず]トラップ[特訓/とっくん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_405",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-58717214"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[占/うらな]い[好/ず]きのおばちゃんとのバトル"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_406",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1659149889"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[海坊主/うみぼうず]ジグザグドリブルでの[特訓/とっくん]"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

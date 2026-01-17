@@ -1,0 +1,379 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_soccerGameMapTagDataList",
+      "typeName": "SoccerGameMapTagData",
+      "values": [
+        {
+          "globalBitFlagCrc": "0xDA4D4E24",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0xF6357837",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x00B848BB",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0xE01C06B3",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x4123E6E5",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0xF79E2650",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0xE0EDA245",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x733D483D",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x94FDB267",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x733D483D",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x94FDB267",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0xBE76536C",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0xBE76536C",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x9A8269F2",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x7533A651",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x733D483D",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x94FDB267",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x733D483D",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x94FDB267",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x0F5C6DE6",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x7FEA1D93",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0xE6E34C29",
+          "isEnable": true
+        },
+        {
+          "globalBitFlagCrc": "0x792E7A89",
+          "isEnable": true
+        }
+      ]
+    },
+    {
+      "name": "m_soccerGameMapEnvList",
+      "typeName": "SoccerGameMapEnvInfo",
+      "values": [
+        {
+          "configId": "0xE35E00DF",
+          "hour": 15,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            0,
+            0
+          ]
+        },
+        {
+          "configId": "0x920CC139",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            0,
+            0
+          ]
+        },
+        {
+          "configId": "0xAF3928C2",
+          "hour": 15,
+          "weather": 2,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            0,
+            0
+          ]
+        },
+        {
+          "configId": "0x63955499",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0xEAB10ED5",
+          "refMapTag": [
+            0,
+            1
+          ]
+        },
+        {
+          "configId": "0xFA9C0523",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            0,
+            0
+          ]
+        },
+        {
+          "configId": "0x8DCFA981",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            1,
+            1
+          ]
+        },
+        {
+          "configId": "0xEC2AC14F",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            2,
+            1
+          ]
+        },
+        {
+          "configId": "0x1167D472",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            3,
+            1
+          ]
+        },
+        {
+          "configId": "0xEE550906",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            4,
+            1
+          ]
+        },
+        {
+          "configId": "0x5E423442",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            5,
+            1
+          ]
+        },
+        {
+          "configId": "0xC45005BB",
+          "hour": -1,
+          "weather": 0,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            6,
+            1
+          ]
+        },
+        {
+          "configId": "0xE958B6C1",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            7,
+            2
+          ]
+        },
+        {
+          "configId": "0xBAC2ED45",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            9,
+            2
+          ]
+        },
+        {
+          "configId": "0x19570799",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            11,
+            1
+          ]
+        },
+        {
+          "configId": "0xDFD5344C",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            12,
+            1
+          ]
+        },
+        {
+          "configId": "0x0EC38F78",
+          "hour": -1,
+          "weather": 0,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            13,
+            1
+          ]
+        },
+        {
+          "configId": "0x962A1DC7",
+          "hour": -1,
+          "weather": 0,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            14,
+            1
+          ]
+        },
+        {
+          "configId": "0xC7DCDAF8",
+          "hour": 0,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            15,
+            2
+          ]
+        },
+        {
+          "configId": "0x06016DD2",
+          "hour": 21,
+          "weather": 0,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            0,
+            0
+          ]
+        },
+        {
+          "configId": "0xC208B17B",
+          "hour": 0,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            17,
+            2
+          ]
+        },
+        {
+          "configId": "0xCB217DDB",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            0,
+            0
+          ]
+        },
+        {
+          "configId": "0x52282C61",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            19,
+            1
+          ]
+        },
+        {
+          "configId": "0xAB28CB1E",
+          "hour": 12,
+          "weather": 1,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            0,
+            0
+          ]
+        },
+        {
+          "configId": "0x32219AA4",
+          "hour": 12,
+          "weather": 2,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            0,
+            0
+          ]
+        },
+        {
+          "configId": "0x71ECD831",
+          "hour": -1,
+          "weather": 0,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            20,
+            1
+          ]
+        },
+        {
+          "configId": "0x9BB596D0",
+          "hour": -1,
+          "weather": 0,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            21,
+            1
+          ]
+        },
+        {
+          "configId": "0x9B6E4E4D",
+          "hour": -1,
+          "weather": 0,
+          "groundAttr": "0x00000000",
+          "refMapTag": [
+            22,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

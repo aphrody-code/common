@@ -1,0 +1,787 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_systemUnlockWindowInfoList",
+      "typeName": "SYSTEM_UNLOCK_WINDOW_INFO",
+      "values": [
+        {
+          "textId": "0x395AEAB5",
+          "tagTypeId": 1,
+          "replaceId": "0xEBBEE959",
+          "gaijiIconCrc": "0xA6F614F6"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0xA075F1F5",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0xD01F057A",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x397CA04F",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x3E116456",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0x395AEAB5",
+          "tagTypeId": 1,
+          "replaceId": "0xB87DCE29",
+          "gaijiIconCrc": "0x3FFF454C"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0x4B85EB18",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x395AEAB5",
+          "tagTypeId": 1,
+          "replaceId": "0xF3FCAC31",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x491654C0",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0xA71835EC",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x40A018EB",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x7425A088",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0xD52295D8",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0xFC5F92A0",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0x28F08264",
+          "tagTypeId": 3,
+          "replaceId": "0x019DF9C6",
+          "gaijiIconCrc": "0x4F95B1C3"
+        },
+        {
+          "textId": "0x28F08264",
+          "tagTypeId": 3,
+          "replaceId": "0x71F70D49",
+          "gaijiIconCrc": "0x4F95B1C3"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x4CB965E5",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xE92861E2",
+          "tagTypeId": 6,
+          "replaceId": "0x21D05954",
+          "gaijiIconCrc": "0xC8EA1521"
+        },
+        {
+          "textId": "0xE92861E2",
+          "tagTypeId": 6,
+          "replaceId": "0xD2F74148",
+          "gaijiIconCrc": "0xC8EA1521"
+        },
+        {
+          "textId": "0xE92861E2",
+          "tagTypeId": 6,
+          "replaceId": "0x4DF8EE62",
+          "gaijiIconCrc": "0xC8EA1521"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x8B58A236",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x1251F38C",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x6556C31A",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0x28F08264",
+          "tagTypeId": 3,
+          "replaceId": "0x9894A87C",
+          "gaijiIconCrc": "0x4F95B1C3"
+        },
+        {
+          "textId": "0x395AEAB5",
+          "tagTypeId": 1,
+          "replaceId": "0xF3656317",
+          "gaijiIconCrc": "0xD69CE079"
+        },
+        {
+          "textId": "0xB722B2A8",
+          "tagTypeId": 4,
+          "replaceId": "0x37A7287D",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0xCB978BE3",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0x455E632A",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0x2599EACF",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x461448F3",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x28084924",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0xA58B8A34",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0xBC90BB75",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0x3BEF1F97",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0xD28CBAA2",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0x4CE82F01",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0x325953BC",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xF7A12CEB",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0x28F08264",
+          "tagTypeId": 3,
+          "replaceId": "0x9FF96C65",
+          "gaijiIconCrc": "0x4F95B1C3"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0xD5E17EBB",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0xA2E64E2D",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xCAC1055B",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xC887BB02",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xC945D135",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xCC0AC7B0",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xCDC8AD87",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xCF8E13DE",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xCE4C79E9",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xC5103ED4",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xC4D254E3",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x8D617F8B",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x8F27C1D2",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x8EE5ABE5",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x8BAABD60",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x8A68D757",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x882E690E",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x89EC0339",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x82B04404",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0x28F08264",
+          "tagTypeId": 3,
+          "replaceId": "0x06F03DDF",
+          "gaijiIconCrc": "0x4F95B1C3"
+        },
+        {
+          "textId": "0x28F08264",
+          "tagTypeId": 3,
+          "replaceId": "0xEF9398EA",
+          "gaijiIconCrc": "0x4F95B1C3"
+        },
+        {
+          "textId": "0x28F08264",
+          "tagTypeId": 3,
+          "replaceId": "0xE8FE5CF3",
+          "gaijiIconCrc": "0x4F95B1C3"
+        },
+        {
+          "textId": "0x395AEAB5",
+          "tagTypeId": 1,
+          "replaceId": "0x5E6C8729",
+          "gaijiIconCrc": "0xA82D9CC4"
+        },
+        {
+          "textId": "0x395AEAB5",
+          "tagTypeId": 1,
+          "replaceId": "0x4777B668",
+          "gaijiIconCrc": "0xA19BD0EF"
+        },
+        {
+          "textId": "0x395AEAB5",
+          "tagTypeId": 1,
+          "replaceId": "0x77076AB3",
+          "gaijiIconCrc": "0xD69CE079"
+        },
+        {
+          "textId": "0x395AEAB5",
+          "tagTypeId": 1,
+          "replaceId": "0x083620AF",
+          "gaijiIconCrc": "0x38928155"
+        },
+        {
+          "textId": "0x9FE2CF3E",
+          "tagTypeId": 5,
+          "replaceId": "0x529EDA59",
+          "gaijiIconCrc": "0xDF2AAC52"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xB001563B",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xB247E862",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x853F4DCA",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xB3858255",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xB6CA94D0",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xB708FEE7",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xB54E40BE",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xB48C2A89",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xBFD06DB4",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0xBE120783",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x097F5B69",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x1580505B",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x3251C1EA",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x3C429052",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x8B2FCCB8",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x30177FB3",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x31D51584",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x349A0301",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x35586936",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x371ED76F",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x36DCBD58",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x3D80FA65",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x628760CD",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x00E0D3D5",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x0F31E85A",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x0D775603",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x0CB53C34",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x09FA2AB1",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x08384086",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x0A7EFEDF",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x0BBC94E8",
+          "gaijiIconCrc": "0x48F875DA"
+        },
+        {
+          "textId": "0xCA0B59FA",
+          "tagTypeId": 2,
+          "replaceId": "0x41B214AA",
+          "gaijiIconCrc": "0x48F875DA"
+        }
+      ]
+    },
+    {
+      "name": "m_systemUnlockWindowSetDataList",
+      "typeName": "SYSTEM_UNLOCK_WINDOW_SET_DATA",
+      "values": [
+        {
+          "systemUnlockWindowIdCrc": "0x23CA11FE",
+          "systemUnlockWindowInfoList": [
+            0,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x91EACDEE",
+          "systemUnlockWindowInfoList": [
+            1,
+            2
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x697A095F",
+          "systemUnlockWindowInfoList": [
+            3,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x541A20EF",
+          "systemUnlockWindowInfoList": [
+            4,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x98E848B9",
+          "systemUnlockWindowInfoList": [
+            5,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x1D16649B",
+          "systemUnlockWindowInfoList": [
+            6,
+            2
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xAD45161D",
+          "systemUnlockWindowInfoList": [
+            8,
+            2
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x9A9BE62F",
+          "systemUnlockWindowInfoList": [
+            10,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x65A5996D",
+          "systemUnlockWindowInfoList": [
+            11,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xDA95270C",
+          "systemUnlockWindowInfoList": [
+            12,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x2B0766EA",
+          "systemUnlockWindowInfoList": [
+            13,
+            3
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x61EF1683",
+          "systemUnlockWindowInfoList": [
+            16,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xF8E64739",
+          "systemUnlockWindowInfoList": [
+            17,
+            3
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xD0739646",
+          "systemUnlockWindowInfoList": [
+            20,
+            4
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xC2C639A8",
+          "systemUnlockWindowInfoList": [
+            24,
+            2
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xED13BFF6",
+          "systemUnlockWindowInfoList": [
+            26,
+            10
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xA076CC3F",
+          "systemUnlockWindowInfoList": [
+            36,
+            3
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xD7FE95E6",
+          "systemUnlockWindowInfoList": [
+            39,
+            11
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x5EDF29F6",
+          "systemUnlockWindowInfoList": [
+            50,
+            8
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0xE5A51879",
+          "systemUnlockWindowInfoList": [
+            58,
+            3
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x5785C469",
+          "systemUnlockWindowInfoList": [
+            61,
+            1
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x1025BEB9",
+          "systemUnlockWindowInfoList": [
+            62,
+            3
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x92752968",
+          "systemUnlockWindowInfoList": [
+            65,
+            12
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x3C850AD5",
+          "systemUnlockWindowInfoList": [
+            77,
+            4
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x01E52365",
+          "systemUnlockWindowInfoList": [
+            81,
+            7
+          ]
+        },
+        {
+          "systemUnlockWindowIdCrc": "0x38CF853B",
+          "systemUnlockWindowInfoList": [
+            88,
+            10
+          ]
+        }
+      ]
+    }
+  ]
+}

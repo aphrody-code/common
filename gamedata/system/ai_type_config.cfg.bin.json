@@ -1,0 +1,258 @@
+{
+  "entries": [
+    {
+      "name": "AI_HOBY_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "AI_HOBY_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_HOBY_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "50"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_HOBY_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_HOBY_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AI_AI_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "5"
+        }
+      ],
+      "children": [
+        {
+          "name": "AI_AI_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-907993416"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_REF_HOBY_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1357401858"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_REF_HOBY_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "670007188"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_REF_HOBY_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1182012873"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_REF_HOBY_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-829629791"
+            },
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "AI_AI_INFO_REF_HOBY_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

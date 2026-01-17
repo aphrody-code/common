@@ -1,0 +1,46 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_staffrollPageInfo",
+      "typeName": "STAFFROLL_PAGE_INFO",
+      "values": [
+        {
+          "pageId": 1,
+          "type": 1,
+          "beginTime": 3534,
+          "endTime": 3831,
+          "beginPositionY": 0,
+          "lineWidth": 0,
+          "textIn": 0,
+          "textOut": 0,
+          "scrollIn": 0,
+          "scrollOut": 0
+        }
+      ]
+    },
+    {
+      "name": "m_staffrollStaffData",
+      "typeName": "STAFFROLL_STAFF_DATA",
+      "values": [
+        {
+          "staffId": 1001,
+          "pageNum": 1,
+          "lineNumber": 1,
+          "positonX": 960,
+          "font": "0x00000000",
+          "textId": "0x00000000",
+          "texName": "0x00000000",
+          "menuId": "0x00000000",
+          "menuGroupId": "0x00000000",
+          "texPath1": "STAFFROLL_PAGE_INFO",
+          "texPath2": "STAFFROLL_PAGE_INFO",
+          "texPath3": "STAFFROLL_PAGE_INFO",
+          "texPath4": "STAFFROLL_PAGE_INFO",
+          "texPath5": "STAFFROLL_PAGE_INFO",
+          "movieId": "0x00000000"
+        }
+      ]
+    }
+  ]
+}

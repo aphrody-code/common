@@ -1,0 +1,1141 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_RpgBattleAiPhaseJumpInfoList",
+      "typeName": "RPG_BTL_AI_PHASE_JUMP_INFO",
+      "values": [
+        {
+          "jumpNo": 1,
+          "condId1": "0x0393245F",
+          "condId2": "0x12226C93",
+          "condId3": "0x00000000"
+        },
+        {
+          "jumpNo": 2,
+          "condId1": "0x35EC4FB1",
+          "condId2": "0x12226C93",
+          "condId3": "0x00000000"
+        },
+        {
+          "jumpNo": 2,
+          "condId1": "0x35EC4FB1",
+          "condId2": "0x12226C93",
+          "condId3": "0x00000000"
+        },
+        {
+          "jumpNo": 1,
+          "condId1": "0x2B81A510",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "jumpNo": 0,
+          "condId1": "0x6A5A73C6",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "jumpNo": 1,
+          "condId1": "0x2B81A510",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "jumpNo": 0,
+          "condId1": "0x6A5A73C6",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_RpgBattleAiPhaseAiInfoList",
+      "typeName": "RPG_BTL_AI_PHASE_AI_INFO",
+      "values": [
+        {
+          "aiId": "0x9187F872",
+          "phaseNo": 0,
+          "jumpInfo": [
+            0,
+            0
+          ]
+        },
+        {
+          "aiId": "0xD85F718A",
+          "phaseNo": 0,
+          "jumpInfo": [
+            0,
+            0
+          ]
+        },
+        {
+          "aiId": "0x309B4516",
+          "phaseNo": 0,
+          "jumpInfo": [
+            0,
+            0
+          ]
+        },
+        {
+          "aiId": "0x34C433A7",
+          "phaseNo": 0,
+          "jumpInfo": [
+            0,
+            0
+          ]
+        },
+        {
+          "aiId": "0x306B54E7",
+          "phaseNo": 0,
+          "jumpInfo": [
+            0,
+            2
+          ]
+        },
+        {
+          "aiId": "0xA962055D",
+          "phaseNo": 1,
+          "jumpInfo": [
+            2,
+            1
+          ]
+        },
+        {
+          "aiId": "0xDE6535CB",
+          "phaseNo": 2,
+          "jumpInfo": [
+            0,
+            0
+          ]
+        },
+        {
+          "aiId": "0x1B7C7C20",
+          "phaseNo": 0,
+          "jumpInfo": [
+            3,
+            1
+          ]
+        },
+        {
+          "aiId": "0x000A6A94",
+          "phaseNo": 1,
+          "jumpInfo": [
+            4,
+            1
+          ]
+        },
+        {
+          "aiId": "0xBDE45C62",
+          "phaseNo": 0,
+          "jumpInfo": [
+            0,
+            0
+          ]
+        },
+        {
+          "aiId": "0xB951A555",
+          "phaseNo": 0,
+          "jumpInfo": [
+            0,
+            0
+          ]
+        },
+        {
+          "aiId": "0x6C6A14CC",
+          "phaseNo": 0,
+          "jumpInfo": [
+            5,
+            1
+          ]
+        },
+        {
+          "aiId": "0xF5634576",
+          "phaseNo": 1,
+          "jumpInfo": [
+            6,
+            1
+          ]
+        },
+        {
+          "aiId": "0x006044A2",
+          "phaseNo": 0,
+          "jumpInfo": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_RpgBattleAiPhaseInfoList",
+      "typeName": "RPG_BTL_AI_PHASE_INFO",
+      "values": [
+        {
+          "aiPhaseId": "0xD0EB3CB5",
+          "phaseInfo": [
+            0,
+            1
+          ]
+        },
+        {
+          "aiPhaseId": "0x3612B90D",
+          "phaseInfo": [
+            1,
+            1
+          ]
+        },
+        {
+          "aiPhaseId": "0x00C8A330",
+          "phaseInfo": [
+            2,
+            1
+          ]
+        },
+        {
+          "aiPhaseId": "0xB5238CF7",
+          "phaseInfo": [
+            3,
+            1
+          ]
+        },
+        {
+          "aiPhaseId": "0xD8D376F5",
+          "phaseInfo": [
+            4,
+            3
+          ]
+        },
+        {
+          "aiPhaseId": "0x632A07F1",
+          "phaseInfo": [
+            7,
+            2
+          ]
+        },
+        {
+          "aiPhaseId": "0x3D4F9D7D",
+          "phaseInfo": [
+            9,
+            1
+          ]
+        },
+        {
+          "aiPhaseId": "0x87C851CD",
+          "phaseInfo": [
+            10,
+            1
+          ]
+        },
+        {
+          "aiPhaseId": "0xF832D792",
+          "phaseInfo": [
+            11,
+            2
+          ]
+        },
+        {
+          "aiPhaseId": "0x951C5EED",
+          "phaseInfo": [
+            13,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_RpgBattleAiCmdInfoList",
+      "typeName": "RPG_BTL_AI_CMD_INFO",
+      "values": [
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 4,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 2,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x7D2BBC7D",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 1,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 4,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 2,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x7D2BBC7D",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 1,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0xC02446E9",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 1,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x7C7EDA16",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 4,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 2,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 1,
+          "enableRunNum": 3,
+          "condId1": "0x0393245F",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 1,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 4,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 2,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 1,
+          "enableRunNum": 3,
+          "condId1": "0x88CB77EC",
+          "condId2": "0x1F599C18",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 1,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xD4234B28",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xA449BFA7",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x3D40EE1D",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xADFFF38C",
+          "aiCmdAttr": 0,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 75,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xDAF8C31A",
+          "aiCmdAttr": 0,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 25,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xD4234B28",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 3,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x0AC72DF9",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xA449BFA7",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 2,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x489BBBF4",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x3D40EE1D",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 1,
+          "jumpNo": 1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xADFFF38C",
+          "aiCmdAttr": 0,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 75,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xDAF8C31A",
+          "aiCmdAttr": 0,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 25,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xD4234B28",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xA449BFA7",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 1,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x3D40EE1D",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 2,
+          "priority": 0,
+          "jumpNo": 1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xADFFF38C",
+          "aiCmdAttr": 0,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 75,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xDAF8C31A",
+          "aiCmdAttr": 0,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 25,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 13,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 50,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0xA4329D82",
+          "condId2": "0x18C060C6",
+          "condId3": "0x242FDA67"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 10,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 13,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 1,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0xA4329D82",
+          "condId2": "0x18C060C6",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x01F1490E",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x7130E3D3",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 25,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x242FDA67",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x9F95DCAD",
+          "aiCmdAttr": 0,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x9B47EF5E",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 14,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 2,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x52424554",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 15,
+          "groupNo": 2,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x01F1490E",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x7130E3D3",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 25,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 2,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x242FDA67",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 25,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 2,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x9F95DCAD",
+          "aiCmdAttr": 0,
+          "groupNo": 2,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x9B47EF5E",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 14,
+          "groupNo": 2,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 3,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x52424554",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 15,
+          "groupNo": 3,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 13,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 50,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0xA4329D82",
+          "condId2": "0x18C060C6",
+          "condId3": "0x242FDA67"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 10,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 13,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 1,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0xA4329D82",
+          "condId2": "0x18C060C6",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 1,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xB6EA6C96",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x7130E3D3",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 25,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x242FDA67",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x2FE33D2C",
+          "aiCmdAttr": 0,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x9B47EF5E",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 14,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 2,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x52424554",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 15,
+          "groupNo": 2,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0xB6EA6C96",
+          "aiCmdAttr": 0,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": -1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x7130E3D3",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 25,
+          "groupNo": 0,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 1,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x242FDA67",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 25,
+          "groupNo": 1,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 2,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x2FE33D2C",
+          "aiCmdAttr": 0,
+          "groupNo": 2,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x9B47EF5E",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 14,
+          "groupNo": 2,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 3,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x52424554",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        },
+        {
+          "cmdId": "0x00000000",
+          "aiCmdAttr": 15,
+          "groupNo": 3,
+          "runNo": 0,
+          "priority": 0,
+          "jumpNo": 0,
+          "weight": 0,
+          "turnRecast": 0,
+          "enableRunNum": 0,
+          "condId1": "0x00000000",
+          "condId2": "0x00000000",
+          "condId3": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_RpgBattleAiInfoList",
+      "typeName": "RPG_BTL_AI_INFO",
+      "values": [
+        {
+          "aiId": "0x9187F872",
+          "cmdInfo": [
+            0,
+            2
+          ]
+        },
+        {
+          "aiId": "0xD85F718A",
+          "cmdInfo": [
+            2,
+            3
+          ]
+        },
+        {
+          "aiId": "0x309B4516",
+          "cmdInfo": [
+            5,
+            2
+          ]
+        },
+        {
+          "aiId": "0x34C433A7",
+          "cmdInfo": [
+            7,
+            2
+          ]
+        },
+        {
+          "aiId": "0x306B54E7",
+          "cmdInfo": [
+            9,
+            5
+          ]
+        },
+        {
+          "aiId": "0xA962055D",
+          "cmdInfo": [
+            14,
+            5
+          ]
+        },
+        {
+          "aiId": "0xDE6535CB",
+          "cmdInfo": [
+            19,
+            5
+          ]
+        },
+        {
+          "aiId": "0x1B7C7C20",
+          "cmdInfo": [
+            24,
+            2
+          ]
+        },
+        {
+          "aiId": "0x000A6A94",
+          "cmdInfo": [
+            26,
+            2
+          ]
+        },
+        {
+          "aiId": "0xBDE45C62",
+          "cmdInfo": [
+            28,
+            5
+          ]
+        },
+        {
+          "aiId": "0x24ED0DD8",
+          "cmdInfo": [
+            33,
+            6
+          ]
+        },
+        {
+          "aiId": "0xB951A555",
+          "cmdInfo": [
+            39,
+            1
+          ]
+        },
+        {
+          "aiId": "0x6C6A14CC",
+          "cmdInfo": [
+            40,
+            2
+          ]
+        },
+        {
+          "aiId": "0xF5634576",
+          "cmdInfo": [
+            42,
+            2
+          ]
+        },
+        {
+          "aiId": "0x006044A2",
+          "cmdInfo": [
+            44,
+            5
+          ]
+        },
+        {
+          "aiId": "0x99691518",
+          "cmdInfo": [
+            49,
+            6
+          ]
+        }
+      ]
+    }
+  ]
+}

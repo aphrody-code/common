@@ -1,0 +1,419 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_soccerFocusBattleEffectRangeList",
+      "typeName": "ScFbtlEffectRange",
+      "values": [
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 1,
+          "rangeParam1": 30,
+          "rangeParam2": 10,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        },
+        {
+          "rangeType": 0,
+          "rangeParam1": 0,
+          "rangeParam2": 0,
+          "rangeParam3": 0
+        }
+      ]
+    },
+    {
+      "name": "m_soccerFocusBattleActivatedEffectList",
+      "typeName": "ScFbtlActivatedEffect",
+      "values": [
+        {
+          "effectId": "0xBEBB2EE8",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0x50B54FC4",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0x50B54FC4",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xBEBB2EE8",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xB9D6EAF1",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xB9D6EAF1",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0x50B54FC4",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xB9D6EAF1",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xBEBB2EE8",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        },
+        {
+          "effectId": "0xBEBB2EE8",
+          "effectParam1": 0,
+          "effectParam2": 0,
+          "effectParam3": 0,
+          "effectParam4": 0,
+          "effectParam5": 0,
+          "effectParam6": 0,
+          "effectParam7": 0,
+          "effectParam8": 0
+        }
+      ]
+    },
+    {
+      "name": "m_soccerFocusBattleDemoTriggerList",
+      "typeName": "ScFbtlDemoTrigger",
+      "values": [
+        {
+          "demoTriggerType": 3,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x8901F53D"
+        },
+        {
+          "demoTriggerType": 2,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0xFE06C5AB"
+        },
+        {
+          "demoTriggerType": 0,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x00000000"
+        },
+        {
+          "demoTriggerType": 0,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x00000000"
+        },
+        {
+          "demoTriggerType": 0,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x00000000"
+        },
+        {
+          "demoTriggerType": 0,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x00000000"
+        },
+        {
+          "demoTriggerType": 0,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x00000000"
+        },
+        {
+          "demoTriggerType": 0,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x00000000"
+        },
+        {
+          "demoTriggerType": 0,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x00000000"
+        },
+        {
+          "demoTriggerType": 0,
+          "demoTriggerParam1": 0,
+          "demoTriggerParam2": 0,
+          "demoTriggerParam3": 0,
+          "demoTriggerTextId": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_soccerFocusBattleEffectInfoList",
+      "typeName": "ScFbtlEffectInfo",
+      "values": [
+        {
+          "id": "0x64659E21",
+          "range": [
+            0,
+            1
+          ],
+          "activatedEffect": [
+            0,
+            1
+          ],
+          "demoTrigger": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "0xFD6CCF9B",
+          "range": [
+            1,
+            1
+          ],
+          "activatedEffect": [
+            1,
+            1
+          ],
+          "demoTrigger": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "0x8A6BFF0D",
+          "range": [
+            2,
+            1
+          ],
+          "activatedEffect": [
+            2,
+            1
+          ],
+          "demoTrigger": [
+            2,
+            1
+          ]
+        },
+        {
+          "id": "0x140F6AAE",
+          "range": [
+            3,
+            1
+          ],
+          "activatedEffect": [
+            3,
+            1
+          ],
+          "demoTrigger": [
+            3,
+            1
+          ]
+        },
+        {
+          "id": "0x63085A38",
+          "range": [
+            4,
+            1
+          ],
+          "activatedEffect": [
+            4,
+            1
+          ],
+          "demoTrigger": [
+            4,
+            1
+          ]
+        },
+        {
+          "id": "0xFA010B82",
+          "range": [
+            5,
+            1
+          ],
+          "activatedEffect": [
+            5,
+            1
+          ],
+          "demoTrigger": [
+            5,
+            1
+          ]
+        },
+        {
+          "id": "0x8D063B14",
+          "range": [
+            6,
+            1
+          ],
+          "activatedEffect": [
+            6,
+            1
+          ],
+          "demoTrigger": [
+            6,
+            1
+          ]
+        },
+        {
+          "id": "0x1DB92685",
+          "range": [
+            7,
+            1
+          ],
+          "activatedEffect": [
+            7,
+            1
+          ],
+          "demoTrigger": [
+            7,
+            1
+          ]
+        },
+        {
+          "id": "0x6ABE1613",
+          "range": [
+            8,
+            1
+          ],
+          "activatedEffect": [
+            8,
+            1
+          ],
+          "demoTrigger": [
+            8,
+            1
+          ]
+        },
+        {
+          "id": "0x0A799FF6",
+          "range": [
+            9,
+            1
+          ],
+          "activatedEffect": [
+            9,
+            1
+          ],
+          "demoTrigger": [
+            9,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

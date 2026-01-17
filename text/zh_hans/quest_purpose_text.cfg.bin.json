@@ -1,0 +1,7341 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "407"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1824126939"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[依頼人/いらいにん]のもとに[行/い]って\u3000クエストを[引/ひ]き[受/う]けよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1300864239"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "テスト・サブクエスト[目的/モクテキ]１"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-729756331"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "テスト・サブクエスト[目的/モクテキ]２"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1551368765"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "テスト・サブクエスト[目的/モクテキ]３"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1817479499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原中/なぐもはらちゅう]の[情報/じょうほう]を[集/あつ]めよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-178398991"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＳＮＳ[検索/けんさく]してみよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2128684709"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]の[情報/じょうほう]を[集/あつ]めよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-404195553"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[桜咲/さくらざき]のことをＳＮＳ[検索/けんさく]してみよう！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-482992612"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "调查来夏的信息"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2050969510"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "试着在SNS上搜索来夏！#  "
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-243027470"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向老师们收集情报！#  "
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1753931848"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "试着在SNS上搜索情报！#  "
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1228920471"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向镇上的人们收集情报！#  "
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "291292865"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "收集当时镇上的情况！#  "
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1444896348"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "收集当时的事件！#  "
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-79861648"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在练习赛中战胜英爱学园、\\n伟仁铭文堂和法令馆中学"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1591683156"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找和千乃有关的“秘密宝贝”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-702027974"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向偷偷摸摸的男生汇报"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "666150146"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带对方去商业区的商店街"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-320309593"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带对方去校辉路的公园"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-236108257"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "留意假警官"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2031454583"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "去向和蔼的警察报告"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "984716730"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往体育仓库"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1303815468"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向香澄崎老师汇报"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1138366700"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "追踪海坊主"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-886909054"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向海洋生物社成员汇报"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2004432049"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找被藏起来的足球"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "800051279"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找小偷的线索"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1487462617"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往小偷所在的地方"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1455709471"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "去警告警笛红"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1650946372"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带老婆婆前往南云原医院前"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2137145852"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找四张抽奖券"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "140865898"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向看起来很倒霉的男性报告"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1778260791"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "使用抽奖券"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-486158127"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带约瑟芬前往南云原站"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1704043135"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带对方前往临海公园的观光景点"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "311857897"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带对方前往校辉路的观光景点"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1930295478"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带对方前往南云原港的观光景点"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_38",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1362267686"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "送信给参加同学会的人"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_39",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1278721694"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找来夏常去的店"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_40",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-33496983"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找菱星徽章"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_41",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1995976449"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "送回菱星徽章"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_42",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-373237304"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带约瑟芬前往南云原港"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_43",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1867819878"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "与南云原看店人比赛"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_44",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1542948669"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "搜集三份资料"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_45",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-753973163"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将资料送去教职工办公室"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_46",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1190311813"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往镇上道路寻找“白山”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_47",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-838174483"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找阴凉的地方"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_48",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1917950942"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往百步阶梯开展特训"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_49",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "627759446"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往内湾海滩参加比赛"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_50",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1543590920"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向男孩的朋友问话"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_51",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-721839250"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "回到生闷气的男孩身边"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_52",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1251806925"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往南云原站"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_53",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1755478109"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带对方去废弃造船厂的特训场地"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_54",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1973897445"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "拍摄三张柳生与二户川中学比赛时的照片"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_55",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "44071027"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将照片交给崇拜柳生的学长"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_56",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "946858478"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找3处磁场与众不同的地方"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_57",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1332271480"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向牟住力汇报"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_58",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1410998603"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "和汤元月见交谈"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_59",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "762424347"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "与看起来很严厉的理科老师对话\\n并进行轮胎射门特训"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_60",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-433225794"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "通过吃面收集10张贴纸"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_61",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1859498200"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向喜欢猩猩面的女孩汇报"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_62",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-81244410"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "获取香澄崎老师的个人物品"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_63",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1943044208"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将圆珠笔送给崇拜年长者的\\n二年级学生"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_64",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "812948643"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找叼走了玩具的猫"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_65",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1198763061"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将玩具还给绿阿姨"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_66",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1733287467"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在足球园里寻找山田"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_67",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "273215165"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往管理中心寻找山田"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_68",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1612847666"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向负责培训的工作人员汇报"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_69",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-505697147"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "和南云原看店人\\n在小巷球场对战"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_70",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1282527590"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找丢失的足球"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_71",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1366614494"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带约瑟芬前往南云原中学"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_72",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2051731091"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带外国记者前往操场"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_73",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "223206917"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带外国记者前往宿舍小屋"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_74",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1826010202"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带外国记者前往圆堂守雕像前"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_75",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-466715856"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在圆堂守雕像前拍摄照片"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_76",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1323942602"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向闻田打听信息"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_77",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-971960928"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "与临海公园的老婆婆对话"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_78",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1099969401"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向汤元千南问话"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_79",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-915866607"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找关于跟踪狂的线索"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_80",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-207131252"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找三种野菜"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_81",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2069865190"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将野菜交给老爷爷"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_82",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-291349196"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向看到幽灵的人问话"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_83",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1717211742"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往海岸区"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_84",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "130152449"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在夜晚前往海岸区"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_85",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "637439633"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "询问大家想吃的食物"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_86",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1392098823"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向正在沉思的女性汇报"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_87",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1925565465"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找《西古德战记》"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_88",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "96664719"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "交出《西古德战记》"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_89",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-195969353"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "返回南云原"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_90",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2091479519"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往坦克咖啡馆"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_91",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1057844498"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "寻找四叶所说的“那个女生”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_92",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1208638852"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往旧体育仓库附近"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_93",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "570973610"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "购买冷饮"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_94",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1427074364"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "与访客夫妇中的丈夫拍摄照片"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_95",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-380334577"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "收集长崎的特色美食"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_96",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1638678887"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将长崎的特色美食交给厨师"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_97",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1326438558"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将“焦点盯防”装配至编组队伍的战术中"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_98",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-994892086"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "和二户川中学进行练习赛"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_99",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1280043428"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "樱咲学会“刚直一闪”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_100",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "768639999"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "来夏学会“转圈圈射门”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_101",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1524085609"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "四川堂学会“坚守接球”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_102",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-452587499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为樱咲装备“春雷”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_103",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2081374639"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "四川堂学会“冰封之舞”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_104",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "185102649"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "完全掌握春雷：南云原球场"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_105",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1788025702"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "完全掌握冰封之舞：棒球场"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_106",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1066577975"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "学会战术“烈焰城壁”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_107",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1499733619"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "学会战术“隐形链接”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_108",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "778252005"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "学会战术“友情协议”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_109",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1341670586"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将“冲刺15”装配至编组队伍的战术中"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_110",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-757538777"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为木曾路装备“娱乐小丑·雏形”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_111",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1272033693"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "通过挖角招募一名社员"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_112",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1784973122"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将“天河”装配至编组队伍的战术中"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_113",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-210905352"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将“振奋咆哮”装配至编组队伍的战术中"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_114",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2073368978"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将“泰坦之壁”装配至编组队伍的战术中"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_115",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "437154765"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "首发与替补全部装备“什锦足球鞋”"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_116",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "839358228"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将“范式转移”装配至编组队伍的战术中"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_117",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1425094994"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将“强者封印”装配至编组队伍的战术中"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_118",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-603326920"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为龟雄装备射门必杀技"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_119",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1114465179"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为四川堂装备射门必杀技"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_120",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "338124132"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "满足阵容要求"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_121",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1926361890"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "满足阵容要求（可在编组队伍界面查看）"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_122",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "834367837"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サブクエストテスト[詳細/ショウサイ]１"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_123",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1186742731"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サブクエストテスト[詳細/ショウサイ]２"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_124",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-541781903"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サブクエストテスト[詳細/ショウサイ]３"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_125",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "824206975"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "偷偷摸摸的男生在南云原中学里\\n遗失了明信片大小的“秘密宝贝”。\\n他希望有人帮忙一起寻找……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_126",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1095406320"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "偷偷摸摸的男生在南云原中学里\\n遗失了明信片大小的“秘密宝贝”。\\n把三个都找到以后向他汇报吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_127",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-666647734"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "已经找到了所有的“秘密宝贝”。\\n去告诉在教学楼1楼里的\\n偷偷摸摸的男生吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_128",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1354435620"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "“秘密宝贝”原来是学生会长千乃的非官方照片。\\n看来他似乎是在背着学生会偷偷贩卖。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_129",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "701530482"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "迷路的老婆婆正在寻找\\n手机游戏里的“稀罕宝贝”。\\n她希望有人带她去商店街……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_130",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-941694882"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "迷路的老婆婆正在寻找\\n手机游戏里的“稀罕宝贝”。\\n带她去商业区那边的商店街吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_131",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1591194084"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "迷路的老婆婆正在寻找的\\n是叫做“吗喽猴”的稀罕宝贝。\\n她对稀罕宝贝房间的增多感到很高兴。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_132",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-494120233"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "迷路的老婆婆正在寻找\\n手机游戏里的“超凡稀罕宝贝”。\\n这一次她想要去校辉路那边的公园……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_133",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "209859579"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "迷路的老婆婆正在寻找\\n手机游戏里的“超凡稀罕宝贝”。\\n带她去校辉路那边的公园吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_134",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1786027455"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "迷路的老婆婆正在寻找的\\n是叫做“眼眼镜镜蛇”的\\n超凡稀罕宝贝。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_135",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "294060867"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "南云原镇里似乎有个“假警官”在游荡。\\n如果发现了可疑人士，\\n就去向那个和蔼的警察报告吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_136",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2003938567"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来可疑的假警官\\n只是在Cosplay特摄英雄的主人公。\\n去向和蔼的警察报告吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_137",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-7773585"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "向和蔼的警察报告了假警官的真实身份。\\n被提醒下次不要再随意接近他。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_138",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1431231383"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "香澄崎老师似乎弄丢了\\n什么让她难为情的东西。\\n她希望有人去体育仓库帮她拿回来……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_139",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-623128346"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "香澄崎老师似乎弄丢了\\n什么让她难为情的东西。\\n去体育仓库帮她拿回来吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_140",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1137869148"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "体育仓库的门打不开，\\n但还是找到了一个软软的白色玩偶。\\n去告诉在教学楼1楼里的香澄崎老师吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_141",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "886419914"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "香澄崎老师要找的东西是\\n吉祥物“大屁屁鬼”的玩偶。\\n玩偶丑萌丑萌的，她很喜欢。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_142",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1548722760"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "海坊主刚好从眼前飘过。\\n追上它后拍摄照片，\\n搞清楚它究竟是什么。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_143",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-985205774"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "海坊主不知道跑到哪里去了。\\n去告诉在校辉路上的\\n海洋生物社成员吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_144",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1304312988"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "看来海坊主会说话的这个新话题，\\n够他们在下次学会上讨论一整天了。\\n海洋生物社成员兴奋地离开了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_145",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2031947969"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "听说在南云原镇的某处\\n有个被“黑暗组织”藏起来的足球。\\n有个孩子想找人帮忙拿回那个球……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_146",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1760333331"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "听说在南云原镇的某处\\n有个被“黑暗组织”藏起来的足球。\\n把它找到并带回来吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_147",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "236593239"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "藏起足球的其实就是\\n三名少年中那个因为伤了腿\\n而万分不安的稚嫩男孩。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_148",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1079025252"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "田中超市的店主\\n似乎正在寻找偷窃海坊主包子的小偷。\\n他看到路过的人也会立刻问对方，对抓小偷有没有兴趣……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_149",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-809134829"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "田中超市的店主\\n似乎正在寻找偷窃海坊主包子的小偷。\\n帮他找找线索吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_150",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1456260265"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "找到了关于\\n偷窃海坊主包子的小偷的线索。\\n前往小偷所在的地方吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_151",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "567014463"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "偷窃海坊主包子的小偷\\n原来是一窝饿坏了的流浪猫。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_152",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1486911855"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "口无遮拦的少年想要找人\\n去跟临海公园那个男人说，\\n不要再打扮成警笛战士了……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_153",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1230104509"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "口无遮拦的少年说\\n看见了打扮成警笛战士模样的男人，\\n前往临海公园提醒一下他吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_154",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-799492601"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "成功击退了小混混，\\n但事件的起因是警笛红为了保护老婆婆，\\n主动向小混混挑衅。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_155",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1812157748"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "迷路的老婆婆正在寻找\\n手机游戏里的“头领稀罕宝贝”。\\n这次她要去的是医院……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_156",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2113063912"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "迷路的老婆婆正在寻找\\n手机游戏里的“头领稀罕宝贝”。\\n带她前往南云原医院前吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_157",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "453272994"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "老婆婆为了帮助孙女赢下BOSS战，\\n一直在寻找头领稀罕宝贝。\\n看来祖孙两人的冒险还将继续。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_158",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1738161991"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "接受看起来很倒霉的男性的委托，\\n要帮他寻找抽奖券。\\n他还说如果能找到所有抽奖券，他会送出一张当报酬。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_159",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1626864480"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "接受了看起来很倒霉的男性的委托，\\n要帮他寻找四张抽奖券。\\n去商业区看看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_160",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "100750618"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "作为帮忙找回抽奖券的谢礼，\\n获得了一张抽奖券。\\n抽一次试试吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_161",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1896244620"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "四张抽奖券已经全部找到了。\\n去繁华街找看起来很倒霉的男性报告吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_162",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-278728657"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "看起来很倒霉的男性如愿以偿，\\n与云明交换了心心念念的三等奖奖品，\\n心满意足地离开了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_163",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-312347487"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "之前被约瑟芬误会是来抓她的，\\n还好误会现在解除了。\\n但约瑟芬好像还有事要人帮忙……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_164",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "57644429"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "约瑟芬从主人身边逃了出来，\\n要求我们协助它逃离这个小镇。\\n将约瑟芬带去南云原站吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_165",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1704541129"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "到了车站，想领约瑟芬回家的猫主人也找来了。\\n在主人的花言巧语之下，\\n约瑟芬态度大变，乖乖回家了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_166",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2104089798"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "一位闪电Tube旅游区UP主想游览小镇。\\n按他的说法，如果没人带路，\\n他可能会拍到什么损害南云原形象的东西……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_167",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2047088861"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "一位闪电Tube旅游区UP主想游览小镇。\\n带对方去临海公园的观光景点吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_168",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "485668505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "闪电Tube旅游区UP主说，\\n想要看比大海和小豚的雕像更具冲击力的东西。\\n带对方去校辉路的观光景点吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_169",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1811252751"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "闪电Tube旅游区UP主说，\\n想要看比海坊主石像更能代表南云原的东西。\\n带对方去南云原港的观光景点吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_170",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-175041620"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "闪电Tube旅游区UP主参观了\\n写着“南云原”拼音的纪念碑后十分满意。\\n受到了担任频道策划的邀请，但郑重地拒绝了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_171",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1599515222"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "有个因故无法参加同学会的男性\\n在找人帮他\\n送信到同学会会场……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_172",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1319580806"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "接受了去不了同学会的男性的委托，\\n需要帮他送信到同学会会场。\\n前往“什锦面 青春”送信吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_173",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-676436676"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "参加同学会的人们收到了信件。\\n他们认为是老师的来信，十分开心。\\n唯独委托送信的男性的身份成了谜团。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_174",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1112775406"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "来夏在社交媒体上传了一张吃芭菲的照片，\\n有个崇拜来夏的女生看到，\\n非常想知道那家店在哪里……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_175",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1403126846"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "崇拜来夏的女生\\n想吃照片中同款的芭菲。\\n寻找来夏常去的店吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_176",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-894741116"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "来夏常去的店是坦克咖啡馆。\\n得知草莓卡斯特拉芭菲已经卖完，\\n崇拜来夏的女生决定亲手制作。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_177",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1845514682"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "口气很大的男孩自称菱星精英，\\n所以必须有人帮他解决他的麻烦事……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_178",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "510305589"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "口气很大的男孩弄丢了菱星徽章，\\n去商店街长廊、废弃造船厂，\\n以及校辉路的公园里找找看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_179",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2023492465"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往南云路，\\n将“菱星徽章”还给口气很大的男孩吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_180",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-261831655"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "看来男孩是为了弄丢徽章的朋友，\\n才假装自己是菱星精英的。\\n他已经约定好今后再也不说谎。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_181",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-408617544"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "又被约瑟芬误会成追兵了，\\n还好误会现在解除了。\\n但约瑟芬好像又有事要人帮忙……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_182",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "162176148"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "约瑟芬从主人身边逃了出来，\\n要求我们协助它逃离这个小镇。\\n将约瑟芬带去南云原港吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_183",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1868313298"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "到了港口，想领约瑟芬回家的主人也找来了。\\n在主人的花言巧语之下，\\n约瑟芬又一次态度大变，乖乖回家了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_184",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1630572310"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "渴望进步的美术社成员\\n希望有人帮忙提供绘画练习所需的素材，\\n并且承诺会给足球社画一张宣传海报当报酬。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_185",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1891701190"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在与南云原看店人的足球战斗中，\\n向渴望进步的美术社成员\\n展示必杀技吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_186",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "372752256"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "深受必杀技感动的美术社成员，\\n当场给足球社画了宣传海报，\\n是一副画风独树一帜的画作。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_187",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "872990992"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "同班同学原口拼命请求云明帮帮忙，\\n和他一起准备\\n香澄崎老师要的资料……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_188",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1147288991"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "和同班同学原口一起\\n前往1-A班教室、档案室和理科教室\\n寻找资料吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_189",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-580162523"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将找到的3份资料\\n送去教职工办公室吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_190",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1435738957"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原口的真正目的并非收集资料，\\n而是希望有人能训斥他一番。\\n他似乎将目标换成了说话不留情面的来夏。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_191",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "688781736"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "学生会的门司想要人帮忙\\n一起寻找他的朋友“白山”，\\n并且愿意赠送足球用品当作报酬。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_192",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1499925799"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "学生会的门司\\n想见他最好的朋友“白山”。\\n去镇上道路找找看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_193",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1066509155"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往镇上道路的阴凉地方，\\n在那里寻找白山的身影吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_194",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1217827829"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来门司最好的朋友白山的真实身份，\\n是一只和千乃长得有点像的白猫。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_195",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2083897262"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "态度积极的新闻社成员\\n想要贴身采访足球社。\\n他说只要足球社同意，他就帮忙做宣传……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_196",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1841570174"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "态度积极的新闻社成员\\n想要贴身采访足球社。\\n前往百步阶梯，让他看看特训现场吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_197",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "187862840"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "态度积极的新闻社成员\\n牢牢记住了足球社特训现场的情况，\\n回去写报道了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_198",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "722402598"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "新闻社成员正为封面应该选什么照片而争执。\\n他们希望足球社能实际踢一场比赛，\\n让他们看看门将和前锋哪一个更上镜。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_199",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-989815798"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "新闻社成员正为封面应该选什么照片而争执。与海鸥足球俱乐部对战，\\n让新闻社成员观摩一下吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_200",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1544146352"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "新闻社成员们看完比赛后达成了和解，\\n决定在校报的封面上\\n同时刊登门将与前锋的照片。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_201",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1157180093"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "生闷气的男孩说\\n“黑暗组织”终于出现了，\\n想要找人帮忙……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_202",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1133833892"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "据说因为“黑暗组织”的阴谋，\\n踢足球的孩子们都不敢聚在一起了。\\n去镇上道路、商业区和滨海路打听一下吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_203",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-627196130"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "打听了一圈，\\n孩子们对这件事都闭口不谈。\\n先回到生闷气的男孩身边吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_204",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1382379640"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "据说“黑暗组织”的男人出现在南云原站，\\n去那里看看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_205",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "872290859"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "男人的真实身份是足球学校的教练，\\n孩子们正在临镇的足球学校练习，\\n似乎想要偷偷变强。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_206",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1724275757"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "遇到了一个喜欢海豚的老爷爷。\\n他说他的愿望就是\\n再看一次大海与小豚擅长的表演……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_207",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2000143103"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "老爷爷想再看一次大海与小豚擅长的表演，\\n前往废弃造船厂，\\n向他展示轮胎射门特训吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_208",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "297888955"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "见识过樱咲与来夏特训的老爷爷非常高兴，\\n认为他们是大海与小豚的转世，\\n又回来看他了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_209",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2076404885"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "听说棒球社派的柳生粉丝\\n正准备袭击云明。\\n来报信的学长提出了联手阻止对方的计划。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_210",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1781723719"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "拍下三张柳生与二户川中学比赛时的照片，\\n向崇拜柳生的学长汇报吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_211",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "214195203"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "与棒球社派的学生聊过后，\\n他们改变了“柳生应该回到棒球社”的想法。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_212",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1469097923"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "宇宙研究会的牟住力悠瑛\\n想要寻找磁场与众不同的地方。\\n足球社能得到顾问有他一份功劳，所以不太好拒绝……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_213",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-670716750"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "宇宙研究会的牟住力悠瑛\\n想要寻找三处磁场与众不同的地方。\\n前往南云原中学室外区域找找看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_214",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1091370248"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "已经找到三处磁场与众不同的地方了。\\n向牟住力汇报吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_215",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "906743198"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "连接三处磁场与众不同的地方，\\n似乎在学校内画出了一个巨大的倒三角形。\\n宇宙研究会的真正目的是与外星人通讯。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_216",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1518208315"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "汤元月见说，“那小子”\\n又想找云明\\n试吃乌冬面……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_217",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1267702761"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "去找汤元月见\\n接下品尝乌冬面的重任吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_218",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-762918317"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来文男离家出走进行乌冬面修行，\\n目的是为了超越母亲。\\n这件事印证了汤元一家人对彼此的牵挂。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_219",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "588613739"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "看起来很严厉的理科老师\\n想要成为一名闪电Tube的UP主，\\n为此需要参加足球社的特训……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_220",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-853808825"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "看起来很严厉的理科老师\\n想要成为一名闪电Tube的UP主。\\n和他一起进行轮胎射门特训吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_221",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1410513149"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "身为万队长忠实粉丝的女儿向父亲吐露心声，\\n告诉他应该多关心自己。\\n理科老师发誓要增加与女儿共处的时光。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_222",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1982713453"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在南云原的任意面店吃面，\\n就能获得“猩猩面大将贴纸”。\\n有个女孩正在找人一起收集这种贴纸……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_223",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "105331426"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在南云原的任意面店吃面，\\n收集10张“猩猩面大将贴纸”吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_224",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1622250664"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "集齐了10枚“猩猩面大将贴纸”，\\n回到商业区，向喜欢猩猩面的女孩汇报吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_225",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-397845554"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来“猩猩面”的设计者\\n正是喜欢猩猩面的女孩的父亲，\\n受到女儿的表扬，他重新找回了自信。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_226",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1797848789"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "崇拜年长者的二年级学生\\n叫住云明，\\n希望拜托他一件事……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_227",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "457312858"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "崇拜年长者的二年级学生称香澄崎老师为女神。\\n前往教职工办公室，\\n帮他向香澄崎老师讨要个人物品吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_228",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2108990496"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往足球社活动室附近，\\n将从香澄崎老师那里收到的圆珠笔\\n送给崇拜年长者的二年级学生吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_229",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-179541130"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "崇拜年长者的二年级学生坚信，\\n香澄崎老师是保佑足球社高歌猛进的胜利女神，\\n所以想要香澄崎老师的个人物品来当作护身符。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_230",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1602998928"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "绿女士刚好在\\n为什么事而烦恼，\\n正在找人帮忙。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_231",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-803284481"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "绿阿姨有一条已故的爱犬，名叫坦克，\\n它生前最爱的玩具被猫叼走了。\\n去把那件玩具找回来吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_232",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1226278981"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "将从猫那里取回的“坦克的玩具”\\n还给绿阿姨吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_233",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1041283283"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "绿阿姨的玩具失而复得，\\n她发誓不会再弄丢了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_234",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1850097218"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "有个新人职员一直没到岗，\\n负责培训的工作人员\\n想拜托别人一起寻找他……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_235",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2027578505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "接受了寻找新人职员“山田”的委托，\\n他的特征是一头金发，戴着眼镜。\\n在御台场足球园里找找看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_236",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "506251981"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "据说山田带走了迷路的孩子。\\n管理中心位于御台场足球园宿舍区，\\n去那里找找看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_237",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1764489819"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "山田并不在管理中心。\\n在御台场足球园找找看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_238",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-145788936"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "山田似乎慌慌张张地跑出去了。\\n在御台场足球园找找看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_239",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2142740626"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在宿舍前的操场遇到了山田，\\n他正在帮助遇到困难的人，\\n回去向负责培训的工作人员汇报吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_240",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "423694036"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "新人职员虽然未能准时赶上集合时间，\\n却将帮助遇到困难的人放在第一位。\\n这么来看，他是一位优秀的员工。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_241",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-272660235"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "孩子王一般的男孩请求足球社\\n在小巷球场\\n实际踢一场比赛让他看看……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_242",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "28436953"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为了让孩子王一般的男孩见识一下足球比赛，\\n和南云原看店人来一场对战吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_243",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1732724637"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "亲眼见证了四川堂身手的男孩十分感动，\\n发誓要成为一位顶尖门将，\\n出战明日之星足球大赛。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_244",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "618879824"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "分身无术的工作人员\\n丢失了一个足球，\\n想叫人帮忙一起找。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_245",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-890422660"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "替分身无术的工作人员，\\n寻找丢失的足球吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_246",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1407478726"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "工作人员一直在寻找的那个足球，\\n充满了他珍贵的回忆。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_247",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "971402216"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "又见到约瑟芬了，\\n缘分真是奇妙。\\n她又有事要找人帮忙了……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_248",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-672658748"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "约瑟芬从主人身边逃了出来，\\n要求我们协助它逃离这个小镇。\\n将约瑟芬带去南云原中学的天空港吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_249",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1323391870"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "妖士乃伪装成了约瑟芬主人的模样，\\n终于让约瑟芬吐露了心声。\\n约瑟芬与爱猫女士的感情更加深厚了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_250",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "71581292"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "开朗的外国记者似乎迷路了，\\n正在找人带他参观御台场足球园。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_251",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1709134897"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "开朗的外国记者似乎迷路了，\\n带他前往宿舍前的操场吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_252",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "53082741"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带开朗的外国记者\\n前往宿舍小屋吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_253",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1949223651"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "带开朗的外国记者\\n前往圆堂守雕像前吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_254",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-364224704"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "与开朗的外国记者一起，\\n在圆堂守雕像前拍照吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_255",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1655869482"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "开朗的外国记者看到了圆堂守雕像，\\n回想起了最初喜欢上足球时的热情。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_256",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "555125989"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "学长听到学弟每天夜里在外面游荡的传闻，\\n担心之下想找人查清楚情况。\\n那个学弟之前被人看到和一个老奶奶走在一起。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_257",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1367111786"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "据说田径社的闻田喜欢在晚上到处闲逛。\\n去北边教学楼前、南云原中学的天台，\\n以及临海公园打听一下吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_258",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-931845680"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "听说闻田和一位老婆婆在一起，\\n夜晚时前往临海公园，与老婆婆对话吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_259",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1083041466"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "闻田沉迷稀罕宝贝GO，\\n一直都在和老婆婆一起玩。\\n经过这件事后，社长严令禁止他再玩游戏。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_260",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "779058516"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "汤元月见说\\n有些事想商量，\\n不知现在有没有时间……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_261",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1577421275"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "月见的女儿汤元千南\\n似乎被跟踪狂盯上了。\\n向她询问一下详细情况吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_262",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-955459487"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "千南说在山景台、镇上道路、滨海路，\\n以及废弃造船厂感受到了视线。\\n去这些地方调查一下吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_263",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1341396745"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来跟踪狂的真实身份是火龙。\\n他似乎想将捡到的吊坠还给千南，\\n却一直没能鼓起勇气上前搭话。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_264",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1671945311"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "爱下厨的老爷爷说，他可以为足球社成员烹饪\\n喝下去就能提升球技的“究极浓汤”，\\n但要先帮他做一件事……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_265",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "332212432"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为了帮老爷爷准备制作浓汤的素材，\\n去御台场足球园的住宿区，\\n寻找三种野菜吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_266",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1966835350"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "收集完了三种野菜。\\n回到御台场足球园，\\n把野菜交给爱下厨的老爷爷吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_267",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-37533188"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "爱下厨的老爷爷被评价为落后于时代。\\n为了完成一道全新的究极浓汤，\\n他再次回到了厨房。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_268",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "161864817"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "有个新上岗的保安因为夜里看见了幽灵\\n而无心工作，\\n正在找人证明幽灵并不存在……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_269",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "247994472"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "御台场足球园内有幽灵出没，\\n为了查明真相，\\n向看到幽灵的人打听一下吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_270",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1748940334"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "据说有人目击到了一个轮廓像云明的发型、\\n会漂浮会说话的幽灵，\\n去海岸区看看情况吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_271",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-523863740"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为了揪出冒充海坊主的犯人，\\n在夜晚前往海岸区，\\n寻找“御台场的海坊主”吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_272",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2124606695"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来“御台场的海坊主”的真实身份，\\n是英爱学园用来特训的多功能机器人，\\n名字叫做“涡潮君”。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_273",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1241628862"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "一位职员\\n正在找人帮忙调查\\n什么食物能勾起运动人群的食欲……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_274",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-980104243"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在御台场足球园\\n向三个人征集意见，\\n问问他们运动的时候最想吃什么吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_275",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1553832567"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "收集了不少运动人群的意见。\\n向正在沉思的女性汇报吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_276",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "731556577"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来正在沉思的女性是舶壁屋的员工。\\n向这位思考新奇商品的女性，\\n传达了对于卡斯特拉蛋糕的情怀。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_277",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-490373686"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "喜欢读书的学姐\\n正在寻找\\n愿意立刻借出《西古德战记》的人。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_278",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1833989819"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "不知谁会愿意借出自己的《西古德战记》，\\n在南云原中学的校园内寻找正在读书的人，\\n向他们搭话吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_279",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "195483903"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "从埋头看书的男生那里\\n借来了《西古德战记》。\\n将它交给喜欢看书的学姐吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_280",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2090985577"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来一切都是为了推广这部小说设下的局。\\n然而云明早就是《西古德战记》的粉丝了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_281",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1683033956"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "有个形迹可疑的记者要求采访足球社。\\n按他自己的说法，他从来没有写过虚假报道……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_282",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "339475435"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "形迹可疑的记者可能会乱写一通。\\n回南云原阻止他吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_283",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1926059439"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "形迹可疑的记者肯定在咖啡馆。\\n前往坦克咖啡馆吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_284",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-97150265"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "找到了凭借胡编乱造的报道成名的记者。\\n或许那个形迹可疑的记者，\\n就是让笔下文字成为现实的“预言写手”。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_285",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1358046015"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "转学生四叶本是奉不破艾利斯之命转学到南云原的间谍，\\n现在却因为想见“此生挚爱”而不肯回帝国了。\\n但是连他也不知道自己一见钟情对象的姓名和年级……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_286",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-546887602"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "转学生四叶对“那个女生”一见钟情，\\n在南云原中学寻找见过的人吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_287",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1181645300"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "虽然没找到什么有用的线索，\\n但仔细一想所有描述都指向了某个“人”。\\n去旧体育仓库附近找找看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_288",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "828983650"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "转学生四叶一见钟情的“那个女生”，\\n原来是百道制作的、用来练习足球的机器人。\\n名字叫做“UM-BZ9”。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_289",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1308038023"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "来访足球园的妻子\\n正在找人帮忙去购物中心\\n买一罐冰凉的冷饮……"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_290",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1033758474"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "前往购物中心，\\n购买冰凉的冷饮，\\n交给来访足球园的夫妻吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_291",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1533757772"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "穿上冠升限定款运动服\\n与来访足球园的丈夫一起拍摄纪念照吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_292",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "745306586"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来夫妻两人都是“冠升”的内部人员。\\n他们拍摄纪念照的真实目的，\\n或许是那件运动服。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_293",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2035564508"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "一位资深厨师\\n正在开发新菜式，\\n需要从长崎的特色美食中取材。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_294",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "155110227"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为了开发再现长崎风味的新菜式，\\n前往什锦面店、南云原站和坦克咖啡馆，\\n收集三种长崎的特色美食吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_295",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1875404055"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "收集了三种长崎的特色美食。\\n回到御台场足球园的宿舍区，\\n将它们交给资深厨师吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_296",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-416241025"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "新菜式的外观虽然可怕，\\n却能从中感受到南云原的风味，\\n非常好吃。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_297",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2114012929"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在南云原中学的新生活开始了。\\n为了了解新学校，\\n找附近的同学们聊聊天吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_298",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "151418775"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "从大家口中了解到了针对南云原中学的评价，\\n也在社交平台上查看了和学校有关的情报。\\n差不多该前往自己的班级1-A了。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_299",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1878055379"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "同班同学木曾路跑来搭话，\\n就算拒绝他的导游他还是一直纠缠不休。\\n彻底甩开木曾路吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_300",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-418900293"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为保护樱咲倒下后在医院里醒来。\\n从医院回家前，\\n先去临海公园吹吹风吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_301",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2037154584"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在社交平台上发现了樱咲以前的视频，\\n得知他曾是名足球少年。\\n在学校里进一步调查樱咲吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_302",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "241939342"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "樱咲说他回家也是走这条路。\\n那么就按平常的路线回家吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_303",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1755127244"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "从附近的同学们那里收集到了情报。\\n去情报书签里整理收集到的信息吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_304",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-530197854"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在被同班同学木曾路持续纠缠后，\\n他似乎放弃了。\\n按照平时的路线回家吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_305",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1893388083"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "已在校园里收集到了关于樱咲的情报。\\n去情报书签里整理收集到的信息吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_306",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "131989413"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "只要和樱咲呆在一起，\\n心中对足球的情感就会高涨起来。\\n按平时的路线回家吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_307",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2024728879"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "打开Inacord，\\n创建三个人专用的群组吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_308",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1729787456"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "决定要成立足球社后，\\n有踢球经验的木曾路也加入了我们。\\n去寻找适合作为活动室的地方吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_309",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "270354134"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "看起来能作为活动室的场所已经调查完毕。\\n进入情报书签整理一下收集到的信息吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_310",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1995171988"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "想把旧体育仓库作为活动室，\\n但负责管理钥匙的香澄崎老师已经回家了。\\n明天再找老师商量，今天先回家吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_311",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-32299014"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "樱咲认可了木曾路的实力。\\n看着他们，有了些想尝试的事情。\\n按平时的路线回家吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_312",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1618457177"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为了让樱咲和木曾路找回球感，\\n需要进行一些特训。\\n在百步阶梯进行特训吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_313",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "393249487"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "百步阶梯看来能够作为特训场所使用。\\n也许还能找到其他的特训场所。\\n今天就先按平时的路线回家吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_314",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1904618635"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "发现了正在监视我们的海坊主。\\n抓住它对重建足球社至关重要。\\n追上海坊主吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_315",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-109124637"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "从樱咲口中得知了他放弃足球的理由。\\n樱咲说他回家的方向和自己一样，\\n那就一起按平时的路线回家吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_316",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1774321266"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "调查后发现\\n海坊主实际上是百道用于收集情报的无人机。\\n说服百道，让她同意提供帮助。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_317",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "516345572"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "今天要去医院接受检查。\\n樱咲发来的视频就等检查完再看吧。\\n前往南云原综合医院。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_318",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1278682499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "面前的男子宣称自己也能看见足球的幻影，\\n因此又重燃了对足球的思念之情。\\n陪他踢一场空想足球吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_319",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1848816614"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "踢了一会儿空气足球，\\n结果错过了复查的时间。\\n索性去临海公园吹吹风吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_320",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "993006869"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "之前委托百道制作的\\n比赛练习系统已经完工了。\\n马上试用一下吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_321",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1573305169"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "招募队员的策略已经想好了。\\n前往旧体育仓库，\\n和其他人开会讨论。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_322",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-717327303"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "首先要做的就是彻底颠覆大家对足球的印象。\\n前往同学们最向往的舞蹈社进行入社体验，\\n揭开他们受欢迎的秘密。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_323",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1264247194"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "1-B班的古道饲\\n原来是个运动能力超群的厉害人物。\\n追上他，尝试拉他入伙。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_324",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1012781324"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "听到体验入社的请求，舞蹈社的岩城社长却说，\\n如果只是想见来夏，进舞蹈社是没有意义的。\\n在校内对来夏展开调查。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_325",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1521188682"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "舞蹈社的社员们道出了一些有关来夏的信息。\\n打开情报书签，\\n整理目前为止获得的情报。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_326",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-766267360"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "现在舞蹈社的人气全都来自来夏，\\n并且她本人并不热衷于舞蹈社的活动。\\n听说有人在天台的学生广场见过她，去看看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_327",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1122807217"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在云明练习跳舞的时候，\\n其他人要去他指定的地点进行特训。\\n前往商店街的乌冬面店。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_328",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "904633639"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "乌冬店店主汤元月见好像有事交代。\\n按她的指示，\\n穿过商业区的长廊，前往小巷子里的广场。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_329",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428952258"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "原来是云明提前委托月见\\n为足球练习提供便利。\\n和商店街的足球队开始特训吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_330",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "573252692"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "和南云原看店人的特训结束了。\\n按平常的路线回家吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_331",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1155369490"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "万事俱备，舞蹈对决随时可以开始。\\n和来夏进行舞蹈对决。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_332",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-869972616"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "活动室已经完全处在学生会忍者的监视下了。\\n前往木曾路发来的地点，\\n避开学生会的耳目。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_333",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1380045019"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "暂时和四川堂组建了统一战线。\\n为了调查五年前足球社的事件，\\n先找老师们收集信息吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_334",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "625401933"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "找资深教师们打听到了不少五年前的故事。\\n打开情报书签，\\n整理目前为止获得的情报。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_335",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1135627785"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "南云原中学的新设施问题\\n曾经是全镇的头等大事。\\n找学校周边的住户收集信息。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_336",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-884440735"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "学校周边的住户提供了许多信息。\\n打开情报书签，\\n整理目前为止获得的情报。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_337",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1542954224"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "据说南云原镇因学校新设施问题\\n分成了足球和棒球两个派系。\\n找商业区的人们收集信息。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_338",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "753970278"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "商业区的人们都很热心于提供信息。\\n打开情报书签，\\n整理目前为止获得的情报。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_339",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "443384325"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "所有信息都指向五年前的事件。\\n回学校再收集一次信息，\\n寻找当年足球社的活动记录。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_340",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1835709075"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "当年足球社的活动记录调查完成了。\\n打开情报书签，\\n整理目前为止获得的情报。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_341",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-194780375"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "事件的全貌逐渐清晰了。\\n前往档案室，\\n寻找最后的关键信息。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_342",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2090544193"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "据说事件发生于坦克咖啡馆门前的街道。\\n前往咖啡馆，\\n找老板真树野绿询问详情。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_343",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "486557212"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "绿女士回忆起来，自己最近还见过几次间知。\\n他正是当时南云原足球队的队长。\\n去临海公园寻找间知。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_344",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1778873994"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "当时在背后煽风点火的混混集团\\n“闪混团”终于上钩了。\\n前往废弃造船厂。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_345",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-217176272"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "事件的真相水落石出，\\n足球社也终于可以正式成立了。\\n和大家一起前往临海公园练习。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_346",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-422937460"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "足球这项运动，最重要的就是团队协作。\\n为了进一步拉近社员之间的关系，\\n和大家一起拍摄纪念照吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_347",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2079778906"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "拍完纪念照，就要开始练习了。\\n前往海鸥足球俱乐部练习踢球的\\n内湾海滩。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_348",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "347474487"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "俱乐部的孩子们正在海边踢足球。\\n找到俱乐部的管理者，\\n向对方提出足球战斗的申请。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_349",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1672559265"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "还有训练项目\\n要在和棒球社对战前完成，\\n在比赛前做好最后的准备吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_350",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "58110788"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "大家已经做好和棒球社比赛的准备了。\\n选择开始比赛，向棒球社发起挑战。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_351",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1953596370"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为了给足球社找到顾问老师，\\n分别和“宇宙研究会”与“观星俱乐部”沟通，\\n说服两个社团合并。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_352",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-310848920"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "龟雄又在遭到霸凌。\\n龟雄是足球社的一员，不能放着他被欺负不管。\\n追上龟雄。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_353",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1702894850"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "两个社团终于同意合并了。\\n找香澄崎老师谈一谈，\\n拜托她担任足球社的顾问。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_354",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "68908893"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "千乃同意承认足球社，但是还有一个条件。\\n明天就要面试入社候选人了，\\n抓紧在面试之前找到龟雄，解决他的问题。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_355",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1931233227"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "龟雄认为自己没有资格留在足球社，\\n因此感到非常自卑。\\n找到来夏，让他看看来夏的秘密。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_356",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-367716751"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "今天要选出的5个人对足球社至关重要，\\n必须慎重决定。\\n通过足球面试，了解每个人的特点吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_357",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1659754777"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "通过足球面试，15位候选人的特点都\\n了解清楚了。来选定最终的5位成员吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_358",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "229456758"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "终于凑够了11位社员，也有了训练场地。\\n在为迎战明日之星足球大赛展开训练之前，\\n先去确认社员们的情况吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_359",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2057964512"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "所有人都在认真练习，只有龟雄又没有来。\\n他应该还在校内，找到他。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_360",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "677109895"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "香澄崎老师有话要说。\\n前往教职工办公室。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_361",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1599918097"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "还有训练项目\\n要在和西之宫中学对战前完成，\\n在比赛前做好最后的准备吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_362",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-967474773"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "大家已经做好和西之宫中学比赛的准备了。\\n选择开始比赛，\\n和西之宫中学对决。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_363",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1319980739"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "乙女教练有话要说。\\n前往体育馆前的长椅处。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_364",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "792077470"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "要和北阳学园相抗衡，\\n就必须实质性提升足球社的实力。\\n前往校内球场确认大家的训练情况。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_365",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1479611400"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "练习中突然传来消息，\\n云明的母亲笹波真子住院了。\\n尽快赶往南云原综合医院吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_366",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1053276750"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "还有训练项目\\n要在和北阳学园对战前完成，\\n在比赛前做好最后的准备吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_367",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1237355228"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "大家已经做好和北阳学园比赛的准备了。\\n选择开始比赛，\\n和北阳学园对决。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_368",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "645949621"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "南云原中学和北阳学园合并之后，\\n球队的教练可能就要换成下鹤了。\\n前往废弃造船厂的特训场地，和大家商量对策。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_369",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1367824419"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "因为和北阳学园合并，\\n足球社的人数激增。\\n去活动室打扫一番，给新人腾出空间。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_370",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "826331590"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "拿到东风异国馆的录像了。\\n柳生大方地借出了棒球活动楼的多媒体室，\\n就在那里观看录像吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_371",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1179115856"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "空宫突然说要一起去吃乌冬面。\\n前往商业区的乌冬面店吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_372",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-548491030"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "准备好之后\\n开始和下鹤的教练对决\\n以及社员们的个人球技赛。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_373",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1471577988"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "计划进行得很顺利，\\n下鹤如约挑走了南云原的球员。\\n在北阳成员中挑选队员吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_374",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "908924383"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在教练对决中落败的下鹤离开了南云原。\\n在大家集合训练前，\\n先到活动室整理一下东风异国馆的数据吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_375",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1093281097"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "还有训练项目\\n要在和东风异国馆对战前完成，\\n在比赛前做好最后的准备吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_376",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-668764941"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "大家已经做好和东风异国馆比赛的准备了。\\n选择开始比赛，\\n和东风异国馆对决。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_377",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1356577691"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "伤病导致的空窗期与莲的建议\\n共同促成了这次长崎之旅。\\n难得来一趟，先四处逛逛吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_378",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1067145716"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在长崎悠闲地逛了一圈。\\n打开情报书签，\\n整理目前为止获得的情报。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_379",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1218210146"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "长崎的特色景点，每一个都新奇又好玩。\\n逛得差不多了，去笹波云明的学校——\\n南云原中学看看吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_380",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1227305719"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "明日之星足球大赛决赛在即，\\n参赛选手也齐聚于御台场足球园。\\n到处走走看看，熟悉这里的各个设施。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_381",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1042285153"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "足球园的所有设施都逛完了。\\n打开情报书签，\\n整理目前为止获得的情报。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_382",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1490463781"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "想要对抗京前岚山的话，\\n南云原也必须召唤出化身。\\n确认队友们的行动，拍下照片。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_383",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "802266291"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "拍完照片之后，\\n马上又被云明叫回去了。\\n前往南云原的宿舍小屋。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_384",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1313535728"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "据说南云原十多年前也有一位化身能力者。\\n为了调查这位能力者的信息，\\n乘坐空航机返回南云原吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_385",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-961398394"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "南云原的化身能力者\\n可能留下过相关的记录。\\n前往档案室查找资料。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_386",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1606117436"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "档案室的门上了锁。\\n前往“教职工办公室”、“美术社”\\n和“图书室”，寻找档案室的钥匙。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_387",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "683432106"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "终于了解了创造化身的原理。\\n去透透气吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_388",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1207745221"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "还有训练项目\\n要在和京前岚山对战前完成，\\n在比赛前做好最后的准备吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_389",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-821791315"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "大家已经做好和京前岚山比赛的准备了。\\n选择开始比赛，\\n和京前岚山对决。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_390",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1346110392"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "《周刊十一人》的采访结束，\\n该准备下一场比赛了。\\n去通知大家接下来的训练内容吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_391",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-658191138"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "还有训练项目\\n要在和帝国学园对战前完成，\\n在比赛前做好最后的准备吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_392",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1103994212"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "大家已经做好和帝国学园比赛的准备了。\\n选择开始比赛，\\n和帝国学园对决。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_393",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "919252466"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "找到球队经理有海崎，\\n问她要拜托她调查的资料。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_394",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1464977327"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "有海崎说那个视频已经被星村取走了。\\n前往活动室，\\n观看录像。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_395",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "262789561"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "在练习赛中战胜英爱学园、伟仁铭文堂\\n和法令馆中学，掌握全新的必杀战术，\\n提升球队的基础能力吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_396",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-542570297"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "足球社的队员们\\n应该都在为了迎战决赛做自由练习。\\n去看看他们练得怎么样。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_397",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1184913789"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "雷门中学的球员们根本没在练习。\\n带他们去足球社的旧活动室，\\n纠正他们的心态。\u3000"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_398",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "833055211"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "南云原中学是一支擅长分析的球队，\\n要想取胜就必须获得超越他们分析能力的新力量。\\n去找符合这个条件的球员谈谈。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_399",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1592232838"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "决赛的对手是雷门中学，\\n大家应该都很有压力。\\n去看看他们练习的状况。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_400",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-702593812"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "为了让大家重新团结一心，\\n前往南云原中学的操场，\\n一起玩洗牌游戏。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_401",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2143497526"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "还有训练项目\\n要在和雷门中学对战前完成，\\n在比赛前做好最后的准备吧。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_402",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "147070368"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "大家已经做好和雷门中学比赛的准备了。\\n选择开始比赛，\\n和雷门中学对决。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_403",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "311323342"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "和宇宙研究会成员战斗"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_404",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1954071692"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "加特林海坊主停球特训"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_405",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-58717214"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "和喜欢占卜的阿姨战斗"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_406",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1659149889"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "海坊主迷走盘带特训"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

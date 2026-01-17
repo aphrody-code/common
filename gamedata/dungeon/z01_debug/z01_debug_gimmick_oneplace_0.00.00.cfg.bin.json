@@ -1,0 +1,91 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_GimmickOneplaceList",
+      "typeName": "GIMMICK_ONEPLACE_INFO",
+      "values": [
+        {
+          "oneplaceId": "0x7A42F490",
+          "layoutId": "0x9B91CF0C",
+          "gimmickType": 0,
+          "paramCrc0": "0x00000000",
+          "paramCrc1": "0x00000000",
+          "paramNum0": 0,
+          "paramNum1": 0,
+          "cond": "\uFFFDGIMMICK_ONEPLACE_INFO"
+        },
+        {
+          "oneplaceId": "0x4BE70339",
+          "layoutId": "0x94EBB3C7",
+          "gimmickType": 4,
+          "paramCrc0": "0x53EFF86A",
+          "paramCrc1": "0x1BC3CA3E",
+          "paramNum0": 3,
+          "paramNum1": 3,
+          "cond": "\uFFFDGIMMICK_ONEPLACE_INFO"
+        },
+        {
+          "oneplaceId": "0xD2EE5283",
+          "layoutId": "0x0DE2E27D",
+          "gimmickType": 4,
+          "paramCrc0": "0xCAE6A9D0",
+          "paramCrc1": "0x1BC3CA3E",
+          "paramNum0": 3,
+          "paramNum1": 3,
+          "cond": "\uFFFDGIMMICK_ONEPLACE_INFO"
+        },
+        {
+          "oneplaceId": "0xA5E96215",
+          "layoutId": "0x7AE5D2EB",
+          "gimmickType": 4,
+          "paramCrc0": "0x81581EFA",
+          "paramCrc1": "0x1BC3CA3E",
+          "paramNum0": 7,
+          "paramNum1": 7,
+          "cond": "\uFFFDGIMMICK_ONEPLACE_INFO"
+        },
+        {
+          "oneplaceId": "0x3B8DF7B6",
+          "layoutId": "0xE4814748",
+          "gimmickType": 4,
+          "paramCrc0": "0x9B324008",
+          "paramCrc1": "0x1BC3CA3E",
+          "paramNum0": 1,
+          "paramNum1": 1,
+          "cond": "\uFFFDGIMMICK_ONEPLACE_INFO"
+        },
+        {
+          "oneplaceId": "0x3A91F068",
+          "layoutId": "0x3A91F068",
+          "gimmickType": 1,
+          "paramCrc0": "0x00000000",
+          "paramCrc1": "0x00000000",
+          "paramNum0": 0,
+          "paramNum1": 0,
+          "cond": "\uFFFDGIMMICK_ONEPLACE_INFO"
+        },
+        {
+          "oneplaceId": "0xF3BFE100",
+          "layoutId": "0x121FAA04",
+          "gimmickType": 2,
+          "paramCrc0": "0x1BC3CA3E",
+          "paramCrc1": "0x00000000",
+          "paramNum0": 0,
+          "paramNum1": 0,
+          "cond": "\uFFFDGIMMICK_ONEPLACE_INFO"
+        },
+        {
+          "oneplaceId": "0x080ABE47",
+          "layoutId": "0xEE4072C0",
+          "gimmickType": 3,
+          "paramCrc0": "0x00000000",
+          "paramCrc1": "0x00000000",
+          "paramNum0": 0,
+          "paramNum1": 0,
+          "cond": "\uFFFDGIMMICK_ONEPLACE_INFO"
+        }
+      ]
+    }
+  ]
+}

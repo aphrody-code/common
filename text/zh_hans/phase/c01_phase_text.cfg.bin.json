@@ -1,0 +1,123 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "6"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2038547007"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "おつかい[用/よう] の１０００[円/えん] をもらった！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-293305057"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ヘルプのなかには\u3000<CMD_POS_FIXED_LOG_HOLD>[CR][長押/ながお]し[C]で\\nすぐに\u3000[見/み]られるものもあります。\\nどのヘルプも\u3000[妖怪/ようかい]パッドの[CR]ヘルプアプリ[C]で\\n[CG]あとからいつでも[C]\u3000[確認/かくにん]できます。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-280563928"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<NAME_KETA_8888>は\u3000１０００[円/えん]をわたして\\n[CG2][卵/たまご][C]と[CG2][牛乳/ぎゅうにゅう][C]を[買/か]った！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-13120547"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "いっしょに\u3000[CG2]アイス[C]も３[本/ぼん][買/か]った！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "195420900"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[CG2][卵/たまご][C]と[CG2][牛乳/ぎゅうにゅう][C]を\u3000お[母/かあ]さんに[手/て]わたした！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12401955"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[謎/なぞ]のトビラに\u3000カギを[使/つか]ってみますか？<SEL0001/0/1>"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

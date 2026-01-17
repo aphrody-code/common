@@ -1,0 +1,125 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "5"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "285048901"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ここが[学園長/がくえんちょう]の[家/いえ]か！\u3000でっけー！\\nエマもいるのかな？\u3000おーい！"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "285048901"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "String",
+              "value": "[学園/がくえん]の[敷地/しきち]に[自宅/じたく]があるんだね。\\nさすが[学園長/がくえんちょう]…。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "285048901"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "String",
+              "value": "[庭/にわ]に[橋/はし]がかかってる[家/いえ]\\n[初/はじ]めて[見/み]た…。"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "285048901"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "String",
+              "value": "[見/み]ろよホラ！\u3000[庭/にわ]にコイがいるぞ！\\n[丸焼/まるや]きにして[食/た]べようぜ！"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "285048901"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "String",
+              "value": "[食/た]べないよ！？"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

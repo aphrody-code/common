@@ -1,0 +1,2458 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_EnemyInfoList",
+      "typeName": "RpgBattleZigzagDribbleTrainingEnemyInfo",
+      "values": [
+        {
+          "enemyId": "0xC2F848D8",
+          "colorMotName": "0xCC029F43",
+          "moveSpeed": 0,
+          "perceptionRadius": 6,
+          "behaviorType": 0
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "colorMotName": "0xCC029F43",
+          "moveSpeed": 4,
+          "perceptionRadius": 10,
+          "behaviorType": 1
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "colorMotName": "0x57205C43",
+          "moveSpeed": 8,
+          "perceptionRadius": 10,
+          "behaviorType": 1
+        },
+        {
+          "enemyId": "0x75521B16",
+          "colorMotName": "0xD9AF77A7",
+          "moveSpeed": 4,
+          "perceptionRadius": 10,
+          "behaviorType": 2
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "colorMotName": "0x2B341B75",
+          "moveSpeed": 4,
+          "perceptionRadius": 12,
+          "behaviorType": 3
+        },
+        {
+          "enemyId": "0x876C0C85",
+          "colorMotName": "0xCC029F43",
+          "moveSpeed": 0,
+          "perceptionRadius": 6,
+          "behaviorType": 0
+        },
+        {
+          "enemyId": "0xF3F0678C",
+          "colorMotName": "0xCC029F43",
+          "moveSpeed": 8,
+          "perceptionRadius": 10,
+          "behaviorType": 1
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "colorMotName": "0x57205C43",
+          "moveSpeed": 12,
+          "perceptionRadius": 12,
+          "behaviorType": 1
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "colorMotName": "0xD9AF77A7",
+          "moveSpeed": 8,
+          "perceptionRadius": 10,
+          "behaviorType": 2
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "colorMotName": "0x2B341B75",
+          "moveSpeed": 4.5,
+          "perceptionRadius": 16,
+          "behaviorType": 3
+        }
+      ]
+    },
+    {
+      "name": "m_TrainingInfoIdList",
+      "typeName": "RpgBattleZigzagDribbleTrainingInfoId",
+      "values": [
+        {
+          "trainingId": "0xC79679CE"
+        },
+        {
+          "trainingId": "0x5E9F2874"
+        },
+        {
+          "trainingId": "0x299818E2"
+        },
+        {
+          "trainingId": "0xC5D0C797"
+        },
+        {
+          "trainingId": "0x5CD9962D"
+        },
+        {
+          "trainingId": "0x2BDEA6BB"
+        },
+        {
+          "trainingId": "0xC412ADA0"
+        },
+        {
+          "trainingId": "0x5D1BFC1A"
+        },
+        {
+          "trainingId": "0x2A1CCC8C"
+        },
+        {
+          "trainingId": "0xC15DBB25"
+        },
+        {
+          "trainingId": "0x5854EA9F"
+        },
+        {
+          "trainingId": "0x2F53DA09"
+        }
+      ]
+    },
+    {
+      "name": "m_RuleInfoList",
+      "typeName": "RpgBattleZigzagDribbleTrainingRuleInfo",
+      "values": [
+        {
+          "ruleId": "0x8F2ABF9C",
+          "trainingInfoIdRef": [
+            0,
+            3
+          ]
+        },
+        {
+          "ruleId": "0x1623EE26",
+          "trainingInfoIdRef": [
+            3,
+            3
+          ]
+        },
+        {
+          "ruleId": "0x6124DEB0",
+          "trainingInfoIdRef": [
+            6,
+            3
+          ]
+        },
+        {
+          "ruleId": "0xFF404B13",
+          "trainingInfoIdRef": [
+            9,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_EnemyPlaceInfoList",
+      "typeName": "RpgBattleZigzagDribbleTrainingEnemyPlaceInfo",
+      "values": [
+        {
+          "enemySetId": "0xCF116E84",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x67ED9A19",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x50DBE29B",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x61CB531E",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x1D2F7EBD",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x80CC19A3",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xACDF6A81",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xA9D8AAC4",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x6A284E2B",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xF7CB2935",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xDBD85A17",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xDEDF9A52",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xB8165E12",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x9B7C9A2D",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xF4B10CF9",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x23C0FD48",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x317552A6",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x204F570D",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x23D47339",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xD0254C7F",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xEF7E73A7",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x61F17444",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x5748679B",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x54D343AF",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xA7227CE9",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x98794331",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x16F644D2",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x56183F3E",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xD99DAC24",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x56183F3E",
+          "offsetPos": "0000404000000000",
+          "rotateY": 90
+        },
+        {
+          "enemySetId": "0x56183F3E",
+          "offsetPos": "000040C000000000",
+          "rotateY": 90
+        },
+        {
+          "enemySetId": "0xFEE4CBA3",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xFEE4CBA3",
+          "offsetPos": "000040C000000000",
+          "rotateY": 45
+        },
+        {
+          "enemySetId": "0x7572FB01",
+          "offsetPos": "0000000000000000",
+          "rotateY": 45
+        },
+        {
+          "enemySetId": "0x5A8F046D",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xA18D4780",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x5A8F046D",
+          "offsetPos": "0000404000000000",
+          "rotateY": 90
+        },
+        {
+          "enemySetId": "0x5A8F046D",
+          "offsetPos": "000040C000000000",
+          "rotateY": 90
+        },
+        {
+          "enemySetId": "0xC76C6373",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xC76C6373",
+          "offsetPos": "000040C000000000",
+          "rotateY": 45
+        },
+        {
+          "enemySetId": "0x59142059",
+          "offsetPos": "0000000000000000",
+          "rotateY": 45
+        },
+        {
+          "enemySetId": "0x2D8834FB",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xD68A7716",
+          "offsetPos": "00000000000040C0",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x2D8834FB",
+          "offsetPos": "0000404000000000",
+          "rotateY": 90
+        },
+        {
+          "enemySetId": "0x2D8834FB",
+          "offsetPos": "000040C000000000",
+          "rotateY": 90
+        },
+        {
+          "enemySetId": "0xB06B53E5",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xB06B53E5",
+          "offsetPos": "000040C000000000",
+          "rotateY": 45
+        },
+        {
+          "enemySetId": "0x2E1310CF",
+          "offsetPos": "0000000000000000",
+          "rotateY": 45
+        },
+        {
+          "enemySetId": "0x0A545558",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x97836DE1",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x05180F8E",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x35C85B74",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xF06F65FA",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x67F074D3",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x10F74445",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x3F93FF92",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x3556F68B",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x91F4AF29",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xB47B2A35",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x9D403FB6",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xC52C8677",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xF84CAFC7",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x4894CF04",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x4251C61D",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xE6F39FBF",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xC37C1AA3",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xEA470F20",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0xB22BB6E1",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        },
+        {
+          "enemySetId": "0x8F4B9F51",
+          "offsetPos": "0000000000000000",
+          "rotateY": 0
+        }
+      ]
+    },
+    {
+      "name": "m_CheckPointInfoList",
+      "typeName": "RpgBattleZigzagDribbleTrainingCheckPointInfo",
+      "values": [
+        {
+          "pos": "00007041000070C1",
+          "enemyPlaceRef": [
+            0,
+            1
+          ]
+        },
+        {
+          "pos": "000020C1000020C1",
+          "enemyPlaceRef": [
+            1,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A040",
+          "enemyPlaceRef": [
+            2,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            3,
+            1
+          ]
+        },
+        {
+          "pos": "00007041000070C1",
+          "enemyPlaceRef": [
+            4,
+            1
+          ]
+        },
+        {
+          "pos": "000020C1000020C1",
+          "enemyPlaceRef": [
+            5,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A040",
+          "enemyPlaceRef": [
+            6,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            7,
+            1
+          ]
+        },
+        {
+          "pos": "00007041000070C1",
+          "enemyPlaceRef": [
+            8,
+            1
+          ]
+        },
+        {
+          "pos": "000020C1000020C1",
+          "enemyPlaceRef": [
+            9,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A040",
+          "enemyPlaceRef": [
+            10,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            11,
+            1
+          ]
+        },
+        {
+          "pos": "000040C1000070C1",
+          "enemyPlaceRef": [
+            12,
+            1
+          ]
+        },
+        {
+          "pos": "00002041000000C1",
+          "enemyPlaceRef": [
+            13,
+            1
+          ]
+        },
+        {
+          "pos": "000000C100000000",
+          "enemyPlaceRef": [
+            14,
+            1
+          ]
+        },
+        {
+          "pos": "0000C04000000041",
+          "enemyPlaceRef": [
+            15,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            16,
+            1
+          ]
+        },
+        {
+          "pos": "000040C1000070C1",
+          "enemyPlaceRef": [
+            17,
+            1
+          ]
+        },
+        {
+          "pos": "00002041000000C1",
+          "enemyPlaceRef": [
+            18,
+            1
+          ]
+        },
+        {
+          "pos": "000000C100000000",
+          "enemyPlaceRef": [
+            19,
+            1
+          ]
+        },
+        {
+          "pos": "0000C04000000041",
+          "enemyPlaceRef": [
+            20,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            21,
+            1
+          ]
+        },
+        {
+          "pos": "000040C1000070C1",
+          "enemyPlaceRef": [
+            22,
+            1
+          ]
+        },
+        {
+          "pos": "00002041000000C1",
+          "enemyPlaceRef": [
+            23,
+            1
+          ]
+        },
+        {
+          "pos": "000000C100000000",
+          "enemyPlaceRef": [
+            24,
+            1
+          ]
+        },
+        {
+          "pos": "0000C04000000041",
+          "enemyPlaceRef": [
+            25,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            26,
+            1
+          ]
+        },
+        {
+          "pos": "00002041000070C1",
+          "enemyPlaceRef": [
+            27,
+            1
+          ]
+        },
+        {
+          "pos": "000020C1000020C1",
+          "enemyPlaceRef": [
+            28,
+            1
+          ]
+        },
+        {
+          "pos": "000000410000A0C0",
+          "enemyPlaceRef": [
+            29,
+            2
+          ]
+        },
+        {
+          "pos": "0000C0C0000000C0",
+          "enemyPlaceRef": [
+            31,
+            1
+          ]
+        },
+        {
+          "pos": "000080400000A040",
+          "enemyPlaceRef": [
+            32,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            33,
+            1
+          ]
+        },
+        {
+          "pos": "00002041000070C1",
+          "enemyPlaceRef": [
+            34,
+            1
+          ]
+        },
+        {
+          "pos": "000020C1000020C1",
+          "enemyPlaceRef": [
+            35,
+            1
+          ]
+        },
+        {
+          "pos": "000000410000A0C0",
+          "enemyPlaceRef": [
+            36,
+            2
+          ]
+        },
+        {
+          "pos": "0000C0C0000000C0",
+          "enemyPlaceRef": [
+            38,
+            1
+          ]
+        },
+        {
+          "pos": "000080400000A040",
+          "enemyPlaceRef": [
+            39,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            40,
+            1
+          ]
+        },
+        {
+          "pos": "00002041000070C1",
+          "enemyPlaceRef": [
+            41,
+            1
+          ]
+        },
+        {
+          "pos": "000020C1000020C1",
+          "enemyPlaceRef": [
+            42,
+            1
+          ]
+        },
+        {
+          "pos": "000000410000A0C0",
+          "enemyPlaceRef": [
+            43,
+            2
+          ]
+        },
+        {
+          "pos": "0000C0C0000000C0",
+          "enemyPlaceRef": [
+            45,
+            1
+          ]
+        },
+        {
+          "pos": "000080400000A040",
+          "enemyPlaceRef": [
+            46,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000A041",
+          "enemyPlaceRef": [
+            47,
+            1
+          ]
+        },
+        {
+          "pos": "00004041000070C1",
+          "enemyPlaceRef": [
+            48,
+            1
+          ]
+        },
+        {
+          "pos": "000000C10000E0C0",
+          "enemyPlaceRef": [
+            49,
+            1
+          ]
+        },
+        {
+          "pos": "000000400000803F",
+          "enemyPlaceRef": [
+            50,
+            1
+          ]
+        },
+        {
+          "pos": "000040C100001041",
+          "enemyPlaceRef": [
+            51,
+            1
+          ]
+        },
+        {
+          "pos": "0000804000004041",
+          "enemyPlaceRef": [
+            52,
+            1
+          ]
+        },
+        {
+          "pos": "000020C100009041",
+          "enemyPlaceRef": [
+            53,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000C841",
+          "enemyPlaceRef": [
+            54,
+            1
+          ]
+        },
+        {
+          "pos": "00004041000070C1",
+          "enemyPlaceRef": [
+            55,
+            1
+          ]
+        },
+        {
+          "pos": "000000C10000E0C0",
+          "enemyPlaceRef": [
+            56,
+            1
+          ]
+        },
+        {
+          "pos": "000000400000803F",
+          "enemyPlaceRef": [
+            57,
+            1
+          ]
+        },
+        {
+          "pos": "000040C100001041",
+          "enemyPlaceRef": [
+            58,
+            1
+          ]
+        },
+        {
+          "pos": "0000804000004041",
+          "enemyPlaceRef": [
+            59,
+            1
+          ]
+        },
+        {
+          "pos": "000020C100009041",
+          "enemyPlaceRef": [
+            60,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000C841",
+          "enemyPlaceRef": [
+            61,
+            1
+          ]
+        },
+        {
+          "pos": "00004041000070C1",
+          "enemyPlaceRef": [
+            62,
+            1
+          ]
+        },
+        {
+          "pos": "000000C10000E0C0",
+          "enemyPlaceRef": [
+            63,
+            1
+          ]
+        },
+        {
+          "pos": "000000400000803F",
+          "enemyPlaceRef": [
+            64,
+            1
+          ]
+        },
+        {
+          "pos": "000040C100001041",
+          "enemyPlaceRef": [
+            65,
+            1
+          ]
+        },
+        {
+          "pos": "0000804000004041",
+          "enemyPlaceRef": [
+            66,
+            1
+          ]
+        },
+        {
+          "pos": "000020C100009041",
+          "enemyPlaceRef": [
+            67,
+            1
+          ]
+        },
+        {
+          "pos": "000000000000C841",
+          "enemyPlaceRef": [
+            68,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_TrainingInfoList",
+      "typeName": "RpgBattleZigzagDribbleTrainingInfo",
+      "values": [
+        {
+          "trainingId": "0xC79679CE",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            0,
+            4
+          ]
+        },
+        {
+          "trainingId": "0x5E9F2874",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            4,
+            4
+          ]
+        },
+        {
+          "trainingId": "0x299818E2",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            8,
+            4
+          ]
+        },
+        {
+          "trainingId": "0xC5D0C797",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            12,
+            5
+          ]
+        },
+        {
+          "trainingId": "0x5CD9962D",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            17,
+            5
+          ]
+        },
+        {
+          "trainingId": "0x2BDEA6BB",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            22,
+            5
+          ]
+        },
+        {
+          "trainingId": "0xC412ADA0",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            27,
+            6
+          ]
+        },
+        {
+          "trainingId": "0x5D1BFC1A",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            33,
+            6
+          ]
+        },
+        {
+          "trainingId": "0x2A1CCC8C",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 10,
+          "checkPointRef": [
+            39,
+            6
+          ]
+        },
+        {
+          "trainingId": "0xC15DBB25",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 20,
+          "checkPointRef": [
+            45,
+            7
+          ]
+        },
+        {
+          "trainingId": "0x5854EA9F",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 20,
+          "checkPointRef": [
+            52,
+            7
+          ]
+        },
+        {
+          "trainingId": "0x2F53DA09",
+          "charaInitPos": "000000000000E0C1",
+          "damageRate": 20,
+          "checkPointRef": [
+            59,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_EnemySetPartInfoList",
+      "typeName": "RpgBattleZigzagDribbleTrainingEnemySetPartInfo",
+      "values": [
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "000000C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000004000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "000000C000000000"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "0000004000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000000C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000004000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "00000040A4705DC0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000000C0A4705DC0"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "00000040A4705DC0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000000C0A4705DC0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "00000040A4705DC0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000000C0A4705DC0"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "00004040666626C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040C0666626C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000066662640"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "00004040666626C0"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000040C0666626C0"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "0000000066662640"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "00004040666626C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040C0666626C0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "0000000066662640"
+        },
+        {
+          "enemyId": "0xC2F848D8",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xC2F848D8",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xC2F848D8",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0xC2F848D8",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "00004040666626C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040C0666626C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000066662640"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "00004040666626C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C0666626C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000000066662640"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "00004040666626C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040C0666626C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000066662640"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C0000040C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000080BF000040C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000803F000040C0"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "00004040000040C0"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "000040C0000040C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000080BF000040C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000803F000040C0"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "00004040000040C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C0000040C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000080BF000040C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000803F000040C0"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "00004040000040C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000000000004040"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040400000803F"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C00000803F"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "00004040000000C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C0000000C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000000000004040"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040400000803F"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C00000803F"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "00004040000000C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C0000000C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000000000004040"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040400000803F"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C00000803F"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "00004040000000C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C0000000C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000004000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000004000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000004000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000000000000"
+        },
+        {
+          "enemyId": "0xB5B1B46D",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000000008040"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000000000008040"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000000000008040"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000000000008040"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000000000008040"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "0000000000008040"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000000004040"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040400000803F"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040C00000803F"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "00004040000000C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040C0000000C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000000000004040"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040400000803F"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040C00000803F"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "00004040000000C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040C0000000C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000000000004040"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040400000803F"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040C00000803F"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "00004040000000C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "000040C0000000C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "1F851BC0AE47E1BF"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "7A146EBF8D9736C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "7A146E3F8D9736C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "1F851B40AE47E1BF"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "1F851BC0AE47E1BF"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "7A146EBF8D9736C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "7A146E3F8D9736C0"
+        },
+        {
+          "enemyId": "0x4249ACA4",
+          "offsetPos": "1F851B40AE47E1BF"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "1F851BC0AE47E1BF"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "7A146EBF8D9736C0"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "7A146E3F8D9736C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "1F851B40AE47E1BF"
+        },
+        {
+          "enemyId": "0xD6DF9D34",
+          "offsetPos": "0000404000000000"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000000C10000803F"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "66660640333333C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000000C10000803F"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "66660640333333C0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000000C10000803F"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "66660640333333C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "33333340333333C0"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000000400000A0C0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "0000A04000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "33333340333333C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000000400000A0C0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "0000A04000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "33333340333333C0"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000000400000A0C0"
+        },
+        {
+          "enemyId": "0x75521B16",
+          "offsetPos": "0000A04000000000"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "333333C0333333C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "333333C033333340"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "333333C0333333C0"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "333333C033333340"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "333333C0333333C0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "333333C033333340"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000080C000008040"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "0000804000008040"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000080C0000080C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000080C000008040"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "0000804000008040"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000080C0000080C0"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000080C000008040"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "0000804000008040"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000080C0000080C0"
+        },
+        {
+          "enemyId": "0xF3F0678C",
+          "offsetPos": "0000C0C0000040C0"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "6666064066660640"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000080C000008040"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "0000C0C0000040C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "6666064066660640"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000080C000008040"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xF3F0678C",
+          "offsetPos": "0000C0C0000040C0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "6666064066660640"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000080C000008040"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000040C000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "3333334033333340"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000040C00000C040"
+        },
+        {
+          "enemyId": "0xF3F0678C",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "3333334033333340"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000040C00000C040"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "3333334033333340"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "000040C00000C040"
+        },
+        {
+          "enemyId": "0x876C0C85",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x876C0C85",
+          "offsetPos": "333333C0333333C0"
+        },
+        {
+          "enemyId": "0x876C0C85",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "3333334033333340"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "0000000000008040"
+        },
+        {
+          "enemyId": "0xF3F0678C",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0xF3F0678C",
+          "offsetPos": "333333C0333333C0"
+        },
+        {
+          "enemyId": "0xF3F0678C",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "3333334033333340"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "0000000000008040"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "00000000000080C0"
+        },
+        {
+          "enemyId": "0x7ED1A164",
+          "offsetPos": "333333C0333333C0"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "000080C000000000"
+        },
+        {
+          "enemyId": "0xBBC8F319",
+          "offsetPos": "0000804000000000"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "3333334033333340"
+        },
+        {
+          "enemyId": "0x5CF328C3",
+          "offsetPos": "0000000000008040"
+        }
+      ]
+    },
+    {
+      "name": "m_EnemySetInfoList",
+      "typeName": "RpgBattleZigzagDribbleTrainingEnemySetInfo",
+      "values": [
+        {
+          "enemySetId": "0x56183F3E",
+          "partRef": [
+            0,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x5A8F046D",
+          "partRef": [
+            3,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x2D8834FB",
+          "partRef": [
+            6,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0xD99DAC24",
+          "partRef": [
+            9,
+            2
+          ]
+        },
+        {
+          "enemySetId": "0xA18D4780",
+          "partRef": [
+            11,
+            2
+          ]
+        },
+        {
+          "enemySetId": "0xD68A7716",
+          "partRef": [
+            13,
+            2
+          ]
+        },
+        {
+          "enemySetId": "0x7572FB01",
+          "partRef": [
+            15,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x59142059",
+          "partRef": [
+            19,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x2E1310CF",
+          "partRef": [
+            23,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0xFEE4CBA3",
+          "partRef": [
+            27,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0xC76C6373",
+          "partRef": [
+            30,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0xB06B53E5",
+          "partRef": [
+            33,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0xCF116E84",
+          "partRef": [
+            36,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x1D2F7EBD",
+          "partRef": [
+            39,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x6A284E2B",
+          "partRef": [
+            42,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x67ED9A19",
+          "partRef": [
+            45,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x80CC19A3",
+          "partRef": [
+            48,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0xF7CB2935",
+          "partRef": [
+            51,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x50DBE29B",
+          "partRef": [
+            54,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0xACDF6A81",
+          "partRef": [
+            58,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0xDBD85A17",
+          "partRef": [
+            62,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x61CB531E",
+          "partRef": [
+            66,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0xA9D8AAC4",
+          "partRef": [
+            71,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0xDEDF9A52",
+          "partRef": [
+            76,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0xB8165E12",
+          "partRef": [
+            81,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x204F570D",
+          "partRef": [
+            84,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x5748679B",
+          "partRef": [
+            87,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x9B7C9A2D",
+          "partRef": [
+            90,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x23D47339",
+          "partRef": [
+            94,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x54D343AF",
+          "partRef": [
+            98,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0xF4B10CF9",
+          "partRef": [
+            102,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0xD0254C7F",
+          "partRef": [
+            106,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0xA7227CE9",
+          "partRef": [
+            110,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x23C0FD48",
+          "partRef": [
+            114,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0xEF7E73A7",
+          "partRef": [
+            119,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0x98794331",
+          "partRef": [
+            124,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0x317552A6",
+          "partRef": [
+            129,
+            6
+          ]
+        },
+        {
+          "enemySetId": "0x61F17444",
+          "partRef": [
+            135,
+            6
+          ]
+        },
+        {
+          "enemySetId": "0x16F644D2",
+          "partRef": [
+            141,
+            6
+          ]
+        },
+        {
+          "enemySetId": "0x0A545558",
+          "partRef": [
+            147,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x3F93FF92",
+          "partRef": [
+            150,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x4894CF04",
+          "partRef": [
+            153,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0x97836DE1",
+          "partRef": [
+            156,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x3556F68B",
+          "partRef": [
+            160,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x4251C61D",
+          "partRef": [
+            164,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x05180F8E",
+          "partRef": [
+            168,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x91F4AF29",
+          "partRef": [
+            172,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0xE6F39FBF",
+          "partRef": [
+            176,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x35C85B74",
+          "partRef": [
+            180,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0xB47B2A35",
+          "partRef": [
+            183,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0xC37C1AA3",
+          "partRef": [
+            186,
+            3
+          ]
+        },
+        {
+          "enemySetId": "0xF06F65FA",
+          "partRef": [
+            189,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x9D403FB6",
+          "partRef": [
+            193,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0xEA470F20",
+          "partRef": [
+            197,
+            4
+          ]
+        },
+        {
+          "enemySetId": "0x67F074D3",
+          "partRef": [
+            201,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0xC52C8677",
+          "partRef": [
+            206,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0xB22BB6E1",
+          "partRef": [
+            211,
+            5
+          ]
+        },
+        {
+          "enemySetId": "0x10F74445",
+          "partRef": [
+            216,
+            6
+          ]
+        },
+        {
+          "enemySetId": "0xF84CAFC7",
+          "partRef": [
+            222,
+            6
+          ]
+        },
+        {
+          "enemySetId": "0x8F4B9F51",
+          "partRef": [
+            228,
+            6
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_PartyRefCharaList",
+      "typeName": "SPECIFY_PARTY_CHARA_DATA",
+      "values": [
+        {
+          "slot": 0,
+          "type": 3,
+          "paramId": "0xC19FE60C",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 0,
+          "type": 3,
+          "paramId": "0xC19FE60C",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 0,
+          "type": 3,
+          "paramId": "0xC19FE60C",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 1,
+          "type": 3,
+          "paramId": "0x97C5418A",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 0,
+          "type": 3,
+          "paramId": "0xC19FE60C",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 1,
+          "type": 3,
+          "paramId": "0xA5F32308",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 2,
+          "type": 3,
+          "paramId": "0xF3A9848E",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 3,
+          "type": 3,
+          "paramId": "0xCBDA4F65",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 4,
+          "type": 3,
+          "paramId": "0x871F0DCC",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 0,
+          "type": 1,
+          "paramId": "0xBB5FB56C",
+          "lv": 21,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 1,
+          "type": 3,
+          "paramId": "0xC19FE60C",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 0,
+          "type": 3,
+          "paramId": "0xC19FE60C",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 1,
+          "type": 1,
+          "paramId": "0xEAB2B5CF",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 2,
+          "type": 1,
+          "paramId": "0x8EDE70CB",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 3,
+          "type": 1,
+          "paramId": "0xF6CBEDD0",
+          "lv": 1,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 0,
+          "type": 3,
+          "paramId": "0xC19FE60C",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 1,
+          "type": 1,
+          "paramId": "0xEAB2B5CF",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        },
+        {
+          "slot": 2,
+          "type": 1,
+          "paramId": "0x8EDE70CB",
+          "lv": 0,
+          "lvType": 0,
+          "lvParamId": "0x00000000",
+          "equip": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_SpecifyPartyList",
+      "typeName": "SPECIFY_PARTY_DATA",
+      "values": [
+        {
+          "partyId": "0xA8052252",
+          "chara": [
+            0,
+            1
+          ]
+        },
+        {
+          "partyId": "0x6758CEAA",
+          "chara": [
+            1,
+            1
+          ]
+        },
+        {
+          "partyId": "0x242E3C02",
+          "chara": [
+            2,
+            2
+          ]
+        },
+        {
+          "partyId": "0x51B82450",
+          "chara": [
+            4,
+            5
+          ]
+        },
+        {
+          "partyId": "0x8C686C08",
+          "chara": [
+            9,
+            2
+          ]
+        },
+        {
+          "partyId": "0x7FC14A13",
+          "chara": [
+            11,
+            4
+          ]
+        },
+        {
+          "partyId": "0xAD974B56",
+          "chara": [
+            15,
+            3
+          ]
+        }
+      ]
+    }
+  ]
+}

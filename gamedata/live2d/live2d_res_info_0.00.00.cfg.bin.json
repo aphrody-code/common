@@ -1,0 +1,3198 @@
+{
+  "entries": [
+    {
+      "name": "L2D_RES_BASE_PATH_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "L2D_RES_BASE_PATH_0",
+          "variables": [
+            {
+              "type": "String",
+              "value": "common/live2d/"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "L2D_RES_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "31"
+        }
+      ],
+      "children": [
+        {
+          "name": "L2D_RES_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-309254144"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00100000_l2da/c00100000_l2da/c00100000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00100000_l2df/c00100000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "2023169345"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "2099549223"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "-1683108888"
+            },
+            {
+              "type": "Int",
+              "value": "1170889873"
+            },
+            {
+              "type": "Int",
+              "value": "1668251742"
+            },
+            {
+              "type": "Int",
+              "value": "-27238104"
+            },
+            {
+              "type": "Int",
+              "value": "-2113846029"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1795513006"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00200000_l2da/c00200000_l2da/c00200000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00200000_l2df/c00200000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "2099549223"
+            },
+            {
+              "type": "Int",
+              "value": "-406000077"
+            },
+            {
+              "type": "Int",
+              "value": "-1683108888"
+            },
+            {
+              "type": "Int",
+              "value": "1170889873"
+            },
+            {
+              "type": "Int",
+              "value": "-609302222"
+            },
+            {
+              "type": "Int",
+              "value": "-27238104"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1604744949"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00300000_l2da/c00300000_l2da/c00300000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00300000_l2df/c00300000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-406000077"
+            },
+            {
+              "type": "Int",
+              "value": "-1683108888"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1117996621"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00400000_l2da/c00400000_l2da/c00400000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00400000_l2df/c00400000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-406000077"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1979738646"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00500000_l2da/c00500000_l2da/c00500000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00500000_l2df/c00500000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-406000077"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-258729800"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00600000_l2da/c00600000_l2da/c00600000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00600000_l2df/c00600000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-406000077"
+            },
+            {
+              "type": "Int",
+              "value": "-1683108888"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1003014941"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00700000_l2da/c00700000_l2da/c00700000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00700000_l2df/c00700000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-1747367477"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-895583800"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00800000_l2da/c00800000_l2da/c00800000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00800000_l2df/c00800000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-1747367477"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "29534829"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c00900000_l2da/c00900000_l2da/c00900000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c00900000_l2df/c00900000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-1747367477"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2135232495"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c01000000_l2da/c01000000_l2da/c01000000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c01000000_l2df/c01000000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "852323335"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2047752489"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c02100000_l2da/c02100000_l2da/c02100000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c02100000_l2df/c02100000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-406000077"
+            },
+            {
+              "type": "Int",
+              "value": "852323335"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "218696127"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c02100001_l2df/c02100001_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-406000077"
+            },
+            {
+              "type": "Int",
+              "value": "852323335"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-56996985"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c02200000_l2da/c02200000_l2da/c02200000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c02200000_l2df/c02200000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "-885244676"
+            },
+            {
+              "type": "Int",
+              "value": "-1218635481"
+            },
+            {
+              "type": "Int",
+              "value": "83245210"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "935761954"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c02300000_l2da/c02300000_l2da/c02300000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c02300000_l2df/c02300000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "717465754"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c02400000_l2da/c02400000_l2da/c02400000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c02400000_l2df/c02400000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1573165068"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c02400001_l2df/c02400001_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-509641921"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c02500000_l2df/c02500000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1728776593"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c02600000_l2da/c02600000_l2da/c02600000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c02600000_l2df/c02600000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-1747367477"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2108731899"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/c04500000_l2da/c04500000_l2da/c04500000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c04500000_l2df/c04500000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "-1254366227"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1695309163"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/c09600000_l2df/c09600000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1623016629"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/y01103000_l2da/y01103000_l2da/y01103000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/y01103000_l2df/y01103000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-1747367477"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1900862055"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/y01103002_l2da/y01103002_l2da/y01103002_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/y01103002_l2df/y01103002_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-1747367477"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "-1413202499"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-375805619"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/y01500000_l2da/y01500000_l2da/y01500000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/y01500000_l2df/y01500000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "667293639"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/y14000000_l2df/y14000000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1619365726"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/y14001000_l2df/y14001000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-394444748"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/y14001001_l2df/y14001001_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-864436872"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/y15200000_l2df/y15200000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "-885244676"
+            },
+            {
+              "type": "Int",
+              "value": "-1218635481"
+            },
+            {
+              "type": "Int",
+              "value": "83245210"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "798131756"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/x00500001_l2da/x00500001_l2da/x00500001_l2da.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1614334432"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/x02000000_l2df/x02000000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1099749805"
+            },
+            {
+              "type": "Int",
+              "value": "-1039006840"
+            },
+            {
+              "type": "Int",
+              "value": "-1319290560"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "-885244676"
+            },
+            {
+              "type": "Int",
+              "value": "-1218635481"
+            },
+            {
+              "type": "Int",
+              "value": "83245210"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "21344764"
+            },
+            {
+              "type": "Int",
+              "value": "2099549223"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-390068554"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/x02000001_l2da/x02000001_l2da/x02000001_l2da.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "L2D_RES_INFO_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "794261185"
+            },
+            {
+              "type": "String",
+              "value": "event/l2da/x00900000_l2da/x00900000_l2da/x00900000_l2da.objbin"
+            },
+            {
+              "type": "String",
+              "value": "event/l2df/x00900000_l2df/x00900000_l2df.objbin"
+            },
+            {
+              "type": "Int",
+              "value": "-1057456286"
+            },
+            {
+              "type": "Int",
+              "value": "1508978392"
+            },
+            {
+              "type": "Int",
+              "value": "248518769"
+            },
+            {
+              "type": "Int",
+              "value": "-851698533"
+            },
+            {
+              "type": "Int",
+              "value": "916211688"
+            },
+            {
+              "type": "Int",
+              "value": "-1349183918"
+            },
+            {
+              "type": "Int",
+              "value": "741519959"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1743085877"
+            },
+            {
+              "type": "Int",
+              "value": "-18075505"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

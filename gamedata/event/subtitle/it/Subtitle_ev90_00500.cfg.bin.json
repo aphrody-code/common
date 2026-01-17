@@ -1,0 +1,93 @@
+{
+  "entries": [
+    {
+      "name": "EV_SUBTITLE_DATA_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "3"
+        }
+      ],
+      "children": [
+        {
+          "name": "EV_SUBTITLE_DATA_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "666702165"
+            },
+            {
+              "type": "Float",
+              "value": "1,2"
+            },
+            {
+              "type": "Float",
+              "value": "5,1"
+            },
+            {
+              "type": "Float",
+              "value": "1,2"
+            },
+            {
+              "type": "Float",
+              "value": "5,05"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "210780822"
+            },
+            {
+              "type": "Float",
+              "value": "5,11"
+            },
+            {
+              "type": "Float",
+              "value": "9,1"
+            },
+            {
+              "type": "Float",
+              "value": "5,06"
+            },
+            {
+              "type": "Float",
+              "value": "8,3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "361460695"
+            },
+            {
+              "type": "Float",
+              "value": "9,11"
+            },
+            {
+              "type": "Float",
+              "value": "16,2"
+            },
+            {
+              "type": "Float",
+              "value": "8,31"
+            },
+            {
+              "type": "Int",
+              "value": "17"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

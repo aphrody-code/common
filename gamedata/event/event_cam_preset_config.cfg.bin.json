@@ -1,0 +1,807 @@
+{
+  "entries": [
+    {
+      "name": "EVENT_CAM_PRESET_CONFIG_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        },
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "EVENT_CAM_PRESET_CONFIG_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1780041335"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "45"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": [
+            {
+              "name": "EVENT_CAM_PRESET_CONFIG_PARAM_LIST_BEG_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "3"
+                }
+              ],
+              "children": [
+                {
+                  "name": "EVENT_CAM_PRESET_CONFIG_PARAM_0",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "EVENT_CAM_PRESET_CONFIG_PARAM_1",
+                  "variables": [
+                    {
+                      "type": "Float",
+                      "value": "-0,7"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "Float",
+                      "value": "0,5"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "45"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "name": "EVENT_CAM_PRESET_CONFIG_PARAM_2",
+                  "variables": [
+                    {
+                      "type": "Float",
+                      "value": "-0,05"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "Float",
+                      "value": "1,5"
+                    },
+                    {
+                      "type": "Int",
+                      "value": "-150"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "__SORT_INDEX_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "0"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "EVENT_CAM_PRESET_ANIM_CONFIG_LIST_BEG_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": [
+            {
+              "name": "EVENT_CAM_PRESET_ANIM_CONFIG_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1657949844"
+                }
+              ],
+              "children": [
+                {
+                  "name": "EVENT_CAM_PRESET_ANIM_CONFIG_PARAM_LIST_BEG_0",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "3"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "EVENT_CAM_PRESET_ANIM_CONFIG_PARAM_0",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "0"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "1"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "4"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "0"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "-927379785"
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "name": "EVENT_CAM_PRESET_ANIM_CONFIG_PARAM_1",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "0"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "1"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "3"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "0"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "-927379785"
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "name": "EVENT_CAM_PRESET_ANIM_CONFIG_PARAM_2",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "0"
+                        },
+                        {
+                          "type": "Float",
+                          "value": "0,5"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "5"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "2"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "1609877306"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "EVENT_CAM_PRESET_ANIM_CONFIG_1",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "2073783562"
+                }
+              ],
+              "children": [
+                {
+                  "name": "EVENT_CAM_PRESET_ANIM_CONFIG_PARAM_LIST_BEG_1",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "1"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "EVENT_CAM_PRESET_ANIM_CONFIG_PARAM_3",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "0"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "1"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "3"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "2"
+                        },
+                        {
+                          "type": "Int",
+                          "value": "1550124527"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "__SORT_INDEX_1",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "__SORT_INDEX_2",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "1"
+                        }
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "EVENT_OFFSET_ANIM_DEF_PARAM_LIST_BEG_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "4"
+                },
+                {
+                  "type": "Int",
+                  "value": "1"
+                }
+              ],
+              "children": [
+                {
+                  "name": "EVENT_OFFSET_ANIM_DEF_PARAM_0",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "-927379785"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_LIST_BEG_0",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "3"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_0",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_1",
+                          "variables": [
+                            {
+                              "type": "Float",
+                              "value": "0,5"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,5"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_2",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "EVENT_OFFSET_ANIM_DEF_PARAM_1",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "1728798373"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_LIST_BEG_1",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "3"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_3",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_4",
+                          "variables": [
+                            {
+                              "type": "Float",
+                              "value": "0,5"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "-0,5"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_5",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "-1"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "EVENT_OFFSET_ANIM_DEF_PARAM_2",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "1609877306"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_LIST_BEG_2",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "3"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_6",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_7",
+                          "variables": [
+                            {
+                              "type": "Float",
+                              "value": "0,5"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "10"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_8",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "15"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "EVENT_OFFSET_ANIM_DEF_PARAM_3",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "1550124527"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_LIST_BEG_3",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "6"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_9",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_10",
+                          "variables": [
+                            {
+                              "type": "Float",
+                              "value": "0,2"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,2"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,04"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_11",
+                          "variables": [
+                            {
+                              "type": "Float",
+                              "value": "0,4"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,4"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,16"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_12",
+                          "variables": [
+                            {
+                              "type": "Float",
+                              "value": "0,6"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,6"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,36"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_13",
+                          "variables": [
+                            {
+                              "type": "Float",
+                              "value": "0,8"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,8"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Float",
+                              "value": "0,64000005"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "EVENT_OFFSET_ANIM_DEF_PARAM_DATA_14",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "__SORT_INDEX_3",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "3"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "__SORT_INDEX_4",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "2"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "__SORT_INDEX_5",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "__SORT_INDEX_6",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "0"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

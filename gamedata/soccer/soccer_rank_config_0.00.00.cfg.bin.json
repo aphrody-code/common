@@ -1,0 +1,75 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_SoccerRankInfoList",
+      "typeName": "SOCCER_RANK_INFO",
+      "values": [
+        {
+          "id": "0x24F00406",
+          "soccerRankType": 1,
+          "nameTextId": "0x00000000",
+          "nextRankPoint": 400
+        },
+        {
+          "id": "0x1501B90B",
+          "soccerRankType": 2,
+          "nameTextId": "0x00000000",
+          "nextRankPoint": 800
+        },
+        {
+          "id": "0x427B2AB2",
+          "soccerRankType": 3,
+          "nameTextId": "0x00000000",
+          "nextRankPoint": 1400
+        },
+        {
+          "id": "0xF5C6E536",
+          "soccerRankType": 4,
+          "nameTextId": "0x00000000",
+          "nextRankPoint": 2200
+        }
+      ]
+    },
+    {
+      "name": "m_SoccerRankRateList",
+      "typeName": "SOCCER_RANK_RATE",
+      "values": [
+        {
+          "soccerRankType": 1,
+          "rankRate": 1
+        },
+        {
+          "soccerRankType": 2,
+          "rankRate": 2
+        },
+        {
+          "soccerRankType": 3,
+          "rankRate": 3
+        },
+        {
+          "soccerRankType": 4,
+          "rankRate": 4
+        }
+      ]
+    },
+    {
+      "name": "m_SoccerPrizePriceList",
+      "typeName": "SOCCER_PRIZE_PRICE",
+      "values": [
+        {
+          "soccerPrizeType": 0,
+          "prizePrice": 3
+        },
+        {
+          "soccerPrizeType": 1,
+          "prizePrice": 0
+        },
+        {
+          "soccerPrizeType": 2,
+          "prizePrice": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "name": "EV_SUBTITLE_DATA_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "EV_SUBTITLE_DATA_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-178893390"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Float",
+              "value": "13,5"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Float",
+              "value": "13,833333"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-562356623"
+            },
+            {
+              "type": "Float",
+              "value": "14,666667"
+            },
+            {
+              "type": "Float",
+              "value": "16,5"
+            },
+            {
+              "type": "Float",
+              "value": "14,666667"
+            },
+            {
+              "type": "Float",
+              "value": "16,833334"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

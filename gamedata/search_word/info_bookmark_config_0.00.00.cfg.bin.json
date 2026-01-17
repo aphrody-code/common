@@ -1,0 +1,642 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_TexBasePathList",
+      "typeName": "TEX_BASE_PATH",
+      "values": [
+        {
+          "basePath": "#/menu/220_img/bookmark_img/\u003CLG\u003E/"
+        }
+      ]
+    },
+    {
+      "name": "m_BookmarkFolderItemList",
+      "typeName": "BOOKMARK_FOLDER_INFO",
+      "values": [
+        {
+          "searchWordId": "0x03E43591",
+          "wordTextId": "0xD21CE615",
+          "descTextId": "0x917DEE71",
+          "thumbnailTexName": "0x269EB7CF",
+          "thumbnailTexFileName": "bookmark_img01_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x9AED642B",
+          "wordTextId": "0x4B15B7AF",
+          "descTextId": "0x0874BFCB",
+          "thumbnailTexName": "0xBF97E675",
+          "thumbnailTexFileName": "bookmark_img01_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xEDEA54BD",
+          "wordTextId": "0x3C128739",
+          "descTextId": "0x7F738F5D",
+          "thumbnailTexName": "0xC890D6E3",
+          "thumbnailTexFileName": "bookmark_img01_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x738EC11E",
+          "wordTextId": "0xA276129A",
+          "descTextId": "0xE1171AFE",
+          "thumbnailTexName": "0x56F44340",
+          "thumbnailTexFileName": "bookmark_img01_s04.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x6DF83446",
+          "wordTextId": "0xBC00E7C2",
+          "descTextId": "0xFF61EFA6",
+          "thumbnailTexName": "0xD23A5E76",
+          "thumbnailTexFileName": "bookmark_img50_s02.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x1AFF04D0",
+          "wordTextId": "0xCB07D754",
+          "descTextId": "0x8866DF30",
+          "thumbnailTexName": "0xA53D6EE0",
+          "thumbnailTexFileName": "bookmark_img50_s03.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x83F6556A",
+          "wordTextId": "0x520E86EE",
+          "descTextId": "0x116F8E8A",
+          "thumbnailTexName": "0x3B59FB43",
+          "thumbnailTexFileName": "bookmark_img50_s04.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xF4F165FC",
+          "wordTextId": "0x2509B678",
+          "descTextId": "0x6668BE1C",
+          "thumbnailTexName": "0x4C5ECBD5",
+          "thumbnailTexFileName": "bookmark_img50_s05.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xDFDC363F",
+          "wordTextId": "0x0E24E5BB",
+          "descTextId": "0x4D45EDDF",
+          "thumbnailTexName": "0xD5579A6F",
+          "thumbnailTexFileName": "bookmark_img50_s06.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x0489F188",
+          "wordTextId": "0xD571220C",
+          "descTextId": "0x96102A68",
+          "thumbnailTexName": "0x613ECD1F",
+          "thumbnailTexFileName": "bookmark_img02_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x9D80A032",
+          "wordTextId": "0x4C7873B6",
+          "descTextId": "0x0F197BD2",
+          "thumbnailTexName": "0x8F30AC33",
+          "thumbnailTexFileName": "bookmark_img02_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xEA8790A4",
+          "wordTextId": "0x3B7F4320",
+          "descTextId": "0x781E4B44",
+          "thumbnailTexName": "0xF8379CA5",
+          "thumbnailTexFileName": "bookmark_img02_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x7A388D35",
+          "wordTextId": "0xABC05EB1",
+          "descTextId": "0xE8A156D5",
+          "thumbnailTexName": "0x11543990",
+          "thumbnailTexFileName": "bookmark_img02_s04.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x6A95F05F",
+          "wordTextId": "0xBB6D23DB",
+          "descTextId": "0xF80C2BBF",
+          "thumbnailTexName": "0x5C5EE4AF",
+          "thumbnailTexFileName": "bookmark_img03_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x1D92C0C9",
+          "wordTextId": "0xCC6A134D",
+          "descTextId": "0x8F0B1B29",
+          "thumbnailTexName": "0xB2508583",
+          "thumbnailTexFileName": "bookmark_img03_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x849B9173",
+          "wordTextId": "0x556342F7",
+          "descTextId": "0x16024A93",
+          "thumbnailTexName": "0x2C341020",
+          "thumbnailTexFileName": "bookmark_img03_s04.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xF39CA1E5",
+          "wordTextId": "0x22647261",
+          "descTextId": "0x61057A05",
+          "thumbnailTexName": "0x4C5ECBD5",
+          "thumbnailTexFileName": "bookmark_img50_s05.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x6323BC74",
+          "wordTextId": "0xB2DB6FF0",
+          "descTextId": "0xF1BA6794",
+          "thumbnailTexName": "0x5B3320B6",
+          "thumbnailTexFileName": "bookmark_img03_s05.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x0D3FBDA3",
+          "wordTextId": "0xDCC76E27",
+          "descTextId": "0x9FA66643",
+          "thumbnailTexName": "0x4B330FCC",
+          "thumbnailTexFileName": "bookmark_img50_s01.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x14248CE2",
+          "wordTextId": "0xC5DC5F66",
+          "descTextId": "0x86BD5702",
+          "thumbnailTexName": "0x7653267C",
+          "thumbnailTexFileName": "bookmark_img51_s01.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x46D56785",
+          "wordTextId": "0x972DB401",
+          "descTextId": "0xD44CBC65",
+          "thumbnailTexName": "0xEF5A77C6",
+          "thumbnailTexFileName": "bookmark_img51_s02.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x31D25713",
+          "wordTextId": "0xE02A8497",
+          "descTextId": "0xA34B8CF3",
+          "thumbnailTexName": "0x985D4750",
+          "thumbnailTexFileName": "bookmark_img51_s03.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xA8DB06A9",
+          "wordTextId": "0x7923D52D",
+          "descTextId": "0x3A42DD49",
+          "thumbnailTexName": "0x0639D2F3",
+          "thumbnailTexFileName": "bookmark_img51_s04.g4tx",
+          "isNecessaryStory": false,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x41B8A39C",
+          "wordTextId": "0x90407018",
+          "descTextId": "0xD321787C",
+          "thumbnailTexName": "0xD31E110F",
+          "thumbnailTexFileName": "bookmark_img05_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x36BF930A",
+          "wordTextId": "0xE747408E",
+          "descTextId": "0xA42648EA",
+          "thumbnailTexName": "0x4A1740B5",
+          "thumbnailTexFileName": "bookmark_img05_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xAFB6C2B0",
+          "wordTextId": "0x7E4E1134",
+          "descTextId": "0x3D2F1950",
+          "thumbnailTexName": "0x3D107023",
+          "thumbnailTexFileName": "bookmark_img05_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xD8B1F226",
+          "wordTextId": "0x094921A2",
+          "descTextId": "0x4A2829C6",
+          "thumbnailTexName": "0xA374E580",
+          "thumbnailTexFileName": "bookmark_img05_s04.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x480EEFB7",
+          "wordTextId": "0x99F63C33",
+          "descTextId": "0xDA973457",
+          "thumbnailTexName": "0xD473D516",
+          "thumbnailTexFileName": "bookmark_img05_s05.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x3F09DF21",
+          "wordTextId": "0xEEF10CA5",
+          "descTextId": "0xAD9004C1",
+          "thumbnailTexName": "0x4D7A84AC",
+          "thumbnailTexFileName": "bookmark_img05_s06.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x5FCE56C4",
+          "wordTextId": "0x8E368540",
+          "descTextId": "0xCD578D24",
+          "thumbnailTexName": "0x94BE6BDF",
+          "thumbnailTexFileName": "bookmark_img06_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x28C96652",
+          "wordTextId": "0xF931B5D6",
+          "descTextId": "0xBA50BDB2",
+          "thumbnailTexName": "0x0DB73A65",
+          "thumbnailTexFileName": "bookmark_img06_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xB1C037E8",
+          "wordTextId": "0x6038E46C",
+          "descTextId": "0x2359EC08",
+          "thumbnailTexName": "0x7AB00AF3",
+          "thumbnailTexFileName": "bookmark_img06_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xC6C7077E",
+          "wordTextId": "0x173FD4FA",
+          "descTextId": "0x545EDC9E",
+          "thumbnailTexName": "0xE4D49F50",
+          "thumbnailTexFileName": "bookmark_img06_s04.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x58A392DD",
+          "wordTextId": "0x895B4159",
+          "descTextId": "0xCA3A493D",
+          "thumbnailTexName": "0xA9DE426F",
+          "thumbnailTexFileName": "bookmark_img07_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x2FA4A24B",
+          "wordTextId": "0xFE5C71CF",
+          "descTextId": "0xBD3D79AB",
+          "thumbnailTexName": "0x30D713D5",
+          "thumbnailTexFileName": "bookmark_img07_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xB6ADF3F1",
+          "wordTextId": "0x67552075",
+          "descTextId": "0x24342811",
+          "thumbnailTexName": "0x47D02343",
+          "thumbnailTexFileName": "bookmark_img07_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xC1AAC367",
+          "wordTextId": "0x105210E3",
+          "descTextId": "0x53331887",
+          "thumbnailTexName": "0x2B8ED5BE",
+          "thumbnailTexFileName": "bookmark_img08_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x5115DEF6",
+          "wordTextId": "0x80ED0D72",
+          "descTextId": "0xC38C0516",
+          "thumbnailTexName": "0xB2878404",
+          "thumbnailTexFileName": "bookmark_img08_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x2612EE60",
+          "wordTextId": "0xF7EA3DE4",
+          "descTextId": "0xB48B3580",
+          "thumbnailTexName": "0xC580B492",
+          "thumbnailTexFileName": "bookmark_img08_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x108FC003",
+          "wordTextId": "0xC1771387",
+          "descTextId": "0x82161BE3",
+          "thumbnailTexName": "0x16EEFC0E",
+          "thumbnailTexFileName": "bookmark_img09_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x6788F095",
+          "wordTextId": "0xB6702311",
+          "descTextId": "0xF5112B75",
+          "thumbnailTexName": "0x8FE7ADB4",
+          "thumbnailTexFileName": "bookmark_img09_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xFE81A12F",
+          "wordTextId": "0x2F7972AB",
+          "descTextId": "0x6C187ACF",
+          "thumbnailTexName": "0xF8E09D22",
+          "thumbnailTexFileName": "bookmark_img09_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x898691B9",
+          "wordTextId": "0x587E423D",
+          "descTextId": "0x1B1F4A59",
+          "thumbnailTexName": "0x66840881",
+          "thumbnailTexFileName": "bookmark_img09_s04.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x17E2041A",
+          "wordTextId": "0xC61AD79E",
+          "descTextId": "0x857BDFFA",
+          "thumbnailTexName": "0xD0A24DDA",
+          "thumbnailTexFileName": "bookmark_img10_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x60E5348C",
+          "wordTextId": "0xB11DE708",
+          "descTextId": "0xF27CEF6C",
+          "thumbnailTexName": "0x49AB1C60",
+          "thumbnailTexFileName": "bookmark_img10_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xF9EC6536",
+          "wordTextId": "0x2814B6B2",
+          "descTextId": "0x6B75BED6",
+          "thumbnailTexName": "0x3EAC2CF6",
+          "thumbnailTexFileName": "bookmark_img10_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x8EEB55A0",
+          "wordTextId": "0x5F138624",
+          "descTextId": "0x1C728E40",
+          "thumbnailTexName": "0xA0C8B955",
+          "thumbnailTexFileName": "bookmark_img10_s04.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x1E544831",
+          "wordTextId": "0xCFAC9BB5",
+          "descTextId": "0x8CCD93D1",
+          "thumbnailTexName": "0xD7CF89C3",
+          "thumbnailTexFileName": "bookmark_img10_s05.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x695378A7",
+          "wordTextId": "0xB8ABAB23",
+          "descTextId": "0xFBCAA347",
+          "thumbnailTexName": "0xEDC2646A",
+          "thumbnailTexFileName": "bookmark_img11_s01.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x0994F142",
+          "wordTextId": "0xD86C22C6",
+          "descTextId": "0x9B0D2AA2",
+          "thumbnailTexName": "0x74CB35D0",
+          "thumbnailTexFileName": "bookmark_img11_s02.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x7E93C1D4",
+          "wordTextId": "0xAF6B1250",
+          "descTextId": "0xEC0A1A34",
+          "thumbnailTexName": "0x03CC0546",
+          "thumbnailTexFileName": "bookmark_img11_s03.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x909DA0F8",
+          "wordTextId": "0x4165737C",
+          "descTextId": "0x02047B18",
+          "thumbnailTexName": "0x9DA890E5",
+          "thumbnailTexFileName": "bookmark_img11_s04.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x0EF9355B",
+          "wordTextId": "0xDF01E6DF",
+          "descTextId": "0x9C60EEBB",
+          "thumbnailTexName": "0xEAAFA073",
+          "thumbnailTexFileName": "bookmark_img11_s05.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0x79FE05CD",
+          "wordTextId": "0xA806D649",
+          "descTextId": "0xEB67DE2D",
+          "thumbnailTexName": "0x73A6F1C9",
+          "thumbnailTexFileName": "bookmark_img11_s06.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        },
+        {
+          "searchWordId": "0xE0F75477",
+          "wordTextId": "0x310F87F3",
+          "descTextId": "0x726E8F97",
+          "thumbnailTexName": "0x04A1C15F",
+          "thumbnailTexFileName": "bookmark_img11_s07.g4tx",
+          "isNecessaryStory": true,
+          "enableCond": ""
+        }
+      ]
+    },
+    {
+      "name": "m_InfoBookmarkDataList",
+      "typeName": "INFO_BOOKMARK_DATA_CONFIG",
+      "values": [
+        {
+          "bookmarkId": "0x2E2C6020",
+          "baseNo": 0,
+          "folderNameId": "0x01812C2A",
+          "thumbnailTexName": "0x31E45382",
+          "thumbnailTexFileName": "bookmark_img01_l01.g4tx",
+          "bookmarkFolderItemList": [
+            0,
+            9
+          ]
+        },
+        {
+          "bookmarkId": "0xB725319A",
+          "baseNo": 1,
+          "folderNameId": "0x98887D90",
+          "thumbnailTexName": "0x76442952",
+          "thumbnailTexFileName": "bookmark_img02_l01.g4tx",
+          "bookmarkFolderItemList": [
+            9,
+            4
+          ]
+        },
+        {
+          "bookmarkId": "0xC022010C",
+          "baseNo": 2,
+          "folderNameId": "0xEF8F4D06",
+          "thumbnailTexName": "0x4B2400E2",
+          "thumbnailTexFileName": "bookmark_img03_l01.g4tx",
+          "bookmarkFolderItemList": [
+            13,
+            5
+          ]
+        },
+        {
+          "bookmarkId": "0x5E4694AF",
+          "baseNo": 3,
+          "folderNameId": "0x71EBD8A5",
+          "thumbnailTexName": "0xF904DCF2",
+          "thumbnailTexFileName": "bookmark_img04_l01.g4tx",
+          "bookmarkFolderItemList": [
+            18,
+            5
+          ]
+        },
+        {
+          "bookmarkId": "0x2941A439",
+          "baseNo": 4,
+          "folderNameId": "0x06ECE833",
+          "thumbnailTexName": "0xC464F542",
+          "thumbnailTexFileName": "bookmark_img05_l01.g4tx",
+          "bookmarkFolderItemList": [
+            23,
+            6
+          ]
+        },
+        {
+          "bookmarkId": "0xB048F583",
+          "baseNo": 5,
+          "folderNameId": "0x9FE5B989",
+          "thumbnailTexName": "0x83C48F92",
+          "thumbnailTexFileName": "bookmark_img06_l01.g4tx",
+          "bookmarkFolderItemList": [
+            29,
+            4
+          ]
+        },
+        {
+          "bookmarkId": "0xC74FC515",
+          "baseNo": 6,
+          "folderNameId": "0xE8E2891F",
+          "thumbnailTexName": "0xBEA4A622",
+          "thumbnailTexFileName": "bookmark_img07_l01.g4tx",
+          "bookmarkFolderItemList": [
+            33,
+            3
+          ]
+        },
+        {
+          "bookmarkId": "0x57F0D884",
+          "baseNo": 7,
+          "folderNameId": "0x785D948E",
+          "thumbnailTexName": "0x3CF431F3",
+          "thumbnailTexFileName": "bookmark_img08_l01.g4tx",
+          "bookmarkFolderItemList": [
+            36,
+            3
+          ]
+        },
+        {
+          "bookmarkId": "0x20F7E812",
+          "baseNo": 8,
+          "folderNameId": "0x0F5AA418",
+          "thumbnailTexName": "0x01941843",
+          "thumbnailTexFileName": "bookmark_img09_l01.g4tx",
+          "bookmarkFolderItemList": [
+            39,
+            4
+          ]
+        },
+        {
+          "bookmarkId": "0x403061F7",
+          "baseNo": 9,
+          "folderNameId": "0x6F9D2DFD",
+          "thumbnailTexName": "0xC7D8A997",
+          "thumbnailTexFileName": "bookmark_img10_l01.g4tx",
+          "bookmarkFolderItemList": [
+            43,
+            5
+          ]
+        },
+        {
+          "bookmarkId": "0x37375161",
+          "baseNo": 10,
+          "folderNameId": "0x189A1D6B",
+          "thumbnailTexName": "0xFAB88027",
+          "thumbnailTexFileName": "bookmark_img11_l01.g4tx",
+          "bookmarkFolderItemList": [
+            48,
+            7
+          ]
+        }
+      ]
+    }
+  ]
+}

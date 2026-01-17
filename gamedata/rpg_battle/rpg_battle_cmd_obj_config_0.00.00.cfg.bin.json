@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "name": "RPG_BTL_CMD_OBJ_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "RPG_BTL_CMD_OBJ_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "894153704"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

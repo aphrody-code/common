@@ -1,0 +1,1790 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "21"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1973498486"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "カメラの[上下移動/じょうげいどう]の\u3000[速度/そくど]を[調整/ちょうせい]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-324508724"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "カメラの[左右移動/さゆういどう]の\u3000[速度/そくど]を[調整/ちょうせい]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1683008678"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "カメラの[上下操作/じょうげそうさ]を\u3000[入力/にゅうりょく]した[通/とお]りか[上下反対/じょうげはんたい]か\u3000[選択/せんたく]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "97240825"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "カメラの[左右操作/さゆうそうさ]を\u3000[入力/にゅうりょく]した[通/とお]りか[左右反対/さゆうはんたい]か\u3000[選択/せんたく]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1926035055"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "テキスト[言語/げんご]を\u3000[変更/へんこう]します\u3000※[保存/ほぞん]しないと[反映/はんえい]されません"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-339367979"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[画面左上/がめんひだりうえ]に[表示/ひょうじ]される\u3000ふきだしの[速度/そくど]を[調整/ちょうせい]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1664968893"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[振動/しんどう]の[設定/せってい]（あり／なし）を[選択/せんたく]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "209554130"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[一部/いちぶ]のイベント[中/ちゅう]の\u3000[字幕/じまく]の[設定/せってい]（あり／なし）を[選択/せんたく]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2071640644"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ミニマップが[回転/かいてん]するかを\u3000[設定/せってい]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "465384353"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[決定/けってい]ボタンを\u3000[変更/へんこう]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1824129847"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[全/すべ]ての[項目/こうもく]をデフォルトにリセットできます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-172797299"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[音楽/おんがく]の\u3000[音量/おんりょう]を[調整/ちょうせい]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2102107621"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[効果音/こうかおん]の\u3000[音量/おんりょう]を[調整/ちょうせい]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "483456952"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "キャラクターボイスの\u3000[音量/おんりょう]を[調整/ちょうせい]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1809303342"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "キャラクターボイスの\u3000[言語/げんご]を[変更/へんこう]します"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-220293484"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[明/あか]るさを[設定/せってい]します"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2049333758"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[試合中/しあいちゅう]の[実況/じっきょう]の[再生/さいせい]を[選択/せんたく]（あり/なし）できます。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "359054227"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "キャラクターボイスの[再生/さいせい]を[選択/せんたく]（あり/なし）できます。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1650559749"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "バフアイコンの[設定/せってい]（あり/なし）を[選択/せんたく]できます。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "814768226"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[全体/ぜんたい]の\u3000[音量/おんりょう]を[調整/ちょうせい]できます"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1201098996"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ムービーの\u3000[音量/おんりょう]を[調整/ちょうせい]できます"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NOUN_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "21"
+        }
+      ],
+      "children": [
+        {
+          "name": "NOUN_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1497198424"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "カメラのスピード[上下/じょうげ]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1070317854"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "カメラのスピード[左右/さゆう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1221390732"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "カメラ[操作/そうさ] [上下/じょうげ]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "693607383"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "カメラ[操作/そうさ] [左右/さゆう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1582345025"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "テキスト[言語/げんご]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-950404357"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "ふきだし[会話/かいわ]のはやさ"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1335965075"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[振動/しんどう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "551671804"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[字幕/じまく]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1474750314"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "ミニマップの[回転/かいてん]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "924937871"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[決定/けってい]ボタンの[変更/へんこう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1076256281"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "せっていのリセット"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-651227229"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "BGM[音量/おんりょう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1373094091"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "SE[音量/おんりょう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "810330774"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "キャラクターボイス[音量/おんりょう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1196136960"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[音声言語設定/おんせいげんごせってい]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-566047814"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[明/あか]るさ"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1455031508"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[実況/じっきょう]の[再生/さいせい]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "972744381"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "キャラクターボイスの[再生/さいせい]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1325258283"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "バフのアイコン"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "470564172"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "マスター[音量/おんりょう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1795886554"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "ムービー[音量/おんりょう]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

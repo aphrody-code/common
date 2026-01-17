@@ -1,0 +1,258 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_telop",
+      "typeName": "SoccerTutorialTelop",
+      "values": [
+        {
+          "titleId": "0x8E60A104",
+          "descId": "0x5E70D5F2",
+          "ctrlId": "0xDA6384B7",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0x1769F0BE",
+          "descId": "0xC7798448",
+          "ctrlId": "0x436AD50D",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0x606EC028",
+          "descId": "0xB07EB4DE",
+          "ctrlId": "0x346DE59B",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0xFE0A558B",
+          "descId": "0x2E1A217D",
+          "ctrlId": "0xAA097038",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0x890D651D",
+          "descId": "0x591D11EB",
+          "ctrlId": "0xDD0E40AE",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0x7975F169",
+          "descId": "0xA965859F",
+          "ctrlId": "0x2D76D4DA",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0x100434A7",
+          "descId": "0xC0144051",
+          "ctrlId": "0x44071114",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0x100434A7",
+          "descId": "0xC0144051",
+          "ctrlId": "0x44071114",
+          "menuPosX": 960,
+          "menuPosY": -889
+        },
+        {
+          "titleId": "0x67030431",
+          "descId": "0xB71370C7",
+          "ctrlId": "0x33002182",
+          "menuPosX": 960,
+          "menuPosY": -657
+        },
+        {
+          "titleId": "0x67030431",
+          "descId": "0x27AC6D56",
+          "ctrlId": "0xA3BF3C13",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0xF7BC19A0",
+          "descId": "0x50AB5DC0",
+          "ctrlId": "0xD4B80C85",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0x80BB2936",
+          "descId": "0x306CD425",
+          "ctrlId": "0xB47F8560",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0xE07CA0D3",
+          "descId": "0x476BE4B3",
+          "ctrlId": "0xC378B5F6",
+          "menuPosX": 960,
+          "menuPosY": -743
+        },
+        {
+          "titleId": "0x977B9045",
+          "descId": "0xDE62B509",
+          "ctrlId": "0x5A71E44C",
+          "menuPosX": 960,
+          "menuPosY": -743
+        }
+      ]
+    },
+    {
+      "name": "m_phase",
+      "typeName": "SoccerTutorialPhase",
+      "values": [
+        {
+          "id": "0x8E60A104",
+          "phaseNo": 10110,
+          "startQuestIdx": 0,
+          "bitFlag": "0x20BBD386",
+          "telop": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "0x1769F0BE",
+          "phaseNo": 10120,
+          "startQuestIdx": 1,
+          "bitFlag": "0x0B968045",
+          "telop": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "0x606EC028",
+          "phaseNo": 10130,
+          "startQuestIdx": 2,
+          "bitFlag": "0x128DB104",
+          "telop": [
+            2,
+            1
+          ]
+        },
+        {
+          "id": "0xFE0A558B",
+          "phaseNo": 10210,
+          "startQuestIdx": 3,
+          "bitFlag": "0x22FD6DDF",
+          "telop": [
+            3,
+            1
+          ]
+        },
+        {
+          "id": "0x890D651D",
+          "phaseNo": 10220,
+          "startQuestIdx": 4,
+          "bitFlag": "0x09D03E1C",
+          "telop": [
+            4,
+            1
+          ]
+        },
+        {
+          "id": "0x7975F169",
+          "phaseNo": 10230,
+          "startQuestIdx": 5,
+          "bitFlag": "0x10CB0F5D",
+          "telop": [
+            5,
+            1
+          ]
+        },
+        {
+          "id": "0x100434A7",
+          "phaseNo": 10310,
+          "startQuestIdx": 6,
+          "bitFlag": "0x233F07E8",
+          "telop": [
+            6,
+            2
+          ]
+        },
+        {
+          "id": "0x67030431",
+          "phaseNo": 10410,
+          "startQuestIdx": 7,
+          "bitFlag": "0x2670116D",
+          "telop": [
+            8,
+            2
+          ]
+        },
+        {
+          "id": "0xF7BC19A0",
+          "phaseNo": 10420,
+          "startQuestIdx": 9,
+          "bitFlag": "0x0D5D42AE",
+          "telop": [
+            10,
+            1
+          ]
+        },
+        {
+          "id": "0x80BB2936",
+          "phaseNo": 10510,
+          "startQuestIdx": 10,
+          "bitFlag": "0x27B27B5A",
+          "telop": [
+            11,
+            1
+          ]
+        },
+        {
+          "id": "0xE07CA0D3",
+          "phaseNo": 10520,
+          "startQuestIdx": 11,
+          "bitFlag": "0x0C9F2899",
+          "telop": [
+            12,
+            1
+          ]
+        },
+        {
+          "id": "0x977B9045",
+          "phaseNo": 10530,
+          "startQuestIdx": 12,
+          "bitFlag": "0x158419D8",
+          "telop": [
+            13,
+            1
+          ]
+        },
+        {
+          "id": "0x0E72C1FF",
+          "phaseNo": 10610,
+          "startQuestIdx": 13,
+          "bitFlag": "0x25F4C503",
+          "telop": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_info",
+      "typeName": "SoccerTutorialInfo",
+      "values": [
+        {
+          "id": "0x4A7DA32F",
+          "phase": [
+            0,
+            13
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7176 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_scGoalnetCameraInfoList",
+      "typeName": "ScGoalnetCameraInfo",
+      "values": [
+        {
+          "id": "0x596C1326",
+          "camPosX": 14,
+          "camPosY": 2.5,
+          "camPosZ": 50,
+          "refOffsetPosX": 0,
+          "refOffsetPosY": 0,
+          "refOffsetPosZ": 0,
+          "fov": 45,
+          "chaseMaxSpeed": 0.6,
+          "notFollowAfterBouncing": true,
+          "isFixedRefX": false,
+          "isFixedRefY": false,
+          "isFixedRefZ": false,
+          "isInitRefGoalLine": false
+        },
+        {
+          "id": "0x6482F5E8",
+          "camPosX": -14,
+          "camPosY": 2.5,
+          "camPosZ": 50,
+          "refOffsetPosX": 0,
+          "refOffsetPosY": 0,
+          "refOffsetPosZ": 0,
+          "fov": 45,
+          "chaseMaxSpeed": 0.6,
+          "notFollowAfterBouncing": true,
+          "isFixedRefX": false,
+          "isFixedRefY": false,
+          "isFixedRefZ": false,
+          "isInitRefGoalLine": false
+        },
+        {
+          "id": "0xC6B18AF6",
+          "camPosX": 8,
+          "camPosY": 5.8,
+          "camPosZ": 53.8,
+          "refOffsetPosX": 0,
+          "refOffsetPosY": 0,
+          "refOffsetPosZ": 0,
+          "fov": 40,
+          "chaseMaxSpeed": 1,
+          "notFollowAfterBouncing": true,
+          "isFixedRefX": true,
+          "isFixedRefY": false,
+          "isFixedRefZ": false,
+          "isInitRefGoalLine": true
+        },
+        {
+          "id": "0xD90C1B0F",
+          "camPosX": -8,
+          "camPosY": 5.8,
+          "camPosZ": 53.8,
+          "refOffsetPosX": 0,
+          "refOffsetPosY": 0,
+          "refOffsetPosZ": 0,
+          "fov": 40,
+          "chaseMaxSpeed": 1,
+          "notFollowAfterBouncing": true,
+          "isFixedRefX": true,
+          "isFixedRefY": false,
+          "isFixedRefZ": false,
+          "isInitRefGoalLine": true
+        },
+        {
+          "id": "0x6688AC5C",
+          "camPosX": 5,
+          "camPosY": 1.5,
+          "camPosZ": 57,
+          "refOffsetPosX": 0,
+          "refOffsetPosY": 0,
+          "refOffsetPosZ": 0,
+          "fov": 40,
+          "chaseMaxSpeed": 1,
+          "notFollowAfterBouncing": true,
+          "isFixedRefX": false,
+          "isFixedRefY": false,
+          "isFixedRefZ": false,
+          "isInitRefGoalLine": true
+        },
+        {
+          "id": "0xEAC8C9EF",
+          "camPosX": -5,
+          "camPosY": 1.5,
+          "camPosZ": 57,
+          "refOffsetPosX": 0,
+          "refOffsetPosY": 0,
+          "refOffsetPosZ": 0,
+          "fov": 40,
+          "chaseMaxSpeed": 1,
+          "notFollowAfterBouncing": true,
+          "isFixedRefX": false,
+          "isFixedRefY": false,
+          "isFixedRefZ": false,
+          "isInitRefGoalLine": true
+        },
+        {
+          "id": "0xD277ED60",
+          "camPosX": 9.5,
+          "camPosY": 0.5,
+          "camPosZ": 43,
+          "refOffsetPosX": 0,
+          "refOffsetPosY": 0,
+          "refOffsetPosZ": 0,
+          "fov": 50,
+          "chaseMaxSpeed": 1,
+          "notFollowAfterBouncing": true,
+          "isFixedRefX": true,
+          "isFixedRefY": false,
+          "isFixedRefZ": false,
+          "isInitRefGoalLine": true
+        },
+        {
+          "id": "0xC1C459B2",
+          "camPosX": -9.5,
+          "camPosY": 0.5,
+          "camPosZ": 43,
+          "refOffsetPosX": 0,
+          "refOffsetPosY": 0,
+          "refOffsetPosZ": 0,
+          "fov": 50,
+          "chaseMaxSpeed": 1,
+          "notFollowAfterBouncing": true,
+          "isFixedRefX": true,
+          "isFixedRefY": false,
+          "isFixedRefZ": false,
+          "isInitRefGoalLine": true
+        }
+      ]
+    },
+    {
+      "name": "m_scAerialCameraInfoList",
+      "typeName": "ScAerialCameraInfo",
+      "values": [
+        {
+          "id": "0xE35E00DF",
+          "camLength": 10,
+          "camPsoX": -27.5,
+          "camPsoY": 36,
+          "camPosZ": -75,
+          "camRotXStart": 10,
+          "camRotXEnd": 15,
+          "camRotYStart": 170,
+          "camRotYEnd": 207
+        },
+        {
+          "id": "0x124DA848",
+          "camLength": 10,
+          "camPsoX": 27.5,
+          "camPsoY": 36,
+          "camPosZ": 75,
+          "camRotXStart": 10,
+          "camRotXEnd": 15,
+          "camRotYStart": -10,
+          "camRotYEnd": 27
+        }
+      ]
+    },
+    {
+      "name": "m_scAerialCameraMapInfoList",
+      "typeName": "ScAerialCameraMapInfo",
+      "values": [
+        {
+          "id": "0xD4D59FB0",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x9375E560",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0xAE15CCD0",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x66F543A0",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xE4A5D471",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0x22E965A5",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x1F894C15",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x1C7C825E",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x582936C5",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x65491F75",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0xD769C365",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x4CB113ED",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xEA09EAD5",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x90C9B9B5",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xCA256143",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x12992E64",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x2FF907D4",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xA47D170B",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0xE6C84B66",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0x91CF7BF0",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0x0FABEE53",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0x991D3EBB",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0xDEBD446B",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xAB00EA6D",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xDC07DAFB",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xE3DD6DDB",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x51FDB1CB",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x6C9D987B",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x2B3DE2AB",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x3091A87B",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x165DCB1B",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0xFBCD7BDE",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x940D5CCA",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x0A9BC90B",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xA96D757A",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x6F21C4AE",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x5241ED1E",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x15E197CE",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x2881BE7E",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xC62B327C",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x9AA1626E",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xA7C14BDE",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x1072D161",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0xE061310E",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xDD0118BE",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x5F518F6F",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x6231A6DF",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x7224F416",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x4F44DDA6",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x08E4A776",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x35848EC6",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x038C0CF2",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x87A452D6",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xBAC47B66",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0xFD6401B6",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0xC0042806",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x4254BFD7",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x7F349667",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xB97827B3",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x84180E03",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xC3B874D3",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xFED85D63",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x4CF88173",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xB8FE37FE",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x7198A8C3",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x3638D213",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x0B58FBA3",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x89086C72",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xB46845C2",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x3FEC551D",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x028C7CAD",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x452C067D",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x784C2FCD",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x94131DDB",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xCA6CF3DD",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x89162D63",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xF70CDA6D",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xB0ACA0BD",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xC4DE8C68",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x8DCC890D",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x0F9C1EDC",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x32FC376C",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x35883EBD",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xF4B086B8",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xC9D0AF08",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x8E70D5D8",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0xB310FC68",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x01302078",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x3C5009C8",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x7BF07318",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xDB62CFC8"
+        },
+        {
+          "id": "0x46905AA8",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xC4C0CD79",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xF9A0E4C9",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0x05E6346D",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x38861DDD",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x7F26670D",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x42464EBD",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0xF06692AD",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0x356CAEE4"
+        },
+        {
+          "id": "0xCD06BB1D",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0x8AA6C1CD",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0xB7C6E87D",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xCEBAE7C8",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xC4DC849A"
+        },
+        {
+          "id": "0xE340F2DF",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x932A0650",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x51602ECF",
+          "aerialCamInfoId": "0x124DA848",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x65D48071",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        },
+        {
+          "id": "0x78D1B0C9",
+          "aerialCamInfoId": "0xE35E00DF",
+          "lightOverwriteId": "0xAC65FF5E"
+        }
+      ]
+    },
+    {
+      "name": "m_soccerCameraInfoDataList",
+      "typeName": "SOCCER_CAMERA_INFO_DATA",
+      "values": [
+        {
+          "no": 0,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 30,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.25,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.25,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 13,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 55,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            -3,
+            3,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            -3,
+            3,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 13,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            3,
+            3,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            3,
+            3,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 13,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 55,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            -3,
+            3,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            -3,
+            3,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 14,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 27,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 65,
+          "camDefenceOffsetRotY": 65,
+          "fov": 50,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 14,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 27,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 65,
+          "camDefenceOffsetRotY": 65,
+          "fov": 50,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 14,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 27,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 65,
+          "camDefenceOffsetRotY": 65,
+          "fov": 50,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 14,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 27,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 65,
+          "camDefenceOffsetRotY": 65,
+          "fov": 50,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 12.5,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 30,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.25,
+            0.5,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.25,
+            0.5,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 20,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 55,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            -3,
+            3,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            -3,
+            3,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 20,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            3,
+            3,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            3,
+            3,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 20,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 55,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            -3,
+            3,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            -3,
+            3,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 28,
+          "lengthMin": 28,
+          "lengthMax": 28,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 28,
+          "lengthMin": 28,
+          "lengthMax": 28,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 28,
+          "lengthMin": 28,
+          "lengthMax": 28,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 28,
+          "lengthMin": 28,
+          "lengthMax": 28,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 18,
+          "lengthMin": 18,
+          "lengthMax": 18,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 18,
+          "lengthMin": 18,
+          "lengthMax": 18,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 18,
+          "lengthMin": 18,
+          "lengthMax": 18,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 18,
+          "lengthMin": 18,
+          "lengthMax": 18,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 7,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 7,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 6,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": -24.6,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            3.2,
+            -2.5,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 7,
+          "lengthMin": 0.1,
+          "lengthMax": 50,
+          "rotX": -10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.8,
+            -1.5,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 7,
+          "lengthMin": 0.1,
+          "lengthMax": 50,
+          "rotX": -10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.8,
+            -1.5,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 7,
+          "lengthMin": 0.1,
+          "lengthMax": 50,
+          "rotX": -10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.8,
+            -1.5,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 13.8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": -25.6,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            4.2,
+            -3.5,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 7,
+          "lengthMin": 0.1,
+          "lengthMax": 50,
+          "rotX": -10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.8,
+            -1.5,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 7,
+          "lengthMin": 0.1,
+          "lengthMax": 50,
+          "rotX": -10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.8,
+            -1.5,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 7,
+          "lengthMin": 0.1,
+          "lengthMax": 50,
+          "rotX": -10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.8,
+            -1.5,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 25,
+          "lengthMin": 25,
+          "lengthMax": 25,
+          "rotX": -50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": -90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.25,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 6.875,
+          "lengthMin": 6.875,
+          "lengthMax": 6.875,
+          "rotX": -8.5,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": -45,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.15,
+          "rotInterpRate": 0.3,
+          "zoomInterpRate": 0.15
+        },
+        {
+          "no": 0,
+          "length": 28,
+          "lengthMin": 18.4,
+          "lengthMax": 45,
+          "rotX": 50,
+          "rotXMin": 22,
+          "rotXMax": 50,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            7,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 32,
+          "lengthMin": 32,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": 15,
+          "rotXMax": 50,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            7,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 25,
+          "lengthMin": 25,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -7,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            7,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 32,
+          "lengthMin": 32,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            -10,
+            0,
+            -7,
+            0
+          ],
+          "defenceRefOffset": [
+            -10,
+            0,
+            7,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 33.5,
+          "lengthMin": 33.5,
+          "lengthMax": 50,
+          "rotX": 55,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 33.5,
+          "lengthMin": 33.5,
+          "lengthMax": 50,
+          "rotX": 55,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 37.5,
+          "lengthMin": 37.5,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -15,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            10,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 35,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 40,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 15,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 70,
+          "camDefenceOffsetRotY": 70,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 15,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 70,
+          "camDefenceOffsetRotY": 70,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 15,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 70,
+          "camDefenceOffsetRotY": 70,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 15,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 70,
+          "camDefenceOffsetRotY": 70,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 45,
+          "camDefenceOffsetRotY": 45,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 45,
+          "camDefenceOffsetRotY": 45,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 45,
+          "camDefenceOffsetRotY": 45,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 45,
+          "camDefenceOffsetRotY": 45,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 10,
+          "lengthMin": 10,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": -70,
+          "camDefenceOffsetRotY": -70,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 10,
+          "lengthMin": 10,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": -70,
+          "camDefenceOffsetRotY": -70,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 10,
+          "lengthMin": 10,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": -70,
+          "camDefenceOffsetRotY": -70,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 10,
+          "lengthMin": 10,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": -70,
+          "camDefenceOffsetRotY": -70,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 15,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 109,
+          "camDefenceOffsetRotY": 109,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 15,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 109,
+          "camDefenceOffsetRotY": 109,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 15,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 109,
+          "camDefenceOffsetRotY": 109,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 15,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 109,
+          "camDefenceOffsetRotY": 109,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            4,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 40,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 40,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 40,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 40,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": 0,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            -4,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 32,
+          "lengthMin": 12,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 32,
+          "lengthMin": 32,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            7,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 25,
+          "lengthMin": 25,
+          "lengthMax": 50,
+          "rotX": 25,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            -7,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            7,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 32,
+          "lengthMin": 32,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            -10,
+            0,
+            -7,
+            0
+          ],
+          "defenceRefOffset": [
+            -10,
+            0,
+            7,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 23.9,
+          "lengthMin": 18.4,
+          "lengthMax": 40,
+          "rotX": 50,
+          "rotXMin": 22,
+          "rotXMax": 50,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 23.9,
+          "lengthMin": 23.9,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 24.9,
+          "lengthMin": 24.9,
+          "lengthMax": 50,
+          "rotX": 13,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 24.9,
+          "lengthMin": 24.9,
+          "lengthMax": 50,
+          "rotX": 13,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            -5,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 26.3,
+          "lengthMin": 26.3,
+          "lengthMax": 50,
+          "rotX": 55,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 26.3,
+          "lengthMin": 26.3,
+          "lengthMax": 50,
+          "rotX": 55,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 30.3,
+          "lengthMin": 30.3,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 30.3,
+          "lengthMin": 30.3,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 5.14,
+          "lengthMin": 0.1,
+          "lengthMax": 8,
+          "rotX": -13.6,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 1.32,
+          "rotYMin": -180000,
+          "rotYMax": 180000,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.9499999,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 1.2,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 7.7,
+          "lengthMin": 0.1,
+          "lengthMax": 10,
+          "rotX": -15.2,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 3.4,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0.1,
+            1.2,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0.4,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 3.5,
+          "lengthMin": 3.5,
+          "lengthMax": 3.5,
+          "rotX": -9,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": -7.3,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.32,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 1.5,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 7,
+          "lengthMin": 0.1,
+          "lengthMax": 8,
+          "rotX": -17,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 3,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0.8,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 15,
+          "lengthMin": 3.5,
+          "lengthMax": 30,
+          "rotX": -22,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0.8,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 10,
+          "lengthMin": 0.1,
+          "lengthMax": 15,
+          "rotX": -17,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0.8,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 11,
+          "lengthMin": 3.5,
+          "lengthMax": 30,
+          "rotX": -6,
+          "rotXMin": -80,
+          "rotXMax": 20,
+          "rotY": 0,
+          "rotYMin": -60,
+          "rotYMax": 60,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 32,
+          "refOffset": [
+            0,
+            0.6,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0.8,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 11,
+          "lengthMin": 3.5,
+          "lengthMax": 30,
+          "rotX": -6,
+          "rotXMin": -80,
+          "rotXMax": 20,
+          "rotY": 0,
+          "rotYMin": -60,
+          "rotYMax": 60,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 32,
+          "refOffset": [
+            0,
+            0.6,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0.8,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 16,
+          "lengthMin": 3.5,
+          "lengthMax": 25,
+          "rotX": -32,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.3,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.5,
+          "rotInterpRate": 0.25,
+          "zoomInterpRate": 0.3
+        },
+        {
+          "no": 0,
+          "length": 16,
+          "lengthMin": 3.5,
+          "lengthMax": 25,
+          "rotX": -32,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 0,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.3,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.5,
+          "rotInterpRate": 0.25,
+          "zoomInterpRate": 0.3
+        },
+        {
+          "no": 0,
+          "length": 16,
+          "lengthMin": 0.1,
+          "lengthMax": 25,
+          "rotX": -40,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            1.3,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.5,
+          "rotInterpRate": 0.25,
+          "zoomInterpRate": 0.3
+        },
+        {
+          "no": 0,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 6,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            3,
+            1,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            5,
+            18,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 6,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            3,
+            1,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            5,
+            18,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 6,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            3,
+            1,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            5,
+            18,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 6,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 15,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            3,
+            1,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            5,
+            18,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 1,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 2,
+          "length": 40,
+          "lengthMin": 15,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            2,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 3,
+          "length": 40,
+          "lengthMin": 20,
+          "lengthMax": 50,
+          "rotX": 35,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 40,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 15,
+          "lengthMin": 0,
+          "lengthMax": 20,
+          "rotX": 15,
+          "rotXMin": 5,
+          "rotXMax": 15,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.2,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 23,
+          "lengthMin": 20,
+          "lengthMax": 30,
+          "rotX": -5,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.5,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 7,
+          "lengthMin": 0,
+          "lengthMax": 30,
+          "rotX": 0,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.5,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 23,
+          "lengthMin": 20,
+          "lengthMax": 30,
+          "rotX": -5,
+          "rotXMin": -80,
+          "rotXMax": -10,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.5,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 4,
+          "lengthMin": 0,
+          "lengthMax": 23,
+          "rotX": -20,
+          "rotXMin": -80,
+          "rotXMax": 25,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            2.5,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.5,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 4,
+          "lengthMin": 0.1,
+          "lengthMax": 10,
+          "rotX": -5,
+          "rotXMin": -15.2,
+          "rotXMax": 0,
+          "rotY": 3.4,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.5,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 0.1
+        },
+        {
+          "no": 0,
+          "length": 32,
+          "lengthMin": 32,
+          "lengthMax": 50,
+          "rotX": 50,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 13,
+          "lengthMin": 5,
+          "lengthMax": 50,
+          "rotX": 30,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.5,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.3,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 28,
+          "lengthMin": 17.5,
+          "lengthMax": 45,
+          "rotX": 50,
+          "rotXMin": 30,
+          "rotXMax": 50,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            20,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.5,
+            5,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 8,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 30,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.25,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.25,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 12.5,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 30,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 90,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.25,
+            0.5,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.25,
+            0.5,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 7,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": 10,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -180,
+          "rotYMax": 180,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            1.7,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 0.1,
+          "rotInterpRate": 0.1,
+          "zoomInterpRate": 1
+        },
+        {
+          "no": 0,
+          "length": 6,
+          "lengthMin": 1,
+          "lengthMax": 50,
+          "rotX": -27.4,
+          "rotXMin": -180,
+          "rotXMax": 180,
+          "rotY": 0,
+          "rotYMin": -1800,
+          "rotYMax": 1800,
+          "camOffenceOffsetRotY": 0,
+          "camDefenceOffsetRotY": 0,
+          "fov": 45,
+          "refOffset": [
+            0,
+            5,
+            -0.8,
+            0
+          ],
+          "offenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "defenceRefOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "refOffsetLength": 0,
+          "moveInterpRate": 1,
+          "rotInterpRate": 1,
+          "zoomInterpRate": 1
+        }
+      ]
+    },
+    {
+      "name": "m_soccerCameraInfoList",
+      "typeName": "SOCCER_CAMERA_INFO",
+      "values": [
+        {
+          "id": "0x91B549BE",
+          "data": [
+            0,
+            4
+          ]
+        },
+        {
+          "id": "0xD46CD1BF",
+          "data": [
+            4,
+            4
+          ]
+        },
+        {
+          "id": "0x668CB294",
+          "data": [
+            8,
+            4
+          ]
+        },
+        {
+          "id": "0xA0C14B45",
+          "data": [
+            12,
+            4
+          ]
+        },
+        {
+          "id": "0x300783D8",
+          "data": [
+            16,
+            4
+          ]
+        },
+        {
+          "id": "0xA85A2975",
+          "data": [
+            20,
+            4
+          ]
+        },
+        {
+          "id": "0xE2934675",
+          "data": [
+            24,
+            4
+          ]
+        },
+        {
+          "id": "0xC2CDC5C5",
+          "data": [
+            28,
+            4
+          ]
+        },
+        {
+          "id": "0x990164E5",
+          "data": [
+            32,
+            4
+          ]
+        },
+        {
+          "id": "0x15CBBF55",
+          "data": [
+            36,
+            4
+          ]
+        },
+        {
+          "id": "0x35953CE5",
+          "data": [
+            40,
+            4
+          ]
+        },
+        {
+          "id": "0x0C6EC13F",
+          "data": [
+            44,
+            4
+          ]
+        },
+        {
+          "id": "0x47F08CFA",
+          "data": [
+            48,
+            4
+          ]
+        },
+        {
+          "id": "0x67AE0F4A",
+          "data": [
+            52,
+            4
+          ]
+        },
+        {
+          "id": "0x20A9F70A",
+          "data": [
+            56,
+            1
+          ]
+        },
+        {
+          "id": "0x11276AE1",
+          "data": [
+            57,
+            1
+          ]
+        },
+        {
+          "id": "0xD8C05269",
+          "data": [
+            58,
+            4
+          ]
+        },
+        {
+          "id": "0xE0A9D6E6",
+          "data": [
+            62,
+            4
+          ]
+        },
+        {
+          "id": "0xC0F75556",
+          "data": [
+            66,
+            4
+          ]
+        },
+        {
+          "id": "0x43CD9DBA",
+          "data": [
+            70,
+            4
+          ]
+        },
+        {
+          "id": "0x34CAAD2C",
+          "data": [
+            74,
+            4
+          ]
+        },
+        {
+          "id": "0xAAAE388F",
+          "data": [
+            78,
+            4
+          ]
+        },
+        {
+          "id": "0xDDA90819",
+          "data": [
+            82,
+            4
+          ]
+        },
+        {
+          "id": "0x710B27C9",
+          "data": [
+            86,
+            4
+          ]
+        },
+        {
+          "id": "0xBF3729D0",
+          "data": [
+            90,
+            4
+          ]
+        },
+        {
+          "id": "0x5B034425",
+          "data": [
+            94,
+            4
+          ]
+        },
+        {
+          "id": "0x5703744F",
+          "data": [
+            98,
+            1
+          ]
+        },
+        {
+          "id": "0xD9768497",
+          "data": [
+            99,
+            1
+          ]
+        },
+        {
+          "id": "0x1D559F4E",
+          "data": [
+            100,
+            1
+          ]
+        },
+        {
+          "id": "0xFDE520E9",
+          "data": [
+            101,
+            1
+          ]
+        },
+        {
+          "id": "0x391D5F2D",
+          "data": [
+            102,
+            1
+          ]
+        },
+        {
+          "id": "0xBE785805",
+          "data": [
+            103,
+            1
+          ]
+        },
+        {
+          "id": "0x80AEF8F4",
+          "data": [
+            104,
+            1
+          ]
+        },
+        {
+          "id": "0x702DC894",
+          "data": [
+            105,
+            1
+          ]
+        },
+        {
+          "id": "0xF075225B",
+          "data": [
+            106,
+            1
+          ]
+        },
+        {
+          "id": "0x063B5486",
+          "data": [
+            107,
+            1
+          ]
+        },
+        {
+          "id": "0x1E48E80E",
+          "data": [
+            108,
+            1
+          ]
+        },
+        {
+          "id": "0x7D4527B8",
+          "data": [
+            109,
+            4
+          ]
+        },
+        {
+          "id": "0xC7DA6B1F",
+          "data": [
+            113,
+            4
+          ]
+        },
+        {
+          "id": "0xC00305DF",
+          "data": [
+            117,
+            4
+          ]
+        },
+        {
+          "id": "0xC38F8670",
+          "data": [
+            121,
+            4
+          ]
+        },
+        {
+          "id": "0x714B4A90",
+          "data": [
+            125,
+            1
+          ]
+        },
+        {
+          "id": "0xC78A9EED",
+          "data": [
+            126,
+            1
+          ]
+        },
+        {
+          "id": "0x2D28B3B3",
+          "data": [
+            127,
+            1
+          ]
+        },
+        {
+          "id": "0xE3A47764",
+          "data": [
+            128,
+            1
+          ]
+        },
+        {
+          "id": "0x64D23E33",
+          "data": [
+            129,
+            1
+          ]
+        },
+        {
+          "id": "0x2D83A155",
+          "data": [
+            130,
+            1
+          ]
+        },
+        {
+          "id": "0x7D6B61AB",
+          "data": [
+            131,
+            1
+          ]
+        },
+        {
+          "id": "0x12C9EB5E",
+          "data": [
+            132,
+            1
+          ]
+        },
+        {
+          "id": "0x2DC5DC0D",
+          "data": [
+            133,
+            1
+          ]
+        },
+        {
+          "id": "0x4DC393EA",
+          "data": [
+            134,
+            1
+          ]
+        },
+        {
+          "id": "0x7D20872D",
+          "data": [
+            135,
+            1
+          ]
+        },
+        {
+          "id": "0xAE7A7503",
+          "data": [
+            136,
+            1
+          ]
+        },
+        {
+          "id": "0x68F25429",
+          "data": [
+            137,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_soccerDirCameraInfoList",
+      "typeName": "SOCCER_DIR_CAMERA_INFO",
+      "values": [
+        {
+          "dirCamId": "0xC6D0DF01",
+          "horCamId": "0x714B4A90",
+          "vertCamId": "0xC78A9EED"
+        },
+        {
+          "dirCamId": "0xAA978BF4",
+          "horCamId": "0x2D28B3B3",
+          "vertCamId": "0xE3A47764"
+        },
+        {
+          "dirCamId": "0xF3E8D8D0",
+          "horCamId": "0x64D23E33",
+          "vertCamId": "0x2D83A155"
+        },
+        {
+          "dirCamId": "0x0A0A9D41",
+          "horCamId": "0x7D6B61AB",
+          "vertCamId": "0x7D6B61AB"
+        }
+      ]
+    },
+    {
+      "name": "m_soccerFixPosCameraInfoDataList",
+      "typeName": "SOCCER_FIX_POS_CAMERA_INFO_DATA",
+      "values": [
+        {
+          "id": "0x5BD9A846",
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            0.5,
+            11,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xB0BB1C7F",
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            3,
+            22,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x683C3BEE",
+          "refOffset": [
+            0,
+            2.25,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            6,
+            0.5,
+            0,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x3B9AE30C",
+          "refOffset": [
+            0,
+            1.25,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            0.5,
+            -6,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xC795E9E6",
+          "refOffset": [
+            0,
+            2.25,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            6,
+            0.5,
+            6,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x2F01D5C0",
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            0,
+            -5,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            -1,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 1.5,
+          "offsetTime": 1.5,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x66D01947",
+          "refOffset": [
+            0,
+            2,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            10,
+            25,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xA1E856E5",
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            7.5,
+            12,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x7A3C6C62",
+          "refOffset": [
+            0,
+            0.8,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            1,
+            2,
+            -5,
+            0
+          ],
+          "moveVecOffset": [
+            1,
+            2,
+            -5,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 1.5,
+          "offsetTime": 0.5,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x5A8A3681",
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            2.5,
+            4,
+            -4,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 45,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x5B2CF086",
+          "refOffset": [
+            0,
+            -5,
+            -40,
+            0
+          ],
+          "camPosOffset": [
+            15,
+            15,
+            40,
+            0
+          ],
+          "moveVecOffset": [
+            -1,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 50,
+          "offsetLength": 5,
+          "offsetTime": 15,
+          "conditionAreaRadius": 23,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xC225A13C",
+          "refOffset": [
+            0,
+            -3,
+            -35,
+            0
+          ],
+          "camPosOffset": [
+            -3,
+            16,
+            -29,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            1,
+            0
+          ],
+          "conditionAreaOffset": "000000000000C0C0",
+          "camRoll": 0,
+          "fov": 50,
+          "offsetLength": 2,
+          "offsetTime": 15,
+          "conditionAreaRadius": 23,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xC62DA1CA",
+          "refOffset": [
+            0,
+            -5,
+            -30,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            30,
+            40,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            -0.3,
+            1,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 10,
+          "offsetTime": 3,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xF4771BB0",
+          "refOffset": [
+            0,
+            -5,
+            10,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            40,
+            60,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            -0.3,
+            -1,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 20,
+          "offsetTime": 3,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x4C639FEF",
+          "refOffset": [
+            0,
+            -5,
+            10,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            40,
+            60,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            -0.3,
+            -1,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 20,
+          "offsetTime": 3,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xE119A0B9",
+          "refOffset": [
+            0,
+            -5,
+            10,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            40,
+            60,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            -0.3,
+            -1,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 20,
+          "offsetTime": 3,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xE1BD35CE",
+          "refOffset": [
+            0,
+            -5,
+            -10,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            40,
+            60,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            -0.3,
+            1,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 20,
+          "offsetTime": 3,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x4484CEA0",
+          "refOffset": [
+            0,
+            -7,
+            5,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            45,
+            45,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0xF11A97E4",
+          "refOffset": [
+            0,
+            -5,
+            10,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            40,
+            60,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            -0.3,
+            -1,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 20,
+          "offsetTime": 3,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x57DF3549",
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            50,
+            -45,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        },
+        {
+          "id": "0x7BED9E78",
+          "refOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "camPosOffset": [
+            0,
+            50,
+            45,
+            0
+          ],
+          "moveVecOffset": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "conditionAreaOffset": "0000000000000000",
+          "camRoll": 0,
+          "fov": 55,
+          "offsetLength": 0,
+          "offsetTime": 0,
+          "conditionAreaRadius": 0,
+          "isEnableInterp": false,
+          "moveRefPosOnly": false,
+          "moveType": 0,
+          "curvature": 0
+        }
+      ]
+    },
+    {
+      "name": "m_soccerFixPosCameraInfoList",
+      "typeName": "SOCCER_FIX_POS_CAMERA_INFO",
+      "values": [
+        {
+          "id": "0x5BD9A846",
+          "data": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "0xB0BB1C7F",
+          "data": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "0x683C3BEE",
+          "data": [
+            2,
+            1
+          ]
+        },
+        {
+          "id": "0x3B9AE30C",
+          "data": [
+            3,
+            1
+          ]
+        },
+        {
+          "id": "0xC795E9E6",
+          "data": [
+            4,
+            1
+          ]
+        },
+        {
+          "id": "0x2F01D5C0",
+          "data": [
+            5,
+            1
+          ]
+        },
+        {
+          "id": "0x66D01947",
+          "data": [
+            6,
+            1
+          ]
+        },
+        {
+          "id": "0xA1E856E5",
+          "data": [
+            7,
+            1
+          ]
+        },
+        {
+          "id": "0x7A3C6C62",
+          "data": [
+            8,
+            1
+          ]
+        },
+        {
+          "id": "0x5A8A3681",
+          "data": [
+            9,
+            1
+          ]
+        },
+        {
+          "id": "0x5B2CF086",
+          "data": [
+            10,
+            1
+          ]
+        },
+        {
+          "id": "0xC225A13C",
+          "data": [
+            11,
+            1
+          ]
+        },
+        {
+          "id": "0xC62DA1CA",
+          "data": [
+            12,
+            1
+          ]
+        },
+        {
+          "id": "0xF4771BB0",
+          "data": [
+            13,
+            1
+          ]
+        },
+        {
+          "id": "0x4C639FEF",
+          "data": [
+            14,
+            1
+          ]
+        },
+        {
+          "id": "0xE119A0B9",
+          "data": [
+            15,
+            1
+          ]
+        },
+        {
+          "id": "0xE1BD35CE",
+          "data": [
+            16,
+            1
+          ]
+        },
+        {
+          "id": "0x4484CEA0",
+          "data": [
+            17,
+            1
+          ]
+        },
+        {
+          "id": "0xF11A97E4",
+          "data": [
+            18,
+            1
+          ]
+        },
+        {
+          "id": "0x57DF3549",
+          "data": [
+            19,
+            1
+          ]
+        },
+        {
+          "id": "0x7BED9E78",
+          "data": [
+            20,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_cinematicCameraInfoDataList",
+      "typeName": "CINEMATIC_CAMERA_INFO_DATA",
+      "values": [
+        {
+          "weight": 0,
+          "changeRecast": 10,
+          "chaseCameraId": "0xC0F75556",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 0,
+          "changeRecast": 10,
+          "chaseCameraId": "0x43CD9DBA",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 0,
+          "changeRecast": 10,
+          "chaseCameraId": "0xAAAE388F",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 0,
+          "changeRecast": 10,
+          "chaseCameraId": "0xDDA90819",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 4,
+          "changeRecast": 0,
+          "chaseCameraId": "0x668CB294",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 1,
+          "changeRecast": 10,
+          "chaseCameraId": "0xC0F75556",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 1,
+          "changeRecast": 10,
+          "chaseCameraId": "0x43CD9DBA",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 1,
+          "changeRecast": 10,
+          "chaseCameraId": "0xAAAE388F",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 1,
+          "changeRecast": 10,
+          "chaseCameraId": "0xDDA90819",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 1,
+          "changeRecast": 0,
+          "chaseCameraId": "0xC0F75556",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 1,
+          "changeRecast": 0,
+          "chaseCameraId": "0x43CD9DBA",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 1,
+          "changeRecast": 0,
+          "chaseCameraId": "0x34CAAD2C",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 1,
+          "changeRecast": 0,
+          "chaseCameraId": "0xAAAE388F",
+          "fixCameraId": "0x00000000"
+        },
+        {
+          "weight": 2,
+          "changeRecast": 0,
+          "chaseCameraId": "0x00000000",
+          "fixCameraId": "0x5B2CF086"
+        },
+        {
+          "weight": 2,
+          "changeRecast": 0,
+          "chaseCameraId": "0x00000000",
+          "fixCameraId": "0xC225A13C"
+        }
+      ]
+    },
+    {
+      "name": "m_cinematicCameraSituationInfoList",
+      "typeName": "CINEMATIC_CAMERA_SITUATION_INFO",
+      "values": [
+        {
+          "situationType": 0,
+          "data": [
+            0,
+            4
+          ]
+        },
+        {
+          "situationType": 1,
+          "data": [
+            4,
+            5
+          ]
+        },
+        {
+          "situationType": 2,
+          "data": [
+            9,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_cinematicCameraInfoList",
+      "typeName": "CINEMATIC_CAMERA_INFO",
+      "values": [
+        {
+          "id": "0xBFB91C8C",
+          "situation": [
+            0,
+            3
+          ]
+        }
+      ]
+    }
+  ]
+}

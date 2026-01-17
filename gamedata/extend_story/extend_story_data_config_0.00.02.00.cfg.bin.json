@@ -1,0 +1,72 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_exStoryDataConfigList",
+      "typeName": "EXTEND_STORY_DATA_CONFIG",
+      "values": [
+        {
+          "extendStoryId": "0xB7DE3E13",
+          "titleTextId": "0x9DC1FC67",
+          "explanationTextId": "0xA52DB12A",
+          "validCond": "AAAAABgFNSo9RUMACgEoAAYCNCy4aiUyAAAAAXg=",
+          "extendStoryType": 1,
+          "extendStoryDataId": "0xDFCFCF24",
+          "extendStoryClearFlgId": "0xF2F70331"
+        }
+      ]
+    },
+    {
+      "name": "m_exStoryGameEnterEvConfigList",
+      "typeName": "EXTEND_STORYGAME_ENTER_EV_CONFIG",
+      "values": [
+        {
+          "enterEventId": "0x9425B7F6"
+        },
+        {
+          "enterEventId": "0x966309AF"
+        }
+      ]
+    },
+    {
+      "name": "m_exStoryGameWinEvConfigList",
+      "typeName": "EXTEND_STORYGAME_WIN_EV_CONFIG",
+      "values": [
+        {
+          "winEventId": "0x3B6369F8"
+        }
+      ]
+    },
+    {
+      "name": "m_exStoryGameLoseEvConfigList",
+      "typeName": "EXTEND_STORYGAME_LOSE_EV_CONFIG",
+      "values": [
+        {
+          "loseEventId": "0x3925D7A1"
+        }
+      ]
+    },
+    {
+      "name": "m_exStoryGameDataConfigList",
+      "typeName": "EXTEND_STORYGAME_DATA_CONFIG",
+      "values": [
+        {
+          "extendStoryGameId": "0xDFCFCF24",
+          "gameId": "0x68E507A0",
+          "enterEvConfig": [
+            0,
+            2
+          ],
+          "winEvConfig": [
+            0,
+            1
+          ],
+          "loseEvConfig": [
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

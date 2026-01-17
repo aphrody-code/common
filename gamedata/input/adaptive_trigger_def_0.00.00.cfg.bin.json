@@ -1,0 +1,177 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_ModeItemList",
+      "typeName": "MODE_ITEM_INFO",
+      "values": [
+        {
+          "fd_startPosition": 0,
+          "fd_strength": 0,
+          "wp_startPosition": 0,
+          "wp_endPosition": 0,
+          "wp_strength": 0,
+          "vb_startPosition": 0,
+          "vb_amplitude": 0,
+          "vb_frequency": 0,
+          "mpfd_strength": 0,
+          "sl_startPosition": 0,
+          "sl_endPosition": 0,
+          "sl_startStrength": 0,
+          "sl_endStrength": 0,
+          "mpvb_frequency": 0,
+          "mpvb_amplitude": 0,
+          "triggerEffectMode": 0,
+          "triggerType": 0
+        },
+        {
+          "fd_startPosition": 2,
+          "fd_strength": 2,
+          "wp_startPosition": 2,
+          "wp_endPosition": 8,
+          "wp_strength": 8,
+          "vb_startPosition": 0,
+          "vb_amplitude": 0,
+          "vb_frequency": 0,
+          "mpfd_strength": 0,
+          "sl_startPosition": 0,
+          "sl_endPosition": 0,
+          "sl_startStrength": 0,
+          "sl_endStrength": 0,
+          "mpvb_frequency": 0,
+          "mpvb_amplitude": 1,
+          "triggerEffectMode": 0,
+          "triggerType": 0
+        },
+        {
+          "fd_startPosition": 3,
+          "fd_strength": 2,
+          "wp_startPosition": 4,
+          "wp_endPosition": 3,
+          "wp_strength": 0,
+          "vb_startPosition": 0,
+          "vb_amplitude": 0,
+          "vb_frequency": 0,
+          "mpfd_strength": 0,
+          "sl_startPosition": 0,
+          "sl_endPosition": 0,
+          "sl_startStrength": 0,
+          "sl_endStrength": 0,
+          "mpvb_frequency": 0,
+          "mpvb_amplitude": 0,
+          "triggerEffectMode": 0,
+          "triggerType": 0
+        },
+        {
+          "fd_startPosition": 5,
+          "fd_strength": 2,
+          "wp_startPosition": 2,
+          "wp_endPosition": 8,
+          "wp_strength": 8,
+          "vb_startPosition": 0,
+          "vb_amplitude": 0,
+          "vb_frequency": 0,
+          "mpfd_strength": 0,
+          "sl_startPosition": 0,
+          "sl_endPosition": 0,
+          "sl_startStrength": 0,
+          "sl_endStrength": 0,
+          "mpvb_frequency": 0,
+          "mpvb_amplitude": 0,
+          "triggerEffectMode": 0,
+          "triggerType": 0
+        },
+        {
+          "fd_startPosition": 6,
+          "fd_strength": 2,
+          "wp_startPosition": 4,
+          "wp_endPosition": 6,
+          "wp_strength": 0,
+          "vb_startPosition": 0,
+          "vb_amplitude": 0,
+          "vb_frequency": 0,
+          "mpfd_strength": 0,
+          "sl_startPosition": 0,
+          "sl_endPosition": 0,
+          "sl_startStrength": 1,
+          "sl_endStrength": 0,
+          "mpvb_frequency": 0,
+          "mpvb_amplitude": 0,
+          "triggerEffectMode": 0,
+          "triggerType": 0
+        },
+        {
+          "fd_startPosition": 0,
+          "fd_strength": 0,
+          "wp_startPosition": 2,
+          "wp_endPosition": 8,
+          "wp_strength": 8,
+          "vb_startPosition": 0,
+          "vb_amplitude": 0,
+          "vb_frequency": 0,
+          "mpfd_strength": 0,
+          "sl_startPosition": 0,
+          "sl_endPosition": 0,
+          "sl_startStrength": 0,
+          "sl_endStrength": 0,
+          "mpvb_frequency": 0,
+          "mpvb_amplitude": 0,
+          "triggerEffectMode": 0,
+          "triggerType": 0
+        },
+        {
+          "fd_startPosition": 0,
+          "fd_strength": 0,
+          "wp_startPosition": 0,
+          "wp_endPosition": 0,
+          "wp_strength": 0,
+          "vb_startPosition": 0,
+          "vb_amplitude": 0,
+          "vb_frequency": 0,
+          "mpfd_strength": 0,
+          "sl_startPosition": 0,
+          "sl_endPosition": 0,
+          "sl_startStrength": 0,
+          "sl_endStrength": 0,
+          "mpvb_frequency": 0,
+          "mpvb_amplitude": 0,
+          "triggerEffectMode": 0,
+          "triggerType": 0
+        }
+      ]
+    },
+    {
+      "name": "m_InfoAdaptiveTriggerDataList",
+      "typeName": "INFO_ADAPTIVE_TRIGGER_DATA_CONFIG",
+      "values": [
+        {
+          "id": "0xCC92A4CA",
+          "id_name": "feedback01",
+          "mask": 3,
+          "modeItemList": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "0x559BF570",
+          "id_name": "feedback02",
+          "mask": 3,
+          "modeItemList": [
+            3,
+            2
+          ]
+        },
+        {
+          "id": "0x229CC5E6",
+          "id_name": "feedback03",
+          "mask": 3,
+          "modeItemList": [
+            5,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "entries": [
+    {
+      "name": "BOOST_PLAYER_GRP_SPRIT_TABLE_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "BOOST_PLAYER_GRP_SPRIT_TABLE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "-1341563653"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "BOOST_PLAYER_GRP_SPRIT_TABLE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "-1196427471"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "BOOST_PLAYER_GRP_SPRIT_TABLE_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "-811022425"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "BOOST_PLAYER_GRP_SPRIT_TABLE_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1372344836"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "BOOST_PLAYER_GRP_CONFIG_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "5"
+        }
+      ],
+      "children": [
+        {
+          "name": "BOOST_PLAYER_GRP_CONFIG_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1814400"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "BOOST_PLAYER_GRP_CONFIG_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1209600"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "BOOST_PLAYER_GRP_CONFIG_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1209600"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "BOOST_PLAYER_GRP_CONFIG_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1209600"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "BOOST_PLAYER_GRP_CONFIG_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1209600"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "BOOST_PLAYER_GRP_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "BOOST_PLAYER_GRP_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1762786800"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "BOOST_PLAYER_GRP_INFO_REF_CONFIG_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "5"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

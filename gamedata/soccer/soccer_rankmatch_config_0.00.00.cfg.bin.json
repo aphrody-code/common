@@ -1,0 +1,78 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_SoccerRankmatchInfoList",
+      "typeName": "SOCCER_RANKMATCH_INFO",
+      "values": [
+        {
+          "index": 0,
+          "id_crc": "0xDE1FA35D",
+          "begin_year": 2000,
+          "begin_month": 1,
+          "begin_day": 1,
+          "begin_hour": 0,
+          "begin_minute": 0,
+          "end_year": 0,
+          "end_month": 0,
+          "end_day": 0,
+          "end_hour": 0,
+          "end_minute": 0
+        },
+        {
+          "index": 1,
+          "id_crc": "0x1E0EE515",
+          "begin_year": 2025,
+          "begin_month": 10,
+          "begin_day": 1,
+          "begin_hour": 0,
+          "begin_minute": 0,
+          "end_year": 0,
+          "end_month": 0,
+          "end_day": 0,
+          "end_hour": 0,
+          "end_minute": 0
+        }
+      ]
+    },
+    {
+      "name": "m_SoccerRankmatchPrizeItemInfoList",
+      "typeName": "SOCCER_RANKMATCH_PRIZE_ITEM_INFO",
+      "values": [
+        {
+          "soccerRankType": 3,
+          "rankmatch_prize_bit_flag": "0x9C4A37B6",
+          "prize_item_id": "0xAA3396D4"
+        },
+        {
+          "soccerRankType": 4,
+          "rankmatch_prize_bit_flag": "0x548D8256",
+          "prize_item_id": "0x93190397"
+        },
+        {
+          "soccerRankType": 3,
+          "rankmatch_prize_bit_flag": "0x9C4A37B6",
+          "prize_item_id": "0xAA3396D4"
+        },
+        {
+          "soccerRankType": 4,
+          "rankmatch_prize_bit_flag": "0x548D8256",
+          "prize_item_id": "0x93190397"
+        }
+      ]
+    },
+    {
+      "name": "m_SoccerRankmatchPrizeInfoList",
+      "typeName": "SOCCER_RANKMATCH_PRIZE_INFO",
+      "values": [
+        {
+          "soccer_rankmatch_id": "0x1E0EE515",
+          "prizeItemInfo": [
+            2,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_fastTravelMapInfoList",
+      "typeName": "FAST_TRAVEL_MAP_INFO",
+      "values": [
+        {
+          "id": "0x7225AA02",
+          "mapId": "0x4E7B90D9",
+          "mapTextId": "0xD20ECFA3",
+          "pos": [
+            0,
+            0,
+            45,
+            0
+          ],
+          "charaRotateY": -180
+        },
+        {
+          "id": "0x05229A94",
+          "mapId": "0x4E7B90D9",
+          "mapTextId": "0xA509FF35",
+          "pos": [
+            0,
+            0,
+            -69,
+            0
+          ],
+          "charaRotateY": 0
+        },
+        {
+          "id": "0x9C2BCB2E",
+          "mapId": "0x4E7B90D9",
+          "mapTextId": "0x3C00AE8F",
+          "pos": [
+            -51.94,
+            0,
+            -19.47,
+            0
+          ],
+          "charaRotateY": 50
+        },
+        {
+          "id": "0xEB2CFBB8",
+          "mapId": "0x4E7B90D9",
+          "mapTextId": "0x4B079E19",
+          "pos": [
+            64.53,
+            0,
+            -193.64,
+            0
+          ],
+          "charaRotateY": 90
+        },
+        {
+          "id": "0x6B3E9B43",
+          "mapId": "0xD772C163",
+          "mapTextId": "0x2E4427EC",
+          "pos": [
+            0,
+            0,
+            -30,
+            0
+          ],
+          "charaRotateY": 0
+        },
+        {
+          "id": "0xA3E7114B",
+          "mapId": "0x2067910E",
+          "mapTextId": "0xF15D1497",
+          "pos": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "charaRotateY": 0
+        }
+      ]
+    }
+  ]
+}

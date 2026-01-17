@@ -1,0 +1,218 @@
+{
+  "entries": [
+    {
+      "name": "DETAIL_TIMEZONE_DATA_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "6"
+        }
+      ],
+      "children": [
+        {
+          "name": "DETAIL_TIMEZONE_DATA_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "DETAIL_TIMEZONE_DATA_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Float",
+              "value": "5,5"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "DETAIL_TIMEZONE_DATA_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "Int",
+              "value": "8"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "DETAIL_TIMEZONE_DATA_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "16"
+            },
+            {
+              "type": "Int",
+              "value": "16"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "DETAIL_TIMEZONE_DATA_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "Float",
+              "value": "18,5"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "DETAIL_TIMEZONE_DATA_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "24"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_TIMEZONE_DATA_LIST_BEG_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": [
+            {
+              "name": "EV_TIMEZONE_DATA_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "0"
+                },
+                {
+                  "type": "Int",
+                  "value": "3"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "EV_TIMEZONE_DATA_1",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1"
+                },
+                {
+                  "type": "Int",
+                  "value": "0"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "EV_TIMEZONE_DATA_2",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "2"
+                },
+                {
+                  "type": "Int",
+                  "value": "1"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "EV_TIMEZONE_DATA_3",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "3"
+                },
+                {
+                  "type": "Int",
+                  "value": "2"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "EV_TIMEZONE_DATA_4",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "4"
+                },
+                {
+                  "type": "Int",
+                  "value": "3"
+                }
+              ],
+              "children": []
+            },
+            {
+              "name": "EV_TIMEZONE_DATA_5",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "5"
+                },
+                {
+                  "type": "Int",
+                  "value": "3"
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_updateTimingInfoList",
+      "typeName": "UPDATE_TIMING_INFO",
+      "values": [
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 2022
+        },
+        {
+          "updateTimingId": 2022
+        },
+        {
+          "updateTimingId": 1010
+        },
+        {
+          "updateTimingId": 1010
+        },
+        {
+          "updateTimingId": 1010
+        },
+        {
+          "updateTimingId": 1010
+        },
+        {
+          "updateTimingId": 2021
+        },
+        {
+          "updateTimingId": 2022
+        },
+        {
+          "updateTimingId": 2021
+        },
+        {
+          "updateTimingId": 2022
+        },
+        {
+          "updateTimingId": 2023
+        },
+        {
+          "updateTimingId": 2021
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 2001
+        },
+        {
+          "updateTimingId": 2001
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 2001
+        },
+        {
+          "updateTimingId": 2001
+        },
+        {
+          "updateTimingId": 2001
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 3150
+        },
+        {
+          "updateTimingId": 3150
+        },
+        {
+          "updateTimingId": 3150
+        },
+        {
+          "updateTimingId": 2024
+        },
+        {
+          "updateTimingId": 2024
+        },
+        {
+          "updateTimingId": 2024
+        },
+        {
+          "updateTimingId": 2025
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        },
+        {
+          "updateTimingId": 1000
+        }
+      ]
+    },
+    {
+      "name": "m_conditionInfoList",
+      "typeName": "AI_CMD_INFO",
+      "values": [
+        {
+          "conditionId": 1,
+          "updateTimingInfo": [
+            0,
+            1
+          ]
+        },
+        {
+          "conditionId": 2,
+          "updateTimingInfo": [
+            1,
+            1
+          ]
+        },
+        {
+          "conditionId": 3,
+          "updateTimingInfo": [
+            2,
+            1
+          ]
+        },
+        {
+          "conditionId": 4,
+          "updateTimingInfo": [
+            3,
+            1
+          ]
+        },
+        {
+          "conditionId": 1001,
+          "updateTimingInfo": [
+            4,
+            1
+          ]
+        },
+        {
+          "conditionId": 1002,
+          "updateTimingInfo": [
+            5,
+            1
+          ]
+        },
+        {
+          "conditionId": 1003,
+          "updateTimingInfo": [
+            6,
+            1
+          ]
+        },
+        {
+          "conditionId": 1004,
+          "updateTimingInfo": [
+            7,
+            1
+          ]
+        },
+        {
+          "conditionId": 1005,
+          "updateTimingInfo": [
+            8,
+            1
+          ]
+        },
+        {
+          "conditionId": 1006,
+          "updateTimingInfo": [
+            9,
+            1
+          ]
+        },
+        {
+          "conditionId": 1007,
+          "updateTimingInfo": [
+            10,
+            2
+          ]
+        },
+        {
+          "conditionId": 1008,
+          "updateTimingInfo": [
+            12,
+            2
+          ]
+        },
+        {
+          "conditionId": 1009,
+          "updateTimingInfo": [
+            14,
+            1
+          ]
+        },
+        {
+          "conditionId": 1010,
+          "updateTimingInfo": [
+            15,
+            1
+          ]
+        },
+        {
+          "conditionId": 1011,
+          "updateTimingInfo": [
+            16,
+            1
+          ]
+        },
+        {
+          "conditionId": 1012,
+          "updateTimingInfo": [
+            17,
+            1
+          ]
+        },
+        {
+          "conditionId": 1013,
+          "updateTimingInfo": [
+            18,
+            1
+          ]
+        },
+        {
+          "conditionId": 1014,
+          "updateTimingInfo": [
+            19,
+            1
+          ]
+        },
+        {
+          "conditionId": 1015,
+          "updateTimingInfo": [
+            20,
+            1
+          ]
+        },
+        {
+          "conditionId": 1016,
+          "updateTimingInfo": [
+            21,
+            1
+          ]
+        },
+        {
+          "conditionId": 1030,
+          "updateTimingInfo": [
+            22,
+            1
+          ]
+        },
+        {
+          "conditionId": 1031,
+          "updateTimingInfo": [
+            23,
+            1
+          ]
+        },
+        {
+          "conditionId": 1032,
+          "updateTimingInfo": [
+            24,
+            1
+          ]
+        },
+        {
+          "conditionId": 1033,
+          "updateTimingInfo": [
+            25,
+            1
+          ]
+        },
+        {
+          "conditionId": 1034,
+          "updateTimingInfo": [
+            26,
+            1
+          ]
+        },
+        {
+          "conditionId": 1035,
+          "updateTimingInfo": [
+            27,
+            1
+          ]
+        },
+        {
+          "conditionId": 1101,
+          "updateTimingInfo": [
+            28,
+            1
+          ]
+        },
+        {
+          "conditionId": 1102,
+          "updateTimingInfo": [
+            29,
+            1
+          ]
+        },
+        {
+          "conditionId": 1103,
+          "updateTimingInfo": [
+            30,
+            1
+          ]
+        },
+        {
+          "conditionId": 1104,
+          "updateTimingInfo": [
+            31,
+            1
+          ]
+        },
+        {
+          "conditionId": 1105,
+          "updateTimingInfo": [
+            32,
+            1
+          ]
+        },
+        {
+          "conditionId": 1106,
+          "updateTimingInfo": [
+            33,
+            1
+          ]
+        },
+        {
+          "conditionId": 1107,
+          "updateTimingInfo": [
+            34,
+            1
+          ]
+        },
+        {
+          "conditionId": 1108,
+          "updateTimingInfo": [
+            35,
+            1
+          ]
+        },
+        {
+          "conditionId": 1109,
+          "updateTimingInfo": [
+            36,
+            1
+          ]
+        },
+        {
+          "conditionId": 1110,
+          "updateTimingInfo": [
+            37,
+            1
+          ]
+        },
+        {
+          "conditionId": 1111,
+          "updateTimingInfo": [
+            38,
+            1
+          ]
+        },
+        {
+          "conditionId": 1112,
+          "updateTimingInfo": [
+            39,
+            1
+          ]
+        },
+        {
+          "conditionId": 1201,
+          "updateTimingInfo": [
+            40,
+            1
+          ]
+        },
+        {
+          "conditionId": 1202,
+          "updateTimingInfo": [
+            41,
+            1
+          ]
+        },
+        {
+          "conditionId": 1203,
+          "updateTimingInfo": [
+            42,
+            1
+          ]
+        },
+        {
+          "conditionId": 1204,
+          "updateTimingInfo": [
+            43,
+            2
+          ]
+        },
+        {
+          "conditionId": 1210,
+          "updateTimingInfo": [
+            0,
+            0
+          ]
+        },
+        {
+          "conditionId": 1211,
+          "updateTimingInfo": [
+            45,
+            1
+          ]
+        },
+        {
+          "conditionId": 1212,
+          "updateTimingInfo": [
+            46,
+            1
+          ]
+        },
+        {
+          "conditionId": 1213,
+          "updateTimingInfo": [
+            47,
+            1
+          ]
+        },
+        {
+          "conditionId": 1214,
+          "updateTimingInfo": [
+            48,
+            1
+          ]
+        },
+        {
+          "conditionId": 1215,
+          "updateTimingInfo": [
+            49,
+            1
+          ]
+        },
+        {
+          "conditionId": 1250,
+          "updateTimingInfo": [
+            50,
+            1
+          ]
+        },
+        {
+          "conditionId": 1251,
+          "updateTimingInfo": [
+            51,
+            1
+          ]
+        },
+        {
+          "conditionId": 1260,
+          "updateTimingInfo": [
+            52,
+            1
+          ]
+        },
+        {
+          "conditionId": 1261,
+          "updateTimingInfo": [
+            53,
+            1
+          ]
+        },
+        {
+          "conditionId": 2001,
+          "updateTimingInfo": [
+            54,
+            1
+          ]
+        },
+        {
+          "conditionId": 2002,
+          "updateTimingInfo": [
+            55,
+            1
+          ]
+        },
+        {
+          "conditionId": 2003,
+          "updateTimingInfo": [
+            56,
+            1
+          ]
+        },
+        {
+          "conditionId": 2004,
+          "updateTimingInfo": [
+            57,
+            1
+          ]
+        },
+        {
+          "conditionId": 2010,
+          "updateTimingInfo": [
+            58,
+            1
+          ]
+        },
+        {
+          "conditionId": 2011,
+          "updateTimingInfo": [
+            59,
+            1
+          ]
+        },
+        {
+          "conditionId": 2012,
+          "updateTimingInfo": [
+            60,
+            1
+          ]
+        },
+        {
+          "conditionId": 2013,
+          "updateTimingInfo": [
+            61,
+            1
+          ]
+        },
+        {
+          "conditionId": 4001,
+          "updateTimingInfo": [
+            62,
+            1
+          ]
+        },
+        {
+          "conditionId": 4002,
+          "updateTimingInfo": [
+            63,
+            1
+          ]
+        },
+        {
+          "conditionId": 4003,
+          "updateTimingInfo": [
+            64,
+            2
+          ]
+        },
+        {
+          "conditionId": 4004,
+          "updateTimingInfo": [
+            66,
+            1
+          ]
+        },
+        {
+          "conditionId": 4005,
+          "updateTimingInfo": [
+            67,
+            1
+          ]
+        },
+        {
+          "conditionId": 4006,
+          "updateTimingInfo": [
+            68,
+            1
+          ]
+        },
+        {
+          "conditionId": 4007,
+          "updateTimingInfo": [
+            69,
+            1
+          ]
+        },
+        {
+          "conditionId": 4050,
+          "updateTimingInfo": [
+            70,
+            1
+          ]
+        },
+        {
+          "conditionId": 4100,
+          "updateTimingInfo": [
+            71,
+            1
+          ]
+        },
+        {
+          "conditionId": 4101,
+          "updateTimingInfo": [
+            72,
+            1
+          ]
+        },
+        {
+          "conditionId": 4200,
+          "updateTimingInfo": [
+            73,
+            1
+          ]
+        },
+        {
+          "conditionId": 4201,
+          "updateTimingInfo": [
+            74,
+            1
+          ]
+        },
+        {
+          "conditionId": 4202,
+          "updateTimingInfo": [
+            75,
+            1
+          ]
+        },
+        {
+          "conditionId": 4500,
+          "updateTimingInfo": [
+            76,
+            1
+          ]
+        },
+        {
+          "conditionId": 4501,
+          "updateTimingInfo": [
+            77,
+            1
+          ]
+        },
+        {
+          "conditionId": 4502,
+          "updateTimingInfo": [
+            78,
+            1
+          ]
+        },
+        {
+          "conditionId": 9001,
+          "updateTimingInfo": [
+            79,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_tutorialBannerInfoList",
+      "typeName": "TUTORIAL_BANNER_INFO",
+      "values": [
+        {
+          "id": "0x74AD78BE",
+          "titleTextId": "0x968619E7",
+          "explainTextId": "0x968619E7",
+          "iconTextureName": "0xCF0200B5",
+          "count": 1,
+          "flagNum": 1
+        },
+        {
+          "id": "0xEDA42904",
+          "titleTextId": "0x968619E7",
+          "explainTextId": "0x968619E7",
+          "iconTextureName": "0x560B510F",
+          "count": 2,
+          "flagNum": 2
+        },
+        {
+          "id": "0x9AA31992",
+          "titleTextId": "0x968619E7",
+          "explainTextId": "0x968619E7",
+          "iconTextureName": "0x210C6199",
+          "count": 3,
+          "flagNum": 3
+        }
+      ]
+    }
+  ]
+}

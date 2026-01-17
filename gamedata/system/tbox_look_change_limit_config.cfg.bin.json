@@ -1,0 +1,225 @@
+{
+  "entries": [
+    {
+      "name": "GENERAL_LIMIT_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "GENERAL_LIMIT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "713724464"
+            }
+          ],
+          "children": [
+            {
+              "name": "GENERAL_LIMIT_INFO_DATA_LIST_BEG_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "3"
+                }
+              ],
+              "children": [
+                {
+                  "name": "GENERAL_LIMIT_INFO_DATA_0",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "String",
+                      "value": "AAAAAA8FNbkZNtoAAQAyAADqYG8="
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "GENERAL_LIMIT_INFO_DATA_PARAM_LIST_BEG_0",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "2"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "GENERAL_LIMIT_INFO_DATA_PARAM_0",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "2"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "2"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "3"
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "name": "GENERAL_LIMIT_INFO_DATA_PARAM_1",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "3"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "3"
+                            },
+                            {
+                              "type": "Int",
+                              "value": "5"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "name": "GENERAL_LIMIT_INFO_DATA_1",
+                              "variables": [
+                                {
+                                  "type": "Int",
+                                  "value": "0"
+                                },
+                                {
+                                  "type": "String",
+                                  "value": "AAAAAA8FNbkZNtoAAQAyAADqanE="
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "name": "GENERAL_LIMIT_INFO_DATA_PARAM_LIST_BEG_1",
+                                  "variables": [
+                                    {
+                                      "type": "Int",
+                                      "value": "2"
+                                    }
+                                  ],
+                                  "children": [
+                                    {
+                                      "name": "GENERAL_LIMIT_INFO_DATA_PARAM_2",
+                                      "variables": [
+                                        {
+                                          "type": "Int",
+                                          "value": "3"
+                                        },
+                                        {
+                                          "type": "Int",
+                                          "value": "3"
+                                        },
+                                        {
+                                          "type": "Int",
+                                          "value": "3"
+                                        }
+                                      ],
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "GENERAL_LIMIT_INFO_DATA_PARAM_3",
+                                      "variables": [
+                                        {
+                                          "type": "Int",
+                                          "value": "4"
+                                        },
+                                        {
+                                          "type": "Int",
+                                          "value": "4"
+                                        },
+                                        {
+                                          "type": "Int",
+                                          "value": "5"
+                                        }
+                                      ],
+                                      "children": [
+                                        {
+                                          "name": "GENERAL_LIMIT_INFO_DATA_2",
+                                          "variables": [
+                                            {
+                                              "type": "Int",
+                                              "value": "0"
+                                            },
+                                            {
+                                              "type": "Int",
+                                              "value": "0"
+                                            }
+                                          ],
+                                          "children": [
+                                            {
+                                              "name": "GENERAL_LIMIT_INFO_DATA_PARAM_LIST_BEG_2",
+                                              "variables": [
+                                                {
+                                                  "type": "Int",
+                                                  "value": "2"
+                                                }
+                                              ],
+                                              "children": [
+                                                {
+                                                  "name": "GENERAL_LIMIT_INFO_DATA_PARAM_4",
+                                                  "variables": [
+                                                    {
+                                                      "type": "Int",
+                                                      "value": "3"
+                                                    },
+                                                    {
+                                                      "type": "Int",
+                                                      "value": "3"
+                                                    },
+                                                    {
+                                                      "type": "Int",
+                                                      "value": "3"
+                                                    }
+                                                  ],
+                                                  "children": []
+                                                },
+                                                {
+                                                  "name": "GENERAL_LIMIT_INFO_DATA_PARAM_5",
+                                                  "variables": [
+                                                    {
+                                                      "type": "Int",
+                                                      "value": "4"
+                                                    },
+                                                    {
+                                                      "type": "Int",
+                                                      "value": "4"
+                                                    },
+                                                    {
+                                                      "type": "Int",
+                                                      "value": "5"
+                                                    }
+                                                  ],
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

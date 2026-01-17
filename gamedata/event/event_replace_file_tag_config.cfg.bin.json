@@ -1,0 +1,131 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_replaceList",
+      "typeName": "EV_FILE_TAG_DATA",
+      "values": [
+        {
+          "replaceId": "0xD4B45A92",
+          "replaceStr": "i00610000"
+        },
+        {
+          "replaceId": "0xA3B36A04",
+          "replaceStr": "i00610000"
+        },
+        {
+          "replaceId": "0x3DD7FFA7",
+          "replaceStr": "i00610010"
+        },
+        {
+          "replaceId": "0x4AD0CF31",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0xD3D99E8B",
+          "replaceStr": "i00610030"
+        },
+        {
+          "replaceId": "0x2060EFC3",
+          "replaceStr": "i00610040"
+        },
+        {
+          "replaceId": "0x5FD0FBB2",
+          "replaceStr": "i00610010"
+        },
+        {
+          "replaceId": "0xD0900E12",
+          "replaceStr": "i00610010"
+        },
+        {
+          "replaceId": "0x62B0D202",
+          "replaceStr": "i00610010"
+        },
+        {
+          "replaceId": "0x0F1D6A01",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0x948C2817",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0x0909E259",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0x42D5CB0A",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0xB1B5853C",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0x18708162",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0x3815986A",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0x7FB5E2BA",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0xEA889E08",
+          "replaceStr": "i00610020"
+        },
+        {
+          "replaceId": "0xF393AF49",
+          "replaceStr": "i00610030"
+        },
+        {
+          "replaceId": "0x483B70C3",
+          "replaceStr": "i00610030"
+        },
+        {
+          "replaceId": "0x8CD5AC8C",
+          "replaceStr": "i00610030"
+        },
+        {
+          "replaceId": "0x3469CBE9",
+          "replaceStr": "i00610030"
+        },
+        {
+          "replaceId": "0x11E4B6E2",
+          "replaceStr": "i00610030"
+        },
+        {
+          "replaceId": "0xDF91C27C",
+          "replaceStr": "i00610030"
+        },
+        {
+          "replaceId": "0x429E230A",
+          "replaceStr": "i00610030"
+        }
+      ]
+    },
+    {
+      "name": "m_EvReplaceTagInfoList",
+      "typeName": "EV_FILE_TAG_INFO",
+      "values": [
+        {
+          "typeId": "0xF6C9429C",
+          "m_refReplaceInfo": [
+            0,
+            6
+          ]
+        },
+        {
+          "typeId": "0x772D70BC",
+          "m_refReplaceInfo": [
+            6,
+            19
+          ]
+        }
+      ]
+    }
+  ]
+}

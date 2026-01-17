@@ -1,0 +1,83 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_trialTakeOverInfoList",
+      "typeName": "TRIAL_TAKE_OVER_INFO",
+      "values": [
+        {
+          "id": "0x46896BAB",
+          "flagNo": 0,
+          "itemId": "0x00000000",
+          "condition": ""
+        },
+        {
+          "id": "0xDF803A11",
+          "flagNo": 1,
+          "itemId": "0x00000000",
+          "condition": "AAAAABgFNSo9RUMACgEoAAYCNPrNgGwyAAAAAXg="
+        },
+        {
+          "id": "0xA8870A87",
+          "flagNo": 2,
+          "itemId": "0x00000000",
+          "condition": "AAAAABgFNSo9RUMACgEoAAYCNGSpFc8yAAAAAXg="
+        },
+        {
+          "id": "0x36E39F24",
+          "flagNo": 3,
+          "itemId": "0x00000000",
+          "condition": "AAAAAA8FNUwMjAgAAQAyAAAAAnE="
+        },
+        {
+          "id": "0x41E4AFB2",
+          "flagNo": 4,
+          "itemId": "0x00000000",
+          "condition": "AAAAABgFNSo9RUMACgEoAAYCNCbtEqkyAAAAAXg="
+        }
+      ]
+    },
+    {
+      "name": "m_trialPartTakeOverInfoList",
+      "typeName": "TRIAL_PART_TAKE_OVER_INFO",
+      "values": [
+        {
+          "id": "0x26EA0F62",
+          "flagNo": 0
+        },
+        {
+          "id": "0xBFE35ED8",
+          "flagNo": 1
+        },
+        {
+          "id": "0xC8E46E4E",
+          "flagNo": 2
+        },
+        {
+          "id": "0x5680FBED",
+          "flagNo": 3
+        },
+        {
+          "id": "0x2187CB7B",
+          "flagNo": 4
+        },
+        {
+          "id": "0xB88E9AC1",
+          "flagNo": 5
+        },
+        {
+          "id": "0xCF89AA57",
+          "flagNo": 6
+        },
+        {
+          "id": "0x5F36B7C6",
+          "flagNo": 7
+        },
+        {
+          "id": "0x28318750",
+          "flagNo": 8
+        }
+      ]
+    }
+  ]
+}

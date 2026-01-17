@@ -1,0 +1,1361 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_soccerOpponentInfoList",
+      "typeName": "SOCCER_OPPONENT_INFO",
+      "values": [
+        {
+          "category": 0,
+          "battleId": "0xA57EED32",
+          "sortOrder": 10,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNKV\u002B7TIoAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNKV\u002B7TIoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNKV\u002B7TIoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNKV\u002B7TIoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0xAB007583",
+          "sortOrder": 11,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNKsAdYMoAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNKsAdYMoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNKsAdYMoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNKsAdYMoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x336350E3",
+          "sortOrder": 12,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNDNjUOMoAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNDNjUOMoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNDNjUOMoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNDNjUOMoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x0148BC19",
+          "sortOrder": 13,
+          "cond1": "AAAAABgFNSo9RUMACgEoAAYCNJegtdgyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNAFIvBkoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNAFIvBkoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNAFIvBkoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x9244209D",
+          "sortOrder": 14,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNJJEIJ0oAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNJJEIJ0oAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNJJEIJ0oAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNJJEIJ0oAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x961A3DE4",
+          "sortOrder": 15,
+          "cond1": "AAAAABgFNSo9RUMACgEoAAYCNHaMdnoyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNJYaPeQoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNJYaPeQoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNJYaPeQoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x083F7CAD",
+          "sortOrder": 16,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNAg/fK0oAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNAg/fK0oAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNAg/fK0oAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNAg/fK0oAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x03C3E5FC",
+          "sortOrder": 17,
+          "cond1": "AAAAABgFNSo9RUMACgEoAAYCNByaG4AyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNAPD5fwoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNAPD5fwoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNAPD5fwoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0xFA8B8961",
+          "sortOrder": 18,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNPqLiWEoAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNPqLiWEoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNPqLiWEoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNPqLiWEoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x6F6F0082",
+          "sortOrder": 19,
+          "cond1": "AAAAABgFNSo9RUMACgEoAAYCNPHL5/YyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNG9vAIIoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNG9vAIIoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNG9vAIIoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x808012A6",
+          "sortOrder": 20,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNICAEqYoAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNICAEqYoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNICAEqYoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNICAEqYoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x6C137904",
+          "sortOrder": 21,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNGwTeQQoAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNGwTeQQoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNGwTeQQoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNGwTeQQoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0xF6AFFEAE",
+          "sortOrder": 22,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNPav/q4oAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNPav/q4oAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNPav/q4oAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNPav/q4oAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0x6B6D71B4",
+          "sortOrder": 23,
+          "cond1": "AAAAABgFNSo9RUMACgEoAAYCNH5LKGcyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNGttcbQoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNGttcbQoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNGttcbQoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0xF9B7DE8A",
+          "sortOrder": 24,
+          "cond1": "AAAAACEFNbgXycUAEwIoAAYCNPm33oooAAYCMgAAAAEyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNPm33oooAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNPm33oooAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNPm33oooAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 0,
+          "battleId": "0xBF25D0D0",
+          "sortOrder": 25,
+          "cond1": "AAAAABgFNSo9RUMACgEoAAYCNCy4aiUyAAAAAXg=",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNL8l0NAoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNL8l0NAoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNL8l0NAoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 1,
+          "battleId": "0xA04868C3",
+          "sortOrder": 101,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x26DC1A6D",
+          "sortOrder": 102,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xED80C9C8",
+          "sortOrder": 103,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xF085F970",
+          "sortOrder": 104,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x3BD92AD5",
+          "sortOrder": 105,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xBD4D587B",
+          "sortOrder": 106,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x76118BDE",
+          "sortOrder": 107,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x8747390B",
+          "sortOrder": 108,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x4C1BEAAE",
+          "sortOrder": 109,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xCD63B0D2",
+          "sortOrder": 110,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x063F6377",
+          "sortOrder": 111,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x80AB11D9",
+          "sortOrder": 112,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x4BF7C27C",
+          "sortOrder": 113,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 0,
+          "battleId": "0x10C538F9",
+          "sortOrder": 100,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "AAAAACEFNbgXycUAEwIoAAYCNBDFOPkoAAYCMgAAAAYyAAAAAXg=",
+          "cond3": "AAAAACEFNbgXycUAEwIoAAYCNBDFOPkoAAYCMgAAAAcyAAAAAXg=",
+          "cond4": "AAAAACEFNbgXycUAEwIoAAYCNBDFOPkoAAYCMgAAAAgyAAAAAXg="
+        },
+        {
+          "category": 1,
+          "battleId": "0x1F5126A8",
+          "sortOrder": 115,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xC908C5B5",
+          "sortOrder": 117,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x02541610",
+          "sortOrder": 118,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x84C064BE",
+          "sortOrder": 119,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xBECA05CE",
+          "sortOrder": 121,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x7596D66B",
+          "sortOrder": 122,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xF4EE8C17",
+          "sortOrder": 123,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x3FB25FB2",
+          "sortOrder": 124,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x727AFEB9",
+          "sortOrder": 126,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x6F7FCE01",
+          "sortOrder": 127,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xA4231DA4",
+          "sortOrder": 128,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x22B76F0A",
+          "sortOrder": 129,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xE9EBBCAF",
+          "sortOrder": 130,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x18BD0E7A",
+          "sortOrder": 131,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xD3E1DDDF",
+          "sortOrder": 132,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xC506968A",
+          "sortOrder": 133,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x8EBE4045",
+          "sortOrder": 134,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x082A32EB",
+          "sortOrder": 135,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xC376E14E",
+          "sortOrder": 136,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xDE73D1F6",
+          "sortOrder": 137,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x152F0253",
+          "sortOrder": 138,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x93BB70FD",
+          "sortOrder": 139,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x58E7A358",
+          "sortOrder": 140,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xA9B1118D",
+          "sortOrder": 141,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x62EDC228",
+          "sortOrder": 142,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xE3959854",
+          "sortOrder": 143,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x28C94BF1",
+          "sortOrder": 144,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xAE5D395F",
+          "sortOrder": 145,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x6501EAFA",
+          "sortOrder": 146,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x7804DA42",
+          "sortOrder": 147,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xB35809E7",
+          "sortOrder": 148,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x35CC7B49",
+          "sortOrder": 149,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x0FC61A39",
+          "sortOrder": 151,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xC49AC99C",
+          "sortOrder": 152,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xEADF2D8C",
+          "sortOrder": 153,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x6C4B5F22",
+          "sortOrder": 154,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xA7178C87",
+          "sortOrder": 155,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xBA12BC3F",
+          "sortOrder": 156,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x714E6F9A",
+          "sortOrder": 157,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xF7DA1D34",
+          "sortOrder": 158,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x3C86CE91",
+          "sortOrder": 159,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xCDD07C44",
+          "sortOrder": 160,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x068CAFE1",
+          "sortOrder": 161,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x87F4F59D",
+          "sortOrder": 162,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x4CA82638",
+          "sortOrder": 163,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xCA3C5496",
+          "sortOrder": 164,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x01608733",
+          "sortOrder": 165,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x1C65B78B",
+          "sortOrder": 166,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xD739642E",
+          "sortOrder": 167,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x51AD1680",
+          "sortOrder": 168,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x9AF1C525",
+          "sortOrder": 169,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x6BA777F0",
+          "sortOrder": 170,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xA0FBA455",
+          "sortOrder": 171,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xB61CEF00",
+          "sortOrder": 172,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x7D403CA5",
+          "sortOrder": 173,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xFBD44E0B",
+          "sortOrder": 174,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xB06C98C4",
+          "sortOrder": 177,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xAD69A87C",
+          "sortOrder": 178,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x66357BD9",
+          "sortOrder": 179,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xE0A10977",
+          "sortOrder": 180,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x2BFDDAD2",
+          "sortOrder": 181,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xDAAB6807",
+          "sortOrder": 182,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x11F7BBA2",
+          "sortOrder": 183,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x908FE1DE",
+          "sortOrder": 184,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x5BD3327B",
+          "sortOrder": 185,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x161B9370",
+          "sortOrder": 187,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x0B1EA3C8",
+          "sortOrder": 188,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xC042706D",
+          "sortOrder": 189,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x46D602C3",
+          "sortOrder": 190,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x8D8AD166",
+          "sortOrder": 191,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x7CDC63B3",
+          "sortOrder": 192,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xB780B016",
+          "sortOrder": 193,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xA167FB43",
+          "sortOrder": 194,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x6A3B28E6",
+          "sortOrder": 195,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xECAF5A48",
+          "sortOrder": 196,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x27F389ED",
+          "sortOrder": 197,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x3AF6B955",
+          "sortOrder": 198,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xC429050A",
+          "sortOrder": 199,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x42BD77A4",
+          "sortOrder": 200,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x89E1A401",
+          "sortOrder": 201,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x94E494B9",
+          "sortOrder": 202,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x5FB8471C",
+          "sortOrder": 203,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xD92C35B2",
+          "sortOrder": 204,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x1270E617",
+          "sortOrder": 205,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xE32654C2",
+          "sortOrder": 206,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x287A8767",
+          "sortOrder": 207,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xA902DD1B",
+          "sortOrder": 208,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x625E0EBE",
+          "sortOrder": 209,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xE4CA7C10",
+          "sortOrder": 210,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x2F96AFB5",
+          "sortOrder": 211,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x32939F0D",
+          "sortOrder": 212,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xF9CF4CA8",
+          "sortOrder": 213,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x7F5B3E06",
+          "sortOrder": 214,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xD3521149",
+          "sortOrder": 215,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x55C663E7",
+          "sortOrder": 216,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x9E9AB042",
+          "sortOrder": 217,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x839F80FA",
+          "sortOrder": 218,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x48C3535F",
+          "sortOrder": 219,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xCE5721F1",
+          "sortOrder": 220,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x050BF254",
+          "sortOrder": 221,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xF45D4081",
+          "sortOrder": 222,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x3F019324",
+          "sortOrder": 223,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xBE79C958",
+          "sortOrder": 224,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x75251AFD",
+          "sortOrder": 225,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xF3B16853",
+          "sortOrder": 226,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x38EDBBF6",
+          "sortOrder": 227,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x0CEBDE98",
+          "sortOrder": 228,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x8A7FAC36",
+          "sortOrder": 229,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x41237F93",
+          "sortOrder": 230,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x5C264F2B",
+          "sortOrder": 231,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x977A9C8E",
+          "sortOrder": 232,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x11EEEE20",
+          "sortOrder": 233,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xDAB23D85",
+          "sortOrder": 234,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x2BE48F50",
+          "sortOrder": 235,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xE0B85CF5",
+          "sortOrder": 236,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x61C00689",
+          "sortOrder": 237,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xAA9CD52C",
+          "sortOrder": 238,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x2C08A782",
+          "sortOrder": 239,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0x76073F38",
+          "sortOrder": 240,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        },
+        {
+          "category": 1,
+          "battleId": "0xF0934D96",
+          "sortOrder": 241,
+          "cond1": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond2": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond3": "\uFFFDSOCCER_OPPONENT_INFO",
+          "cond4": "\uFFFDSOCCER_OPPONENT_INFO"
+        }
+      ]
+    }
+  ]
+}

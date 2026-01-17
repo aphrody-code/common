@@ -1,0 +1,209 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_friendMapLineInfo",
+      "typeName": "FRIENDMAP_LINE_INFO",
+      "values": [
+        {
+          "lineNo": 0,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 1,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 2,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 3,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 4,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 5,
+          "lineElemAry": "0xE22BE2FA"
+        },
+        {
+          "lineNo": 6,
+          "lineElemAry": "0x1142E426"
+        },
+        {
+          "lineNo": 7,
+          "lineElemAry": "0x5DF86A72"
+        },
+        {
+          "lineNo": 8,
+          "lineElemAry": "0xC506037F"
+        },
+        {
+          "lineNo": 9,
+          "lineElemAry": "0xCDDE902C"
+        },
+        {
+          "lineNo": 10,
+          "lineElemAry": "0x9CA7791E"
+        },
+        {
+          "lineNo": 11,
+          "lineElemAry": "0x99E86F9B"
+        },
+        {
+          "lineNo": 12,
+          "lineElemAry": "0xF797E5C8"
+        },
+        {
+          "lineNo": 13,
+          "lineElemAry": "0xFBC20A29"
+        },
+        {
+          "lineNo": 0,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 1,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 2,
+          "lineElemAry": "0x00739FA6"
+        },
+        {
+          "lineNo": 3,
+          "lineElemAry": "0x5DF86A72"
+        },
+        {
+          "lineNo": 4,
+          "lineElemAry": "0x955CC0C4"
+        },
+        {
+          "lineNo": 5,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 6,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 0,
+          "lineElemAry": "0x166BB872"
+        },
+        {
+          "lineNo": 1,
+          "lineElemAry": "0x5DF86A72"
+        },
+        {
+          "lineNo": 2,
+          "lineElemAry": "0x269C1414"
+        },
+        {
+          "lineNo": 3,
+          "lineElemAry": "0x5DF86A72"
+        },
+        {
+          "lineNo": 4,
+          "lineElemAry": "0xE0ACE895"
+        },
+        {
+          "lineNo": 5,
+          "lineElemAry": "0x15CF9894"
+        },
+        {
+          "lineNo": 6,
+          "lineElemAry": "0x5DF86A72"
+        },
+        {
+          "lineNo": 7,
+          "lineElemAry": "0xA28230F6"
+        },
+        {
+          "lineNo": 8,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 0,
+          "lineElemAry": "0x00000000"
+        },
+        {
+          "lineNo": 1,
+          "lineElemAry": "0x67D758A7"
+        },
+        {
+          "lineNo": 2,
+          "lineElemAry": "0x5DF86A72"
+        },
+        {
+          "lineNo": 3,
+          "lineElemAry": "0xBFC6501F"
+        },
+        {
+          "lineNo": 4,
+          "lineElemAry": "0xAF15B520"
+        },
+        {
+          "lineNo": 5,
+          "lineElemAry": "0xA449F21D"
+        },
+        {
+          "lineNo": 6,
+          "lineElemAry": "0x5DF86A72"
+        },
+        {
+          "lineNo": 7,
+          "lineElemAry": "0x58D13BC6"
+        },
+        {
+          "lineNo": 8,
+          "lineElemAry": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_friendMapBaseInfo",
+      "typeName": "FRIENDMAP_BASE_INFO",
+      "values": [
+        {
+          "friendMapID": "0x62975AF6",
+          "startY": 8,
+          "startX": 7,
+          "lineInfo": [
+            0,
+            14
+          ]
+        },
+        {
+          "friendMapID": "0xFB9E0B4C",
+          "startY": 2,
+          "startX": 7,
+          "lineInfo": [
+            14,
+            7
+          ]
+        },
+        {
+          "friendMapID": "0x8C993BDA",
+          "startY": 4,
+          "startX": 4,
+          "lineInfo": [
+            21,
+            9
+          ]
+        },
+        {
+          "friendMapID": "0x12FDAE79",
+          "startY": 4,
+          "startX": 5,
+          "lineInfo": [
+            30,
+            9
+          ]
+        }
+      ]
+    }
+  ]
+}

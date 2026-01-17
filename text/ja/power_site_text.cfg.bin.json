@@ -1,0 +1,1370 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "16"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-136049537"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[Ｙ/ワイ]ドロップを\u3000<NEED_NUM>[個/こ][渡/わた]す。\\n（[現在/げんざい]の[手持/ても]ち：\u3000<CURRENT_NUM>[個/こ]）"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "977237982"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[Ｙ/ワイ]ドロップを\u3000<NEED_NUM>[個/こ][渡/わた]す。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1154374555"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "レベルの[上限/じょうげん]を\u3000<LEVEL_NUM>[解放/かいほう]する。\\n<POWERSITE_NAME>の[敵/てき]の[強/つよ]さを[変更/へんこう]できる。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1749833199"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<POWERSITE_NAME>で\u3000[怨霊/おんりょう]を<NEED_NUM>[体/たい][倒/たお]す。\\n（[現在/げんざい]の[倒/たお]した[数/かず]：\u3000<CURRENT_NUM>[体/たい]）"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-374632455"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<POWERSITE_NAME>で\u3000[怨霊/おんりょう]を<NEED_NUM>[体/たい][倒/たお]す。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "412667106"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<POWERSITE_NAME>の[人通/ひとどお]りが[増加/ぞうか]する。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-260744766"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<POWERSITE_NAME>のパワーサイト\\n[活性化/かっせいか]まで<NOW_ENEMY_NUM> / <TARGET_NUM>"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2022545068"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<POWERSITE_NAME>のパワーサイトを\\n[活性化/かっせいか]できるようになった！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "44001189"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<POWERSITE_NAME>のパワーサイトを[発見/はっけん]した！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1419144912"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "パワーサイトが[活性化/かっせいか]して\\n<POWERSITE_NAME>の[人通/ひとどお]りが[多/おお]くなった！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1680947874"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "このパワーサイトは[解放/かいほう][済/ず]みです。"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1334513939"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<POWERSITE_NAME>のパワーサイトを[解放/かいほう]しますか？\\n\\n[必要/ひつよう]な<SYSTEM_NOUN>\u3000<VALUE>[個/こ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2085968136"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<SYSTEM_NOUN>が\u3000[足/た]りません\\n\\n[必要/ひつよう]な<SYSTEM_NOUN>\u3000<VALUE>[個/こ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2028426175"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "<POWERSITE_NAME>のパワーサイトが\u3000[静/しず]かに[佇/たたず]んでいる"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1415419809"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[活性化/かっせいか]する"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "235247407"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[解放/かいほう]する"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NOUN_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "16"
+        }
+      ],
+      "children": [
+        {
+          "name": "NOUN_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1680813580"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "？？？？？？"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-321396382"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[学園/がくえん]エリア[北/きた]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1977528536"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[学園/がくえん]エリア[西/にし]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "47808590"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[学園/がくえん]エリア[東/ひがし]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1665329683"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[学園/がくえん]エリア[庭園/ていえん]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-340122245"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[学園/がくえん]エリア[森/もり]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1924363457"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[居住/きょじゅう]エリア[北/きた]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "95700055"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[居住/きょじゅう]エリア[南/みなみ]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1794418234"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[居住/きょじゅう]エリア[森/もり]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-502503088"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[商業/しょうぎょう]エリア[北/きた]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2100567883"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[商業/しょうぎょう]エリア[南/みなみ]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-171126749"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[工業/こうぎょう]エリア"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1824883097"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "キャンプエリア"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "465744143"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[砂漠/さばく]エリア"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2052709204"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[雪原/せつげん]エリア"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "NOUN_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-224324550"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": "[本/ほん][校舎/こうしゃ]"
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "String",
+              "value": ""
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

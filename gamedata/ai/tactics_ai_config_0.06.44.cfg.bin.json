@@ -1,0 +1,1298 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_TacticsAITargetInfoList",
+      "typeName": "TACTICS_AI_TARGET_INFO",
+      "values": [
+        {
+          "targetId": "0x1C44B74C",
+          "funcName": "CalcTargetChara_None"
+        },
+        {
+          "targetId": "0x6B4387DA",
+          "funcName": "CalcTargetChara_Shoot"
+        },
+        {
+          "targetId": "0xF24AD660",
+          "funcName": "CalcTargetChara_Pass"
+        },
+        {
+          "targetId": "0x854DE6F6",
+          "funcName": "CalcTargetChara_Press"
+        },
+        {
+          "targetId": "0x1B297355",
+          "funcName": "CalcTargetChara_Centering"
+        },
+        {
+          "targetId": "0x6C2E43C3",
+          "funcName": "CalcTargetChara_PassBack"
+        },
+        {
+          "targetId": "0x055F860D",
+          "funcName": "CalcTargetChara_BallOwner"
+        },
+        {
+          "targetId": "0x2E72D5CE",
+          "funcName": "CalcTargetChara_Partner"
+        },
+        {
+          "targetId": "0x3769E48F",
+          "funcName": "CalcTargetChara_EscapeTarget"
+        },
+        {
+          "targetId": "0x406ED419",
+          "funcName": "CalcTargetChara_FrontTarget"
+        },
+        {
+          "targetId": "0xD96785A3",
+          "funcName": "CalcTargetChara_NearestEnemy"
+        },
+        {
+          "targetId": "0xA4F8D029",
+          "funcName": "CalcTargetPos_None"
+        },
+        {
+          "targetId": "0xD3FFE0BF",
+          "funcName": "CalcTargetPos_FreeArea"
+        },
+        {
+          "targetId": "0x4AF6B105",
+          "funcName": "CalcTargetPos_VitalArea"
+        },
+        {
+          "targetId": "0x3DF18193",
+          "funcName": "CalcTargetPos_FrontPos"
+        },
+        {
+          "targetId": "0xA3951430",
+          "funcName": "CalcTargetPos_EscapePos"
+        },
+        {
+          "targetId": "0xD49224A6",
+          "funcName": "CalcTargetPos_GoalDirPos"
+        },
+        {
+          "targetId": "0xBDE3E168",
+          "funcName": "CalcTargetPos_PositioningPos"
+        },
+        {
+          "targetId": "0xCAE4D1FE",
+          "funcName": "CalcTargetPos_AroundPos"
+        },
+        {
+          "targetId": "0xCD8915E7",
+          "funcName": "CalcTargetPos_MarkPos"
+        },
+        {
+          "targetId": "0x5480445D",
+          "funcName": "CalcTargetPos_BattlePos"
+        },
+        {
+          "targetId": "0x238774CB",
+          "funcName": "CalcTargetPos_BallToGoalPos"
+        },
+        {
+          "targetId": "0x96CEB2AB",
+          "funcName": "CalcTargetPos_LongKick"
+        },
+        {
+          "targetId": "0xE1C9823D",
+          "funcName": "CalcTargetPos_CenteringPos"
+        },
+        {
+          "targetId": "0x8FD583EA",
+          "funcName": "CalcTargetPos_PassReceiveBestPos"
+        },
+        {
+          "targetId": "0xF8D2B37C",
+          "funcName": "CalcTargetPos_PassTargetPos"
+        },
+        {
+          "targetId": "0x61DBE2C6",
+          "funcName": "CalcTargetPos_PassTargetDir"
+        },
+        {
+          "targetId": "0x16DCD250",
+          "funcName": "CalcTargetPos_BehindDefender"
+        },
+        {
+          "targetId": "0x383FAFBD",
+          "funcName": "CalcTargetChara_KeeperShortPass"
+        },
+        {
+          "targetId": "0x4F389F2B",
+          "funcName": "CalcTargetChara_KeeperLongPasst"
+        },
+        {
+          "targetId": "0xEE9FC90F",
+          "funcName": "CalcTargetPos_KeeperAutoPositioningPos"
+        },
+        {
+          "targetId": "0x779698B5",
+          "funcName": "CalcTargetPos_KeeperBasePos"
+        },
+        {
+          "targetId": "0x0091A823",
+          "funcName": "CalcTargetPos_KeeperPositioningPos"
+        },
+        {
+          "targetId": "0x9EF53D80",
+          "funcName": "CalcTargetPos_KeeperVigilantPos"
+        },
+        {
+          "targetId": "0xE9F20D16",
+          "funcName": "CalcTargetPos_KeeperOverGoalline"
+        },
+        {
+          "targetId": "0x8083C8D8",
+          "funcName": "CalcTargetPos_KeeperDribble"
+        },
+        {
+          "targetId": "0xABAE9B1B",
+          "funcName": "CalcTargetPos_KeeperBallPress"
+        },
+        {
+          "targetId": "0x1183D4BA",
+          "funcName": "CalcTargetChara_ForcusBtlOutgate"
+        },
+        {
+          "targetId": "0x888A8500",
+          "funcName": "CalcTargetChara_ForcusBtlMark"
+        },
+        {
+          "targetId": "0x7F9FD56D",
+          "funcName": "CalcTargetChara_ForcusBtlDefenseTarget"
+        },
+        {
+          "targetId": "0x0898E5FB",
+          "funcName": "CalcTargetChara_FocusBtlArroundMark"
+        },
+        {
+          "targetId": "0xA93FB3DF",
+          "funcName": "CalcTargetPos_FocusBtlPositioningPos"
+        },
+        {
+          "targetId": "0x3036E265",
+          "funcName": "CalcTargetPos_FocusBtlOutgatePos"
+        },
+        {
+          "targetId": "0x4731D2F3",
+          "funcName": "CalcTargetPos_FocusBtlFeintPos"
+        },
+        {
+          "targetId": "0xD9554750",
+          "funcName": "CalcTargetPos_FocusBtlBreakThroughPos"
+        },
+        {
+          "targetId": "0xC723B208",
+          "funcName": "CalcTargetPos_FocusBtlBallOwnerFrontPos"
+        },
+        {
+          "targetId": "0xB024829E",
+          "funcName": "CalcTargetPos_FocusBtlBallOwnerSidePos"
+        },
+        {
+          "targetId": "0x292DD324",
+          "funcName": "CalcTargetPos_FocusBtlSideStepPos"
+        },
+        {
+          "targetId": "0x5E2AE3B2",
+          "funcName": "CalcTargetPos_FocusBtlRandomSideStepPos"
+        },
+        {
+          "targetId": "0xA8FDD9E8",
+          "funcName": "CalcTargetPos_FocusBtlDefensePos"
+        },
+        {
+          "targetId": "0x31F48852",
+          "funcName": "CalcTargetPos_FocusBtlFreePos"
+        },
+        {
+          "targetId": "0x46F3B8C4",
+          "funcName": "CalcTargetPos_FocusBtlAroundPos"
+        }
+      ]
+    },
+    {
+      "name": "m_TacticsAIActionInfoList",
+      "typeName": "TACTICS_AI_ACTION_INFO",
+      "values": [
+        {
+          "actionId": 1,
+          "targetCharaType": 0,
+          "targetPosType": 10,
+          "targetId": "0xBDE3E168"
+        },
+        {
+          "actionId": 1,
+          "targetCharaType": 0,
+          "targetPosType": 11,
+          "targetId": "0xCAE4D1FE"
+        },
+        {
+          "actionId": 9,
+          "targetCharaType": 0,
+          "targetPosType": 0,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 6,
+          "targetCharaType": 0,
+          "targetPosType": 0,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 4,
+          "targetCharaType": 2,
+          "targetPosType": 0,
+          "targetId": "0xF24AD660"
+        },
+        {
+          "actionId": 5,
+          "targetCharaType": 0,
+          "targetPosType": 30,
+          "targetId": "0x8FD583EA"
+        },
+        {
+          "actionId": 4,
+          "targetCharaType": 40,
+          "targetPosType": 45,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 4,
+          "targetCharaType": 4,
+          "targetPosType": 0,
+          "targetId": "0x1B297355"
+        },
+        {
+          "actionId": 2,
+          "targetCharaType": 0,
+          "targetPosType": 21,
+          "targetId": "0xE1C9823D"
+        },
+        {
+          "actionId": 4,
+          "targetCharaType": 5,
+          "targetPosType": 0,
+          "targetId": "0x6C2E43C3"
+        },
+        {
+          "actionId": 7,
+          "targetCharaType": 0,
+          "targetPosType": 3,
+          "targetId": "0x3DF18193"
+        },
+        {
+          "actionId": 7,
+          "targetCharaType": 0,
+          "targetPosType": 4,
+          "targetId": "0xA3951430"
+        },
+        {
+          "actionId": 7,
+          "targetCharaType": 0,
+          "targetPosType": 5,
+          "targetId": "0xD49224A6"
+        },
+        {
+          "actionId": 7,
+          "targetCharaType": 2,
+          "targetPosType": 41,
+          "targetId": "0xF24AD660"
+        },
+        {
+          "actionId": 2,
+          "targetCharaType": 0,
+          "targetPosType": 3,
+          "targetId": "0x3DF18193"
+        },
+        {
+          "actionId": 2,
+          "targetCharaType": 0,
+          "targetPosType": 33,
+          "targetId": "0x16DCD250"
+        },
+        {
+          "actionId": 2,
+          "targetCharaType": 0,
+          "targetPosType": 1,
+          "targetId": "0xD3FFE0BF"
+        },
+        {
+          "actionId": 19,
+          "targetCharaType": 0,
+          "targetPosType": 0,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 18,
+          "targetCharaType": 2,
+          "targetPosType": 0,
+          "targetId": "0xF24AD660"
+        },
+        {
+          "actionId": 17,
+          "targetCharaType": 32,
+          "targetPosType": 0,
+          "targetId": "0xD96785A3"
+        },
+        {
+          "actionId": 20,
+          "targetCharaType": 0,
+          "targetPosType": 3,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 10,
+          "targetCharaType": 3,
+          "targetPosType": 0,
+          "targetId": "0x854DE6F6"
+        },
+        {
+          "actionId": 8,
+          "targetCharaType": 0,
+          "targetPosType": 15,
+          "targetId": "0xCD8915E7"
+        },
+        {
+          "actionId": 14,
+          "targetCharaType": 10,
+          "targetPosType": 0,
+          "targetId": "0x055F860D"
+        },
+        {
+          "actionId": 15,
+          "targetCharaType": 10,
+          "targetPosType": 0,
+          "targetId": "0x055F860D"
+        },
+        {
+          "actionId": 10,
+          "targetCharaType": 0,
+          "targetPosType": 16,
+          "targetId": "0x5480445D"
+        },
+        {
+          "actionId": 16,
+          "targetCharaType": 0,
+          "targetPosType": 17,
+          "targetId": "0x238774CB"
+        },
+        {
+          "actionId": 16,
+          "targetCharaType": 0,
+          "targetPosType": 17,
+          "targetId": "0x238774CB"
+        },
+        {
+          "actionId": 50,
+          "targetCharaType": 0,
+          "targetPosType": 50,
+          "targetId": "0xEE9FC90F"
+        },
+        {
+          "actionId": 54,
+          "targetCharaType": 0,
+          "targetPosType": 70,
+          "targetId": "0xABAE9B1B"
+        },
+        {
+          "actionId": 51,
+          "targetCharaType": 50,
+          "targetPosType": 0,
+          "targetId": "0x383FAFBD"
+        },
+        {
+          "actionId": 52,
+          "targetCharaType": 0,
+          "targetPosType": 0,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 51,
+          "targetCharaType": 51,
+          "targetPosType": 0,
+          "targetId": "0x4F389F2B"
+        },
+        {
+          "actionId": 53,
+          "targetCharaType": 0,
+          "targetPosType": 60,
+          "targetId": "0x8083C8D8"
+        },
+        {
+          "actionId": 60,
+          "targetCharaType": 10,
+          "targetPosType": 0,
+          "targetId": "0x055F860D"
+        },
+        {
+          "actionId": 1,
+          "targetCharaType": 0,
+          "targetPosType": 100,
+          "targetId": "0xA93FB3DF"
+        },
+        {
+          "actionId": 7,
+          "targetCharaType": 0,
+          "targetPosType": 101,
+          "targetId": "0x3036E265"
+        },
+        {
+          "actionId": 4,
+          "targetCharaType": 2,
+          "targetPosType": 0,
+          "targetId": "0xF24AD660"
+        },
+        {
+          "actionId": 12,
+          "targetCharaType": 31,
+          "targetPosType": 0,
+          "targetId": "0x406ED419"
+        },
+        {
+          "actionId": 13,
+          "targetCharaType": 0,
+          "targetPosType": 103,
+          "targetId": "0xD9554750"
+        },
+        {
+          "actionId": 11,
+          "targetCharaType": 0,
+          "targetPosType": 112,
+          "targetId": "0x292DD324"
+        },
+        {
+          "actionId": 11,
+          "targetCharaType": 0,
+          "targetPosType": 113,
+          "targetId": "0x5E2AE3B2"
+        },
+        {
+          "actionId": 7,
+          "targetCharaType": 0,
+          "targetPosType": 114,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 14,
+          "targetCharaType": 10,
+          "targetPosType": 0,
+          "targetId": "0x055F860D"
+        },
+        {
+          "actionId": 15,
+          "targetCharaType": 10,
+          "targetPosType": 0,
+          "targetId": "0x055F860D"
+        },
+        {
+          "actionId": 10,
+          "targetCharaType": 10,
+          "targetPosType": 0,
+          "targetId": "0x055F860D"
+        },
+        {
+          "actionId": 8,
+          "targetCharaType": 0,
+          "targetPosType": 110,
+          "targetId": "0xC723B208"
+        },
+        {
+          "actionId": 8,
+          "targetCharaType": 0,
+          "targetPosType": 111,
+          "targetId": "0xB024829E"
+        },
+        {
+          "actionId": 11,
+          "targetCharaType": 0,
+          "targetPosType": 112,
+          "targetId": "0x292DD324"
+        },
+        {
+          "actionId": 11,
+          "targetCharaType": 0,
+          "targetPosType": 113,
+          "targetId": "0x5E2AE3B2"
+        },
+        {
+          "actionId": 1,
+          "targetCharaType": 0,
+          "targetPosType": 150,
+          "targetId": "0xA8FDD9E8"
+        },
+        {
+          "actionId": 1,
+          "targetCharaType": 0,
+          "targetPosType": 151,
+          "targetId": "0x31F48852"
+        },
+        {
+          "actionId": 1,
+          "targetCharaType": 111,
+          "targetPosType": 0,
+          "targetId": "0x0898E5FB"
+        },
+        {
+          "actionId": 1,
+          "targetCharaType": 0,
+          "targetPosType": 10,
+          "targetId": "0xBDE3E168"
+        },
+        {
+          "actionId": 1,
+          "targetCharaType": 0,
+          "targetPosType": 152,
+          "targetId": "0x46F3B8C4"
+        },
+        {
+          "actionId": 30,
+          "targetCharaType": 0,
+          "targetPosType": 17,
+          "targetId": "0x238774CB"
+        },
+        {
+          "actionId": 30,
+          "targetCharaType": 0,
+          "targetPosType": 200,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 80,
+          "targetCharaType": 0,
+          "targetPosType": 0,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 81,
+          "targetCharaType": 0,
+          "targetPosType": 0,
+          "targetId": "0x00000000"
+        },
+        {
+          "actionId": 84,
+          "targetCharaType": 0,
+          "targetPosType": 0,
+          "targetId": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_TacticsAIInfoList",
+      "typeName": "TACTICS_AI_INFO",
+      "values": [
+        {
+          "tacticsId": "0xD23CF887",
+          "nameId": "0xD4446BCA",
+          "descId": "0x9D6D0350",
+          "actionInfo": [
+            0,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xA53BC811",
+          "nameId": "0xA3435B5C",
+          "descId": "0xEA6A33C6",
+          "actionInfo": [
+            1,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xCB27C9C6",
+          "nameId": "0xCD5F5A8B",
+          "descId": "0xEA6A33C6",
+          "actionInfo": [
+            2,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xD3FE92B0",
+          "nameId": "0xD58601FD",
+          "descId": "0x9CAF6967",
+          "actionInfo": [
+            3,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xA4F9A226",
+          "nameId": "0xA281316B",
+          "descId": "0xEBA859F1",
+          "actionInfo": [
+            4,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x3DF0F39C",
+          "nameId": "0x3B8860D1",
+          "descId": "0x72A1084B",
+          "actionInfo": [
+            5,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x4AF7C30A",
+          "nameId": "0xA281316B",
+          "descId": "0xEBA859F1",
+          "actionInfo": [
+            6,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xD49356A9",
+          "nameId": "0xD2EBC5E4",
+          "descId": "0x9BC2AD7E",
+          "actionInfo": [
+            7,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xA394663F",
+          "nameId": "0xA5ECF572",
+          "descId": "0xECC59DE8",
+          "actionInfo": [
+            8,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x3A9D3785",
+          "nameId": "0x3CE5A4C8",
+          "descId": "0x75CCCC52",
+          "actionInfo": [
+            9,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xCAE5A3F1",
+          "nameId": "0xCC9D30BC",
+          "descId": "0x85B45826",
+          "actionInfo": [
+            10,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xBDE29367",
+          "nameId": "0xBB9A002A",
+          "descId": "0xF2B368B0",
+          "actionInfo": [
+            11,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x24EBC2DD",
+          "nameId": "0x22935190",
+          "descId": "0x6BBA390A",
+          "actionInfo": [
+            12,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x53ECF24B",
+          "nameId": "0x55946106",
+          "descId": "0x1CBD099C",
+          "actionInfo": [
+            13,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xB949DF86",
+          "nameId": "0xBF314CCB",
+          "descId": "0xF6182451",
+          "actionInfo": [
+            14,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xCE4EEF10",
+          "nameId": "0xC8367C5D",
+          "descId": "0x811F14C7",
+          "actionInfo": [
+            15,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xAE8966F5",
+          "nameId": "0xA8F1F5B8",
+          "descId": "0xE1D89D22",
+          "actionInfo": [
+            16,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xD98E5663",
+          "nameId": "0xDFF6C52E",
+          "descId": "0x96DFADB4",
+          "actionInfo": [
+            17,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x408707D9",
+          "nameId": "0x46FF9494",
+          "descId": "0x0FD6FC0E",
+          "actionInfo": [
+            18,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x9CBF0477",
+          "nameId": "0x9AC7973A",
+          "descId": "0xD3EEFFA0",
+          "actionInfo": [
+            19,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x1B2718B8",
+          "nameId": "0x1D5F8BF5",
+          "descId": "0x5476E36F",
+          "actionInfo": [
+            20,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xD1B82CE9",
+          "nameId": "0xD7C0BFA4",
+          "descId": "0x9EE9D73E",
+          "actionInfo": [
+            21,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xA6BF1C7F",
+          "nameId": "0xA0C78F32",
+          "descId": "0xE9EEE7A8",
+          "actionInfo": [
+            22,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x3FB64DC5",
+          "nameId": "0x39CEDE88",
+          "descId": "0xB72CDF9C",
+          "actionInfo": [
+            23,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x48B17D53",
+          "nameId": "0x4EC9EE1E",
+          "descId": "0xAE37EEDD",
+          "actionInfo": [
+            24,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xD6D5E8F0",
+          "nameId": "0xD0AD7BBD",
+          "descId": "0x99841327",
+          "actionInfo": [
+            25,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xA1D2D866",
+          "nameId": "0xA7AA4B2B",
+          "descId": "0xEE8323B1",
+          "actionInfo": [
+            26,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x38DB89DC",
+          "nameId": "0x3EA31A91",
+          "descId": "0x778A720B",
+          "actionInfo": [
+            27,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x50717731",
+          "nameId": "0xD4446BCA",
+          "descId": "0x9D6D0350",
+          "actionInfo": [
+            28,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xE8CD1054",
+          "nameId": "0xCD5F5A8B",
+          "descId": "0xEA6A33C6",
+          "actionInfo": [
+            29,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x6CD334B6",
+          "nameId": "0xA281316B",
+          "descId": "0xEBA859F1",
+          "actionInfo": [
+            30,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x6E958AEF",
+          "nameId": "0x3B8860D1",
+          "descId": "0x72A1084B",
+          "actionInfo": [
+            31,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x6F57E0D8",
+          "nameId": "0x4C8F5047",
+          "descId": "0x05A638DD",
+          "actionInfo": [
+            32,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xD5AD39E4",
+          "nameId": "0xCC9D30BC",
+          "descId": "0x85B45826",
+          "actionInfo": [
+            33,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x2AB12451",
+          "nameId": "0x0660D19F",
+          "descId": "0xCEA7134C",
+          "actionInfo": [
+            34,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x05DD019B",
+          "nameId": "0x0DB64425",
+          "descId": "0x1D251717",
+          "actionInfo": [
+            35,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x1CC630DA",
+          "nameId": "0x14AD7564",
+          "descId": "0x043E2656",
+          "actionInfo": [
+            36,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x37EB6319",
+          "nameId": "0x3F8026A7",
+          "descId": "0x2F137595",
+          "actionInfo": [
+            37,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xBD6166FE",
+          "nameId": "0xB50A2340",
+          "descId": "0xA5997072",
+          "actionInfo": [
+            38,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xA47A57BF",
+          "nameId": "0xAC111201",
+          "descId": "0xBC824133",
+          "actionInfo": [
+            39,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x8F57047C",
+          "nameId": "0x873C41C2",
+          "descId": "0x97AF12F0",
+          "actionInfo": [
+            40,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x964C353D",
+          "nameId": "0x9E277083",
+          "descId": "0x4CDB1E5D",
+          "actionInfo": [
+            41,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xD90DA3FA",
+          "nameId": "0xD166E644",
+          "descId": "0x8EB423B1",
+          "actionInfo": [
+            42,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xAFD4C910",
+          "nameId": "0xA7BF8CAE",
+          "descId": "0xB72CDF9C",
+          "actionInfo": [
+            43,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xB6CFF851",
+          "nameId": "0xBEA4BDEF",
+          "descId": "0xAE37EEDD",
+          "actionInfo": [
+            44,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x9DE2AB92",
+          "nameId": "0x9589EE2C",
+          "descId": "0x851ABD1E",
+          "actionInfo": [
+            45,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x84F99AD3",
+          "nameId": "0x8C92DF6D",
+          "descId": "0x9C018C5F",
+          "actionInfo": [
+            46,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xCBB80C14",
+          "nameId": "0xC3D349AA",
+          "descId": "0xD3401A98",
+          "actionInfo": [
+            47,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xD2A33D55",
+          "nameId": "0xDAC878EB",
+          "descId": "0xCA5B2BD9",
+          "actionInfo": [
+            48,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xF98E6E96",
+          "nameId": "0xF1E52B28",
+          "descId": "0xCA5B2BD9",
+          "actionInfo": [
+            49,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x1768AE75",
+          "nameId": "0x1F03EBCB",
+          "descId": "0x0F90B8F9",
+          "actionInfo": [
+            50,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x8ABF96CC",
+          "nameId": "0x82D4D372",
+          "descId": "0x92478040",
+          "actionInfo": [
+            51,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x3203F1A9",
+          "nameId": "0x3A68B417",
+          "descId": "0x2AFBE725",
+          "actionInfo": [
+            52,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x2B18C0E8",
+          "nameId": "0xD4446BCA",
+          "descId": "0x9D6D0350",
+          "actionInfo": [
+            53,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x0035932B",
+          "nameId": "0x085ED695",
+          "descId": "0x18CD85A7",
+          "actionInfo": [
+            54,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x11DC5DD4",
+          "nameId": "0x19B7186A",
+          "descId": "0x09244B58",
+          "actionInfo": [
+            55,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x08C76C95",
+          "nameId": "0x19B7186A",
+          "descId": "0x09244B58",
+          "actionInfo": [
+            56,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xDDEDC308",
+          "nameId": "0xDB955045",
+          "descId": "0x92BC38DF",
+          "actionInfo": [
+            57,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0xAAEAF39E",
+          "nameId": "0xAC9260D3",
+          "descId": "0xE5BB0849",
+          "actionInfo": [
+            58,
+            1
+          ]
+        },
+        {
+          "tacticsId": "0x33E3A224",
+          "nameId": "0x359B3169",
+          "descId": "0x7CB259F3",
+          "actionInfo": [
+            59,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_CharaTacticsAIDataInfoList",
+      "typeName": "CHARA_TACTICS_AI_DATA_INFO",
+      "values": [
+        {
+          "tacticsId": "0x906D3411",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x16F946BF",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xD23CF887",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xA53BC811",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xA4F9A226",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xD49356A9",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x3A9D3785",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xCAE5A3F1",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xBDE29367",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x53ECF24B",
+          "enableLv": 4
+        },
+        {
+          "tacticsId": "0x24EBC2DD",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xB949DF86",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xCE4EEF10",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x9CBF0477",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x1B2718B8",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x50717731",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xE8CD1054",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x6CD334B6",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x6F57E0D8",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xD5AD39E4",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x2AB12451",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x1CC630DA",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0xD90DA3FA",
+          "enableLv": 4
+        },
+        {
+          "tacticsId": "0x1768AE75",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x8ABF96CC",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x3203F1A9",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x2B18C0E8",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x0035932B",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x8ABF96CC",
+          "enableLv": 1
+        },
+        {
+          "tacticsId": "0x0035932B",
+          "enableLv": 1
+        }
+      ]
+    },
+    {
+      "name": "m_CharaTacticsAIInfoList",
+      "typeName": "CHARA_TACTICS_AI_INFO",
+      "values": [
+        {
+          "groupId": "0x35664547",
+          "tacticsInfo": [
+            0,
+            2
+          ]
+        },
+        {
+          "groupId": "0xF35BDB3E",
+          "tacticsInfo": [
+            2,
+            13
+          ]
+        },
+        {
+          "groupId": "0xC71132D5",
+          "tacticsInfo": [
+            15,
+            6
+          ]
+        },
+        {
+          "groupId": "0xB7416D90",
+          "tacticsInfo": [
+            21,
+            7
+          ]
+        },
+        {
+          "groupId": "0xDA9C897B",
+          "tacticsInfo": [
+            28,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "entries": [
+    {
+      "name": "PHASE_TITLE_TEX_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "9"
+        }
+      ],
+      "children": [
+        {
+          "name": "PHASE_TITLE_TEX_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-16726348"
+            },
+            {
+              "type": "Int",
+              "value": "667504474"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter01.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_TEX_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1711904526"
+            },
+            {
+              "type": "Int",
+              "value": "-1094705440"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter02.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_TEX_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "286173080"
+            },
+            {
+              "type": "Int",
+              "value": "-909693322"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter03.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_TEX_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1888865733"
+            },
+            {
+              "type": "Int",
+              "value": "1470348245"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter04.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_TEX_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-127073619"
+            },
+            {
+              "type": "Int",
+              "value": "547654467"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter05.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_TEX_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1633964823"
+            },
+            {
+              "type": "Int",
+              "value": "-1179788551"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter06.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_TEX_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "375612289"
+            },
+            {
+              "type": "Int",
+              "value": "-827659665"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter07.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_TEX_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2032370160"
+            },
+            {
+              "type": "Int",
+              "value": "1578498046"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter08.g4tx"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_TEX_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-237285754"
+            },
+            {
+              "type": "Int",
+              "value": "689096552"
+            },
+            {
+              "type": "String",
+              "value": "#/menu/220_img/chapter_title/<LG>/chapter09.g4tx"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PHASE_TITLE_CFG_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "9"
+        }
+      ],
+      "children": [
+        {
+          "name": "PHASE_TITLE_CFG_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "185538439"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "-1845082563"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "-452888917"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "2070274824"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "207803294"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Int",
+              "value": "-1788116444"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "7"
+            },
+            {
+              "type": "Int",
+              "value": "-496192846"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "Int",
+              "value": "1926475555"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "7"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "9"
+            },
+            {
+              "type": "Int",
+              "value": "97820597"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "PHASE_TITLE_CFG_REF_TEX_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

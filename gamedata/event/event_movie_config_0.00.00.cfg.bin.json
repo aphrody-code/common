@@ -1,0 +1,96 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_EventSubtitleMenuDataList",
+      "typeName": "EVENT_SUBTITLE_MENU_DATA",
+      "values": [
+        {
+          "subtitleId": "0xC8A5975A",
+          "menuCrc": "0x518597B1",
+          "layerCrc": "0x518597B1",
+          "textLocateCrc": "0xE40E3B28",
+          "usedGroupCrc": "0xF4DBDF21"
+        },
+        {
+          "subtitleId": "0x2537742B",
+          "menuCrc": "0xE5146F6D",
+          "layerCrc": "0x99829B81",
+          "textLocateCrc": "0x7D076A92",
+          "usedGroupCrc": "0x518597B1"
+        },
+        {
+          "subtitleId": "0x250DD96B",
+          "menuCrc": "0xE5146F6D",
+          "layerCrc": "0x6696934A",
+          "textLocateCrc": "0x0A005A04",
+          "usedGroupCrc": "0xADBA7538"
+        }
+      ]
+    },
+    {
+      "name": "m_EventSongCaptionDataList",
+      "typeName": "EVENT_SONG_CAPTION_DATA",
+      "values": [
+        {
+          "captionId": "0x1A323042",
+          "startFrame": 220,
+          "endFrame": 453,
+          "captionName": "telop_ev01_2501"
+        },
+        {
+          "captionId": "0x2A259423",
+          "startFrame": 390,
+          "endFrame": 673,
+          "captionName": "telop_ev01_2511"
+        }
+      ]
+    },
+    {
+      "name": "m_EventMovieInfoList",
+      "typeName": "EVENT_MOVIE_INFO",
+      "values": [
+        {
+          "eventId": "0xDB464E8F",
+          "menuId": "0x00000000",
+          "captionId": "0x00000000",
+          "moviePath": "common/movie/yw-y1_evop_0010.usm",
+          "bgmName": "0xC1EEF2A7",
+          "fedeInTime": 1,
+          "fedeOutTime": 1,
+          "staffrollDataName": ""
+        },
+        {
+          "eventId": "0x147CF41E",
+          "menuId": "0x00000000",
+          "captionId": "0x00000000",
+          "moviePath": "common/movie/yw-y1_evop_0020.usm",
+          "bgmName": "0x6BA84291",
+          "fedeInTime": 1,
+          "fedeOutTime": 1,
+          "staffrollDataName": "op_01"
+        },
+        {
+          "eventId": "0x163A4A47",
+          "menuId": "0x00000000",
+          "captionId": "0x00000000",
+          "moviePath": "common/movie/yw-y1_evop_0010.usm",
+          "bgmName": "0x40851152",
+          "fedeInTime": 1,
+          "fedeOutTime": 1,
+          "staffrollDataName": ""
+        },
+        {
+          "eventId": "0x43F6E578",
+          "menuId": "0x00000000",
+          "captionId": "0x00000000",
+          "moviePath": "common/movie/yw-y1_eved_0010.usm",
+          "bgmName": "0x7CB20E91",
+          "fedeInTime": 1,
+          "fedeOutTime": 1,
+          "staffrollDataName": "ed_01"
+        }
+      ]
+    }
+  ]
+}

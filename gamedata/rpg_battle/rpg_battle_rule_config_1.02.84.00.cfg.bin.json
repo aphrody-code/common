@@ -1,0 +1,224 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_StartRuleList",
+      "typeName": "RpgBattleStartRuleInfo",
+      "values": [
+        {
+          "type": 1,
+          "param": 0,
+          "trg": 0,
+          "paramId": "0x00000000"
+        },
+        {
+          "type": 1,
+          "param": 0,
+          "trg": 0,
+          "paramId": "0x00000000"
+        }
+      ]
+    },
+    {
+      "name": "m_BattleRuleList",
+      "typeName": "RpgBattleRuleInfo",
+      "values": [
+        {
+          "ruleId": "0x42D90CBC",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0x73601B43",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0x18E2D8E8",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0x84D6D054",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0x3EFC433D",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0xF6CBD56B",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0xF9D89A0C",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0xBC2E93F3",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0x63DAAC0B",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0x53B77D97",
+          "start": [
+            0,
+            1
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0xA3A9EEB1",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0xA0B43B95",
+          "start": [
+            0,
+            0
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        },
+        {
+          "ruleId": "0xF646CBFA",
+          "start": [
+            1,
+            1
+          ],
+          "end": [
+            0,
+            0
+          ],
+          "result": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

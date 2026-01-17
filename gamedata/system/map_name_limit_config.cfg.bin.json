@@ -1,0 +1,73 @@
+{
+  "entries": [
+    {
+      "name": "GENERAL_LIMIT_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "GENERAL_LIMIT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-34430254"
+            }
+          ],
+          "children": [
+            {
+              "name": "GENERAL_LIMIT_INFO_DATA_LIST_BEG_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1"
+                }
+              ],
+              "children": [
+                {
+                  "name": "GENERAL_LIMIT_INFO_DATA_0",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "String",
+                      "value": "AAAAAA8FNbkZNtoAAQAyAAERym8="
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "GENERAL_LIMIT_INFO_DATA_PARAM_LIST_BEG_0",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "1"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "GENERAL_LIMIT_INFO_DATA_PARAM_0",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "-693794898"
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

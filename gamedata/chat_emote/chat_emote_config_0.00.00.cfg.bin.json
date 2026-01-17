@@ -1,0 +1,99 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_ChatEmoteInfoList",
+      "typeName": "CHAT_EMOTE_CONFIG",
+      "values": [
+        {
+          "id": "0x6AE23243",
+          "sort_id": 0,
+          "text_id": "0x55FBBA47",
+          "type": 0,
+          "motion_id": "0x00000000",
+          "motion_loop": false,
+          "se_id": 0,
+          "se_sub_id": 0,
+          "enable_cond": "\uFFFDCHAT_EMOTE_CONFIG"
+        },
+        {
+          "id": "0xF3EB63F9",
+          "sort_id": 1,
+          "text_id": "0xCCF2EBFD",
+          "type": 0,
+          "motion_id": "0x00000000",
+          "motion_loop": false,
+          "se_id": 0,
+          "se_sub_id": 0,
+          "enable_cond": "\uFFFDCHAT_EMOTE_CONFIG"
+        },
+        {
+          "id": "0x0738FF66",
+          "sort_id": 100,
+          "text_id": "0x88B089E4",
+          "type": 1,
+          "motion_id": "0x4A6673E1",
+          "motion_loop": false,
+          "se_id": 0,
+          "se_sub_id": 0,
+          "enable_cond": "\uFFFDCHAT_EMOTE_CONFIG"
+        },
+        {
+          "id": "0x9E31AEDC",
+          "sort_id": 101,
+          "text_id": "0x11B9D85E",
+          "type": 1,
+          "motion_id": "0xD36F225B",
+          "motion_loop": false,
+          "se_id": 0,
+          "se_sub_id": 0,
+          "enable_cond": "\uFFFDCHAT_EMOTE_CONFIG"
+        },
+        {
+          "id": "0xE9369E4A",
+          "sort_id": 102,
+          "text_id": "0x66BEE8C8",
+          "type": 1,
+          "motion_id": "0xA46812CD",
+          "motion_loop": false,
+          "se_id": 0,
+          "se_sub_id": 0,
+          "enable_cond": "\uFFFDCHAT_EMOTE_CONFIG"
+        },
+        {
+          "id": "0x77520BE9",
+          "sort_id": 103,
+          "text_id": "0xF8DA7D6B",
+          "type": 1,
+          "motion_id": "0x3A0C876E",
+          "motion_loop": false,
+          "se_id": 0,
+          "se_sub_id": 0,
+          "enable_cond": "\uFFFDCHAT_EMOTE_CONFIG"
+        },
+        {
+          "id": "0x00553B7F",
+          "sort_id": 104,
+          "text_id": "0x8FDD4DFD",
+          "type": 1,
+          "motion_id": "0x4D0BB7F8",
+          "motion_loop": false,
+          "se_id": 0,
+          "se_sub_id": 0,
+          "enable_cond": "\uFFFDCHAT_EMOTE_CONFIG"
+        },
+        {
+          "id": "0x995C6AC5",
+          "sort_id": 105,
+          "text_id": "0x16D41C47",
+          "type": 1,
+          "motion_id": "0xD402E642",
+          "motion_loop": false,
+          "se_id": 0,
+          "se_sub_id": 0,
+          "enable_cond": "\uFFFDCHAT_EMOTE_CONFIG"
+        }
+      ]
+    }
+  ]
+}

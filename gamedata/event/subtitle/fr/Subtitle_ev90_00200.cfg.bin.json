@@ -1,0 +1,119 @@
+{
+  "entries": [
+    {
+      "name": "EV_SUBTITLE_DATA_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "EV_SUBTITLE_DATA_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "243664086"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "631985941"
+            },
+            {
+              "type": "Float",
+              "value": "3,0166667"
+            },
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "Float",
+              "value": "3,0166667"
+            },
+            {
+              "type": "Int",
+              "value": "8"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1018193492"
+            },
+            {
+              "type": "Float",
+              "value": "8,016666"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Float",
+              "value": "8,016666"
+            },
+            {
+              "type": "Int",
+              "value": "12"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1945235603"
+            },
+            {
+              "type": "Float",
+              "value": "12,016666"
+            },
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "Float",
+              "value": "12,016666"
+            },
+            {
+              "type": "Int",
+              "value": "17"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

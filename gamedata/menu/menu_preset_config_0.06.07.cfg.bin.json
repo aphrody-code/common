@@ -1,0 +1,289 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_sceneMenuPresetDataList",
+      "typeName": "SCENE_MENU_PRESET_DATA",
+      "values": [
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": true
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 2,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 2,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": true
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 1,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 0,
+          "endType": 1,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 2,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": true
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 3,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 2,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 1,
+          "endType": 0,
+          "endStartType": 1,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 1,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 0,
+          "endType": 1,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 0,
+          "initLeaveType": 0,
+          "initCaptureType": 2,
+          "initCaptureReflectType": 0,
+          "endType": 0,
+          "endStartType": 2,
+          "endWaitType": 2,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 3,
+          "initLeaveType": 0,
+          "initCaptureType": 2,
+          "initCaptureReflectType": 2,
+          "endType": 0,
+          "endStartType": 3,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 4,
+          "initLeaveType": 0,
+          "initCaptureType": 2,
+          "initCaptureReflectType": 3,
+          "endType": 0,
+          "endStartType": 4,
+          "endWaitType": 3,
+          "enableChangeVariableResolution": false
+        },
+        {
+          "initEnterType": 5,
+          "initLeaveType": 0,
+          "initCaptureType": 1,
+          "initCaptureReflectType": 4,
+          "endType": 0,
+          "endStartType": 0,
+          "endWaitType": 0,
+          "enableChangeVariableResolution": false
+        }
+      ]
+    },
+    {
+      "name": "m_sceneMenuPresetInfoList",
+      "typeName": "SCENE_MENU_PRESET_INFO",
+      "values": [
+        {
+          "menuPresetType": "0x09ABDD49",
+          "presetData": [
+            0,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x82A4F908",
+          "presetData": [
+            1,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x33F06EB7",
+          "presetData": [
+            2,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0xE80D3FB3",
+          "presetData": [
+            3,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x72D93D78",
+          "presetData": [
+            4,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x2F7D7D29",
+          "presetData": [
+            5,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x04A47B7B",
+          "presetData": [
+            6,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x22B085B8",
+          "presetData": [
+            7,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x090989A2",
+          "presetData": [
+            8,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x31D34CD5",
+          "presetData": [
+            9,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0xE47DFE11",
+          "presetData": [
+            10,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0xB1714FF2",
+          "presetData": [
+            11,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x15B87A12",
+          "presetData": [
+            12,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x027553DA",
+          "presetData": [
+            13,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x84EB0DB9",
+          "presetData": [
+            14,
+            1
+          ]
+        },
+        {
+          "menuPresetType": "0x63434E56",
+          "presetData": [
+            15,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

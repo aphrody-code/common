@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "name": "ACT_TYPE_BEGIN_0",
+      "variables": [
+        {
+          "type": "String",
+          "value": "action name"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "POINT_MAX_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "POINT_0",
+      "variables": [
+        {
+          "type": "Float",
+          "value": "9,144"
+        },
+        {
+          "type": "Float",
+          "value": "-0"
+        },
+        {
+          "type": "Float",
+          "value": "-18,972"
+        },
+        {
+          "type": "Float",
+          "value": "-115,139"
+        }
+      ],
+      "children": []
+    }
+  ]
+}

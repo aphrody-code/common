@@ -1,0 +1,88 @@
+{
+  "entries": [
+    {
+      "name": "GENERAL_LIMIT_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "GENERAL_LIMIT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1160032768"
+            }
+          ],
+          "children": [
+            {
+              "name": "GENERAL_LIMIT_INFO_DATA_LIST_BEG_0",
+              "variables": [
+                {
+                  "type": "Int",
+                  "value": "1"
+                }
+              ],
+              "children": [
+                {
+                  "name": "GENERAL_LIMIT_INFO_DATA_0",
+                  "variables": [
+                    {
+                      "type": "Int",
+                      "value": "0"
+                    },
+                    {
+                      "type": "String",
+                      "value": "AAAAAA8FNbkZNtoAAQAyAAAn7G8="
+                    }
+                  ],
+                  "children": [
+                    {
+                      "name": "GENERAL_LIMIT_INFO_1",
+                      "variables": [
+                        {
+                          "type": "Int",
+                          "value": "-525120257"
+                        }
+                      ],
+                      "children": [
+                        {
+                          "name": "GENERAL_LIMIT_INFO_DATA_LIST_BEG_1",
+                          "variables": [
+                            {
+                              "type": "Int",
+                              "value": "1"
+                            }
+                          ],
+                          "children": [
+                            {
+                              "name": "GENERAL_LIMIT_INFO_DATA_1",
+                              "variables": [
+                                {
+                                  "type": "Int",
+                                  "value": "0"
+                                },
+                                {
+                                  "type": "String",
+                                  "value": "AAAAAB4LMgAAdmY1uRk22gABAG81uRk22gABADIAAJxeb48="
+                                }
+                              ],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

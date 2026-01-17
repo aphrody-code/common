@@ -1,0 +1,101 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_trickInfoList",
+      "typeName": "TRICK_INFO",
+      "values": [
+        {
+          "trickID": "0xDAB20CDC",
+          "trickIDName": "whs0010",
+          "eventID": "0xDB8CADA2",
+          "eventIDName": "ev60_0010",
+          "failEventID": "0x00000000",
+          "failEventIDName": "",
+          "trickName": "\u30D5\u30A1\u30A4\u30A2\u30C8\u30EB\u30CD\u30FC\u30C9",
+          "trickCategory": 1
+        },
+        {
+          "trickID": "0xDB7066EB",
+          "trickIDName": "whs0110",
+          "eventID": "0xDA4EC795",
+          "eventIDName": "ev60_0110",
+          "failEventID": "0x00000000",
+          "failEventIDName": "",
+          "trickName": "\u30B7\u30E3\u30A4\u30CB\u30F3\u30B0\u30D0\u30FC\u30C9\uFF08\u30A2\u30EC\u30B9\uFF09",
+          "trickCategory": 1
+        },
+        {
+          "trickID": "0x7FA2765F",
+          "trickIDName": "who0010",
+          "eventID": "0x10D07E07",
+          "eventIDName": "ev61_0010",
+          "failEventID": "0x00000000",
+          "failEventIDName": "",
+          "trickName": "\u305D\u3088\u304B\u305C\u30B9\u30C6\u30C3\u30D7",
+          "trickCategory": 2
+        },
+        {
+          "trickID": "0x548F259C",
+          "trickIDName": "who0020",
+          "eventID": "0x3BFD2DC4",
+          "eventIDName": "ev61_0020",
+          "failEventID": "0x00000000",
+          "failEventIDName": "",
+          "trickName": "\u30A4\u30CA\u30D3\u30AB\u30EA\u30C0\u30C3\u30B7\u30E5\uFF08\u30A2\u30EC\u30B9\uFF09",
+          "trickCategory": 2
+        },
+        {
+          "trickID": "0x0872474E",
+          "trickIDName": "whd0010",
+          "eventID": "0x5B578E91",
+          "eventIDName": "ev62_0010_1",
+          "failEventID": "0xC25EDF2B",
+          "failEventIDName": "ev62_0010_2",
+          "trickName": "\u65CB\u98A8\u9663",
+          "trickCategory": 3
+        },
+        {
+          "trickID": "0x6C1E824A",
+          "trickIDName": "whd0050",
+          "eventID": "0xF228C9AD",
+          "eventIDName": "ev62_0050",
+          "failEventID": "0x00000000",
+          "failEventIDName": "",
+          "trickName": "\u30B6\u30FB\u30DF\u30B9\u30C8",
+          "trickCategory": 3
+        },
+        {
+          "trickID": "0x8A22D09F",
+          "trickIDName": "whk0010",
+          "eventID": "0x97FD8E0F",
+          "eventIDName": "ev63_0010_1",
+          "failEventID": "0x0EF4DFB5",
+          "failEventIDName": "ev63_0010_2",
+          "trickName": "\u30B4\u30C3\u30C9\u30CF\u30F3\u30C9",
+          "trickCategory": 4
+        },
+        {
+          "trickID": "0xA10F835C",
+          "trickIDName": "whk0020",
+          "eventID": "0x854821E1",
+          "eventIDName": "ev63_0020_1",
+          "failEventID": "0x1C41705B",
+          "failEventIDName": "ev63_0020_2",
+          "trickName": "\u30AE\u30AC\u30F3\u30C8\u30A6\u30A9\u30FC\u30EB",
+          "trickCategory": 4
+        },
+        {
+          "trickID": "0xB814B21D",
+          "trickIDName": "whk0030",
+          "eventID": "0x3DF44684",
+          "eventIDName": "ev63_0030_1",
+          "failEventID": "0xA4FD173E",
+          "failEventIDName": "ev63_0030_2",
+          "trickName": "\u738B\u5BB6\u306E\u76FE\uFF08\u30A2\u30EC\u30B9\uFF09",
+          "trickCategory": 4
+        }
+      ]
+    }
+  ]
+}

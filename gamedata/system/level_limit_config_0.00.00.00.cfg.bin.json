@@ -1,0 +1,39 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_LevelLimitInfoList",
+      "typeName": "LEVEL_LIMIT_DATA",
+      "values": [
+        {
+          "id": "0xC3077108",
+          "level": 50,
+          "cond": ""
+        },
+        {
+          "id": "0x8D8D0965",
+          "level": 49,
+          "cond": "AAAAABgFNSo9RUMACgEoAAYCNCy4aiUyAAAAAXg="
+        }
+      ]
+    },
+    {
+      "name": "m_RareLimitInfoList",
+      "typeName": "RARE_LIMIT_DATA",
+      "values": [
+        {
+          "id": "0x4C1FA45D",
+          "rarity": 1,
+          "cond": "",
+          "for_story": true
+        },
+        {
+          "id": "0x3C336F9C",
+          "rarity": 2,
+          "cond": "AAAAAA8FNbkZNtoAAQAyAAAnOHE=",
+          "for_story": true
+        }
+      ]
+    }
+  ]
+}

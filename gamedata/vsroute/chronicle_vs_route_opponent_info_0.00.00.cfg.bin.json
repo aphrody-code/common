@@ -1,0 +1,47 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_vsRouteOpponentInfoList",
+      "typeName": "VS_ROUTE_OPPONENT_INFO",
+      "values": [
+        {
+          "category": 0,
+          "battleId": "0xD750C819",
+          "sortOrder": 1,
+          "cond1": "AAAAABgFNaNVuJ8ACgEoAAYCNEHkr7IyAAAAAXg=",
+          "cond2": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond3": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond4": "\uFFFDVS_ROUTE_OPPONENT_INFO"
+        },
+        {
+          "category": 0,
+          "battleId": "0x00000000",
+          "sortOrder": 0,
+          "cond1": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond2": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond3": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond4": "\uFFFDVS_ROUTE_OPPONENT_INFO"
+        },
+        {
+          "category": 0,
+          "battleId": "0x00000000",
+          "sortOrder": 1,
+          "cond1": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond2": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond3": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond4": "\uFFFDVS_ROUTE_OPPONENT_INFO"
+        },
+        {
+          "category": 0,
+          "battleId": "0x00000000",
+          "sortOrder": 2,
+          "cond1": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond2": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond3": "\uFFFDVS_ROUTE_OPPONENT_INFO",
+          "cond4": "\uFFFDVS_ROUTE_OPPONENT_INFO"
+        }
+      ]
+    }
+  ]
+}

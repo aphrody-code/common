@@ -1,0 +1,38 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_gameOverwriteConfigList",
+      "typeName": "GameOverwriteConfig",
+      "values": [
+        {
+          "configId": "0x69AFB7BF",
+          "useTeamNo": 0,
+          "startSoccerPhase": 10010,
+          "gameQuestId": "0x7DA71C78",
+          "selectFlag": "0x00000000"
+        },
+        {
+          "configId": "0xF0A6E605",
+          "useTeamNo": 1,
+          "startSoccerPhase": 10110,
+          "gameQuestId": "0xE4AE4DC2",
+          "selectFlag": "0x8ADC13D1"
+        }
+      ]
+    },
+    {
+      "name": "m_gameOverwriteInfoList",
+      "typeName": "GameOverwriteInfo",
+      "values": [
+        {
+          "gameId": "0xAFE2AFC5",
+          "config": [
+            0,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

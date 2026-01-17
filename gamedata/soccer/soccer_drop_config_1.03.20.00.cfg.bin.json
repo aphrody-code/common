@@ -1,0 +1,3782 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_rarityDecideTableList",
+      "typeName": "RARITY_DECIDE_TABLE",
+      "values": [
+        {
+          "rairtyId": "0xD17DAF62",
+          "normal": "0x81A08AD6",
+          "growing": "0x81A08AD6",
+          "advanced": "0x81A08AD6",
+          "top": "0x81A08AD6",
+          "legendary": "0x18A9DB6C",
+          "hero": "0x18A9DB6C"
+        },
+        {
+          "rairtyId": "0x28F6C501",
+          "normal": "0x81A08AD6",
+          "growing": "0x81A08AD6",
+          "advanced": "0x81A08AD6",
+          "top": "0x18A9DB6C",
+          "legendary": "0x18A9DB6C",
+          "hero": "0x6FAEEBFA"
+        },
+        {
+          "rairtyId": "0x7ABDF43D",
+          "normal": "0x81A08AD6",
+          "growing": "0x81A08AD6",
+          "advanced": "0x18A9DB6C",
+          "top": "0x18A9DB6C",
+          "legendary": "0x6FAEEBFA",
+          "hero": "0x6FAEEBFA"
+        },
+        {
+          "rairtyId": "0x887E5D40",
+          "normal": "0x81A08AD6",
+          "growing": "0x18A9DB6C",
+          "advanced": "0x18A9DB6C",
+          "top": "0x6FAEEBFA",
+          "legendary": "0x6FAEEBFA",
+          "hero": "0x6FAEEBFA"
+        },
+        {
+          "rairtyId": "0x793CE02F",
+          "normal": "0x18A9DB6C",
+          "growing": "0x18A9DB6C",
+          "advanced": "0x6FAEEBFA",
+          "top": "0x6FAEEBFA",
+          "legendary": "0x6FAEEBFA",
+          "hero": "0x6FAEEBFA"
+        },
+        {
+          "rairtyId": "0x675B8332",
+          "normal": "0x18A9DB6C",
+          "growing": "0x6FAEEBFA",
+          "advanced": "0x6FAEEBFA",
+          "top": "0x6FAEEBFA",
+          "legendary": "0x6FAEEBFA",
+          "hero": "0x6FAEEBFA"
+        }
+      ]
+    },
+    {
+      "name": "m_lotteryNumInfoList",
+      "typeName": "LOTTERY_NUM_INFO",
+      "values": [
+        {
+          "id": "0x43E99C1C",
+          "minNum": 3,
+          "maxNum": 7
+        },
+        {
+          "id": "0xDAE0CDA6",
+          "minNum": 3,
+          "maxNum": 7
+        },
+        {
+          "id": "0xADE7FD30",
+          "minNum": 3,
+          "maxNum": 7
+        },
+        {
+          "id": "0x33836893",
+          "minNum": 3,
+          "maxNum": 7
+        },
+        {
+          "id": "0xC6C1B703",
+          "minNum": 3,
+          "maxNum": 7
+        },
+        {
+          "id": "0xB342570A",
+          "minNum": 0,
+          "maxNum": 0
+        },
+        {
+          "id": "0x0D8A767F",
+          "minNum": 0,
+          "maxNum": 0
+        },
+        {
+          "id": "0x59212EBD",
+          "minNum": 3,
+          "maxNum": 7
+        },
+        {
+          "id": "0x26AA5475",
+          "minNum": 0,
+          "maxNum": 0
+        }
+      ]
+    },
+    {
+      "name": "m_itemDropDataList",
+      "typeName": "ITEM_DROP_DATA",
+      "values": [
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 21,
+          "weight": 0.05
+        },
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 5
+        },
+        {
+          "dropRarity": 1,
+          "weight": 5
+        },
+        {
+          "dropRarity": 10,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 21,
+          "weight": 0.05
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 3
+        },
+        {
+          "dropRarity": 11,
+          "weight": 3
+        },
+        {
+          "dropRarity": 20,
+          "weight": 1
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 5
+        },
+        {
+          "dropRarity": 11,
+          "weight": 5
+        },
+        {
+          "dropRarity": 20,
+          "weight": 3
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 7
+        },
+        {
+          "dropRarity": 11,
+          "weight": 7
+        },
+        {
+          "dropRarity": 20,
+          "weight": 5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 10
+        },
+        {
+          "dropRarity": 11,
+          "weight": 10
+        },
+        {
+          "dropRarity": 20,
+          "weight": 7.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 15
+        },
+        {
+          "dropRarity": 11,
+          "weight": 15
+        },
+        {
+          "dropRarity": 20,
+          "weight": 10
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 20
+        },
+        {
+          "dropRarity": 11,
+          "weight": 20
+        },
+        {
+          "dropRarity": 20,
+          "weight": 12.5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 5
+        },
+        {
+          "dropRarity": 11,
+          "weight": 5
+        },
+        {
+          "dropRarity": 20,
+          "weight": 3
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 7.5
+        },
+        {
+          "dropRarity": 11,
+          "weight": 7.5
+        },
+        {
+          "dropRarity": 20,
+          "weight": 5
+        },
+        {
+          "dropRarity": 0,
+          "weight": 15
+        },
+        {
+          "dropRarity": 1,
+          "weight": 15
+        },
+        {
+          "dropRarity": 10,
+          "weight": 10
+        },
+        {
+          "dropRarity": 11,
+          "weight": 10
+        },
+        {
+          "dropRarity": 20,
+          "weight": 3.5
+        },
+        {
+          "dropRarity": 3,
+          "weight": 100
+        },
+        {
+          "dropRarity": 3,
+          "weight": 0
+        },
+        {
+          "dropRarity": 0,
+          "weight": 50
+        },
+        {
+          "dropRarity": 10,
+          "weight": 5
+        },
+        {
+          "dropRarity": 20,
+          "weight": 1
+        },
+        {
+          "dropRarity": 2,
+          "weight": 35
+        },
+        {
+          "dropRarity": 2,
+          "weight": 50
+        },
+        {
+          "dropRarity": 2,
+          "weight": 65
+        },
+        {
+          "dropRarity": 2,
+          "weight": 80
+        }
+      ]
+    },
+    {
+      "name": "m_itemDropTableList",
+      "typeName": "ITEM_DROP_TABLE",
+      "values": [
+        {
+          "id": "0x9CCAB1C6",
+          "data": [
+            0,
+            4
+          ]
+        },
+        {
+          "id": "0x05C3E07C",
+          "data": [
+            4,
+            4
+          ]
+        },
+        {
+          "id": "0x72C4D0EA",
+          "data": [
+            8,
+            4
+          ]
+        },
+        {
+          "id": "0xECA04549",
+          "data": [
+            12,
+            5
+          ]
+        },
+        {
+          "id": "0x6CBCC28D",
+          "data": [
+            17,
+            4
+          ]
+        },
+        {
+          "id": "0xDB81BD9F",
+          "data": [
+            21,
+            4
+          ]
+        },
+        {
+          "id": "0x4288EC25",
+          "data": [
+            25,
+            4
+          ]
+        },
+        {
+          "id": "0x358FDCB3",
+          "data": [
+            29,
+            4
+          ]
+        },
+        {
+          "id": "0xABEB4910",
+          "data": [
+            33,
+            5
+          ]
+        },
+        {
+          "id": "0xC29A8CDE",
+          "data": [
+            38,
+            2
+          ]
+        },
+        {
+          "id": "0x5B93DD64",
+          "data": [
+            40,
+            5
+          ]
+        },
+        {
+          "id": "0x2C94EDF2",
+          "data": [
+            45,
+            5
+          ]
+        },
+        {
+          "id": "0xB2F07851",
+          "data": [
+            50,
+            5
+          ]
+        },
+        {
+          "id": "0xC5F748C7",
+          "data": [
+            55,
+            5
+          ]
+        },
+        {
+          "id": "0x5CFE197D",
+          "data": [
+            60,
+            5
+          ]
+        },
+        {
+          "id": "0x2BF929EB",
+          "data": [
+            65,
+            5
+          ]
+        },
+        {
+          "id": "0xBB46347A",
+          "data": [
+            70,
+            5
+          ]
+        },
+        {
+          "id": "0xCC4104EC",
+          "data": [
+            75,
+            5
+          ]
+        },
+        {
+          "id": "0x9EB0EF8B",
+          "data": [
+            80,
+            5
+          ]
+        },
+        {
+          "id": "0xEB029FCC",
+          "data": [
+            85,
+            1
+          ]
+        },
+        {
+          "id": "0xB312C652",
+          "data": [
+            86,
+            1
+          ]
+        },
+        {
+          "id": "0x1FC5390D",
+          "data": [
+            87,
+            3
+          ]
+        },
+        {
+          "id": "0xB909C962",
+          "data": [
+            90,
+            1
+          ]
+        },
+        {
+          "id": "0x200098D8",
+          "data": [
+            91,
+            1
+          ]
+        },
+        {
+          "id": "0x5707A84E",
+          "data": [
+            92,
+            1
+          ]
+        },
+        {
+          "id": "0xC9633DED",
+          "data": [
+            93,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_spiritDropDataList",
+      "typeName": "SPIRIT_DROP_DATA",
+      "values": [
+        {
+          "dropRarity": 0,
+          "rarity": 1,
+          "weight": 25
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 2,
+          "weight": 5
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 2,
+          "weight": 24
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 5
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 1
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 24.8
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 5
+        },
+        {
+          "dropRarity": 21,
+          "rarity": 5,
+          "weight": 0.2
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 0,
+          "weight": 83
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 1,
+          "weight": 17
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 1,
+          "weight": 83
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 2,
+          "weight": 17
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 2,
+          "weight": 80
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 16
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 4
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 79.8
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 16
+        },
+        {
+          "dropRarity": 21,
+          "rarity": 5,
+          "weight": 0.2
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 2,
+          "weight": 80
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 15
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 5
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 0,
+          "weight": 10
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 1,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 2,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 1,
+          "weight": 10
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 2,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 3,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 2,
+          "weight": 10
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 0,
+          "weight": 10
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 1,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 2,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 1,
+          "weight": 10
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 2,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 3,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 2,
+          "weight": 10
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 2,
+          "weight": 10
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 2
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 0.5
+        },
+        {
+          "dropRarity": 21,
+          "rarity": 5,
+          "weight": 0.05
+        },
+        {
+          "dropRarity": 0,
+          "rarity": 2,
+          "weight": 80
+        },
+        {
+          "dropRarity": 10,
+          "rarity": 3,
+          "weight": 15
+        },
+        {
+          "dropRarity": 20,
+          "rarity": 4,
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "name": "m_spiritDropTableList",
+      "typeName": "SPIRIT_DROP_TABLE",
+      "values": [
+        {
+          "id": "0x26F1316F",
+          "data": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xBFF860D5",
+          "data": [
+            0,
+            2
+          ]
+        },
+        {
+          "id": "0xC8FF5043",
+          "data": [
+            2,
+            3
+          ]
+        },
+        {
+          "id": "0x569BC5E0",
+          "data": [
+            5,
+            3
+          ]
+        },
+        {
+          "id": "0xCE79F8F0",
+          "data": [
+            8,
+            2
+          ]
+        },
+        {
+          "id": "0x5770A94A",
+          "data": [
+            10,
+            2
+          ]
+        },
+        {
+          "id": "0x207799DC",
+          "data": [
+            12,
+            3
+          ]
+        },
+        {
+          "id": "0xBE130C7F",
+          "data": [
+            15,
+            3
+          ]
+        },
+        {
+          "id": "0x2637777F",
+          "data": [
+            18,
+            3
+          ]
+        },
+        {
+          "id": "0x81A08AD6",
+          "data": [
+            21,
+            3
+          ]
+        },
+        {
+          "id": "0x18A9DB6C",
+          "data": [
+            24,
+            3
+          ]
+        },
+        {
+          "id": "0x6FAEEBFA",
+          "data": [
+            27,
+            3
+          ]
+        },
+        {
+          "id": "0x22D144F2",
+          "data": [
+            30,
+            3
+          ]
+        },
+        {
+          "id": "0xBBD81548",
+          "data": [
+            33,
+            3
+          ]
+        },
+        {
+          "id": "0xCCDF25DE",
+          "data": [
+            36,
+            3
+          ]
+        },
+        {
+          "id": "0x52BBB07D",
+          "data": [
+            39,
+            4
+          ]
+        },
+        {
+          "id": "0xE523407A",
+          "data": [
+            0,
+            0
+          ]
+        },
+        {
+          "id": "0xBEDED281",
+          "data": [
+            43,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_spiritTableDataList",
+      "typeName": "SPIRIT_TABLE_DATA",
+      "values": [
+        {
+          "charaId": "0xFDCD0454",
+          "weight": 0,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9EA8698C",
+          "weight": 0,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFE49D03A",
+          "weight": 0,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x97B290E8",
+          "weight": 0,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x235B186C",
+          "weight": 0,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x132BC4B7",
+          "weight": 0,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC3B8F32D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE895A0EE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF18E91AF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xBECF0768",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA7D43629",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8CF965EA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x95E254AB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x127A4864",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B617925",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDB61A85B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC27A991A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE957CAD9",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF04CFB98",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xBF0D6D5F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA6165C1E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8D3B0FDD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x99A1C150",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB28C9293",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB97A3D2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFDCD0454",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9863AB67",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB34EF8A4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x803D80AC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x82FC4E48",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB10D36F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8E57C35",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B617925",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x99A1C150",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB28C9293",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB97A3D2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFDCD0454",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9863AB67",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB34EF8A4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x803D80AC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x82FC4E48",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB10D36F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8E57C35",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B617925",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB051348D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6A926BFD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x25D3FD3A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3CC8CC7B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x99A1C150",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB28C9293",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB97A3D2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFDCD0454",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9863AB67",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB34EF8A4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x803D80AC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x82FC4E48",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB10D36F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8E57C35",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B617925",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEDDAB66B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB051348D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6A926BFD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x25D3FD3A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3CC8CC7B",
+          "weight": 0,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x99A1C150",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB28C9293",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB97A3D2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFDCD0454",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9863AB67",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB34EF8A4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x803D80AC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x82FC4E48",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB10D36F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8E57C35",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B617925",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEDDAB66B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x99A1C150",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x82FC4E48",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB97A3D2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFDCD0454",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB28C9293",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x803D80AC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB10D36F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8E57C35",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B617925",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEDDAB66B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x423BEC50",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCE2F76FB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE5022538",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFC191479",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB35882BE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAA43B3FF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x816EE03C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9875D17D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x84AC94E4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x06F6FCF3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD6F62D8D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCFED1CCC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE4C04F0F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFDDB7E4E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB29AE889",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB81D9C8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x80AC8A0B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2167E9AA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6E267F6D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x69B13BA6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x429C6865",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5B875924",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x14C6CFE3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0DDDFEA2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x26F0AD61",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3FEB9C20",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB87380EF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA168B1AE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x716860D0",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x68735191",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x99A1C150",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x82FC4E48",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB97A3D2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x803D80AC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB34EF8A4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB10D36F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8E57C35",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B617925",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEDDAB66B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x423BEC50",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x209CEBBF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCE2F76FB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x81789A26",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x69B13BA6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x429C6865",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5B875924",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x14C6CFE3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0DDDFEA2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x26F0AD61",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3FEB9C20",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB87380EF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA168B1AE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x716860D0",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x68735191",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x99A1C150",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAB97A3D2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x209CEBBF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x62B3F96A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x13B82253",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB28C9293",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x82FC4E48",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9BE77F09",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x34E95EEC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x81789A26",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x499EAAA9",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEDDAB66B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2DF26FAD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9863AB67",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x73895ABC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCE2F76FB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2B461689",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x25D3FD3A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3CC8CC7B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x985C11E0",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x10271EFF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3B0A4D3C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2195A813",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6D50EABA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x77CF0F95",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5F668838",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC26171D8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC1E5A5B6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8FE94F7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B7A91E7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x11E574C8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3AC8270B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x23D3164A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6C92808D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7589B1CC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5EA4E20F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x10271EFF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3B0A4D3C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2195A813",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6D50EABA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x77CF0F95",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5F668838",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC26171D8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC1E5A5B6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8FE94F7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B7A91E7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x11E574C8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3AC8270B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x23D3164A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6C92808D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7589B1CC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5EA4E20F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x10271EFF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3B0A4D3C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2195A813",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6D50EABA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x77CF0F95",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5F668838",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC26171D8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC1E5A5B6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8FE94F7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B7A91E7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x11E574C8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3AC8270B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x23D3164A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6C92808D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7589B1CC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5EA4E20F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1261A0A6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC26171D8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3B0A4D3C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6F1654E3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2195A813",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5F668838",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8FE94F7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x760D65A2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC3A31BEF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x11E574C8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0026D6DA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB04222EC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA89B799A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x83B62A59",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9AAD1B18",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD5EC8DDF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCCF7BC9E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE7DAEF5D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFEC1DE1C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7959C2D3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6042F392",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB04222EC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA95913AD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8274406E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9B6F712F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD42EE7E8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCD35D6A9",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE618856A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA18180FE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8AACD33D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x93B7E27C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDCF674BB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC5ED45FA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEEC01639",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF7DB2778",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x70433BB7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x69580AF6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB958DB88",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA043EAC9",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8B6EB90A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9275884B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDD341E8C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC42F2FCD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEF027C0E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAFF52BF3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF9AF8C75",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x72801910",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6B9B2851",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1A5B55BE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x034064FF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x16ECDC14",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x851A1207",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x775A2CB2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD340B581",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB04222EC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAFF52BF3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF9AF8C75",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x72801910",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6B9B2851",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1A5B55BE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x034064FF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x16ECDC14",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x851A1207",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC6FCB2B3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD340B581",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB04222EC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9CC15DC6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF8AD98C2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAEF73F44",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9D0337F1",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x4D03E68F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCA9BFA40",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB7EC0E05",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5418D7CE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x841806B0",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD380CB01",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE1B6A983",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x965F70CC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xBD72230F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA469124E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEB288489",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF233B5C8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD91EE60B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC005D74A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x479DCB85",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5E86FAC4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8E862BBA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x979D1AFB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xBCB04938",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA5AB7879",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6CED3B42",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x47C06881",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1BA6850E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x308BD6CD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2990E78C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x66D1714B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7FCA400A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x54E713C9",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x4DFC2288",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1A5B55BE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x034064FF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD340B581",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1A64EF39",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xADF394E2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x18225160",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x330F02A3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1BA6850E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x308BD6CD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2990E78C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x66D1714B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7FCA400A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x54E713C9",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x4DFC2288",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1A5B55BE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x034064FF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD340B581",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1A64EF39",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xADF394E2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x18225160",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x330F02A3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDC9AD915",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF7B78AD6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x4DBF8A78",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x02FE1CBF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB8F61C11",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x93DB4FD2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x29D34F7C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAE4B53B3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB75062F2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC4438263",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDD58B322",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEEACBB97",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA1ED2D50",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8AC07E93",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0D58625C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1443531D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7C0D3C94",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x57206F57",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1861F990",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x334CAA53",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB4D4B69C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7DCF56A3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA89B799A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x83B62A59",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9AAD1B18",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD5EC8DDF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCCF7BC9E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE7DAEF5D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFEC1DE1C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7959C2D3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6042F392",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB04222EC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA95913AD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8274406E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9B6F712F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD42EE7E8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCD35D6A9",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE618856A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x10271EFF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3B0A4D3C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x22117C7D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6D50EABA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x744BDBFB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5F668838",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x467DB979",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC1E5A5B6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD8FE94F7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x08FE4589",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x11E574C8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3AC8270B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x23D3164A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6C92808D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7589B1CC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5EA4E20F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2195A813",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x77CF0F95",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC26171D8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B7A91E7",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1261A0A6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6F1654E3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x760D65A2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC3A31BEF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0026D6DA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2F0EF78D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0423A44E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1D38950F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x527903C8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x4B623289",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x604F614A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7954500B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFECC4CC4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE7D77D85",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x37D7ACFB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x2ECC9DBA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x05E1CE79",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1CFAFF38",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x53BB69FF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x4AA058BE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x618D0B7D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE013B64C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCB3EE58F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD225D4CE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9D644209",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x847F7348",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAF52208B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB64911CA",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x31D10D05",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x28CA3C44",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF8CAED3A",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE1D1DC7B",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xCAFC8FB8",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD3E7BEF9",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x9CA6283E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x85BD197F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xAE904ABC",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF185C6B4",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE89EF7F5",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA7DF6132",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xBEC45073",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x95E903B0",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8CF232F1",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0B6A2E3E",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x12711F7F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC271CE01",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDB6AFF40",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF047AC83",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xE95C9DC2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA61D0B05",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xBF063A44",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x942B6987",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDAA89577",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5FA679F5",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x748B2A36",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x6D901B77",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x22D18DB0",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x3BCABCF1",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x10E7EF32",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x09FCDE73",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x7C0C796F",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x977FF3FD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x477F2283",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x5E6413C2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDE25E9C5",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF508BA06",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEC138B47",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA3521D80",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xBA492CC1",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x91647F02",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x887F4E43",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0FE7528C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x16FC63CD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC6FCB2B3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDFE783F2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDDA13DAB",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xF68C6E68",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xEF975F29",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xA0D6C9EE",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xB9CDF8AF",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x92E0AB6C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8BFB9A2D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x0C6386E2",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x1578B7A3",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC57866DD",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xDC63579C",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x92DBC385",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFAB4F5C6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD7D40683",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8964AD01",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x009DE2F0",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x08D61203",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x33BC4057",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xC9D75E2D",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x92DBC385",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xFAB4F5C6",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0xD7D40683",
+          "weight": 1,
+          "runCond": ""
+        },
+        {
+          "charaId": "0x8964AD01",
+          "weight": 1,
+          "runCond": ""
+        }
+      ]
+    },
+    {
+      "name": "m_spiritCharaTableList",
+      "typeName": "SPIRIT_CHARA_TABLE",
+      "values": [
+        {
+          "id": "0x6CDD8A22",
+          "data": [
+            0,
+            6
+          ]
+        },
+        {
+          "id": "0x3F52C348",
+          "data": [
+            6,
+            16
+          ]
+        },
+        {
+          "id": "0xF40E10ED",
+          "data": [
+            22,
+            11
+          ]
+        },
+        {
+          "id": "0x729A6243",
+          "data": [
+            33,
+            15
+          ]
+        },
+        {
+          "id": "0xB9C6B1E6",
+          "data": [
+            48,
+            16
+          ]
+        },
+        {
+          "id": "0x48900333",
+          "data": [
+            64,
+            12
+          ]
+        },
+        {
+          "id": "0x02B48AEA",
+          "data": [
+            76,
+            11
+          ]
+        },
+        {
+          "id": "0xC9E8594F",
+          "data": [
+            87,
+            18
+          ]
+        },
+        {
+          "id": "0x9925C8FC",
+          "data": [
+            105,
+            24
+          ]
+        },
+        {
+          "id": "0x98E7A2CB",
+          "data": [
+            129,
+            11
+          ]
+        },
+        {
+          "id": "0xF99C1CC4",
+          "data": [
+            140,
+            20
+          ]
+        },
+        {
+          "id": "0x5B33AE81",
+          "data": [
+            160,
+            16
+          ]
+        },
+        {
+          "id": "0x906F7D24",
+          "data": [
+            176,
+            16
+          ]
+        },
+        {
+          "id": "0xDDA7DC2F",
+          "data": [
+            192,
+            16
+          ]
+        },
+        {
+          "id": "0x2CF16EFA",
+          "data": [
+            208,
+            12
+          ]
+        },
+        {
+          "id": "0x66D5E723",
+          "data": [
+            220,
+            16
+          ]
+        },
+        {
+          "id": "0x36187690",
+          "data": [
+            236,
+            16
+          ]
+        },
+        {
+          "id": "0x41DAB6EB",
+          "data": [
+            252,
+            11
+          ]
+        },
+        {
+          "id": "0x36DD867D",
+          "data": [
+            263,
+            11
+          ]
+        },
+        {
+          "id": "0x9C612E1B",
+          "data": [
+            274,
+            11
+          ]
+        },
+        {
+          "id": "0x1AF55CB5",
+          "data": [
+            285,
+            15
+          ]
+        },
+        {
+          "id": "0x62BE9244",
+          "data": [
+            300,
+            14
+          ]
+        },
+        {
+          "id": "0xA9E241E1",
+          "data": [
+            314,
+            14
+          ]
+        },
+        {
+          "id": "0xB0095CFB",
+          "data": [
+            328,
+            38
+          ]
+        },
+        {
+          "id": "0xB8AFF731",
+          "data": [
+            366,
+            25
+          ]
+        },
+        {
+          "id": "0xCFA8C7A7",
+          "data": [
+            391,
+            48
+          ]
+        },
+        {
+          "id": "0x51CC5204",
+          "data": [
+            439,
+            33
+          ]
+        },
+        {
+          "id": "0x41F551D2",
+          "data": [
+            472,
+            4
+          ]
+        },
+        {
+          "id": "0xBC0D3337",
+          "data": [
+            476,
+            4
+          ]
+        },
+        {
+          "id": "0x3A0B31F5",
+          "data": [
+            480,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m_decideTableDataList",
+      "typeName": "DECIDE_TABLE_DATA",
+      "values": [
+        {
+          "dropRarityNameCrc": "0x7EFD704E",
+          "itemTableId": "0xF0F3FEE3"
+        },
+        {
+          "dropRarityNameCrc": "0xE7F421F4",
+          "itemTableId": "0x69FAAF59"
+        },
+        {
+          "dropRarityNameCrc": "0x90F31162",
+          "itemTableId": "0xE2B692B5"
+        },
+        {
+          "dropRarityNameCrc": "0x0E9784C1",
+          "itemTableId": "0xDF4D977B"
+        },
+        {
+          "dropRarityNameCrc": "0x988A2D13",
+          "itemTableId": "0xE8617E42"
+        },
+        {
+          "dropRarityNameCrc": "0x01837CA9",
+          "itemTableId": "0x71682FF8"
+        },
+        {
+          "dropRarityNameCrc": "0x76844C3F",
+          "itemTableId": "0xD6C00150"
+        },
+        {
+          "dropRarityNameCrc": "0xE8E0D99C",
+          "itemTableId": "0xD6C00150"
+        },
+        {
+          "dropRarityNameCrc": "0x48E87617",
+          "itemTableId": "0x7A484D56"
+        },
+        {
+          "dropRarityNameCrc": "0xD1E127AD",
+          "itemTableId": "0x7A484D56"
+        },
+        {
+          "dropRarityNameCrc": "0xA6E6173B",
+          "itemTableId": "0x7A484D56"
+        },
+        {
+          "dropRarityNameCrc": "0x38828298",
+          "itemTableId": "0x7A484D56"
+        },
+        {
+          "dropRarityNameCrc": "0x7EFD704E",
+          "itemTableId": "0x36838DDB"
+        },
+        {
+          "dropRarityNameCrc": "0x988A2D13",
+          "itemTableId": "0xAF8ADC61"
+        },
+        {
+          "dropRarityNameCrc": "0x48E87617",
+          "itemTableId": "0xD88DECF7"
+        }
+      ]
+    },
+    {
+      "name": "m_itemTableDecideTableList",
+      "typeName": "ITEM_TABLE_DECIDE_TABLE",
+      "values": [
+        {
+          "id": "0xD938C93E",
+          "data": [
+            0,
+            12
+          ]
+        },
+        {
+          "id": "0xBA36EE57",
+          "data": [
+            12,
+            3
+          ]
+        }
+      ]
+    }
+  ]
+}

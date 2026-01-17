@@ -1,0 +1,1915 @@
+{
+  "entries": [
+    {
+      "name": "MENU_POPUP_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "50"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_POPUP_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "7"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "9"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "13"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "16"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "21"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "22"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "23"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "24"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "25"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "26"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "27"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "28"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "29"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "30"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "31"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "32"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "33"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "34"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "35"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "36"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "37"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_38",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "38"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_39",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "39"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_40",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "40"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_41",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "41"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_42",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "42"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_43",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "43"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_44",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "44"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_45",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "45"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_46",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "46"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_47",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "47"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_48",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "48"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_POPUP_INFO_49",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "49"
+            },
+            {
+              "type": "Int",
+              "value": "99"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_soccerScrambleUIMovePosDataList",
+      "typeName": "SOCCER_SCRAMBLE_UI_MOVE_POS_DATA",
+      "values": [
+        {
+          "movePointPos": "0000484300000000"
+        },
+        {
+          "movePointPos": "0000874300001643"
+        },
+        {
+          "movePointPos": "0000BE430000F0C1"
+        },
+        {
+          "movePointPos": "000048C300000000"
+        },
+        {
+          "movePointPos": "000087C3000016C3"
+        },
+        {
+          "movePointPos": "0000BEC30000F041"
+        },
+        {
+          "movePointPos": "0000484300000000"
+        },
+        {
+          "movePointPos": "0000964300004843"
+        },
+        {
+          "movePointPos": "0000C84300004843"
+        },
+        {
+          "movePointPos": "0000FA43000048C3"
+        },
+        {
+          "movePointPos": "000048C300004843"
+        },
+        {
+          "movePointPos": "00007AC30000C8C2"
+        },
+        {
+          "movePointPos": "0000AFC300007AC3"
+        },
+        {
+          "movePointPos": "0000C8C30000C842"
+        }
+      ]
+    },
+    {
+      "name": "m_soccerScrambleUIMoveInfoList",
+      "typeName": "SOCCER_SCRAMBLE_UI_MOVE_INFO",
+      "values": [
+        {
+          "id": "0x949B2CFA",
+          "movePosList": [
+            0,
+            3
+          ],
+          "bezierSplitNum": 8,
+          "moveSpeed": 5,
+          "moveLimitTime": 1E-45
+        },
+        {
+          "id": "0x0D927D40",
+          "movePosList": [
+            3,
+            3
+          ],
+          "bezierSplitNum": 8,
+          "moveSpeed": 5,
+          "moveLimitTime": 1E-45
+        },
+        {
+          "id": "0x7A954DD6",
+          "movePosList": [
+            6,
+            4
+          ],
+          "bezierSplitNum": 8,
+          "moveSpeed": 12,
+          "moveLimitTime": 4E-45
+        },
+        {
+          "id": "0xE4F1D875",
+          "movePosList": [
+            10,
+            4
+          ],
+          "bezierSplitNum": 8,
+          "moveSpeed": 12,
+          "moveLimitTime": 4E-45
+        }
+      ]
+    },
+    {
+      "name": "m_soccerScrambleUIMovePatternGroupDataList",
+      "typeName": "SOCCER_SCRAMBLE_UI_MOVE_PATTERN_GROUP_DATA",
+      "values": [
+        {
+          "movePatternId": "0x949B2CFA",
+          "randWeight": 70
+        },
+        {
+          "movePatternId": "0x0D927D40",
+          "randWeight": 70
+        }
+      ]
+    },
+    {
+      "name": "m_soccerScrambleUIMovePatternGroupInfoList",
+      "typeName": "SOCCER_SCRAMBLE_UI_MOVE_PATTERN_GROUP_INFO",
+      "values": [
+        {
+          "groupId": "0x54AC67C3",
+          "movePatternList": [
+            0,
+            1
+          ]
+        },
+        {
+          "groupId": "0xCDA53679",
+          "movePatternList": [
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

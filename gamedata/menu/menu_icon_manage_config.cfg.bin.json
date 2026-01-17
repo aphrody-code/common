@@ -1,0 +1,1650 @@
+{
+  "entries": [
+    {
+      "name": "MENU_ICON_PATH_0",
+      "variables": [
+        {
+          "type": "String",
+          "value": "#/menu/"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "MENU_ICON_IDPREFIX_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "28"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_ICON_IDPREFIX_0",
+          "variables": [
+            {
+              "type": "String",
+              "value": "num"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_1",
+          "variables": [
+            {
+              "type": "String",
+              "value": "num"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_2",
+          "variables": [
+            {
+              "type": "String",
+              "value": "tk"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_3",
+          "variables": [
+            {
+              "type": "String",
+              "value": "test_tk"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_4",
+          "variables": [
+            {
+              "type": "String",
+              "value": "tr"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_5",
+          "variables": [
+            {
+              "type": "String",
+              "value": "tk_si"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_6",
+          "variables": [
+            {
+              "type": "String",
+              "value": "tk_ki"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_7",
+          "variables": [
+            {
+              "type": "String",
+              "value": "tk_vi"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_8",
+          "variables": [
+            {
+              "type": "String",
+              "value": "tk_bb"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_9",
+          "variables": [
+            {
+              "type": "String",
+              "value": "tk_st"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_10",
+          "variables": [
+            {
+              "type": "String",
+              "value": "eq_sh"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_11",
+          "variables": [
+            {
+              "type": "String",
+              "value": "eq_mi"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_12",
+          "variables": [
+            {
+              "type": "String",
+              "value": "eq_ac"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_13",
+          "variables": [
+            {
+              "type": "String",
+              "value": "eq_sp"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_14",
+          "variables": [
+            {
+              "type": "String",
+              "value": "gd"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_15",
+          "variables": [
+            {
+              "type": "String",
+              "value": "btl_re"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_16",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_star01"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_17",
+          "variables": [
+            {
+              "type": "String",
+              "value": "ex"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_18",
+          "variables": [
+            {
+              "type": "String",
+              "value": "abl"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_19",
+          "variables": [
+            {
+              "type": "String",
+              "value": "perf"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_20",
+          "variables": [
+            {
+              "type": "String",
+              "value": "uni"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_21",
+          "variables": [
+            {
+              "type": "String",
+              "value": "ke"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_22",
+          "variables": [
+            {
+              "type": "String",
+              "value": "cos"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_23",
+          "variables": [
+            {
+              "type": "String",
+              "value": "coi"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_24",
+          "variables": [
+            {
+              "type": "String",
+              "value": "coa"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_25",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_cate_animal"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_26",
+          "variables": [
+            {
+              "type": "String",
+              "value": "ds"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_IDPREFIX_27",
+          "variables": [
+            {
+              "type": "String",
+              "value": "mini"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_ICON_FILENAME_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "20"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_ICON_FILENAME_0",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_common.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_1",
+          "variables": [
+            {
+              "type": "String",
+              "value": "num_btl_dmgpop.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_2",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item10.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_3",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item03.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_4",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item04.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_5",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item05.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_6",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item08.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_7",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item01.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_8",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item02.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_9",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_test.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_10",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item01.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_11",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item01.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_12",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item07.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_13",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item02.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_14",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_item09.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_15",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_town.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_16",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_animal.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_17",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_cate_animal01.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_18",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_deco.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_FILENAME_19",
+          "variables": [
+            {
+              "type": "String",
+              "value": "icon_minimap.g4tx"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_ICON_TYPE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "20"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_ICON_TYPE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-437489583"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/15_icon_common/<LG>/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1133713269"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/100_num/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1597481275"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "8"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "349143447"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "928967732"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1584949983"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1282097123"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "13"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "521872670"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "7"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/icon_test/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "16"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "9"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-164857417"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "20"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2038881996"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "21"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "13"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "990819291"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/02_icon_item/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "22"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1192902479"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/22_icon_town/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "23"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1789600543"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/22_icon_town/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "24"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "16"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1490810497"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/22_icon_town/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "25"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1991858152"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/20_icon_deco/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "26"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1412869829"
+            },
+            {
+              "type": "String",
+              "value": "200_icon/12_icon_minimap/<LG>/"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_IDPREFIX_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "27"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_TYPE_REF_FILENAME_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MENU_ICON_CFG_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "MENU_ICON_CFG_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-437489583"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_CFG_REF_TYPE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_CFG_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1430765428"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_CFG_REF_TYPE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_CFG_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "521872670"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_CFG_REF_TYPE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "17"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_CFG_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1412869829"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "MENU_ICON_CFG_REF_TYPE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "19"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1803 @@
+{
+  "entries": [
+    {
+      "name": "TIRE_RATE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "30"
+        }
+      ],
+      "children": [
+        {
+          "name": "TIRE_RATE_0",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Float",
+              "value": "0,1"
+            },
+            {
+              "type": "Float",
+              "value": "0,4"
+            },
+            {
+              "type": "Float",
+              "value": "0,6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_1",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,55"
+            },
+            {
+              "type": "Float",
+              "value": "0,75"
+            },
+            {
+              "type": "Float",
+              "value": "0,75"
+            },
+            {
+              "type": "Float",
+              "value": "0,95"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_2",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,05"
+            },
+            {
+              "type": "Float",
+              "value": "0,25"
+            },
+            {
+              "type": "Float",
+              "value": "0,25"
+            },
+            {
+              "type": "Float",
+              "value": "0,45000002"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_3",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,55"
+            },
+            {
+              "type": "Float",
+              "value": "0,95"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_4",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,9"
+            },
+            {
+              "type": "Float",
+              "value": "0,1"
+            },
+            {
+              "type": "Float",
+              "value": "0,4"
+            },
+            {
+              "type": "Float",
+              "value": "0,6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_5",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,05"
+            },
+            {
+              "type": "Float",
+              "value": "0,45000002"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_6",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,65000004"
+            },
+            {
+              "type": "Float",
+              "value": "0,85"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_7",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,65000004"
+            },
+            {
+              "type": "Float",
+              "value": "0,85"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_8",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,65000004"
+            },
+            {
+              "type": "Float",
+              "value": "0,85"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_9",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,65000004"
+            },
+            {
+              "type": "Float",
+              "value": "0,85"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_10",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,65000004"
+            },
+            {
+              "type": "Float",
+              "value": "0,85"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_11",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,65000004"
+            },
+            {
+              "type": "Float",
+              "value": "0,85"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            },
+            {
+              "type": "Int",
+              "value": "-1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_18",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_19",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_20",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_21",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_22",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_23",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_24",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,91999996"
+            },
+            {
+              "type": "Float",
+              "value": "0,08"
+            },
+            {
+              "type": "Float",
+              "value": "0,42000002"
+            },
+            {
+              "type": "Float",
+              "value": "0,58"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_25",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,45000002"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Float",
+              "value": "0,95"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_26",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,05"
+            },
+            {
+              "type": "Float",
+              "value": "0,2"
+            },
+            {
+              "type": "Float",
+              "value": "0,55"
+            },
+            {
+              "type": "Float",
+              "value": "0,7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_27",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "0,45000002"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Float",
+              "value": "0,95"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_28",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,91999996"
+            },
+            {
+              "type": "Float",
+              "value": "0,08"
+            },
+            {
+              "type": "Float",
+              "value": "0,42000002"
+            },
+            {
+              "type": "Float",
+              "value": "0,58"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_RATE_29",
+          "variables": [
+            {
+              "type": "Float",
+              "value": "0,05"
+            },
+            {
+              "type": "Float",
+              "value": "0,2"
+            },
+            {
+              "type": "Float",
+              "value": "0,55"
+            },
+            {
+              "type": "Float",
+              "value": "0,7"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIRE_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "5"
+        }
+      ],
+      "children": [
+        {
+          "name": "TIRE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            },
+            {
+              "type": "Int",
+              "value": "899879882"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "120"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_REF_RATE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428934580"
+            },
+            {
+              "type": "Int",
+              "value": "-1519795995"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "120"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_REF_RATE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "573374242"
+            },
+            {
+              "type": "Int",
+              "value": "1012961631"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "120"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_REF_RATE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "12"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1136104831"
+            },
+            {
+              "type": "Int",
+              "value": "-1519795995"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "120"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_REF_RATE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "18"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            },
+            {
+              "type": "Int",
+              "value": "-669214868"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "200"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_INFO_REF_RATE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "24"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIRE_TRAINING_SHOOT_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "7"
+        }
+      ],
+      "children": [
+        {
+          "name": "TIRE_TRAINING_SHOOT_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-587233514"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "1,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,23"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Float",
+              "value": "0,15"
+            },
+            {
+              "type": "Float",
+              "value": "1,4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_SHOOT_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-587233514"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "1,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,23"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Float",
+              "value": "0,15"
+            },
+            {
+              "type": "Float",
+              "value": "1,4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_SHOOT_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-587233514"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "1,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,23"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Float",
+              "value": "0,15"
+            },
+            {
+              "type": "Float",
+              "value": "1,4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_SHOOT_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-587233514"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "1,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,23"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Float",
+              "value": "0,15"
+            },
+            {
+              "type": "Float",
+              "value": "1,4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_SHOOT_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-587233514"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "1,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,23"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Float",
+              "value": "0,15"
+            },
+            {
+              "type": "Float",
+              "value": "1,4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_SHOOT_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-587233514"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "1,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,23"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Float",
+              "value": "0,15"
+            },
+            {
+              "type": "Float",
+              "value": "1,4"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_SHOOT_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-587233514"
+            },
+            {
+              "type": "Float",
+              "value": "0,3"
+            },
+            {
+              "type": "Float",
+              "value": "1,5"
+            },
+            {
+              "type": "Float",
+              "value": "0,23"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Float",
+              "value": "0,15"
+            },
+            {
+              "type": "Float",
+              "value": "1,4"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIRE_TRAINING_TIRE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "38"
+        }
+      ],
+      "children": [
+        {
+          "name": "TIRE_TRAINING_TIRE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428934580"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1136104831"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428934580"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1136104831"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "573374242"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428934580"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1136104831"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "573374242"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1136104831"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428934580"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1136104831"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428934580"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "573374242"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428934580"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1136104831"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-870146546"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1428934580"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1136104831"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_TIRE_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-883992041"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIRE_TRAINING_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "7"
+        }
+      ],
+      "children": [
+        {
+          "name": "TIRE_TRAINING_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1233571855"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_TIRE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "5"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_SHOOT_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1711640846"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_TIRE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "5"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_SHOOT_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "15941448"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_TIRE_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "10"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_SHOOT_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2012483550"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_TIRE_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "16"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_SHOOT_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-376399235"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_TIRE_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "22"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_SHOOT_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "4"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1330419897"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_TIRE_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "28"
+            },
+            {
+              "type": "Int",
+              "value": "5"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_SHOOT_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "5"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1659201026"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_TIRE_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "33"
+            },
+            {
+              "type": "Int",
+              "value": "5"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TIRE_TRAINING_INFO_REF_SHOOT_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

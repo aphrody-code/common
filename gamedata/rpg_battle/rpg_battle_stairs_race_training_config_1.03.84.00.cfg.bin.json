@@ -1,0 +1,68 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_StairsRaceRunStyleDataList",
+      "typeName": "STAIRS_RACE_RUN_STYLE_DATA",
+      "values": [
+        {
+          "runStyleType": 1,
+          "textId": "0xFAC2C3B5",
+          "landingMotionId": "0xFE560759",
+          "landingSpeed": 2.5,
+          "landingStepScale": 1,
+          "landingStamina": 8,
+          "landingSpeedIndicator": 2,
+          "upMotionId": "0x54EDDD15",
+          "upSpeed": 1.7,
+          "upStepScale": 1,
+          "upStamina": 5,
+          "upSpeedIndicator": 1,
+          "downMotionId": "0x0B1643A3",
+          "downSpeed": 1.8,
+          "downStepScale": 1,
+          "downStamina": 10,
+          "downSpeedIndicator": 2
+        },
+        {
+          "runStyleType": 2,
+          "textId": "0x8DC5F323",
+          "landingMotionId": "0xFE560759",
+          "landingSpeed": 1.5,
+          "landingStepScale": 1,
+          "landingStamina": -10,
+          "landingSpeedIndicator": 1,
+          "upMotionId": "0x19D19D12",
+          "upSpeed": 2.8,
+          "upStepScale": 1,
+          "upStamina": -15,
+          "upSpeedIndicator": 3,
+          "downMotionId": "0x8C5F72D8",
+          "downSpeed": 2,
+          "downStepScale": 1,
+          "downStamina": -7,
+          "downSpeedIndicator": 2
+        },
+        {
+          "runStyleType": 3,
+          "textId": "0xED027AC6",
+          "landingMotionId": "0xEF7A4F74",
+          "landingSpeed": 4,
+          "landingStepScale": 1,
+          "landingStamina": -18,
+          "landingSpeedIndicator": 3,
+          "upMotionId": "0x59D2845C",
+          "upSpeed": 2.8,
+          "upStepScale": 1,
+          "upStamina": -20,
+          "upSpeedIndicator": 3,
+          "downMotionId": "0xB6D2CE19",
+          "downSpeed": 2.5,
+          "downStepScale": 1,
+          "downStamina": -15,
+          "downSpeedIndicator": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-65300985"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "なんか[猫/ねこ]が[多/おお]いな。\\nうちの[周/まわ]りには[家/いえ]で[飼/か]われている[猫/ねこ]しかいないし\u3000[新鮮/しんせん]。\\nあれ？\u3000この[猫/ねこ]\u3000[尻尾/しっぽ]が[曲/ま]がってる？"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

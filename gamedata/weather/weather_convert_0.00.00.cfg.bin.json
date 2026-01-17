@@ -1,0 +1,51 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_weatherConvertList",
+      "typeName": "WEATHER_CONVERT",
+      "values": [
+        {
+          "detailWeather": 0,
+          "gameWeather": 0,
+          "mapWeather": 0
+        },
+        {
+          "detailWeather": 1,
+          "gameWeather": 1,
+          "mapWeather": 1
+        },
+        {
+          "detailWeather": 2,
+          "gameWeather": 1,
+          "mapWeather": 3
+        },
+        {
+          "detailWeather": 3,
+          "gameWeather": 1,
+          "mapWeather": 1
+        },
+        {
+          "detailWeather": 4,
+          "gameWeather": 2,
+          "mapWeather": 2
+        },
+        {
+          "detailWeather": 5,
+          "gameWeather": 2,
+          "mapWeather": 2
+        },
+        {
+          "detailWeather": 6,
+          "gameWeather": 2,
+          "mapWeather": 2
+        },
+        {
+          "detailWeather": 7,
+          "gameWeather": 0,
+          "mapWeather": 4
+        }
+      ]
+    }
+  ]
+}

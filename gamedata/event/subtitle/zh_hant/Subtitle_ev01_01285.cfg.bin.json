@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "name": "EV_SUBTITLE_DATA_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "EV_SUBTITLE_DATA_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1461479372"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Float",
+              "value": "11,583333"
+            },
+            {
+              "type": "Int",
+              "value": "6"
+            },
+            {
+              "type": "Float",
+              "value": "11,916667"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

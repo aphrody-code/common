@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "name": "RPG_BTL_CMD_EVENT_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "1"
+        }
+      ],
+      "children": [
+        {
+          "name": "RPG_BTL_CMD_EVENT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "20635986"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

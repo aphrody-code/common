@@ -1,0 +1,93 @@
+{
+  "entries": [
+    {
+      "name": "EV_SUBTITLE_DATA_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "3"
+        }
+      ],
+      "children": [
+        {
+          "name": "EV_SUBTITLE_DATA_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1101039788"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Float",
+              "value": "5,27"
+            },
+            {
+              "type": "Float",
+              "value": "0,8"
+            },
+            {
+              "type": "Float",
+              "value": "6,09"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1787681641"
+            },
+            {
+              "type": "Float",
+              "value": "5,28"
+            },
+            {
+              "type": "Float",
+              "value": "10,22"
+            },
+            {
+              "type": "Float",
+              "value": "6,1"
+            },
+            {
+              "type": "Float",
+              "value": "11,03"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1939270186"
+            },
+            {
+              "type": "Float",
+              "value": "10,23"
+            },
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "Float",
+              "value": "11,04"
+            },
+            {
+              "type": "Float",
+              "value": "16,2"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

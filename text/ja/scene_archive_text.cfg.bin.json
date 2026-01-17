@@ -1,0 +1,2175 @@
+{
+  "entries": [
+    {
+      "name": "TEXT_INFO_BEGIN_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "120"
+        }
+      ],
+      "children": [
+        {
+          "name": "TEXT_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1283465061"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "？？？"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1677922789"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ストーリー"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1316041556"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[対戦/たいせん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1802425642"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＥＤ１\u3000あいつは[太陽/たいよう]ボーイ！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "228096876"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＥＤ２\u3000[流星/りゅうせい]ボーイ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2057260026"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＥＤ\u3000[世界/せかい]に[刻/きざ]め！イナズママーク"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-453255591"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雷門中/らいもんちゅう]\u3000ＶＳ\u3000[北陽学園/ほくようがくえん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1679990043"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[体験版/たいけんばん]エンディング\u3000[説明文/せつめいぶん]０１"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-47461215"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[体験版/たいけんばん]エンディング\u3000[説明文/せつめいぶん]０２"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1976763337"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[体験版/たいけんばん]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_10",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "901252454"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＯＰ１\u3000[笑顔/えがお]がゴール！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_11",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "880439121"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[注目/ちゅうもく]の[大型新人/おおがたしんじん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_12",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1263215949"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーには[消/き]えてほしい"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_13",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "909955336"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[南雲原中/なぐもはらちゅう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_14",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1338399231"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ここにはサッカー[部/ぶ]がないから"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_15",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1457350846"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[潰/つぶ]れたサッカーボール"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_16",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1308898248"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[数日遅/すうじつおく]れの[新入生/しんにゅうせい]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_17",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1279430033"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "もっと[話/はな]そうぜ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_18",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1188864155"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[蹴/け]りの[桜咲/さくらざき]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_19",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-260860346"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[天空/てんくう]を[切/き]り[裂/さ]ける[足/あし]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_20",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-239993743"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雲明/うんめい]の[追求/ついきゅう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_21",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1044307798"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "マダムの[通/とお]せんぼ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_22",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1262763183"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[強引/ごういん]な[客引/きゃくひ]き"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_23",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1891443622"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＯＫ\u3000ボス"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_24",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1052006986"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "もうサッカーから[逃/に]げない"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_25",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-936837028"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[首/くび]を[突/つ]っ[込/こ]む[木曽路/きそじ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_26",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2099947124"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[我/わ]が[校/こう]の[汚点/おてん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_27",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-321558512"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[暗/くら]い[過去/かこ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_28",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1555143718"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[特訓/とっくん]！\u3000[百目階段/ひゃくめかいだん]だ！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_29",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1416171381"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[２人/ふたり]のサッカーを[導/みちび]く"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_30",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-974399443"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "キングビッグ[海坊主登場/うみぼうずとうじょう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_31",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1050237793"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーが[待/ま]っている"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_32",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-910280756"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "１[章/しょう]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_33",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2028306825"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカー[部/ぶ]もどきへの[解散命令/かいさんめいれい]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_34",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1999944198"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[今/いま]のサッカーを[知/し]る"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_35",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-988352407"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[思/おも]わぬ[部員候補/ぶいんこうほ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_36",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-992699810"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[驚異/きょうい]の[身体能力/しんたいのうりょく]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_37",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-677159033"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "どん[底/ぞこ]から[最高/さいこう]へ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_38",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-142141730"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[来夏/らいか]の[入部希望/にゅうぶきぼう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_39",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-201080144"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ラストライブ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_40",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-221773733"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカー[部/ぶ]の[真実/しんじつ]を[解明/かいめい]する！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_41",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-217421204"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "２[章/しょう]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_42",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1957889579"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "マスターみどりさん"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_43",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1939008106"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[柳生/やぎゅう]の[心/こころ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_44",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "633884140"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[野球部/やきゅうぶ]の[先制点/せんせいてん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_45",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2068478265"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[柳生/やぎゅう]の[覚醒/かくせい]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_46",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-840609820"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーをやりたかった"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_47",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-890443976"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "３[章/しょう]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_48",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1473819271"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[真実/しんじつ]を[見抜/みぬ]く[戦略家/せんりゃくか]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_49",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-665994762"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[猪突猛進/ちょとつもうしん]\u3000[暴走特急/ぼうそうとっきゅう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_50",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2096488774"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[憑依/ひょうい]のアクター"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_51",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-211752395"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[奇術/きじゅつ]の[使/つか]い[手/て]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_52",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1710149637"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[人生/じんせい]の[解答/かいとう]を[追/お]う"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_53",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-360981644"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "イケイケ[相撲部員/すもうぶいん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_54",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-716129988"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "てっぺんへの[挑戦者/ちょうせんしゃ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_55",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1522905677"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[剣/けん]の[道/みち]を[極/きわ]めし[者/もの]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_56",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-867465091"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[美/うつく]しきものへの[探求者/たんきゅうしゃ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_57",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1138656014"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "２[周目/しゅうめ]を[生/い]きる[委員長/いいんちょう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_58",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-412689474"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ビッグマウスの[丘/おか]サーファー"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_59",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1760809167"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[幸運/こううん]を[招/まね]く[田舎娘/いなかむすめ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_60",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-25302273"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "メタリックハート"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_61",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1911087504"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[二枚舌/にまいじた]の[執事/しつじ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_62",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2045113904"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[破天荒/はてんこう]ロッカー"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_63",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "159390557"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雲明/うんめい]の[日本一宣言/にっぽんいちせんげん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_64",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "256629174"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ハルの[憂鬱/ゆううつ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_65",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "197567748"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "フットボールフロンティア[開幕式/かいまくしき]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_66",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "105980114"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[雲明/うんめい]とハルの[出会/であ]い"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_67",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1455751179"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[勝利/しょうり]のサムズアップ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_68",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1835212529"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "できることをやれば？"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_69",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1860684447"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "４[章/しょう]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_70",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "11652839"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[巻/ま]き[上/あ]がる[粉塵/ふんじん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_71",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "200116698"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[泣/な]き[虫/むし]ライバル"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_72",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1927665855"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[禁/きん]じられた[切/き]り[札/ふだ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_73",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-565143629"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[木曽路/きそじ]の[負傷/ふしょう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_74",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "349152226"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[僕/ぼく]はまたサッカーができる"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_75",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "293647719"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "５[章/しょう]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_76",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "695359134"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[２人/ふたり]がかりでぶっつぶす"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_77",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1726569816"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[孤独/こどく]なハル"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_78",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1878238260"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[会/あ]いに[来/き]たハル"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_79",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "84144166"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[伝/つた]えたいこと"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_80",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "109519944"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "６[章/しょう]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_81",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1753298979"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ヴィクトリーロード"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_82",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1320250154"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＯＰ２\u3000ザ・ヴィクトリーヨ！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_83",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-871291892"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[化身共鳴/けしんきょうめい]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_84",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2053410784"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "そこにお[前/まえ]はいるのか？"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_85",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1899546851"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "これが[木曽路兵太/きそじへいた]だ！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_86",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "976142233"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[化身/けしん]の[挟撃/きょうげき]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_87",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1050919723"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "エンターテイナーの[活躍/かつやく]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_88",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "934885967"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "７[章/しょう]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_89",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1709953941"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "もう[１人/ひとり]の[天才少年監督/てんさいしょうねんかんとく]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_90",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "200008201"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[亀雄/かめお]の[異変/いへん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_91",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "162356304"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ミキシトランス"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_92",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1905639056"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "アリスの[保護者/ほごしゃ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_93",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "2035101123"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[再起不能/さいきふのう]なんてない"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_94",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1324270795"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ずっと[一緒/いっしょ]にいる"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_95",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1408715152"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "サッカーやろうぜ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_96",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1370617801"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "８[章/しょう]エンディング"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_97",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-549837193"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[空/そら]からハルが[帰/かえ]ってきた"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_98",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1771376810"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ハルが[雷門/らいもん]を[変/か]える"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_99",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1041095963"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ハルのゴールパフォーマンス"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_100",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1868485185"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[謎/なぞ]の[男/おとこ]たちの[会話/かいわ]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_101",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1736851730"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "フィールドに[立/た]つ[雲明/うんめい]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_102",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2048215381"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[勝利/しょうり]へのライン"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_103",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1210264535"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[魔神/まじん]ヴィクトリー"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_104",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-167471542"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ラストバトルクライマックス"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_105",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-254847839"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[長/なが]い[笛/ふえ]の[音/ね]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_106",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1291734902"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[空/そら]を[見上/みあ]げて\u3000[南雲原優勝/なぐもはらゆうしょう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_107",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1333435160"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[空/そら]を[見上/みあ]げて\u3000[雷門優勝/らいもんゆうしょう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_108",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-95323733"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[空/そら]を[見上/みあ]げて\u3000ダブル[優勝/ゆうしょう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_109",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1320743215"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＥＤ\u3000[道標/みちしるべ]＋[笑顔/えがお]がゴール！"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_110",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "164650329"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[我/わ]が[崇拝/すうはい]する[絶対神/ぜったいしん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_111",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1249456981"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "クロニクルモード・[冒頭/ぼうとう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_112",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-773191249"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＯＰ\u3000[大/だい]・[団/だん]・[円/えん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_113",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1352733336"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ザナーク[登場/とうじょう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_114",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-2072789333"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ザナークとの[別/わか]れ"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_115",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "375858390"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＥＤ１\u3000Chronicle: To Be Continued"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_116",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-810369966"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＬＢＸの[乱入/らんにゅう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_117",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "566025598"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "[時空/じくう]を[超/こ]えた[共闘/きょうとう]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_118",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1118373006"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ギャラクシーノーツ[号/ごう]\u3000[発進/はっしん]"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "TEXT_INFO_119",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-698503542"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "String",
+              "value": "ＥＤ２\u3000ギャラクシールート"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

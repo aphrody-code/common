@@ -1,0 +1,119 @@
+{
+  "entries": [
+    {
+      "name": "EV_SUBTITLE_DATA_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "EV_SUBTITLE_DATA_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-332833710"
+            },
+            {
+              "type": "Float",
+              "value": "1,11"
+            },
+            {
+              "type": "Float",
+              "value": "7,05"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Float",
+              "value": "6,27"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-956035183"
+            },
+            {
+              "type": "Float",
+              "value": "7,06"
+            },
+            {
+              "type": "Float",
+              "value": "9,18"
+            },
+            {
+              "type": "Float",
+              "value": "6,28"
+            },
+            {
+              "type": "Int",
+              "value": "9"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-568377648"
+            },
+            {
+              "type": "Float",
+              "value": "10,1"
+            },
+            {
+              "type": "Int",
+              "value": "14"
+            },
+            {
+              "type": "Float",
+              "value": "9,01"
+            },
+            {
+              "type": "Float",
+              "value": "14,07"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "EV_SUBTITLE_DATA_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1856067561"
+            },
+            {
+              "type": "Float",
+              "value": "14,1"
+            },
+            {
+              "type": "Int",
+              "value": "17"
+            },
+            {
+              "type": "Float",
+              "value": "14,08"
+            },
+            {
+              "type": "Int",
+              "value": "17"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

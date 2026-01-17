@@ -1,0 +1,362 @@
+{
+  "entries": [
+    {
+      "name": "RPG_BTL_PARTY_DISABLE_ACTION_UNIQUE_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "4"
+        }
+      ],
+      "children": [
+        {
+          "name": "RPG_BTL_PARTY_DISABLE_ACTION_UNIQUE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1046485492"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_DISABLE_ACTION_UNIQUE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1510792440"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_DISABLE_ACTION_UNIQUE_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-357386801"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_DISABLE_ACTION_UNIQUE_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1510792440"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RPG_BTL_PARTY_INFO_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "10"
+        }
+      ],
+      "children": [
+        {
+          "name": "RPG_BTL_PARTY_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1758152796"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1762682639"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "2"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "675772364"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_2",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "3"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1771228704"
+            },
+            {
+              "type": "Int",
+              "value": "-1476058542"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_3",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "619410298"
+            },
+            {
+              "type": "Int",
+              "value": "1733873322"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_4",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-272562807"
+            },
+            {
+              "type": "Int",
+              "value": "607009794"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_5",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1705566757"
+            },
+            {
+              "type": "Int",
+              "value": "1371022416"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_6",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-928664965"
+            },
+            {
+              "type": "Int",
+              "value": "-1939313656"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_7",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1018964663"
+            },
+            {
+              "type": "Int",
+              "value": "2143373843"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_8",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "286643212"
+            },
+            {
+              "type": "Int",
+              "value": "-1382593706"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "RPG_BTL_PARTY_INFO_REF_DISABLE_ACTION_UNIQUE_INFO_9",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

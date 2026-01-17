@@ -1,0 +1,879 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_GeoglyphInfoList",
+      "typeName": "GEOGLYPH_INFO",
+      "values": [
+        {
+          "id": "0x1C6099D0",
+          "effectId": "0xBD60F5B3",
+          "minimapIcon": "0x2564A2B8",
+          "minimapIcon_enemy": "0x2564A2B8",
+          "iconTexName": "0x5ECD9E93",
+          "colMeshPath": "#/map/e/tactics/ega_ev6500100_col/ega_ev6500100_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xAD61C60D",
+          "effectId": "0xBD60F5B3",
+          "minimapIcon": "0x2564A2B8",
+          "minimapIcon_enemy": "0x2564A2B8",
+          "iconTexName": "0x5ECD9E93",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100100_col/ega_ev65100100_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x864C95CE",
+          "effectId": "0xBF264BEA",
+          "minimapIcon": "0x0E49F17B",
+          "minimapIcon_enemy": "0x0E49F17B",
+          "iconTexName": "0x75E0CD50",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100200_col/ega_ev65100200_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x9F57A48F",
+          "effectId": "0xBEE421DD",
+          "minimapIcon": "0x1752C03A",
+          "minimapIcon_enemy": "0x1752C03A",
+          "iconTexName": "0x6CFBFC11",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100300_col/ega_ev65100300_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xD0163248",
+          "effectId": "0xBBAB3758",
+          "minimapIcon": "0x581356FD",
+          "minimapIcon_enemy": "0x581356FD",
+          "iconTexName": "0x23BA6AD6",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100400_col/ega_ev65100400_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xC90D0309",
+          "effectId": "0xBA695D6F",
+          "minimapIcon": "0x410867BC",
+          "minimapIcon_enemy": "0x410867BC",
+          "iconTexName": "0x3AA15B97",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100500_col/ega_ev65100500_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xE22050CA",
+          "effectId": "0xB82FE336",
+          "minimapIcon": "0x6A25347F",
+          "minimapIcon_enemy": "0x6A25347F",
+          "iconTexName": "0x118C0854",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100600_col/ega_ev65100600_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xFB3B618B",
+          "effectId": "0xB9ED8901",
+          "minimapIcon": "0x733E053E",
+          "minimapIcon_enemy": "0x733E053E",
+          "iconTexName": "0x08973915",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100700_col/ega_ev65100700_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x7CA37D44",
+          "effectId": "0xB2B1CE3C",
+          "minimapIcon": "0xF4A619F1",
+          "minimapIcon_enemy": "0xF4A619F1",
+          "iconTexName": "0x8F0F25DA",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100800_col/ega_ev65100800_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x65B84C05",
+          "effectId": "0xB373A40B",
+          "minimapIcon": "0xEDBD28B0",
+          "minimapIcon_enemy": "0xEDBD28B0",
+          "iconTexName": "0x9614149B",
+          "colMeshPath": "#/map/e/tactics/ega_ev65100900_col/ega_ev65100900_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xEAC1BCDD",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x62C4D868",
+          "minimapIcon_enemy": "0x62C4D868",
+          "iconTexName": "0x196DE443",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0xC1ECEF1E",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x49E98BAB",
+          "minimapIcon_enemy": "0x49E98BAB",
+          "iconTexName": "0x3240B780",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xD8F7DE5F",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x196DE443",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x97B64898",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x1FB32C2D",
+          "minimapIcon_enemy": "0x1FB32C2D",
+          "iconTexName": "0x641A1006",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x8EAD79D9",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x06A81D6C",
+          "minimapIcon_enemy": "0x06A81D6C",
+          "iconTexName": "0x7D012147",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xA5802A1A",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x2D854EAF",
+          "minimapIcon_enemy": "0x2D854EAF",
+          "iconTexName": "0x562C7284",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xBC9B1B5B",
+          "effectId": "0x041EF8E1",
+          "minimapIcon": "0x349E7FEE",
+          "minimapIcon_enemy": "0x349E7FEE",
+          "iconTexName": "0x4F3743C5",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101000_col/ega_ev65101000_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xFE0EA2B6",
+          "effectId": "0x041EF8E1",
+          "minimapIcon": "0x349E7FEE",
+          "minimapIcon_enemy": "0x349E7FEE",
+          "iconTexName": "0x4F3743C5",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101000_col/ega_ev65101000_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0x3B030794",
+          "effectId": "0x00000000",
+          "minimapIcon": "0xB3066321",
+          "minimapIcon_enemy": "0xB3066321",
+          "iconTexName": "0xC8AF5F0A",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x221836D5",
+          "effectId": "0x00000000",
+          "minimapIcon": "0xAA1D5260",
+          "minimapIcon_enemy": "0xAA1D5260",
+          "iconTexName": "0xD1B46E4B",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xF218E7AB",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x7A1D831E",
+          "minimapIcon_enemy": "0x7A1D831E",
+          "iconTexName": "0x01B4BF35",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xEB03D6EA",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x6306B25F",
+          "minimapIcon_enemy": "0x6306B25F",
+          "iconTexName": "0x18AF8E74",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0xC02E8529",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x482BE19C",
+          "minimapIcon_enemy": "0x482BE19C",
+          "iconTexName": "0x3382DDB7",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xD935B468",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x196DE443",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x967422AF",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x1E71461A",
+          "minimapIcon_enemy": "0x1E71461A",
+          "iconTexName": "0x65D87A31",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x8F6F13EE",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x076A775B",
+          "minimapIcon_enemy": "0x076A775B",
+          "iconTexName": "0x7CC34B70",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xA442402D",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x2C472498",
+          "minimapIcon_enemy": "0x2C472498",
+          "iconTexName": "0x57EE18B3",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xBD59716C",
+          "effectId": "0x00938453",
+          "minimapIcon": "0x355C15D9",
+          "minimapIcon_enemy": "0x355C15D9",
+          "iconTexName": "0x4EF529F2",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101600_col/ega_ev65101600_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xD7A1956D",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x5FA4F1D8",
+          "minimapIcon_enemy": "0x5FA4F1D8",
+          "iconTexName": "0x240DCDF3",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xFC8CC6AE",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x7489A21B",
+          "minimapIcon_enemy": "0x7489A21B",
+          "iconTexName": "0x0F209E30",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xE597F7EF",
+          "effectId": "0x0317503D",
+          "minimapIcon": "0x6D92935A",
+          "minimapIcon_enemy": "0x6D92935A",
+          "iconTexName": "0x163BAF71",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101400_col/ega_ev65101400_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x03DD3B68",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0xAAD66128",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x22D3059D",
+          "minimapIcon_enemy": "0x22D3059D",
+          "iconTexName": "0x597A39B6",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xB3CD5069",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x3BC834DC",
+          "minimapIcon_enemy": "0x3BC834DC",
+          "iconTexName": "0x406108F7",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x98E003AA",
+          "effectId": "0x05DC92D6",
+          "minimapIcon": "0x10E5671F",
+          "minimapIcon_enemy": "0x10E5671F",
+          "iconTexName": "0x6B4C5B34",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101100_col/ega_ev65101100_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x7EAACF2D",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0x81FB32EB",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x09FE565E",
+          "minimapIcon_enemy": "0x09FE565E",
+          "iconTexName": "0x72576A75",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x06632E24",
+          "effectId": "0x079A2C8F",
+          "minimapIcon": "0x8E664A91",
+          "minimapIcon_enemy": "0x8E664A91",
+          "iconTexName": "0xF5CF76BA",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101200_col/ega_ev65101200_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0xE029E2A3",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0x1F781F65",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x977D7BD0",
+          "minimapIcon_enemy": "0x977D7BD0",
+          "iconTexName": "0xECD447FB",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xCF78CE1B",
+          "effectId": "0x065846B8",
+          "minimapIcon": "0x477DAAAE",
+          "minimapIcon_enemy": "0x477DAAAE",
+          "iconTexName": "0x3CD49685",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101300_col/ega_ev65101300_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x2932029C",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0xD663FF5A",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x5E669BEF",
+          "minimapIcon_enemy": "0x5E669BEF",
+          "iconTexName": "0x25CFA7C4",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xFD4EAC99",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x754BC82C",
+          "minimapIcon_enemy": "0x754BC82C",
+          "iconTexName": "0x0EE2F407",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xE4559DD8",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x6C50F96D",
+          "minimapIcon_enemy": "0x6C50F96D",
+          "iconTexName": "0x17F9C546",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xAB140B1F",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x23116FAA",
+          "minimapIcon_enemy": "0x23116FAA",
+          "iconTexName": "0x58B85381",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xB20F3A5E",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x3A0A5EEB",
+          "minimapIcon_enemy": "0x3A0A5EEB",
+          "iconTexName": "0x41A362C0",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x9922699D",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x11270D28",
+          "minimapIcon_enemy": "0x11270D28",
+          "iconTexName": "0x6A8E3103",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x803958DC",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x083C3C69",
+          "minimapIcon_enemy": "0x083C3C69",
+          "iconTexName": "0x73950042",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x07A14413",
+          "effectId": "0x02D53A0A",
+          "minimapIcon": "0x8FA420A6",
+          "minimapIcon_enemy": "0x8FA420A6",
+          "iconTexName": "0xF40D1C8D",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101500_col/ega_ev65101500_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0xE1EB8894",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0x1EBA7552",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x96BF11E7",
+          "minimapIcon_enemy": "0x96BF11E7",
+          "iconTexName": "0xED162DCC",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xCD3E7042",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x453B14F7",
+          "minimapIcon_enemy": "0x453B14F7",
+          "iconTexName": "0x3E9228DC",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xD4254103",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x5C2025B6",
+          "minimapIcon_enemy": "0x5C2025B6",
+          "iconTexName": "0x2789199D",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xFF0812C0",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x770D7675",
+          "minimapIcon_enemy": "0x770D7675",
+          "iconTexName": "0x0CA44A5E",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xE6132381",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x6E164734",
+          "minimapIcon_enemy": "0x6E164734",
+          "iconTexName": "0x15BF7B1F",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0xA952B546",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x2157D1F3",
+          "minimapIcon_enemy": "0x2157D1F3",
+          "iconTexName": "0x5AFEEDD8",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xB0498407",
+          "effectId": "0x0151EE64",
+          "minimapIcon": "0x384CE0B2",
+          "minimapIcon_enemy": "0x384CE0B2",
+          "iconTexName": "0x43E5DC99",
+          "colMeshPath": "#/map/e/tactics/ega_ev65101700_col/ega_ev65101700_col.col",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x56034880",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0x9B64D7C4",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x1361B371",
+          "minimapIcon_enemy": "0x1361B371",
+          "iconTexName": "0x68C88F5A",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x827FE685",
+          "effectId": "0x00000000",
+          "minimapIcon": "0x0A7A8230",
+          "minimapIcon_enemy": "0x0A7A8230",
+          "iconTexName": "0x71D3BE1B",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "#/menu/220_img/geoglyph/sm_geoglyph.g4tx",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": true
+        },
+        {
+          "id": "0x193B53E7",
+          "effectId": "0x8D60E189",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s34g_00_col/ega_s34g_00_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x63FB0087",
+          "effectId": "0x87F73EFB",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s36g_00_01_col/ega_s36g_00_01_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x14FC3011",
+          "effectId": "0x1EFE6F41",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s36g_00_02_col/ega_s36g_00_02_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x8DF561AB",
+          "effectId": "0x69F95FD7",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s36g_00_03_col/ega_s36g_00_03_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xFAF2513D",
+          "effectId": "0xF79DCA74",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s36g_00_04_col/ega_s36g_00_04_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x5E9B2937",
+          "effectId": "0x2180354F",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s37g_00_01_col/ega_s37g_00_01_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0x299C19A1",
+          "effectId": "0xB88964F5",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s37g_00_02_col/ega_s37g_00_02_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xDCCBBEE6",
+          "effectId": "0xD7C845A6",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s38g_00_01_col/ega_s38g_00_01_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xABCC8E70",
+          "effectId": "0x4EC1141C",
+          "minimapIcon": "0x00000000",
+          "minimapIcon_enemy": "0x00000000",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "#/map/e/tactics/ega_s38g_00_02_col/ega_s38g_00_02_col.col",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xF4A0F73D",
+          "effectId": "0xEFD32627",
+          "minimapIcon": "0xCEFC539A",
+          "minimapIcon_enemy": "0xCEFC539A",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        },
+        {
+          "id": "0xDF8DA4FE",
+          "effectId": "0xF6C81766",
+          "minimapIcon": "0xE5D10059",
+          "minimapIcon_enemy": "0xE5D10059",
+          "iconTexName": "0x00000000",
+          "colMeshPath": "",
+          "minimapIconTexturePath": "",
+          "placementTblId": "0x00000000",
+          "isEnemyEffect": false
+        }
+      ]
+    },
+    {
+      "name": "m_GeoglyphPosList",
+      "typeName": "GEOGLYPH_POS",
+      "values": [
+        {
+          "pos": "00000000000070C1",
+          "rotY": 0
+        },
+        {
+          "pos": "0000704100007041",
+          "rotY": 0
+        },
+        {
+          "pos": "000070C100007041",
+          "rotY": 0
+        },
+        {
+          "pos": "000070C1000070C1",
+          "rotY": 0
+        },
+        {
+          "pos": "00007041000070C1",
+          "rotY": 0
+        },
+        {
+          "pos": "000070C100007041",
+          "rotY": 0
+        },
+        {
+          "pos": "0000704100007041",
+          "rotY": 0
+        },
+        {
+          "pos": "0000884100008841",
+          "rotY": 0
+        },
+        {
+          "pos": "00008841000088C1",
+          "rotY": 0
+        },
+        {
+          "pos": "000088C1000088C1",
+          "rotY": 0
+        },
+        {
+          "pos": "000088C100008841",
+          "rotY": 0
+        },
+        {
+          "pos": "0000000000000000",
+          "rotY": 0
+        },
+        {
+          "pos": "0000000000000000",
+          "rotY": 0
+        },
+        {
+          "pos": "00000000000098C1",
+          "rotY": 0
+        },
+        {
+          "pos": "0000000000009841",
+          "rotY": 0
+        },
+        {
+          "pos": "0000000000000000",
+          "rotY": 0
+        },
+        {
+          "pos": "0000B0C100009041",
+          "rotY": -90
+        },
+        {
+          "pos": "0000B041000090C1",
+          "rotY": 90
+        },
+        {
+          "pos": "000070C100000000",
+          "rotY": 0
+        },
+        {
+          "pos": "00000000000070C1",
+          "rotY": 0
+        },
+        {
+          "pos": "0000704100000000",
+          "rotY": 0
+        },
+        {
+          "pos": "0000000000007041",
+          "rotY": 0
+        }
+      ]
+    },
+    {
+      "name": "m_GeoglyphPlacementList",
+      "typeName": "GEOGLYPH_PLACEMENT",
+      "values": [
+        {
+          "id": "0x03DD3B68",
+          "posList": [
+            0,
+            3
+          ]
+        },
+        {
+          "id": "0x7EAACF2D",
+          "posList": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": "0xE029E2A3",
+          "posList": [
+            7,
+            5
+          ]
+        },
+        {
+          "id": "0x2932029C",
+          "posList": [
+            12,
+            3
+          ]
+        },
+        {
+          "id": "0xE1EB8894",
+          "posList": [
+            15,
+            3
+          ]
+        },
+        {
+          "id": "0x56034880",
+          "posList": [
+            18,
+            4
+          ]
+        }
+      ]
+    }
+  ]
+}

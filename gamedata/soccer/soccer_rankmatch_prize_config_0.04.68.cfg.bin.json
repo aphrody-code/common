@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "name": "ITBL_ITEMS_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "ITBL_ITEMS_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "168525914"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "ITBL_ITEMS_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1828531744"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ITBL_BASE_LIST_BEG_0",
+      "variables": [
+        {
+          "type": "Int",
+          "value": "2"
+        }
+      ],
+      "children": [
+        {
+          "name": "ITBL_BASE_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1439459628"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "ITBL_BASE_REF_ITEMS_0",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "0"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "ITBL_BASE_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "-1827077225"
+            }
+          ],
+          "children": []
+        },
+        {
+          "name": "ITBL_BASE_REF_ITEMS_1",
+          "variables": [
+            {
+              "type": "Int",
+              "value": "1"
+            },
+            {
+              "type": "Int",
+              "value": "1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

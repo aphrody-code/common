@@ -1,0 +1,350 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_PerformanceData",
+      "typeName": "PERFORMANCE_DATA",
+      "values": [
+        {
+          "eventId": "0x527E53ED"
+        },
+        {
+          "eventId": "0x9B65B3D2"
+        },
+        {
+          "eventId": "0x827E8293"
+        },
+        {
+          "eventId": "0x527E53ED"
+        },
+        {
+          "eventId": "0x4B6562AC"
+        },
+        {
+          "eventId": "0x9B65B3D2"
+        },
+        {
+          "eventId": "0x827E8293"
+        },
+        {
+          "eventId": "0xB18A8A26"
+        },
+        {
+          "eventId": "0xFECB1CE1"
+        },
+        {
+          "eventId": "0x4B6562AC"
+        },
+        {
+          "eventId": "0xE7D02DA0"
+        },
+        {
+          "eventId": "0xE6124797"
+        },
+        {
+          "eventId": "0xCD3F1454"
+        },
+        {
+          "eventId": "0xE7D02DA0"
+        },
+        {
+          "eventId": "0xA953D150"
+        },
+        {
+          "eventId": "0xE6124797"
+        },
+        {
+          "eventId": "0xA891BB67"
+        },
+        {
+          "eventId": "0xB18A8A26"
+        },
+        {
+          "eventId": "0xCCFD7E63"
+        },
+        {
+          "eventId": "0xA891BB67"
+        },
+        {
+          "eventId": "0xB18A8A26"
+        },
+        {
+          "eventId": "0xFECB1CE1"
+        },
+        {
+          "eventId": "0x83BCE8A4"
+        },
+        {
+          "eventId": "0xA891BB67"
+        },
+        {
+          "eventId": "0xA953D150"
+        },
+        {
+          "eventId": "0xA891BB67"
+        },
+        {
+          "eventId": "0xCCFD7E63"
+        },
+        {
+          "eventId": "0xFF0976D6"
+        },
+        {
+          "eventId": "0xFECB1CE1"
+        },
+        {
+          "eventId": "0x4B6562AC"
+        },
+        {
+          "eventId": "0xFF0976D6"
+        },
+        {
+          "eventId": "0xA891BB67"
+        },
+        {
+          "eventId": "0xB18A8A26"
+        },
+        {
+          "eventId": "0xD5E64F22"
+        },
+        {
+          "eventId": "0x83BCE8A4"
+        },
+        {
+          "eventId": "0xB18A8A26"
+        },
+        {
+          "eventId": "0xA953D150"
+        },
+        {
+          "eventId": "0x83BCE8A4"
+        },
+        {
+          "eventId": "0xA953D150"
+        },
+        {
+          "eventId": "0xB048E011"
+        },
+        {
+          "eventId": "0xA891BB67"
+        },
+        {
+          "eventId": "0xCD3F1454"
+        },
+        {
+          "eventId": "0x3B008FC1"
+        },
+        {
+          "eventId": "0x102DDC02"
+        },
+        {
+          "eventId": "0x3B008FC1"
+        },
+        {
+          "eventId": "0x0936ED43"
+        },
+        {
+          "eventId": "0x3B008FC1"
+        },
+        {
+          "eventId": "0x46777B84"
+        },
+        {
+          "eventId": "0x102DDC02"
+        },
+        {
+          "eventId": "0x0936ED43"
+        },
+        {
+          "eventId": "0x102DDC02"
+        },
+        {
+          "eventId": "0x46777B84"
+        },
+        {
+          "eventId": "0x102DDC02"
+        },
+        {
+          "eventId": "0x0936ED43"
+        },
+        {
+          "eventId": "0x46777B84"
+        }
+      ]
+    },
+    {
+      "name": "m_PerformanceGenreList",
+      "typeName": "PERFORMANCE_GENRE_INFO",
+      "values": [
+        {
+          "id": "0x3757130D",
+          "performanceType": 1,
+          "data": [
+            0,
+            3
+          ]
+        },
+        {
+          "id": "0xAE5E42B7",
+          "performanceType": 2,
+          "data": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": "0xD9597221",
+          "performanceType": 3,
+          "data": [
+            7,
+            3
+          ]
+        },
+        {
+          "id": "0x473DE782",
+          "performanceType": 4,
+          "data": [
+            10,
+            3
+          ]
+        },
+        {
+          "id": "0x303AD714",
+          "performanceType": 5,
+          "data": [
+            13,
+            3
+          ]
+        },
+        {
+          "id": "0x3695793A",
+          "performanceType": 6,
+          "data": [
+            16,
+            3
+          ]
+        },
+        {
+          "id": "0xAF9C2880",
+          "performanceType": 7,
+          "data": [
+            19,
+            3
+          ]
+        },
+        {
+          "id": "0xD89B1816",
+          "performanceType": 8,
+          "data": [
+            22,
+            3
+          ]
+        },
+        {
+          "id": "0x46FF8DB5",
+          "performanceType": 9,
+          "data": [
+            25,
+            3
+          ]
+        },
+        {
+          "id": "0x31F8BD23",
+          "performanceType": 10,
+          "data": [
+            28,
+            3
+          ]
+        },
+        {
+          "id": "0xA8F1EC99",
+          "performanceType": 14,
+          "data": [
+            31,
+            3
+          ]
+        },
+        {
+          "id": "0x34D3C763",
+          "performanceType": 11,
+          "data": [
+            34,
+            3
+          ]
+        },
+        {
+          "id": "0xADDA96D9",
+          "performanceType": 12,
+          "data": [
+            37,
+            3
+          ]
+        },
+        {
+          "id": "0x3511AD54",
+          "performanceType": 13,
+          "data": [
+            40,
+            2
+          ]
+        },
+        {
+          "id": "0x0A373ABD",
+          "performanceType": 0,
+          "data": [
+            42,
+            2
+          ]
+        },
+        {
+          "id": "0x933E6B07",
+          "performanceType": 0,
+          "data": [
+            44,
+            2
+          ]
+        },
+        {
+          "id": "0xE4395B91",
+          "performanceType": 0,
+          "data": [
+            46,
+            2
+          ]
+        },
+        {
+          "id": "0x0BF5508A",
+          "performanceType": 0,
+          "data": [
+            48,
+            2
+          ]
+        },
+        {
+          "id": "0x92FC0130",
+          "performanceType": 0,
+          "data": [
+            50,
+            2
+          ]
+        },
+        {
+          "id": "0xE5FB31A6",
+          "performanceType": 0,
+          "data": [
+            52,
+            1
+          ]
+        },
+        {
+          "id": "0x09B3EED3",
+          "performanceType": 0,
+          "data": [
+            53,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

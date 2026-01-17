@@ -1,0 +1,25 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_NaviwanIntTypeList",
+      "typeName": "NAVIWAN_INT_TYPE",
+      "values": [
+        {
+          "m_ID": "0x20883144",
+          "m_Priority": 100,
+          "m_DiffOnArrive": 0,
+          "m_DiffOnStep": 0,
+          "m_ActType": 0
+        },
+        {
+          "m_ID": "0x7044A87C",
+          "m_Priority": 110,
+          "m_DiffOnArrive": -50,
+          "m_DiffOnStep": 1,
+          "m_ActType": 0
+        }
+      ]
+    }
+  ]
+}

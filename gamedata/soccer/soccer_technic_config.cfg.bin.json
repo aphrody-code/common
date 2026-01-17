@@ -1,0 +1,195 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_soccerTechnicUsableConditionList",
+      "typeName": "ScTechnicUsableCondition",
+      "values": [
+        {
+          "type": 1,
+          "param1": 3,
+          "param2": 30,
+          "param3": 0
+        },
+        {
+          "type": 2,
+          "param1": 1,
+          "param2": 0,
+          "param3": 0
+        },
+        {
+          "type": 1,
+          "param1": 5,
+          "param2": 30,
+          "param3": 0
+        },
+        {
+          "type": 2,
+          "param1": 1,
+          "param2": 0,
+          "param3": 0
+        },
+        {
+          "type": 1,
+          "param1": 6,
+          "param2": 30,
+          "param3": 0
+        },
+        {
+          "type": 2,
+          "param1": 1,
+          "param2": 0,
+          "param3": 0
+        },
+        {
+          "type": 1,
+          "param1": 5,
+          "param2": 30,
+          "param3": 0
+        },
+        {
+          "type": 1,
+          "param1": 6,
+          "param2": 40,
+          "param3": 0
+        },
+        {
+          "type": 2,
+          "param1": 1,
+          "param2": 0,
+          "param3": 0
+        },
+        {
+          "type": 1,
+          "param1": 7,
+          "param2": 30,
+          "param3": 0
+        },
+        {
+          "type": 2,
+          "param1": 0,
+          "param2": 0,
+          "param3": 0
+        },
+        {
+          "type": 1,
+          "param1": 4,
+          "param2": 30,
+          "param3": 0
+        },
+        {
+          "type": 2,
+          "param1": 0,
+          "param2": 0,
+          "param3": 0
+        },
+        {
+          "type": 1,
+          "param1": 2,
+          "param2": 30,
+          "param3": 0
+        },
+        {
+          "type": 1,
+          "param1": 7,
+          "param2": 30,
+          "param3": 0
+        }
+      ]
+    },
+    {
+      "name": "m_soccerTechnicInfoList",
+      "typeName": "ScTechnicInfo",
+      "values": [
+        {
+          "id": "0x07857A3F",
+          "nameTextId": "0x7B5D17D1",
+          "descTextId": "0x1702D47E",
+          "recastTime": 5,
+          "usableCondition": [
+            0,
+            2
+          ],
+          "focusBattleEffectId": "0x8A6BFF0D"
+        },
+        {
+          "id": "0x0B94D824",
+          "nameTextId": "0xE254466B",
+          "descTextId": "0x8E0B85C4",
+          "recastTime": 5,
+          "usableCondition": [
+            2,
+            2
+          ],
+          "focusBattleEffectId": "0x140F6AAE"
+        },
+        {
+          "id": "0x6316499A",
+          "nameTextId": "0x955376FD",
+          "descTextId": "0xF90CB552",
+          "recastTime": 5,
+          "usableCondition": [
+            4,
+            2
+          ],
+          "focusBattleEffectId": "0x63085A38"
+        },
+        {
+          "id": "0xD699877A",
+          "nameTextId": "0x0B37E35E",
+          "descTextId": "0x676820F1",
+          "recastTime": 8,
+          "usableCondition": [
+            6,
+            3
+          ],
+          "focusBattleEffectId": "0xFA010B82"
+        },
+        {
+          "id": "0xB7DA2EBC",
+          "nameTextId": "0x7C30D3C8",
+          "descTextId": "0x106F1067",
+          "recastTime": 3,
+          "usableCondition": [
+            9,
+            2
+          ],
+          "focusBattleEffectId": "0x8D063B14"
+        },
+        {
+          "id": "0xF5D88544",
+          "nameTextId": "0xE5398272",
+          "descTextId": "0x896641DD",
+          "recastTime": 4,
+          "usableCondition": [
+            11,
+            2
+          ],
+          "focusBattleEffectId": "0x1DB92685"
+        },
+        {
+          "id": "0xB2C2FBBE",
+          "nameTextId": "0x923EB2E4",
+          "descTextId": "0xFE61714B",
+          "recastTime": 3,
+          "usableCondition": [
+            13,
+            1
+          ],
+          "focusBattleEffectId": "0x6ABE1613"
+        },
+        {
+          "id": "0x2D7AD73E",
+          "nameTextId": "0x0281AF75",
+          "descTextId": "0x6EDE6CDA",
+          "recastTime": 4,
+          "usableCondition": [
+            14,
+            1
+          ],
+          "focusBattleEffectId": "0x0A799FF6"
+        }
+      ]
+    }
+  ]
+}

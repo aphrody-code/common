@@ -1,0 +1,73 @@
+{
+  "version": 100,
+  "lists": [
+    {
+      "name": "m_SwapMotionDataList",
+      "typeName": "SWAP_MOTION_DATA",
+      "values": [
+        {
+          "bodyType": 1,
+          "motionId": "0x2C0F2E35"
+        },
+        {
+          "bodyType": 1,
+          "motionId": "0xC96C3264"
+        },
+        {
+          "bodyType": 10,
+          "motionId": "0xF0E10EA1"
+        },
+        {
+          "bodyType": 11,
+          "motionId": "0xF0E10EA1"
+        },
+        {
+          "bodyType": 12,
+          "motionId": "0x83FB772B"
+        },
+        {
+          "bodyType": 13,
+          "motionId": "0x83FB772B"
+        },
+        {
+          "bodyType": 14,
+          "motionId": "0xE79A1AE2"
+        },
+        {
+          "bodyType": 15,
+          "motionId": "0xE79A1AE2"
+        },
+        {
+          "bodyType": 16,
+          "motionId": "0x83FB772B"
+        },
+        {
+          "bodyType": 17,
+          "motionId": "0x83FB772B"
+        }
+      ]
+    },
+    {
+      "name": "m_RpgBattleCharaSwapMotionDataList",
+      "typeName": "RPG_BATTLE_CHARA_SWAP_MOTION_DATA",
+      "values": [
+        {
+          "modelAttribute": 3,
+          "openCond": "AAAAAEgXMgAAAAE1accaPAAKASgABgIyAAAABjIAAAABeI8yAAAAAY8yAAAAATVpxxo8AAoBKAAGAjIAAAAIMgAAAAF4jzIAAAABj5A=",
+          "swapMotion": [
+            0,
+            1
+          ]
+        },
+        {
+          "modelAttribute": 2,
+          "openCond": "AAAAAEgXMgAAAAE1accaPAAKASgABgIyAAAABjIAAAABeI8yAAAAAY8yAAAAATVpxxo8AAoBKAAGAjIAAAAIMgAAAAF4jzIAAAABj5A=",
+          "swapMotion": [
+            1,
+            9
+          ]
+        }
+      ]
+    }
+  ]
+}
